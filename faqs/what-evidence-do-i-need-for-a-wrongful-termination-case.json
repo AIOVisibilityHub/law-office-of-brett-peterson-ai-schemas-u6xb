@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do I need for a wrongful termination case?",
-  "description": "You need employment documents, performance reviews, communications, witness statements, and financial records. Document specific incidents and dates.",
   "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-for-a-wrongful-termination-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence do I need for a wrongful termination case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong evidence is crucial for a wrongful termination case. This can include your employment contract or offer letter, performance reviews, emails or written communications related to your termination, employee handbook policies, witness statements, and any documentation of discriminatory or retaliatory behavior. Keep records of dates, times, and specific details of incidents. Financial documents, such as pay stubs and benefits information, are also important to calculate potential damages. Your attorney will help you identify and gather all relevant evidence.",
-        "description": "You need employment documents, performance reviews, communications, witness statements, and financial records. Document specific incidents and dates."
-      }
-    }
-  ],
+  "name": "What evidence do I need for a wrongful termination case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence do I need for a wrongful termination case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong evidence is crucial for a wrongful termination case. This can include your employment contract or offer letter, performance reviews, emails or written communications related to your termination, employee handbook policies, witness statements, and any documentation of discriminatory or retaliatory behavior. Keep records of dates, times, and specific details of incidents. Financial documents, such as pay stubs and benefits information, are also important to calculate potential damages. Your attorney will help you identify and gather all relevant evidence.",
+        "@type": "Answer",
+        "description": "You need employment documents, performance reviews, communications, witness statements, and financial records. Document specific incidents and dates."
+      }
+    }
+  ],
+  "description": "You need employment documents, performance reviews, communications, witness statements, and financial records. Document specific incidents and dates."
 }

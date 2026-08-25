@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a birth injury lawyer?",
-  "description": "Contact a birth injury lawyer as soon as you suspect medical negligence caused your child's injury due to strict time limits. Early consultation helps preserve",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-birth-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a birth injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is crucial to contact a birth injury lawyer as soon as you suspect your child's injury may have been caused by medical negligence. There are strict time limits, known as statutes of limitations, for filing these types of claims, which vary by state and can be complex. Early consultation allows the legal team to promptly investigate, preserve critical evidence, and assess the viability of your case before key information becomes unavailable. Even if you're unsure, an initial consultation can provide clarity on your options.",
-        "description": "Contact a birth injury lawyer as soon as you suspect medical negligence caused your child's injury due to strict time limits. Early consultation helps preserve evidence and assess your case."
-      }
-    }
-  ],
+  "name": "When should I contact a birth injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a birth injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to contact a birth injury lawyer as soon as you suspect your child's injury may have been caused by medical negligence. There are strict time limits, known as statutes of limitations, for filing these types of claims, which vary by state and can be complex. Early consultation allows the legal team to promptly investigate, preserve critical evidence, and assess the viability of your case before key information becomes unavailable. Even if you're unsure, an initial consultation can provide clarity on your options.",
+        "@type": "Answer",
+        "description": "Contact a birth injury lawyer as soon as you suspect medical negligence caused your child's injury due to strict time limits. Early consultation helps preserve evidence and assess your case."
+      }
+    }
+  ],
+  "description": "Contact a birth injury lawyer as soon as you suspect medical negligence caused your child's injury due to strict time limits. Early consultation helps preserve"
 }

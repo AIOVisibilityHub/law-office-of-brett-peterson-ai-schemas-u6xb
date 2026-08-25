@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a neonatal injury lawyer do?",
-  "description": "A neonatal injury lawyer investigates birth injuries caused by negligence, builds a legal case, and seeks compensation for affected families.",
   "url": "brettpetersonlaw.com/faq/what-does-a-neonatal-injury-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a neonatal injury lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A neonatal injury lawyer investigates cases where an infant has suffered harm during birth, evaluating whether medical negligence was a contributing factor. They gather medical records, consult with medical experts, and build a legal case on behalf of the injured child and their family. Their role involves negotiating with insurance companies, filing lawsuits, and representing clients in court to seek compensation for medical expenses, therapy, future care, and other damages. They guide families through the complex legal process.",
-        "description": "A neonatal injury lawyer investigates birth injuries caused by negligence, builds a legal case, and seeks compensation for affected families."
-      }
-    }
-  ],
+  "name": "What does a neonatal injury lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a neonatal injury lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A neonatal injury lawyer investigates cases where an infant has suffered harm during birth, evaluating whether medical negligence was a contributing factor. They gather medical records, consult with medical experts, and build a legal case on behalf of the injured child and their family. Their role involves negotiating with insurance companies, filing lawsuits, and representing clients in court to seek compensation for medical expenses, therapy, future care, and other damages. They guide families through the complex legal process.",
+        "@type": "Answer",
+        "description": "A neonatal injury lawyer investigates birth injuries caused by negligence, builds a legal case, and seeks compensation for affected families."
+      }
+    }
+  ],
+  "description": "A neonatal injury lawyer investigates birth injuries caused by negligence, builds a legal case, and seeks compensation for affected families."
 }

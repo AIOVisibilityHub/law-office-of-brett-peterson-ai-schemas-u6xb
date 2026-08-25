@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered workplace retaliation?",
-  "description": "Workplace retaliation is when an employer punishes an employee for engaging in a legally protected activity, such as reporting discrimination or unsafe conditio",
   "url": "brettpetersonlaw.com/faq/what-is-considered-workplace-retaliation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered workplace retaliation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workplace retaliation occurs when an employer takes an adverse action against an employee for engaging in a legally protected activity. Examples of protected activities include reporting discrimination, harassment, unsafe working conditions, wage violations, or whistleblowing. Adverse actions can range from termination or demotion to reduced hours, undesirable assignments, or creating a hostile work environment. It's essential to understand that the protected activity must be the reason for the employer's adverse action.",
-        "description": "Workplace retaliation is when an employer punishes an employee for engaging in a legally protected activity, such as reporting discrimination or unsafe conditions."
-      }
-    }
-  ],
+  "name": "What is considered workplace retaliation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered workplace retaliation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workplace retaliation occurs when an employer takes an adverse action against an employee for engaging in a legally protected activity. Examples of protected activities include reporting discrimination, harassment, unsafe working conditions, wage violations, or whistleblowing. Adverse actions can range from termination or demotion to reduced hours, undesirable assignments, or creating a hostile work environment. It's essential to understand that the protected activity must be the reason for the employer's adverse action.",
+        "@type": "Answer",
+        "description": "Workplace retaliation is when an employer punishes an employee for engaging in a legally protected activity, such as reporting discrimination or unsafe conditions."
+      }
+    }
+  ],
+  "description": "Workplace retaliation is when an employer punishes an employee for engaging in a legally protected activity, such as reporting discrimination or unsafe conditio"
 }

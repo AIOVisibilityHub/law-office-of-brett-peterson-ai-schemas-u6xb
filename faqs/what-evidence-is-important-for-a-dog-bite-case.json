@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important for a dog bite case?",
-  "description": "Key evidence includes photos of injuries/scene, medical records, witness statements, and animal control reports.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-dog-bite-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important for a dog bite case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Important evidence for a dog bite case includes photographs of your injuries and the incident location, medical records documenting treatment, witness contact information and statements, animal control reports, and any prior history of the dog's aggression. The more documentation you have, the stronger your case will be. A lawyer can assist in gathering and preserving this crucial evidence.",
-        "description": "Key evidence includes photos of injuries/scene, medical records, witness statements, and animal control reports."
-      }
-    }
-  ],
+  "name": "What evidence is important for a dog bite case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important for a dog bite case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Important evidence for a dog bite case includes photographs of your injuries and the incident location, medical records documenting treatment, witness contact information and statements, animal control reports, and any prior history of the dog's aggression. The more documentation you have, the stronger your case will be. A lawyer can assist in gathering and preserving this crucial evidence.",
+        "@type": "Answer",
+        "description": "Key evidence includes photos of injuries/scene, medical records, witness statements, and animal control reports."
+      }
+    }
+  ],
+  "description": "Key evidence includes photos of injuries/scene, medical records, witness statements, and animal control reports."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a childbirth malpractice lawyer?",
-  "description": "Most childbirth malpractice lawyers work on a contingency fee, meaning you pay no upfront fees; their payment is a percentage of your recovery.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-childbirth-malpractice-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a childbirth malpractice lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most childbirth malpractice lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered, either through a settlement or a court verdict. If your case is not successful, you generally do not owe attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden. Be sure to discuss all potential costs, such as court filing fees and expert witness fees, during your initial consultation.",
-        "description": "Most childbirth malpractice lawyers work on a contingency fee, meaning you pay no upfront fees; their payment is a percentage of your recovery."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a childbirth malpractice lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a childbirth malpractice lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most childbirth malpractice lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered, either through a settlement or a court verdict. If your case is not successful, you generally do not owe attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden. Be sure to discuss all potential costs, such as court filing fees and expert witness fees, during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most childbirth malpractice lawyers work on a contingency fee, meaning you pay no upfront fees; their payment is a percentage of your recovery."
+      }
+    }
+  ],
+  "description": "Most childbirth malpractice lawyers work on a contingency fee, meaning you pay no upfront fees; their payment is a percentage of your recovery."
 }

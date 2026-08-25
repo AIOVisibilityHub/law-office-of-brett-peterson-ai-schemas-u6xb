@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important for a dog bite claim?",
-  "description": "Important evidence for a dog bite claim includes medical records, photos of injuries and the dog, witness statements, lost wage documentation, therapy records,",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-dog-bite-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important for a dog bite claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Gathering strong evidence is crucial for a successful dog bite claim. Key evidence includes medical records detailing your injuries and treatment, photographs of the bite wounds at various stages of healing, the dog, and the incident location. Witness statements from anyone who saw the attack or the dog's previous behavior are also valuable. Documentation of lost wages, therapy records, and any out-of-pocket expenses related to the injury should also be kept. Additionally, police or animal control reports provide official documentation of the incident, further supporting your claim.",
-        "description": "Important evidence for a dog bite claim includes medical records, photos of injuries and the dog, witness statements, lost wage documentation, therapy records, and police or animal control reports."
-      }
-    }
-  ],
+  "name": "What evidence is important for a dog bite claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important for a dog bite claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gathering strong evidence is crucial for a successful dog bite claim. Key evidence includes medical records detailing your injuries and treatment, photographs of the bite wounds at various stages of healing, the dog, and the incident location. Witness statements from anyone who saw the attack or the dog's previous behavior are also valuable. Documentation of lost wages, therapy records, and any out-of-pocket expenses related to the injury should also be kept. Additionally, police or animal control reports provide official documentation of the incident, further supporting your claim.",
+        "@type": "Answer",
+        "description": "Important evidence for a dog bite claim includes medical records, photos of injuries and the dog, witness statements, lost wage documentation, therapy records, and police or animal control reports."
+      }
+    }
+  ],
+  "description": "Important evidence for a dog bite claim includes medical records, photos of injuries and the dog, witness statements, lost wage documentation, therapy records,"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a wrongful termination claim in California?",
-  "description": "Deadlines for wrongful termination claims in California vary by case type. Discrimination claims typically have a one-year deadline with the DFEH. Consult an at",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-wrongful-termination-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a wrongful termination claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The deadline for filing a wrongful termination claim in California can vary significantly depending on the specific legal basis of your claim. For instance, discrimination or harassment claims often have a one-year deadline to file with the Department of Fair Employment and Housing (DFEH). Other claims, such as breach of contract, may have different statutes of limitations. It is crucial to consult with an attorney promptly to understand the exact deadlines applicable to your situation.",
-        "description": "Deadlines for wrongful termination claims in California vary by case type. Discrimination claims typically have a one-year deadline with the DFEH. Consult an attorney for specific deadlines."
-      }
-    }
-  ],
+  "name": "How long do I have to file a wrongful termination claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a wrongful termination claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The deadline for filing a wrongful termination claim in California can vary significantly depending on the specific legal basis of your claim. For instance, discrimination or harassment claims often have a one-year deadline to file with the Department of Fair Employment and Housing (DFEH). Other claims, such as breach of contract, may have different statutes of limitations. It is crucial to consult with an attorney promptly to understand the exact deadlines applicable to your situation.",
+        "@type": "Answer",
+        "description": "Deadlines for wrongful termination claims in California vary by case type. Discrimination claims typically have a one-year deadline with the DFEH. Consult an attorney for specific deadlines."
+      }
+    }
+  ],
+  "description": "Deadlines for wrongful termination claims in California vary by case type. Discrimination claims typically have a one-year deadline with the DFEH. Consult an at"
 }

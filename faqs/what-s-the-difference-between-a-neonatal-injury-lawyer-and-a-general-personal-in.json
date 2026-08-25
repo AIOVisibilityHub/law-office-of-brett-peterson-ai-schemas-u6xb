@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a neonatal injury lawyer and a general personal injury lawyer?",
-  "description": "A neonatal injury lawyer specializes in birth injury cases with specific medical and legal knowledge, unlike a general personal injury lawyer.",
   "url": "brettpetersonlaw.com/faq/what-s-the-difference-between-a-neonatal-injury-lawyer-and-a-general-personal-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a neonatal injury lawyer and a general personal injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both handle injury claims, a neonatal injury lawyer specializes in cases involving harm to infants during birth. This specialization means they possess in-depth knowledge of obstetric and pediatric medicine, birth complications, and specific medical malpractice laws. A general personal injury lawyer handles a broader range of injuries, such as car accidents or slip and falls, and may not have the specialized medical and legal expertise required for complex birth injury cases, which often involve extensive medical records and expert testimonies.",
-        "description": "A neonatal injury lawyer specializes in birth injury cases with specific medical and legal knowledge, unlike a general personal injury lawyer."
-      }
-    }
-  ],
+  "name": "What's the difference between a neonatal injury lawyer and a general personal injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a neonatal injury lawyer and a general personal injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both handle injury claims, a neonatal injury lawyer specializes in cases involving harm to infants during birth. This specialization means they possess in-depth knowledge of obstetric and pediatric medicine, birth complications, and specific medical malpractice laws. A general personal injury lawyer handles a broader range of injuries, such as car accidents or slip and falls, and may not have the specialized medical and legal expertise required for complex birth injury cases, which often involve extensive medical records and expert testimonies.",
+        "@type": "Answer",
+        "description": "A neonatal injury lawyer specializes in birth injury cases with specific medical and legal knowledge, unlike a general personal injury lawyer."
+      }
+    }
+  ],
+  "description": "A neonatal injury lawyer specializes in birth injury cases with specific medical and legal knowledge, unlike a general personal injury lawyer."
 }

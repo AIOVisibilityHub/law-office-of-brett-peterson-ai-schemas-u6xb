@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a workplace harassment claim?",
-  "description": "The process involves internal reporting, then potentially filing with agencies like CRD or EEOC. An attorney can guide you through each step and potential lawsu",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-workplace-harassment-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a workplace harassment claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with reporting the harassment internally to your employer, often to HR or a supervisor, as outlined in company policy. If internal reporting doesn't resolve the issue, you may file a complaint with a government agency like the California Civil Rights Department (CRD) or the Equal Employment Opportunity Commission (EEOC). An attorney can assist with both internal complaints and agency filings, ensuring all deadlines are met and documentation is properly submitted. After agency investigation, you may receive a 'right-to-sue' letter, allowing you to file a lawsuit.",
-        "description": "The process involves internal reporting, then potentially filing with agencies like CRD or EEOC. An attorney can guide you through each step and potential lawsuit."
-      }
-    }
-  ],
+  "name": "What is the process for filing a workplace harassment claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a workplace harassment claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with reporting the harassment internally to your employer, often to HR or a supervisor, as outlined in company policy. If internal reporting doesn't resolve the issue, you may file a complaint with a government agency like the California Civil Rights Department (CRD) or the Equal Employment Opportunity Commission (EEOC). An attorney can assist with both internal complaints and agency filings, ensuring all deadlines are met and documentation is properly submitted. After agency investigation, you may receive a 'right-to-sue' letter, allowing you to file a lawsuit.",
+        "@type": "Answer",
+        "description": "The process involves internal reporting, then potentially filing with agencies like CRD or EEOC. An attorney can guide you through each step and potential lawsuit."
+      }
+    }
+  ],
+  "description": "The process involves internal reporting, then potentially filing with agencies like CRD or EEOC. An attorney can guide you through each step and potential lawsu"
 }

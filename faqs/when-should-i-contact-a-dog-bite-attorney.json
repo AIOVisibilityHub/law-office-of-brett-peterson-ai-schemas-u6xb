@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a dog bite attorney?",
-  "description": "Contact a dog bite attorney soon after medical care to preserve evidence and meet legal deadlines, even if you are unsure about pursuing a case.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-dog-bite-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a dog bite attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a dog bite attorney as soon as possible after receiving medical attention for your injuries. Early legal consultation is crucial because it allows the attorney to investigate the incident while evidence is fresh and witnesses' memories are clear. There are also statutes of limitations, which are strict deadlines for filing a lawsuit, so timely action is important to preserve your legal rights. Even if you are unsure if you have a case, an initial consultation can help you understand your options.",
-        "description": "Contact a dog bite attorney soon after medical care to preserve evidence and meet legal deadlines, even if you are unsure about pursuing a case."
-      }
-    }
-  ],
+  "name": "When should I contact a dog bite attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a dog bite attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a dog bite attorney as soon as possible after receiving medical attention for your injuries. Early legal consultation is crucial because it allows the attorney to investigate the incident while evidence is fresh and witnesses' memories are clear. There are also statutes of limitations, which are strict deadlines for filing a lawsuit, so timely action is important to preserve your legal rights. Even if you are unsure if you have a case, an initial consultation can help you understand your options.",
+        "@type": "Answer",
+        "description": "Contact a dog bite attorney soon after medical care to preserve evidence and meet legal deadlines, even if you are unsure about pursuing a case."
+      }
+    }
+  ],
+  "description": "Contact a dog bite attorney soon after medical care to preserve evidence and meet legal deadlines, even if you are unsure about pursuing a case."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a dog bite claim?",
-  "description": "The process involves an initial consultation, investigation, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reached.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-dog-bite-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a dog bite claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with a free consultation to discuss your case. If the lawyer takes your case, they will investigate the incident, gather evidence like medical records and witness statements, and notify the dog owner and their insurance company. They will then negotiate with the insurance company for a fair settlement. If negotiations fail, a lawsuit may be filed, potentially leading to mediation or a trial.",
-        "description": "The process involves an initial consultation, investigation, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reached."
-      }
-    }
-  ],
+  "name": "What is the process for filing a dog bite claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a dog bite claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a free consultation to discuss your case. If the lawyer takes your case, they will investigate the incident, gather evidence like medical records and witness statements, and notify the dog owner and their insurance company. They will then negotiate with the insurance company for a fair settlement. If negotiations fail, a lawsuit may be filed, potentially leading to mediation or a trial.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, investigation, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, investigation, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reached."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What constitutes employment discrimination in San Diego?",
-  "description": "Employment discrimination in San Diego involves unfavorable treatment based on protected characteristics like race, age, sex, or disability, violating federal a",
   "url": "brettpetersonlaw.com/faq/what-constitutes-employment-discrimination-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What constitutes employment discrimination in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Employment discrimination occurs when an employer treats an applicant or employee unfavorably due to a protected characteristic such as race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age (40 or older), disability, or genetic information. In San Diego, these protections are primarily derived from federal laws like Title VII of the Civil Rights Act and the Americans with Disabilities Act, as well as California's Fair Employment and Housing Act (FEHA). It's not just about hiring or firing; discrimination can also manifest in unfair wages, promotions, job assignments, or harassment.",
-        "description": "Employment discrimination in San Diego involves unfavorable treatment based on protected characteristics like race, age, sex, or disability, violating federal and state laws such as FEHA."
-      }
-    }
-  ],
+  "name": "What constitutes employment discrimination in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What constitutes employment discrimination in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Employment discrimination occurs when an employer treats an applicant or employee unfavorably due to a protected characteristic such as race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age (40 or older), disability, or genetic information. In San Diego, these protections are primarily derived from federal laws like Title VII of the Civil Rights Act and the Americans with Disabilities Act, as well as California's Fair Employment and Housing Act (FEHA). It's not just about hiring or firing; discrimination can also manifest in unfair wages, promotions, job assignments, or harassment.",
+        "@type": "Answer",
+        "description": "Employment discrimination in San Diego involves unfavorable treatment based on protected characteristics like race, age, sex, or disability, violating federal and state laws such as FEHA."
+      }
+    }
+  ],
+  "description": "Employment discrimination in San Diego involves unfavorable treatment based on protected characteristics like race, age, sex, or disability, violating federal a"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a San Diego workers' compensation lawyer?",
-  "description": "Consider hiring a lawyer if your workers' comp claim is denied, benefits are delayed, or you have a severe injury impacting your ability to work.",
   "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-san-diego-workers-compensation-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a San Diego workers' compensation lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring a San Diego workers' compensation lawyer if your claim is denied, you disagree with the medical treatment offered, or you face difficulties receiving your benefits. A lawyer can be crucial if your injury is severe, preventing you from returning to your previous job, or if your employer disputes the cause or extent of your injury. An attorney can help navigate the complex legal process, negotiate settlements, and ensure your rights are protected.",
-        "description": "Consider hiring a lawyer if your workers' comp claim is denied, benefits are delayed, or you have a severe injury impacting your ability to work."
-      }
-    }
-  ],
+  "name": "When should I hire a San Diego workers' compensation lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a San Diego workers' compensation lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a San Diego workers' compensation lawyer if your claim is denied, you disagree with the medical treatment offered, or you face difficulties receiving your benefits. A lawyer can be crucial if your injury is severe, preventing you from returning to your previous job, or if your employer disputes the cause or extent of your injury. An attorney can help navigate the complex legal process, negotiate settlements, and ensure your rights are protected.",
+        "@type": "Answer",
+        "description": "Consider hiring a lawyer if your workers' comp claim is denied, benefits are delayed, or you have a severe injury impacting your ability to work."
+      }
+    }
+  ],
+  "description": "Consider hiring a lawyer if your workers' comp claim is denied, benefits are delayed, or you have a severe injury impacting your ability to work."
 }

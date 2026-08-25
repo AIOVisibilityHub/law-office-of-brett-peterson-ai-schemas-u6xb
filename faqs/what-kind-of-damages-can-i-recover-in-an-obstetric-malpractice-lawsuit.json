@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of damages can I recover in an obstetric malpractice lawsuit?",
-  "description": "You may recover damages for medical expenses, lost wages, pain and suffering, and other impacts related to the injury caused by obstetric malpractice.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-recover-in-an-obstetric-malpractice-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of damages can I recover in an obstetric malpractice lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In an obstetric malpractice lawsuit, you may be able to recover various types of damages. These can include compensation for medical expenses, such as past and future treatment, therapies, and special care for the child. You might also claim for lost wages, pain and suffering, emotional distress, and loss of enjoyment of life. In severe cases involving permanent injury or disability, damages can cover lifelong care. The specific damages depend on the severity of the injury and its long-term impact.",
-        "description": "You may recover damages for medical expenses, lost wages, pain and suffering, and other impacts related to the injury caused by obstetric malpractice."
-      }
-    }
-  ],
+  "name": "What kind of damages can I recover in an obstetric malpractice lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damages can I recover in an obstetric malpractice lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In an obstetric malpractice lawsuit, you may be able to recover various types of damages. These can include compensation for medical expenses, such as past and future treatment, therapies, and special care for the child. You might also claim for lost wages, pain and suffering, emotional distress, and loss of enjoyment of life. In severe cases involving permanent injury or disability, damages can cover lifelong care. The specific damages depend on the severity of the injury and its long-term impact.",
+        "@type": "Answer",
+        "description": "You may recover damages for medical expenses, lost wages, pain and suffering, and other impacts related to the injury caused by obstetric malpractice."
+      }
+    }
+  ],
+  "description": "You may recover damages for medical expenses, lost wages, pain and suffering, and other impacts related to the injury caused by obstetric malpractice."
 }

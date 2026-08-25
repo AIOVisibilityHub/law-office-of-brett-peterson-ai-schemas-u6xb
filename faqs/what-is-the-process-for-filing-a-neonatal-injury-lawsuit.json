@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a neonatal injury lawsuit?",
-  "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation or mediation, and potentially a trial.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-neonatal-injury-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a neonatal injury lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with a consultation where a lawyer assesses your case. If the case has merit, the lawyer will investigate, gather medical records, and consult with experts to determine negligence. Next, a formal complaint is filed. This is followed by discovery, where both sides exchange information. Many cases resolve through mediation or settlement negotiations. If a settlement isn't reached, the case may proceed to trial. The duration can vary significantly depending on complexity and jurisdiction.",
-        "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation or mediation, and potentially a trial."
-      }
-    }
-  ],
+  "name": "What is the process for filing a neonatal injury lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a neonatal injury lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a consultation where a lawyer assesses your case. If the case has merit, the lawyer will investigate, gather medical records, and consult with experts to determine negligence. Next, a formal complaint is filed. This is followed by discovery, where both sides exchange information. Many cases resolve through mediation or settlement negotiations. If a settlement isn't reached, the case may proceed to trial. The duration can vary significantly depending on complexity and jurisdiction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation or mediation, and potentially a trial."
+      }
+    }
+  ],
+  "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation or mediation, and potentially a trial."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still pursue a case if I'm not sure medical negligence occurred?",
-  "description": "Yes, you can consult a lawyer even if unsure about negligence; they will investigate to determine if medical malpractice occurred.",
   "url": "brettpetersonlaw.com/faq/can-i-still-pursue-a-case-if-i-m-not-sure-medical-negligence-occurred",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still pursue a case if I'm not sure medical negligence occurred?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if you suspect medical negligence or are unsure about the cause of your child's neonatal injury, it is still advisable to consult with a neonatal injury lawyer. Their role is to investigate the circumstances and determine if medical negligence played a role. They have the resources to review medical records and consult with experts who can provide an informed opinion. You don't need to be certain of negligence to seek legal advice; the lawyer will help assess the potential merits of your case.",
-        "description": "Yes, you can consult a lawyer even if unsure about negligence; they will investigate to determine if medical malpractice occurred."
-      }
-    }
-  ],
+  "name": "Can I still pursue a case if I'm not sure medical negligence occurred?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still pursue a case if I'm not sure medical negligence occurred?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if you suspect medical negligence or are unsure about the cause of your child's neonatal injury, it is still advisable to consult with a neonatal injury lawyer. Their role is to investigate the circumstances and determine if medical negligence played a role. They have the resources to review medical records and consult with experts who can provide an informed opinion. You don't need to be certain of negligence to seek legal advice; the lawyer will help assess the potential merits of your case.",
+        "@type": "Answer",
+        "description": "Yes, you can consult a lawyer even if unsure about negligence; they will investigate to determine if medical malpractice occurred."
+      }
+    }
+  ],
+  "description": "Yes, you can consult a lawyer even if unsure about negligence; they will investigate to determine if medical malpractice occurred."
 }

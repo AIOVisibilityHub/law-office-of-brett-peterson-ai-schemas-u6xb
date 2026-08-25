@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I seek in a San Diego dog bite case?",
-  "description": "Compensation in a San Diego dog bite case can cover medical expenses, lost wages, and pain and suffering.",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-in-a-san-diego-dog-bite-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I seek in a San Diego dog bite case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a San Diego dog bite case, you may be able to seek compensation for various damages. This typically includes medical expenses, such as emergency room visits, surgeries, medications, and therapy. You can also claim lost wages if your injuries prevented you from working. Additionally, compensation for pain and suffering, emotional distress, and disfigurement may be available. A lawyer can help evaluate your case to identify all potential damages and pursue maximum compensation.",
-        "description": "Compensation in a San Diego dog bite case can cover medical expenses, lost wages, and pain and suffering."
-      }
-    }
-  ],
+  "name": "What types of compensation can I seek in a San Diego dog bite case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I seek in a San Diego dog bite case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a San Diego dog bite case, you may be able to seek compensation for various damages. This typically includes medical expenses, such as emergency room visits, surgeries, medications, and therapy. You can also claim lost wages if your injuries prevented you from working. Additionally, compensation for pain and suffering, emotional distress, and disfigurement may be available. A lawyer can help evaluate your case to identify all potential damages and pursue maximum compensation.",
+        "@type": "Answer",
+        "description": "Compensation in a San Diego dog bite case can cover medical expenses, lost wages, and pain and suffering."
+      }
+    }
+  ],
+  "description": "Compensation in a San Diego dog bite case can cover medical expenses, lost wages, and pain and suffering."
 }

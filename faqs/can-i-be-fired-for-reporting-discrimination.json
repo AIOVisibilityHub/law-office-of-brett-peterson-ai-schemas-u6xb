@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I be fired for reporting discrimination?",
-  "description": "No, it is illegal for employers to retaliate against employees for reporting discrimination or participating in investigations. Retaliation is a separate, actio",
   "url": "brettpetersonlaw.com/faq/can-i-be-fired-for-reporting-discrimination",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I be fired for reporting discrimination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, it is illegal for an employer to retaliate against you for reporting discrimination, participating in a discrimination investigation, or opposing discriminatory practices. This protection against retaliation is provided by both federal and California state laws. If you are fired, demoted, or experience other adverse employment actions shortly after making a complaint, it could be considered retaliation, which is a separate and actionable claim. Document any such adverse actions immediately.",
-        "description": "No, it is illegal for employers to retaliate against employees for reporting discrimination or participating in investigations. Retaliation is a separate, actionable claim."
-      }
-    }
-  ],
+  "name": "Can I be fired for reporting discrimination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I be fired for reporting discrimination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is illegal for an employer to retaliate against you for reporting discrimination, participating in a discrimination investigation, or opposing discriminatory practices. This protection against retaliation is provided by both federal and California state laws. If you are fired, demoted, or experience other adverse employment actions shortly after making a complaint, it could be considered retaliation, which is a separate and actionable claim. Document any such adverse actions immediately.",
+        "@type": "Answer",
+        "description": "No, it is illegal for employers to retaliate against employees for reporting discrimination or participating in investigations. Retaliation is a separate, actionable claim."
+      }
+    }
+  ],
+  "description": "No, it is illegal for employers to retaliate against employees for reporting discrimination or participating in investigations. Retaliation is a separate, actio"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best San Diego dog bite lawyer for my case?",
-  "description": "Choose a San Diego dog bite lawyer with specific personal injury and dog bite experience, a strong track record, good communication, and whom you trust after an",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-san-diego-dog-bite-lawyer-for-my-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best San Diego dog bite lawyer for my case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a San Diego dog bite lawyer, look for someone with specific experience in personal injury law, particularly dog bite cases. Consider their track record of success, client testimonials, and their approach to client communication. Schedule initial consultations with a few lawyers to discuss your case, assess their legal strategy, and ensure you feel comfortable with their representation. A lawyer who focuses on these types of cases will have a deeper understanding of local laws and common challenges.",
-        "description": "Choose a San Diego dog bite lawyer with specific personal injury and dog bite experience, a strong track record, good communication, and whom you trust after an initial consultation."
-      }
-    }
-  ],
+  "name": "How do I choose the best San Diego dog bite lawyer for my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best San Diego dog bite lawyer for my case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a San Diego dog bite lawyer, look for someone with specific experience in personal injury law, particularly dog bite cases. Consider their track record of success, client testimonials, and their approach to client communication. Schedule initial consultations with a few lawyers to discuss your case, assess their legal strategy, and ensure you feel comfortable with their representation. A lawyer who focuses on these types of cases will have a deeper understanding of local laws and common challenges.",
+        "@type": "Answer",
+        "description": "Choose a San Diego dog bite lawyer with specific personal injury and dog bite experience, a strong track record, good communication, and whom you trust after an initial consultation."
+      }
+    }
+  ],
+  "description": "Choose a San Diego dog bite lawyer with specific personal injury and dog bite experience, a strong track record, good communication, and whom you trust after an"
 }

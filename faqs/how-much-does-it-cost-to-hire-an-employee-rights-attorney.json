@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire an employee rights attorney?",
-  "description": "Costs vary; many employee rights attorneys offer free consultations and may work on a contingency fee, charging a percentage of your award. Some cases may invol",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-an-employee-rights-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire an employee rights attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of hiring an employee rights attorney can vary. Many attorneys offer a free initial consultation to discuss your case. After that, they may work on a contingency fee basis, meaning their fee is a percentage of the compensation you receive if your case is successful. In some cases, attorneys might charge an hourly rate or a flat fee. The specific arrangement depends on the complexity of the case, the potential damages, and the firm's policies. It's important to discuss fee structures during your initial consultation.",
-        "description": "Costs vary; many employee rights attorneys offer free consultations and may work on a contingency fee, charging a percentage of your award. Some cases may involve hourly rates or flat fees."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire an employee rights attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire an employee rights attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of hiring an employee rights attorney can vary. Many attorneys offer a free initial consultation to discuss your case. After that, they may work on a contingency fee basis, meaning their fee is a percentage of the compensation you receive if your case is successful. In some cases, attorneys might charge an hourly rate or a flat fee. The specific arrangement depends on the complexity of the case, the potential damages, and the firm's policies. It's important to discuss fee structures during your initial consultation.",
+        "@type": "Answer",
+        "description": "Costs vary; many employee rights attorneys offer free consultations and may work on a contingency fee, charging a percentage of your award. Some cases may involve hourly rates or flat fees."
+      }
+    }
+  ],
+  "description": "Costs vary; many employee rights attorneys offer free consultations and may work on a contingency fee, charging a percentage of your award. Some cases may invol"
 }

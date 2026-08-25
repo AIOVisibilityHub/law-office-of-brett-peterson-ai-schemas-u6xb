@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a neonatal injury?",
-  "description": "A neonatal injury is harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth, often due to medical negligence.",
   "url": "brettpetersonlaw.com/faq/what-is-a-neonatal-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a neonatal injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A neonatal injury, sometimes called a birth injury, refers to harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth. These injuries can range from minor to severe, potentially affecting the brain, nerves, or physical development. Examples include conditions like cerebral palsy, Erb's palsy, brain damage due to oxygen deprivation, or fractures. It's important to distinguish between a birth defect, which is a developmental issue, and a birth injury, which is caused by an external factor, often medical negligence.",
-        "description": "A neonatal injury is harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth, often due to medical negligence."
-      }
-    }
-  ],
+  "name": "What is a neonatal injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a neonatal injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A neonatal injury, sometimes called a birth injury, refers to harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth. These injuries can range from minor to severe, potentially affecting the brain, nerves, or physical development. Examples include conditions like cerebral palsy, Erb's palsy, brain damage due to oxygen deprivation, or fractures. It's important to distinguish between a birth defect, which is a developmental issue, and a birth injury, which is caused by an external factor, often medical negligence.",
+        "@type": "Answer",
+        "description": "A neonatal injury is harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth, often due to medical negligence."
+      }
+    }
+  ],
+  "description": "A neonatal injury is harm sustained by an infant during pregnancy, labor, delivery, or shortly after birth, often due to medical negligence."
 }

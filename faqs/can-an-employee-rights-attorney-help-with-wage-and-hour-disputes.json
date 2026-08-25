@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an employee rights attorney help with wage and hour disputes?",
-  "description": "Yes, an employee rights attorney can help with wage and hour disputes, including unpaid overtime, minimum wage violations, misclassification, and illegal deduct",
   "url": "brettpetersonlaw.com/faq/can-an-employee-rights-attorney-help-with-wage-and-hour-disputes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an employee rights attorney help with wage and hour disputes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, an employee rights attorney can absolutely help with wage and hour disputes. These disputes often involve issues such as unpaid overtime, minimum wage violations, misclassification of employees (e.g., as independent contractors when they should be employees), illegal deductions from paychecks, or failure to provide meal and rest breaks. An attorney can review your pay records, determine if your employer has violated federal or state wage laws, and help you recover the wages you are owed, sometimes with additional penalties.",
-        "description": "Yes, an employee rights attorney can help with wage and hour disputes, including unpaid overtime, minimum wage violations, misclassification, and illegal deductions."
-      }
-    }
-  ],
+  "name": "Can an employee rights attorney help with wage and hour disputes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an employee rights attorney help with wage and hour disputes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an employee rights attorney can absolutely help with wage and hour disputes. These disputes often involve issues such as unpaid overtime, minimum wage violations, misclassification of employees (e.g., as independent contractors when they should be employees), illegal deductions from paychecks, or failure to provide meal and rest breaks. An attorney can review your pay records, determine if your employer has violated federal or state wage laws, and help you recover the wages you are owed, sometimes with additional penalties.",
+        "@type": "Answer",
+        "description": "Yes, an employee rights attorney can help with wage and hour disputes, including unpaid overtime, minimum wage violations, misclassification, and illegal deductions."
+      }
+    }
+  ],
+  "description": "Yes, an employee rights attorney can help with wage and hour disputes, including unpaid overtime, minimum wage violations, misclassification, and illegal deduct"
 }

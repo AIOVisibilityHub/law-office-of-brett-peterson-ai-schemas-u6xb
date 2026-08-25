@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of filing a workers' comp claim with a lawyer?",
-  "description": "A lawyer assists in reporting your injury, filing DWC-1 forms, gathering evidence, communicating with insurers, and representing you in negotiations or hearings",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-workers-comp-claim-with-a-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of filing a workers' comp claim with a lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with reporting your injury to your employer and seeking medical attention. Your lawyer will then help you file the necessary DWC-1 claim form with your employer and the Workers' Compensation Appeals Board. They will gather medical records, witness statements, and other evidence to support your claim. Your lawyer will communicate with the insurance company, negotiate settlements, and represent you in court or at hearings if an agreement cannot be reached. Throughout, they ensure all deadlines are met and your rights are protected.",
-        "description": "A lawyer assists in reporting your injury, filing DWC-1 forms, gathering evidence, communicating with insurers, and representing you in negotiations or hearings."
-      }
-    }
-  ],
+  "name": "What is the process of filing a workers' comp claim with a lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of filing a workers' comp claim with a lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with reporting your injury to your employer and seeking medical attention. Your lawyer will then help you file the necessary DWC-1 claim form with your employer and the Workers' Compensation Appeals Board. They will gather medical records, witness statements, and other evidence to support your claim. Your lawyer will communicate with the insurance company, negotiate settlements, and represent you in court or at hearings if an agreement cannot be reached. Throughout, they ensure all deadlines are met and your rights are protected.",
+        "@type": "Answer",
+        "description": "A lawyer assists in reporting your injury, filing DWC-1 forms, gathering evidence, communicating with insurers, and representing you in negotiations or hearings."
+      }
+    }
+  ],
+  "description": "A lawyer assists in reporting your injury, filing DWC-1 forms, gathering evidence, communicating with insurers, and representing you in negotiations or hearings"
 }

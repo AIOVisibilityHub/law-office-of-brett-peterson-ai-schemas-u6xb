@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is there a time limit to file a childbirth malpractice lawsuit in California?",
-  "description": "Yes, in California, you generally have one year from discovery or three years from injury, but exceptions exist. Consult a lawyer quickly.",
   "url": "brettpetersonlaw.com/faq/is-there-a-time-limit-to-file-a-childbirth-malpractice-lawsuit-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is there a time limit to file a childbirth malpractice lawsuit in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, there are strict time limits, known as statutes of limitations, for filing a childbirth malpractice lawsuit in California. Generally, you must file within one year after discovering the injury or three years from the date of the injury, whichever occurs first. However, there are exceptions, especially in cases involving minors. It is crucial to consult with a lawyer as soon as possible after suspecting malpractice, as missing these deadlines can permanently bar you from pursuing your claim. An attorney can help determine the exact deadline for your specific situation.",
-        "description": "Yes, in California, you generally have one year from discovery or three years from injury, but exceptions exist. Consult a lawyer quickly."
-      }
-    }
-  ],
+  "name": "Is there a time limit to file a childbirth malpractice lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a time limit to file a childbirth malpractice lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are strict time limits, known as statutes of limitations, for filing a childbirth malpractice lawsuit in California. Generally, you must file within one year after discovering the injury or three years from the date of the injury, whichever occurs first. However, there are exceptions, especially in cases involving minors. It is crucial to consult with a lawyer as soon as possible after suspecting malpractice, as missing these deadlines can permanently bar you from pursuing your claim. An attorney can help determine the exact deadline for your specific situation.",
+        "@type": "Answer",
+        "description": "Yes, in California, you generally have one year from discovery or three years from injury, but exceptions exist. Consult a lawyer quickly."
+      }
+    }
+  ],
+  "description": "Yes, in California, you generally have one year from discovery or three years from injury, but exceptions exist. Consult a lawyer quickly."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my birth injury case go to trial?",
-  "description": "Many birth injury cases settle out of court through negotiation or mediation; a trial occurs if a fair settlement isn't reached and it's deemed necessary.",
   "url": "brettpetersonlaw.com/faq/will-my-birth-injury-case-go-to-trial",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my birth injury case go to trial?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not all birth injury cases go to trial. Many cases are resolved through settlements reached during negotiations or mediation, which can avoid the time and expense of a full court trial. However, if a fair settlement cannot be reached, and your legal team believes it is in your child's best interest, the case may proceed to trial. Your lawyer will discuss the likelihood of trial and the strategic decisions involved throughout the legal process.",
-        "description": "Many birth injury cases settle out of court through negotiation or mediation; a trial occurs if a fair settlement isn't reached and it's deemed necessary."
-      }
-    }
-  ],
+  "name": "Will my birth injury case go to trial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my birth injury case go to trial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all birth injury cases go to trial. Many cases are resolved through settlements reached during negotiations or mediation, which can avoid the time and expense of a full court trial. However, if a fair settlement cannot be reached, and your legal team believes it is in your child's best interest, the case may proceed to trial. Your lawyer will discuss the likelihood of trial and the strategic decisions involved throughout the legal process.",
+        "@type": "Answer",
+        "description": "Many birth injury cases settle out of court through negotiation or mediation; a trial occurs if a fair settlement isn't reached and it's deemed necessary."
+      }
+    }
+  ],
+  "description": "Many birth injury cases settle out of court through negotiation or mediation; a trial occurs if a fair settlement isn't reached and it's deemed necessary."
 }

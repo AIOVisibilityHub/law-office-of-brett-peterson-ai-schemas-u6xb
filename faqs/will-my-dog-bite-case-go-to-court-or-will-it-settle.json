@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my dog bite case go to court, or will it settle?",
-  "description": "Most dog bite cases settle out of court through negotiation with insurance companies. If a fair settlement isn't reached, going to court may be necessary to sec",
   "url": "brettpetersonlaw.com/faq/will-my-dog-bite-case-go-to-court-or-will-it-settle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my dog bite case go to court, or will it settle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many dog bite personal injury cases are settled out of court through negotiations with the dog owner's insurance company. Litigation can be lengthy and expensive, so both parties often prefer to reach a fair settlement. However, if a fair settlement cannot be reached through negotiation, filing a lawsuit and proceeding to court may be necessary to pursue the compensation you deserve. Your lawyer will advise you on the best course of action based on the specifics of your case, aiming to achieve the most favorable outcome for you, whether through settlement or trial.",
-        "description": "Most dog bite cases settle out of court through negotiation with insurance companies. If a fair settlement isn't reached, going to court may be necessary to secure compensation."
-      }
-    }
-  ],
+  "name": "Will my dog bite case go to court, or will it settle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my dog bite case go to court, or will it settle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many dog bite personal injury cases are settled out of court through negotiations with the dog owner's insurance company. Litigation can be lengthy and expensive, so both parties often prefer to reach a fair settlement. However, if a fair settlement cannot be reached through negotiation, filing a lawsuit and proceeding to court may be necessary to pursue the compensation you deserve. Your lawyer will advise you on the best course of action based on the specifics of your case, aiming to achieve the most favorable outcome for you, whether through settlement or trial.",
+        "@type": "Answer",
+        "description": "Most dog bite cases settle out of court through negotiation with insurance companies. If a fair settlement isn't reached, going to court may be necessary to secure compensation."
+      }
+    }
+  ],
+  "description": "Most dog bite cases settle out of court through negotiation with insurance companies. If a fair settlement isn't reached, going to court may be necessary to sec"
 }

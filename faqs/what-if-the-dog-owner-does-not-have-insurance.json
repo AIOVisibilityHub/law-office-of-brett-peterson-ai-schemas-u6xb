@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the dog owner does not have insurance?",
-  "description": "If a dog owner lacks insurance, an attorney can explore personal assets or other policies to pursue compensation. Recovery may be challenging but not impossible",
   "url": "brettpetersonlaw.com/faq/what-if-the-dog-owner-does-not-have-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the dog owner does not have insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the dog owner does not have homeowners' or renters' insurance, which typically covers dog bite incidents, pursuing compensation can become more challenging. However, it does not mean you have no options. An attorney can explore other avenues, such as the dog owner's personal assets or other applicable insurance policies. While these cases can be more complex, a skilled attorney will assess the feasibility of recovery and advise on the best course of action to help you seek the compensation you deserve.",
-        "description": "If a dog owner lacks insurance, an attorney can explore personal assets or other policies to pursue compensation. Recovery may be challenging but not impossible."
-      }
-    }
-  ],
+  "name": "What if the dog owner does not have insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the dog owner does not have insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the dog owner does not have homeowners' or renters' insurance, which typically covers dog bite incidents, pursuing compensation can become more challenging. However, it does not mean you have no options. An attorney can explore other avenues, such as the dog owner's personal assets or other applicable insurance policies. While these cases can be more complex, a skilled attorney will assess the feasibility of recovery and advise on the best course of action to help you seek the compensation you deserve.",
+        "@type": "Answer",
+        "description": "If a dog owner lacks insurance, an attorney can explore personal assets or other policies to pursue compensation. Recovery may be challenging but not impossible."
+      }
+    }
+  ],
+  "description": "If a dog owner lacks insurance, an attorney can explore personal assets or other policies to pursue compensation. Recovery may be challenging but not impossible"
 }

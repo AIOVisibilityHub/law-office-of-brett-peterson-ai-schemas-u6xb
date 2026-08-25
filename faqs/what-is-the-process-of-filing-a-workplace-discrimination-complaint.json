@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of filing a workplace discrimination complaint?",
-  "description": "The process involves filing an internal complaint, then a charge with an agency like DFEH or EEOC. These agencies investigate or issue a right-to-sue letter, al",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-workplace-discrimination-complaint",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of filing a workplace discrimination complaint?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The typical process for filing a workplace discrimination complaint often starts with an internal company complaint, if applicable. If unresolved, you generally need to file a charge of discrimination with a government agency such as the California Department of Fair Employment and Housing (DFEH) or the Equal Employment Opportunity Commission (EEOC) within specific deadlines. These agencies investigate the claim or issue a \"right-to-sue\" letter, which allows you to file a lawsuit in court. A lawyer can guide you through each step and ensure all deadlines are met.",
-        "description": "The process involves filing an internal complaint, then a charge with an agency like DFEH or EEOC. These agencies investigate or issue a right-to-sue letter, allowing you to file a lawsuit."
-      }
-    }
-  ],
+  "name": "What is the process of filing a workplace discrimination complaint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of filing a workplace discrimination complaint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for filing a workplace discrimination complaint often starts with an internal company complaint, if applicable. If unresolved, you generally need to file a charge of discrimination with a government agency such as the California Department of Fair Employment and Housing (DFEH) or the Equal Employment Opportunity Commission (EEOC) within specific deadlines. These agencies investigate the claim or issue a \"right-to-sue\" letter, which allows you to file a lawsuit in court. A lawyer can guide you through each step and ensure all deadlines are met.",
+        "@type": "Answer",
+        "description": "The process involves filing an internal complaint, then a charge with an agency like DFEH or EEOC. These agencies investigate or issue a right-to-sue letter, allowing you to file a lawsuit."
+      }
+    }
+  ],
+  "description": "The process involves filing an internal complaint, then a charge with an agency like DFEH or EEOC. These agencies investigate or issue a right-to-sue letter, al"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I be fired if I have an employment contract?",
-  "description": "If you have an employment contract, you can typically only be fired for reasons stated in the contract, and termination outside those terms may be a breach.",
   "url": "brettpetersonlaw.com/faq/can-i-be-fired-if-i-have-an-employment-contract",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I be fired if I have an employment contract?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you have an employment contract, you can generally only be fired for reasons specified within that contract. This differs from 'at-will' employment, where an employer can terminate an employee for almost any reason. A contract might outline specific grounds for termination, such as 'for cause,' or require a certain notice period. If your employer fires you in violation of the contract's terms, it could be considered a breach of contract, which is a form of wrongful termination.",
-        "description": "If you have an employment contract, you can typically only be fired for reasons stated in the contract, and termination outside those terms may be a breach."
-      }
-    }
-  ],
+  "name": "Can I be fired if I have an employment contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I be fired if I have an employment contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have an employment contract, you can generally only be fired for reasons specified within that contract. This differs from 'at-will' employment, where an employer can terminate an employee for almost any reason. A contract might outline specific grounds for termination, such as 'for cause,' or require a certain notice period. If your employer fires you in violation of the contract's terms, it could be considered a breach of contract, which is a form of wrongful termination.",
+        "@type": "Answer",
+        "description": "If you have an employment contract, you can typically only be fired for reasons stated in the contract, and termination outside those terms may be a breach."
+      }
+    }
+  ],
+  "description": "If you have an employment contract, you can typically only be fired for reasons stated in the contract, and termination outside those terms may be a breach."
 }

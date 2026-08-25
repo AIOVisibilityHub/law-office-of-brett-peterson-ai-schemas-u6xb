@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important for an animal attack case?",
-  "description": "Important evidence includes medical records, photos of injuries and the scene, witness contacts, animal control reports, and a journal of your experience.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-an-animal-attack-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important for an animal attack case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Critical evidence for an animal attack case includes medical records documenting your injuries and treatment, photographs of your injuries and the attack location, and details about the animal and its owner. Collect witness contact information if anyone saw the incident. Obtain animal control reports or police reports. If property was damaged, document that as well. Keeping a journal of your pain, suffering, and impact on daily life can also be valuable. An attorney will help you gather and organize all necessary evidence to build a strong case.",
-        "description": "Important evidence includes medical records, photos of injuries and the scene, witness contacts, animal control reports, and a journal of your experience."
-      }
-    }
-  ],
+  "name": "What evidence is important for an animal attack case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important for an animal attack case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Critical evidence for an animal attack case includes medical records documenting your injuries and treatment, photographs of your injuries and the attack location, and details about the animal and its owner. Collect witness contact information if anyone saw the incident. Obtain animal control reports or police reports. If property was damaged, document that as well. Keeping a journal of your pain, suffering, and impact on daily life can also be valuable. An attorney will help you gather and organize all necessary evidence to build a strong case.",
+        "@type": "Answer",
+        "description": "Important evidence includes medical records, photos of injuries and the scene, witness contacts, animal control reports, and a journal of your experience."
+      }
+    }
+  ],
+  "description": "Important evidence includes medical records, photos of injuries and the scene, witness contacts, animal control reports, and a journal of your experience."
 }

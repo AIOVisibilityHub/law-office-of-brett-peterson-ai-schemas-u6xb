@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a workplace discrimination lawyer?",
-  "description": "Contact a lawyer when you suspect or experience discrimination to understand your rights and preserve evidence. Early consultation helps meet deadlines and navi",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-workplace-discrimination-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a workplace discrimination lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider contacting a workplace discrimination lawyer as soon as you suspect or experience discriminatory treatment at work. Early consultation can help you understand your rights, evaluate the strength of your case, and guide you on the best course of action. A lawyer can assist in preserving evidence, meeting critical deadlines for filing complaints with agencies like the DFEH or EEOC, and navigating internal company grievance procedures. Waiting too long can sometimes jeopardize your ability to pursue a claim effectively.",
-        "description": "Contact a lawyer when you suspect or experience discrimination to understand your rights and preserve evidence. Early consultation helps meet deadlines and navigate legal processes effectively."
-      }
-    }
-  ],
+  "name": "When should I contact a workplace discrimination lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a workplace discrimination lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider contacting a workplace discrimination lawyer as soon as you suspect or experience discriminatory treatment at work. Early consultation can help you understand your rights, evaluate the strength of your case, and guide you on the best course of action. A lawyer can assist in preserving evidence, meeting critical deadlines for filing complaints with agencies like the DFEH or EEOC, and navigating internal company grievance procedures. Waiting too long can sometimes jeopardize your ability to pursue a claim effectively.",
+        "@type": "Answer",
+        "description": "Contact a lawyer when you suspect or experience discrimination to understand your rights and preserve evidence. Early consultation helps meet deadlines and navigate legal processes effectively."
+      }
+    }
+  ],
+  "description": "Contact a lawyer when you suspect or experience discrimination to understand your rights and preserve evidence. Early consultation helps meet deadlines and navi"
 }

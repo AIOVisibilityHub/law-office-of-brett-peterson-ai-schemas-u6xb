@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between an employment lawyer and an employment discrimination attorney?",
-  "description": "An employment lawyer handles various workplace issues, while an employment discrimination attorney specializes in cases where employees are treated unfairly due",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-an-employment-lawyer-and-an-employment-discrimina",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between an employment lawyer and an employment discrimination attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While often used interchangeably, an 'employment lawyer' is a broader term for attorneys who handle various workplace legal issues, including wages, contracts, and wrongful termination. An 'employment discrimination attorney' specializes specifically in cases where employees have been treated unfairly due to protected characteristics like race, gender, or age. While both fall under employment law, a discrimination attorney has focused expertise in the complex laws and procedures specific to discrimination claims, making them a specialized choice for such cases.",
-        "description": "An employment lawyer handles various workplace issues, while an employment discrimination attorney specializes in cases where employees are treated unfairly due to protected characteristics."
-      }
-    }
-  ],
+  "name": "What is the difference between an employment lawyer and an employment discrimination attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an employment lawyer and an employment discrimination attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, an 'employment lawyer' is a broader term for attorneys who handle various workplace legal issues, including wages, contracts, and wrongful termination. An 'employment discrimination attorney' specializes specifically in cases where employees have been treated unfairly due to protected characteristics like race, gender, or age. While both fall under employment law, a discrimination attorney has focused expertise in the complex laws and procedures specific to discrimination claims, making them a specialized choice for such cases.",
+        "@type": "Answer",
+        "description": "An employment lawyer handles various workplace issues, while an employment discrimination attorney specializes in cases where employees are treated unfairly due to protected characteristics."
+      }
+    }
+  ],
+  "description": "An employment lawyer handles various workplace issues, while an employment discrimination attorney specializes in cases where employees are treated unfairly due"
 }

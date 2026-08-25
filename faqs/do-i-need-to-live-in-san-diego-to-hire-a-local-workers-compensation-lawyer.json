@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to live in San Diego to hire a local workers' compensation lawyer?",
-  "description": "You don't need to live in San Diego, but it's beneficial to hire a local lawyer if your injury occurred in their service area.",
   "url": "brettpetersonlaw.com/faq/do-i-need-to-live-in-san-diego-to-hire-a-local-workers-compensation-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to live in San Diego to hire a local workers' compensation lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You do not necessarily need to live in San Diego to hire a local workers' compensation lawyer, as long as your workplace injury occurred within the firm's service area or jurisdiction they practice in, such as San Diego County. However, having a lawyer familiar with the local courts, judges, and medical providers in areas like San Diego, Imperial Beach, or La Mesa can be highly beneficial. This local expertise can streamline your case and lead to a more favorable outcome.",
-        "description": "You don't need to live in San Diego, but it's beneficial to hire a local lawyer if your injury occurred in their service area."
-      }
-    }
-  ],
+  "name": "Do I need to live in San Diego to hire a local workers' compensation lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to live in San Diego to hire a local workers' compensation lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need to live in San Diego to hire a local workers' compensation lawyer, as long as your workplace injury occurred within the firm's service area or jurisdiction they practice in, such as San Diego County. However, having a lawyer familiar with the local courts, judges, and medical providers in areas like San Diego, Imperial Beach, or La Mesa can be highly beneficial. This local expertise can streamline your case and lead to a more favorable outcome.",
+        "@type": "Answer",
+        "description": "You don't need to live in San Diego, but it's beneficial to hire a local lawyer if your injury occurred in their service area."
+      }
+    }
+  ],
+  "description": "You don't need to live in San Diego, but it's beneficial to hire a local lawyer if your injury occurred in their service area."
 }

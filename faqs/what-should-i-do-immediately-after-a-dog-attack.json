@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do immediately after a dog attack?",
-  "description": "Seek medical attention, document injuries and the scene, gather contact information, and report the incident. Consult an attorney for legal guidance.",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-dog-attack",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do immediately after a dog attack?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a dog attack, your first priority is your health. Seek medical attention immediately, even if injuries seem minor. Document everything: take photos of your injuries, the dog, and the scene. Get contact information from the dog's owner and any witnesses. Report the incident to animal control and the police. Avoid discussing fault or giving recorded statements to insurance companies without legal advice. Contacting a dog attack attorney can help you understand your rights and next steps.",
-        "description": "Seek medical attention, document injuries and the scene, gather contact information, and report the incident. Consult an attorney for legal guidance."
-      }
-    }
-  ],
+  "name": "What should I do immediately after a dog attack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a dog attack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a dog attack, your first priority is your health. Seek medical attention immediately, even if injuries seem minor. Document everything: take photos of your injuries, the dog, and the scene. Get contact information from the dog's owner and any witnesses. Report the incident to animal control and the police. Avoid discussing fault or giving recorded statements to insurance companies without legal advice. Contacting a dog attack attorney can help you understand your rights and next steps.",
+        "@type": "Answer",
+        "description": "Seek medical attention, document injuries and the scene, gather contact information, and report the incident. Consult an attorney for legal guidance."
+      }
+    }
+  ],
+  "description": "Seek medical attention, document injuries and the scene, gather contact information, and report the incident. Consult an attorney for legal guidance."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is wrongful termination and can an attorney help?",
-  "description": "Wrongful termination is when an employee is fired illegally, often due to discrimination or contract breach. An attorney can help assess your case, gather evide",
   "url": "brettpetersonlaw.com/faq/what-is-wrongful-termination-and-can-an-attorney-help",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is wrongful termination and can an attorney help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wrongful termination occurs when an employee is fired in violation of an employment contract, labor laws, or public policy. This can include termination based on discrimination, retaliation for whistleblowing, or breach of an implied contract. An employment law attorney can assess whether your termination was unlawful, help gather evidence, negotiate with your former employer, and represent you in court if necessary. They work to secure compensation for lost wages, benefits, and other damages.",
-        "description": "Wrongful termination is when an employee is fired illegally, often due to discrimination or contract breach. An attorney can help assess your case, gather evidence, and pursue compensation."
-      }
-    }
-  ],
+  "name": "What is wrongful termination and can an attorney help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is wrongful termination and can an attorney help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wrongful termination occurs when an employee is fired in violation of an employment contract, labor laws, or public policy. This can include termination based on discrimination, retaliation for whistleblowing, or breach of an implied contract. An employment law attorney can assess whether your termination was unlawful, help gather evidence, negotiate with your former employer, and represent you in court if necessary. They work to secure compensation for lost wages, benefits, and other damages.",
+        "@type": "Answer",
+        "description": "Wrongful termination is when an employee is fired illegally, often due to discrimination or contract breach. An attorney can help assess your case, gather evidence, and pursue compensation."
+      }
+    }
+  ],
+  "description": "Wrongful termination is when an employee is fired illegally, often due to discrimination or contract breach. An attorney can help assess your case, gather evide"
 }

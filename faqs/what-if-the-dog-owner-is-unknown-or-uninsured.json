@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the dog owner is unknown or uninsured?",
-  "description": "If the owner is unknown, an attorney can investigate. If uninsured, other insurance policies like your own may help cover costs.",
   "url": "brettpetersonlaw.com/faq/what-if-the-dog-owner-is-unknown-or-uninsured",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the dog owner is unknown or uninsured?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the dog owner is unknown, an attorney can assist with investigations to identify them, such as reviewing animal control records or local witness accounts. If the owner is identified but uninsured, recovering compensation can be more challenging. In such cases, your own uninsured motorist coverage (if you have it and it applies to animal attacks) or health insurance might cover medical costs. An attorney can explore all available avenues to maximize your recovery.",
-        "description": "If the owner is unknown, an attorney can investigate. If uninsured, other insurance policies like your own may help cover costs."
-      }
-    }
-  ],
+  "name": "What if the dog owner is unknown or uninsured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the dog owner is unknown or uninsured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the dog owner is unknown, an attorney can assist with investigations to identify them, such as reviewing animal control records or local witness accounts. If the owner is identified but uninsured, recovering compensation can be more challenging. In such cases, your own uninsured motorist coverage (if you have it and it applies to animal attacks) or health insurance might cover medical costs. An attorney can explore all available avenues to maximize your recovery.",
+        "@type": "Answer",
+        "description": "If the owner is unknown, an attorney can investigate. If uninsured, other insurance policies like your own may help cover costs."
+      }
+    }
+  ],
+  "description": "If the owner is unknown, an attorney can investigate. If uninsured, other insurance policies like your own may help cover costs."
 }

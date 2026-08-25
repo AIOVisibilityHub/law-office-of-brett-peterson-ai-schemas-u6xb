@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right workplace harassment attorney in the San Diego area?",
-  "description": "Choose an attorney with specific experience in California employment law, a good track record, and a communication style that suits your needs, especially one f",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-workplace-harassment-attorney-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right workplace harassment attorney in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney in the San Diego area, look for someone with specific experience in California employment law, particularly workplace harassment cases. Consider their track record, client testimonials, and their approach to client communication. It's advisable to schedule initial consultations with a few attorneys to discuss your case and assess their expertise and whether their approach aligns with your needs. Ensure they practice in San Diego County and are familiar with local court procedures.",
-        "description": "Choose an attorney with specific experience in California employment law, a good track record, and a communication style that suits your needs, especially one familiar with San Diego courts."
-      }
-    }
-  ],
+  "name": "How do I choose the right workplace harassment attorney in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right workplace harassment attorney in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney in the San Diego area, look for someone with specific experience in California employment law, particularly workplace harassment cases. Consider their track record, client testimonials, and their approach to client communication. It's advisable to schedule initial consultations with a few attorneys to discuss your case and assess their expertise and whether their approach aligns with your needs. Ensure they practice in San Diego County and are familiar with local court procedures.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience in California employment law, a good track record, and a communication style that suits your needs, especially one familiar with San Diego courts."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience in California employment law, a good track record, and a communication style that suits your needs, especially one f"
 }

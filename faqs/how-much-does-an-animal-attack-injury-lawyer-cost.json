@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does an animal attack injury lawyer cost?",
-  "description": "Most animal attack injury lawyers work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of the recovered compensation.",
   "url": "brettpetersonlaw.com/faq/how-much-does-an-animal-attack-injury-lawyer-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does an animal attack injury lawyer cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most animal attack injury lawyers work on a contingency fee basis. This means you typically don't pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation they successfully recover for you. If they don't win your case, you generally don't owe them attorney fees. This arrangement allows individuals to pursue justice without financial burden. Be sure to discuss the specific contingency fee percentage and any potential costs like filing fees or expert witness charges during your initial consultation.",
-        "description": "Most animal attack injury lawyers work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of the recovered compensation."
-      }
-    }
-  ],
+  "name": "How much does an animal attack injury lawyer cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an animal attack injury lawyer cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most animal attack injury lawyers work on a contingency fee basis. This means you typically don't pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation they successfully recover for you. If they don't win your case, you generally don't owe them attorney fees. This arrangement allows individuals to pursue justice without financial burden. Be sure to discuss the specific contingency fee percentage and any potential costs like filing fees or expert witness charges during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most animal attack injury lawyers work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of the recovered compensation."
+      }
+    }
+  ],
+  "description": "Most animal attack injury lawyers work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of the recovered compensation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I have an obstetric malpractice case?",
-  "description": "You may have a case if a healthcare provider's negligence during pregnancy or delivery caused harm. An attorney can review your medical records to assess your c",
   "url": "brettpetersonlaw.com/faq/how-do-i-know-if-i-have-an-obstetric-malpractice-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I have an obstetric malpractice case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Determining if you have an obstetric malpractice case involves several factors. It typically requires evidence that a healthcare provider deviated from the accepted standard of care, and this deviation directly caused harm to you or your baby. It's crucial to gather all relevant medical records related to your pregnancy and delivery. An attorney specializing in obstetric malpractice can review these records and consult with medical experts to assess the viability of your claim, guiding you through the legal process.",
-        "description": "You may have a case if a healthcare provider's negligence during pregnancy or delivery caused harm. An attorney can review your medical records to assess your claim."
-      }
-    }
-  ],
+  "name": "How do I know if I have an obstetric malpractice case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have an obstetric malpractice case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if you have an obstetric malpractice case involves several factors. It typically requires evidence that a healthcare provider deviated from the accepted standard of care, and this deviation directly caused harm to you or your baby. It's crucial to gather all relevant medical records related to your pregnancy and delivery. An attorney specializing in obstetric malpractice can review these records and consult with medical experts to assess the viability of your claim, guiding you through the legal process.",
+        "@type": "Answer",
+        "description": "You may have a case if a healthcare provider's negligence during pregnancy or delivery caused harm. An attorney can review your medical records to assess your claim."
+      }
+    }
+  ],
+  "description": "You may have a case if a healthcare provider's negligence during pregnancy or delivery caused harm. An attorney can review your medical records to assess your c"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is workplace harassment?",
-  "description": "Workplace harassment is unwelcome conduct based on a protected characteristic that creates a hostile work environment or affects employment conditions.",
   "url": "brettpetersonlaw.com/faq/what-is-workplace-harassment",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is workplace harassment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workplace harassment is unwelcome conduct based on a protected characteristic, such as race, color, religion, sex, national origin, age, disability, or genetic information. It becomes unlawful when enduring the offensive conduct becomes a condition of continued employment, or the conduct is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive. Examples include offensive jokes, slurs, threats, physical assaults or threats, intimidation, ridicule, insults, or put-downs.",
-        "description": "Workplace harassment is unwelcome conduct based on a protected characteristic that creates a hostile work environment or affects employment conditions."
-      }
-    }
-  ],
+  "name": "What is workplace harassment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is workplace harassment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workplace harassment is unwelcome conduct based on a protected characteristic, such as race, color, religion, sex, national origin, age, disability, or genetic information. It becomes unlawful when enduring the offensive conduct becomes a condition of continued employment, or the conduct is severe or pervasive enough to create a work environment that a reasonable person would consider intimidating, hostile, or abusive. Examples include offensive jokes, slurs, threats, physical assaults or threats, intimidation, ridicule, insults, or put-downs.",
+        "@type": "Answer",
+        "description": "Workplace harassment is unwelcome conduct based on a protected characteristic that creates a hostile work environment or affects employment conditions."
+      }
+    }
+  ],
+  "description": "Workplace harassment is unwelcome conduct based on a protected characteristic that creates a hostile work environment or affects employment conditions."
 }

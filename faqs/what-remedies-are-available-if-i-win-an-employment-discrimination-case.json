@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What remedies are available if I win an employment discrimination case?",
-  "description": "If you win, remedies can include back pay, front pay, job reinstatement, emotional distress damages, and attorney's fees. Specific remedies depend on your case.",
   "url": "brettpetersonlaw.com/faq/what-remedies-are-available-if-i-win-an-employment-discrimination-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What remedies are available if I win an employment discrimination case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you win an employment discrimination case, the available remedies can include various forms of relief. These may encompass back pay (lost wages and benefits from the date of discrimination), front pay (future lost earnings), reinstatement to your job, promotion, or other job-related benefits. Additionally, you may be awarded damages for emotional distress, punitive damages in some egregious cases, and your attorney's fees and court costs. The specific remedies will depend on the facts of your case and the applicable laws.",
-        "description": "If you win, remedies can include back pay, front pay, job reinstatement, emotional distress damages, and attorney's fees. Specific remedies depend on your case."
-      }
-    }
-  ],
+  "name": "What remedies are available if I win an employment discrimination case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What remedies are available if I win an employment discrimination case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you win an employment discrimination case, the available remedies can include various forms of relief. These may encompass back pay (lost wages and benefits from the date of discrimination), front pay (future lost earnings), reinstatement to your job, promotion, or other job-related benefits. Additionally, you may be awarded damages for emotional distress, punitive damages in some egregious cases, and your attorney's fees and court costs. The specific remedies will depend on the facts of your case and the applicable laws.",
+        "@type": "Answer",
+        "description": "If you win, remedies can include back pay, front pay, job reinstatement, emotional distress damages, and attorney's fees. Specific remedies depend on your case."
+      }
+    }
+  ],
+  "description": "If you win, remedies can include back pay, front pay, job reinstatement, emotional distress damages, and attorney's fees. Specific remedies depend on your case."
 }

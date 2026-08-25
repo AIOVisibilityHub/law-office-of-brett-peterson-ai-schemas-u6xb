@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I receive in a delivery injury claim?",
-  "description": "You can seek compensation for medical bills, lost wages, property damage, and non-economic damages like pain and suffering in a delivery injury claim.",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-in-a-delivery-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I receive in a delivery injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a delivery injury claim, you may be able to recover various types of compensation depending on the specifics of your case. This can include economic damages such as medical expenses (past and future), lost wages (due to inability to work), loss of earning capacity, and property damage. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be pursued. The specific compensation depends on the severity of your injuries, the impact on your life, and who was at fault.",
-        "description": "You can seek compensation for medical bills, lost wages, property damage, and non-economic damages like pain and suffering in a delivery injury claim."
-      }
-    }
-  ],
+  "name": "What types of compensation can I receive in a delivery injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I receive in a delivery injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a delivery injury claim, you may be able to recover various types of compensation depending on the specifics of your case. This can include economic damages such as medical expenses (past and future), lost wages (due to inability to work), loss of earning capacity, and property damage. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be pursued. The specific compensation depends on the severity of your injuries, the impact on your life, and who was at fault.",
+        "@type": "Answer",
+        "description": "You can seek compensation for medical bills, lost wages, property damage, and non-economic damages like pain and suffering in a delivery injury claim."
+      }
+    }
+  ],
+  "description": "You can seek compensation for medical bills, lost wages, property damage, and non-economic damages like pain and suffering in a delivery injury claim."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is California's dog bite law?",
-  "description": "California has a strict liability dog bite law, meaning owners are generally liable for bites in public or lawful private places, regardless of the dog's prior",
   "url": "brettpetersonlaw.com/faq/what-is-california-s-dog-bite-law",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is California's dog bite law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California operates under a 'strict liability' dog bite statute (Civil Code Section 3342). This means that a dog owner is generally liable for damages suffered by a person bitten by their dog in a public place or lawfully in a private place, regardless of the dog's past behavior or the owner's knowledge of its dangerousness. This law simplifies the process for victims, as they typically do not need to prove the owner was negligent or that the dog had a history of aggression.",
-        "description": "California has a strict liability dog bite law, meaning owners are generally liable for bites in public or lawful private places, regardless of the dog's prior behavior."
-      }
-    }
-  ],
+  "name": "What is California's dog bite law?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is California's dog bite law?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California operates under a 'strict liability' dog bite statute (Civil Code Section 3342). This means that a dog owner is generally liable for damages suffered by a person bitten by their dog in a public place or lawfully in a private place, regardless of the dog's past behavior or the owner's knowledge of its dangerousness. This law simplifies the process for victims, as they typically do not need to prove the owner was negligent or that the dog had a history of aggression.",
+        "@type": "Answer",
+        "description": "California has a strict liability dog bite law, meaning owners are generally liable for bites in public or lawful private places, regardless of the dog's prior behavior."
+      }
+    }
+  ],
+  "description": "California has a strict liability dog bite law, meaning owners are generally liable for bites in public or lawful private places, regardless of the dog's prior"
 }

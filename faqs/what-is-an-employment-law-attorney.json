@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an employment law attorney?",
-  "description": "An employment law attorney specializes in legal matters between employers and employees, covering areas like discrimination, wrongful termination, and wage disp",
   "url": "brettpetersonlaw.com/faq/what-is-an-employment-law-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an employment law attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An employment law attorney specializes in legal matters arising from the employer-employee relationship. They represent both employees and employers in disputes, offering guidance on workplace rights, obligations, and regulations. This can include issues such as discrimination, harassment, wrongful termination, wage and hour disputes, and contract breaches. Their role is to ensure compliance with labor laws and protect their clients' interests through negotiation, mediation, or litigation.",
-        "description": "An employment law attorney specializes in legal matters between employers and employees, covering areas like discrimination, wrongful termination, and wage disputes. They ensure compliance with labor laws and protect client interests."
-      }
-    }
-  ],
+  "name": "What is an employment law attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an employment law attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An employment law attorney specializes in legal matters arising from the employer-employee relationship. They represent both employees and employers in disputes, offering guidance on workplace rights, obligations, and regulations. This can include issues such as discrimination, harassment, wrongful termination, wage and hour disputes, and contract breaches. Their role is to ensure compliance with labor laws and protect their clients' interests through negotiation, mediation, or litigation.",
+        "@type": "Answer",
+        "description": "An employment law attorney specializes in legal matters between employers and employees, covering areas like discrimination, wrongful termination, and wage disputes. They ensure compliance with labor laws and protect client interests."
+      }
+    }
+  ],
+  "description": "An employment law attorney specializes in legal matters between employers and employees, covering areas like discrimination, wrongful termination, and wage disp"
 }

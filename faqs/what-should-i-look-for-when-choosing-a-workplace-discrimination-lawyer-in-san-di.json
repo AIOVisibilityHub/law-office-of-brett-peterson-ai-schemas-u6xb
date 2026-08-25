@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a workplace discrimination lawyer in San Diego?",
-  "description": "Choose a San Diego workplace discrimination lawyer with specific employment law experience, familiarity with California laws, and a proven track record. Evaluat",
   "url": "brettpetersonlaw.com/faq/what-should-i-look-for-when-choosing-a-workplace-discrimination-lawyer-in-san-di",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a workplace discrimination lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a workplace discrimination lawyer in San Diego, look for someone with specific experience in employment law and a proven track record in discrimination cases. Consider their familiarity with California state and federal employment laws, and their experience with local courts and agencies like the DFEH or EEOC offices in the region. Evaluate their communication style, fee structure, and client testimonials. A strong advocate will provide clear explanations, realistic expectations, and dedicated representation throughout your case in the San Diego area.",
-        "description": "Choose a San Diego workplace discrimination lawyer with specific employment law experience, familiarity with California laws, and a proven track record. Evaluate their communication, fees, and local expertise."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a workplace discrimination lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a workplace discrimination lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a workplace discrimination lawyer in San Diego, look for someone with specific experience in employment law and a proven track record in discrimination cases. Consider their familiarity with California state and federal employment laws, and their experience with local courts and agencies like the DFEH or EEOC offices in the region. Evaluate their communication style, fee structure, and client testimonials. A strong advocate will provide clear explanations, realistic expectations, and dedicated representation throughout your case in the San Diego area.",
+        "@type": "Answer",
+        "description": "Choose a San Diego workplace discrimination lawyer with specific employment law experience, familiarity with California laws, and a proven track record. Evaluate their communication, fees, and local expertise."
+      }
+    }
+  ],
+  "description": "Choose a San Diego workplace discrimination lawyer with specific employment law experience, familiarity with California laws, and a proven track record. Evaluat"
 }

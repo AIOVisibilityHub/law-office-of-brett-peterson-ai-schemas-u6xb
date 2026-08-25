@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are my legal rights if I experience retaliation in San Diego?",
-  "description": "In San Diego, your rights against retaliation are protected by California state and federal laws. You can seek legal remedies through agencies like DFEH or EEOC",
   "url": "brettpetersonlaw.com/faq/what-are-my-legal-rights-if-i-experience-retaliation-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are my legal rights if I experience retaliation in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In San Diego, if you experience workplace retaliation, your rights are protected under both California state laws and federal laws. California's Fair Employment and Housing Act (FEHA) provides broad protections against retaliation for engaging in protected activities, such as reporting discrimination or harassment. Federal laws like Title VII of the Civil Rights Act also apply. You have the right to seek legal remedies, including reinstatement, back pay, and damages for emotional distress, by filing a complaint with the DFEH or EEOC, and potentially a lawsuit.",
-        "description": "In San Diego, your rights against retaliation are protected by California state and federal laws. You can seek legal remedies through agencies like DFEH or EEOC."
-      }
-    }
-  ],
+  "name": "What are my legal rights if I experience retaliation in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are my legal rights if I experience retaliation in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Diego, if you experience workplace retaliation, your rights are protected under both California state laws and federal laws. California's Fair Employment and Housing Act (FEHA) provides broad protections against retaliation for engaging in protected activities, such as reporting discrimination or harassment. Federal laws like Title VII of the Civil Rights Act also apply. You have the right to seek legal remedies, including reinstatement, back pay, and damages for emotional distress, by filing a complaint with the DFEH or EEOC, and potentially a lawsuit.",
+        "@type": "Answer",
+        "description": "In San Diego, your rights against retaliation are protected by California state and federal laws. You can seek legal remedies through agencies like DFEH or EEOC."
+      }
+    }
+  ],
+  "description": "In San Diego, your rights against retaliation are protected by California state and federal laws. You can seek legal remedies through agencies like DFEH or EEOC"
 }

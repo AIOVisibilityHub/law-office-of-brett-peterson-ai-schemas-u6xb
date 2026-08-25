@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a dog bite injury claim typically take to resolve?",
-  "description": "Claim resolution time varies based on injury severity, treatment duration, insurance, and negotiation. Simple cases may settle in months, while complex ones can",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-dog-bite-injury-claim-typically-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a dog bite injury claim typically take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a dog bite injury claim varies significantly depending on several factors. These include the severity of the injuries, the length of medical treatment, whether the dog owner has insurance, and the willingness of all parties to negotiate. Simple cases with clear liability and minor injuries might settle in a few months. More complex cases involving extensive medical care, disputed liability, or requiring litigation can take a year or more. An attorney can provide a more specific estimate after reviewing your individual circumstances.",
-        "description": "Claim resolution time varies based on injury severity, treatment duration, insurance, and negotiation. Simple cases may settle in months, while complex ones can take over a year."
-      }
-    }
-  ],
+  "name": "How long does a dog bite injury claim typically take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a dog bite injury claim typically take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a dog bite injury claim varies significantly depending on several factors. These include the severity of the injuries, the length of medical treatment, whether the dog owner has insurance, and the willingness of all parties to negotiate. Simple cases with clear liability and minor injuries might settle in a few months. More complex cases involving extensive medical care, disputed liability, or requiring litigation can take a year or more. An attorney can provide a more specific estimate after reviewing your individual circumstances.",
+        "@type": "Answer",
+        "description": "Claim resolution time varies based on injury severity, treatment duration, insurance, and negotiation. Simple cases may settle in months, while complex ones can take over a year."
+      }
+    }
+  ],
+  "description": "Claim resolution time varies based on injury severity, treatment duration, insurance, and negotiation. Simple cases may settle in months, while complex ones can"
 }

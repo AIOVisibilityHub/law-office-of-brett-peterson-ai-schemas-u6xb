@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a workplace discrimination claim in California?",
-  "description": "In California, you typically have one year from the discriminatory act to file with DFEH, and 180 or 300 days for federal EEOC claims. These deadlines are stric",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-workplace-discrimination-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a workplace discrimination claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, you generally have a limited time to file a workplace discrimination claim. For most claims filed with the Department of Fair Employment and Housing (DFEH), you must file within one year from the date of the discriminatory act. Federal claims filed with the Equal Employment Opportunity Commission (EEOC) typically have a 180-day deadline, which can be extended to 300 days if there is also a state or local anti-discrimination law. These deadlines are strict, so it's critical to act quickly and consult with an attorney to ensure you don't miss your opportunity to file.",
-        "description": "In California, you typically have one year from the discriminatory act to file with DFEH, and 180 or 300 days for federal EEOC claims. These deadlines are strict."
-      }
-    }
-  ],
+  "name": "How long do I have to file a workplace discrimination claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a workplace discrimination claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, you generally have a limited time to file a workplace discrimination claim. For most claims filed with the Department of Fair Employment and Housing (DFEH), you must file within one year from the date of the discriminatory act. Federal claims filed with the Equal Employment Opportunity Commission (EEOC) typically have a 180-day deadline, which can be extended to 300 days if there is also a state or local anti-discrimination law. These deadlines are strict, so it's critical to act quickly and consult with an attorney to ensure you don't miss your opportunity to file.",
+        "@type": "Answer",
+        "description": "In California, you typically have one year from the discriminatory act to file with DFEH, and 180 or 300 days for federal EEOC claims. These deadlines are strict."
+      }
+    }
+  ],
+  "description": "In California, you typically have one year from the discriminatory act to file with DFEH, and 180 or 300 days for federal EEOC claims. These deadlines are stric"
 }

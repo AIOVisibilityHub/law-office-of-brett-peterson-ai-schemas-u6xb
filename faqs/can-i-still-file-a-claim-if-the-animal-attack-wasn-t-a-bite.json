@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if the animal attack wasn't a bite?",
-  "description": "Yes, claims can be filed for non-bite animal attacks, like scratches or being knocked down, if the animal's actions caused your injuries.",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-the-animal-attack-wasn-t-a-bite",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if the animal attack wasn't a bite?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can still file a personal injury claim even if the animal attack did not involve a bite. An animal can cause serious injuries through other actions, such as scratching, knocking a person down, or causing a fall. For example, a large dog jumping on someone and causing them to fall and break a bone is a valid injury claim. The key is proving that the animal's actions directly led to your injuries and that the owner was negligent or strictly liable, depending on the circumstances and state law.",
-        "description": "Yes, claims can be filed for non-bite animal attacks, like scratches or being knocked down, if the animal's actions caused your injuries."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if the animal attack wasn't a bite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if the animal attack wasn't a bite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can still file a personal injury claim even if the animal attack did not involve a bite. An animal can cause serious injuries through other actions, such as scratching, knocking a person down, or causing a fall. For example, a large dog jumping on someone and causing them to fall and break a bone is a valid injury claim. The key is proving that the animal's actions directly led to your injuries and that the owner was negligent or strictly liable, depending on the circumstances and state law.",
+        "@type": "Answer",
+        "description": "Yes, claims can be filed for non-bite animal attacks, like scratches or being knocked down, if the animal's actions caused your injuries."
+      }
+    }
+  ],
+  "description": "Yes, claims can be filed for non-bite animal attacks, like scratches or being knocked down, if the animal's actions caused your injuries."
 }

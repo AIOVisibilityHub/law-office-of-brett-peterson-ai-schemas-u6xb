@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of damages can I recover in an employment lawsuit?",
-  "description": "In an employment lawsuit, you may recover lost wages, benefits, emotional distress, and potentially punitive damages. Attorney fees and court costs might also b",
   "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-recover-in-an-employment-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of damages can I recover in an employment lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In an employment lawsuit, the types of damages you can recover depend on the specifics of your case. Common damages include lost wages and benefits (back pay and front pay), emotional distress, and sometimes punitive damages designed to punish the employer for egregious conduct. In cases involving discrimination or retaliation, attorney fees and court costs may also be recoverable. The goal of these damages is to make the wronged party whole again and deter future unlawful actions.",
-        "description": "In an employment lawsuit, you may recover lost wages, benefits, emotional distress, and potentially punitive damages. Attorney fees and court costs might also be covered in certain cases."
-      }
-    }
-  ],
+  "name": "What kind of damages can I recover in an employment lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damages can I recover in an employment lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In an employment lawsuit, the types of damages you can recover depend on the specifics of your case. Common damages include lost wages and benefits (back pay and front pay), emotional distress, and sometimes punitive damages designed to punish the employer for egregious conduct. In cases involving discrimination or retaliation, attorney fees and court costs may also be recoverable. The goal of these damages is to make the wronged party whole again and deter future unlawful actions.",
+        "@type": "Answer",
+        "description": "In an employment lawsuit, you may recover lost wages, benefits, emotional distress, and potentially punitive damages. Attorney fees and court costs might also be covered in certain cases."
+      }
+    }
+  ],
+  "description": "In an employment lawsuit, you may recover lost wages, benefits, emotional distress, and potentially punitive damages. Attorney fees and court costs might also b"
 }

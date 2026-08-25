@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a birth injury lawsuit in California?",
-  "description": "In California, for birth injuries, the statute of limitations can extend until the child's eighth birthday, though it's vital to consult an attorney quickly.",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-birth-injury-lawsuit-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a birth injury lawsuit in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for medical malpractice cases involving a minor is generally three years from the date of injury or one year from the date the injury was discovered, whichever occurs first. However, for injuries sustained at birth, there are specific exceptions, often allowing claims to be filed until the child's eighth birthday. It's crucial to consult with an attorney as soon as possible to ensure you meet all legal deadlines, as missing them can prevent you from pursuing a claim.",
-        "description": "In California, for birth injuries, the statute of limitations can extend until the child's eighth birthday, though it's vital to consult an attorney quickly."
-      }
-    }
-  ],
+  "name": "How long do I have to file a birth injury lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a birth injury lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for medical malpractice cases involving a minor is generally three years from the date of injury or one year from the date the injury was discovered, whichever occurs first. However, for injuries sustained at birth, there are specific exceptions, often allowing claims to be filed until the child's eighth birthday. It's crucial to consult with an attorney as soon as possible to ensure you meet all legal deadlines, as missing them can prevent you from pursuing a claim.",
+        "@type": "Answer",
+        "description": "In California, for birth injuries, the statute of limitations can extend until the child's eighth birthday, though it's vital to consult an attorney quickly."
+      }
+    }
+  ],
+  "description": "In California, for birth injuries, the statute of limitations can extend until the child's eighth birthday, though it's vital to consult an attorney quickly."
 }

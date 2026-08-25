@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a birth injury lawyer in San Diego differ from one in another state?",
-  "description": "A San Diego birth injury lawyer is familiar with California state laws, court procedures, and local medical communities, which can be crucial for cases within t",
   "url": "brettpetersonlaw.com/faq/how-does-a-birth-injury-lawyer-in-san-diego-differ-from-one-in-another-state",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a birth injury lawyer in San Diego differ from one in another state?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While the fundamental principles of birth injury law are similar across the U.S., a lawyer practicing in San Diego, California, will be specifically versed in California state laws, court procedures, and local medical communities. State laws dictate things like statutes of limitations, caps on damages, and specific rules of evidence. A local attorney will also have established relationships with local medical experts and a better understanding of the courts and juries in San Diego and the surrounding counties, which can be a significant advantage in litigating your case effectively within our service areas like Imperial Beach or Coronado.",
-        "description": "A San Diego birth injury lawyer is familiar with California state laws, court procedures, and local medical communities, which can be crucial for cases within the region."
-      }
-    }
-  ],
+  "name": "How does a birth injury lawyer in San Diego differ from one in another state?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a birth injury lawyer in San Diego differ from one in another state?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the fundamental principles of birth injury law are similar across the U.S., a lawyer practicing in San Diego, California, will be specifically versed in California state laws, court procedures, and local medical communities. State laws dictate things like statutes of limitations, caps on damages, and specific rules of evidence. A local attorney will also have established relationships with local medical experts and a better understanding of the courts and juries in San Diego and the surrounding counties, which can be a significant advantage in litigating your case effectively within our service areas like Imperial Beach or Coronado.",
+        "@type": "Answer",
+        "description": "A San Diego birth injury lawyer is familiar with California state laws, court procedures, and local medical communities, which can be crucial for cases within the region."
+      }
+    }
+  ],
+  "description": "A San Diego birth injury lawyer is familiar with California state laws, court procedures, and local medical communities, which can be crucial for cases within t"
 }

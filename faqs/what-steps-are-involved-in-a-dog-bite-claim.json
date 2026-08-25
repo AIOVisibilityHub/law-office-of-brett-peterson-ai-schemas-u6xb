@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What steps are involved in a dog bite claim?",
-  "description": "A dog bite claim involves medical care, reporting the bite, attorney consultation, evidence gathering, negotiating with insurance, and potentially litigation if",
   "url": "brettpetersonlaw.com/faq/what-steps-are-involved-in-a-dog-bite-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What steps are involved in a dog bite claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with seeking immediate medical attention for your injuries and reporting the bite to animal control. Next, you'll consult with a dog bite attorney to assess your case. The attorney will then gather evidence, including medical records, incident reports, and witness statements. They will file a claim with the responsible party's insurance company and engage in negotiations. If a fair settlement isn't reached, the case may proceed to litigation, which involves filing a lawsuit and potentially going to trial.",
-        "description": "A dog bite claim involves medical care, reporting the bite, attorney consultation, evidence gathering, negotiating with insurance, and potentially litigation if no settlement is reached."
-      }
-    }
-  ],
+  "name": "What steps are involved in a dog bite claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in a dog bite claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with seeking immediate medical attention for your injuries and reporting the bite to animal control. Next, you'll consult with a dog bite attorney to assess your case. The attorney will then gather evidence, including medical records, incident reports, and witness statements. They will file a claim with the responsible party's insurance company and engage in negotiations. If a fair settlement isn't reached, the case may proceed to litigation, which involves filing a lawsuit and potentially going to trial.",
+        "@type": "Answer",
+        "description": "A dog bite claim involves medical care, reporting the bite, attorney consultation, evidence gathering, negotiating with insurance, and potentially litigation if no settlement is reached."
+      }
+    }
+  ],
+  "description": "A dog bite claim involves medical care, reporting the bite, attorney consultation, evidence gathering, negotiating with insurance, and potentially litigation if"
 }

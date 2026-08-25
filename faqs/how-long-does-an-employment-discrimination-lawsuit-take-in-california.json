@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does an employment discrimination lawsuit take in California?",
-  "description": "Employment discrimination lawsuits in California can take months to several years, depending on complexity, court schedules, and whether settlement occurs. Your",
   "url": "brettpetersonlaw.com/faq/how-long-does-an-employment-discrimination-lawsuit-take-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does an employment discrimination lawsuit take in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of an employment discrimination lawsuit in California can vary significantly, ranging from several months to several years, depending on the complexity of the case, the court's calendar, and whether the case settles or goes to trial. Factors such as discovery, motion practice, and attempts at mediation can all extend the timeline. While some cases resolve quickly through settlement, others require extensive litigation. Your attorney can provide a more specific estimate after reviewing the details of your particular situation.",
-        "description": "Employment discrimination lawsuits in California can take months to several years, depending on complexity, court schedules, and whether settlement occurs. Your attorney can give an estimate."
-      }
-    }
-  ],
+  "name": "How long does an employment discrimination lawsuit take in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an employment discrimination lawsuit take in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an employment discrimination lawsuit in California can vary significantly, ranging from several months to several years, depending on the complexity of the case, the court's calendar, and whether the case settles or goes to trial. Factors such as discovery, motion practice, and attempts at mediation can all extend the timeline. While some cases resolve quickly through settlement, others require extensive litigation. Your attorney can provide a more specific estimate after reviewing the details of your particular situation.",
+        "@type": "Answer",
+        "description": "Employment discrimination lawsuits in California can take months to several years, depending on complexity, court schedules, and whether settlement occurs. Your attorney can give an estimate."
+      }
+    }
+  ],
+  "description": "Employment discrimination lawsuits in California can take months to several years, depending on complexity, court schedules, and whether settlement occurs. Your"
 }

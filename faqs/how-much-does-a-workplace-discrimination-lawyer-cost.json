@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a workplace discrimination lawyer cost?",
-  "description": "Many workplace discrimination lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement or award. You typically pay case c",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-workplace-discrimination-lawyer-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a workplace discrimination lawyer cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost structure for workplace discrimination lawyers can vary, but many operate on a contingency fee basis. This means the lawyer's fees are a percentage of any settlement or award you receive, and you typically don't pay upfront attorney fees. If the case is not successful, you may not owe attorney fees. However, clients are usually responsible for case-related costs like court filing fees, deposition expenses, or expert witness fees, regardless of the outcome. It's crucial to discuss fee arrangements clearly during your initial consultation.",
-        "description": "Many workplace discrimination lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement or award. You typically pay case costs regardless of the outcome."
-      }
-    }
-  ],
+  "name": "How much does a workplace discrimination lawyer cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a workplace discrimination lawyer cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost structure for workplace discrimination lawyers can vary, but many operate on a contingency fee basis. This means the lawyer's fees are a percentage of any settlement or award you receive, and you typically don't pay upfront attorney fees. If the case is not successful, you may not owe attorney fees. However, clients are usually responsible for case-related costs like court filing fees, deposition expenses, or expert witness fees, regardless of the outcome. It's crucial to discuss fee arrangements clearly during your initial consultation.",
+        "@type": "Answer",
+        "description": "Many workplace discrimination lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement or award. You typically pay case costs regardless of the outcome."
+      }
+    }
+  ],
+  "description": "Many workplace discrimination lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement or award. You typically pay case c"
 }

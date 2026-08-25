@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I be fired for filing a workers' compensation claim?",
-  "description": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California.",
   "url": "brettpetersonlaw.com/faq/can-i-be-fired-for-filing-a-workers-compensation-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I be fired for filing a workers' compensation claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California. State laws protect injured workers from such discrimination. If you believe you have been fired or discriminated against because of your workers' comp claim, a lawyer can help you understand your rights and pursue legal action against your employer for unlawful retaliation, potentially seeking reinstatement, lost wages, and other damages.",
-        "description": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California."
-      }
-    }
-  ],
+  "name": "Can I be fired for filing a workers' compensation claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I be fired for filing a workers' compensation claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California. State laws protect injured workers from such discrimination. If you believe you have been fired or discriminated against because of your workers' comp claim, a lawyer can help you understand your rights and pursue legal action against your employer for unlawful retaliation, potentially seeking reinstatement, lost wages, and other damages.",
+        "@type": "Answer",
+        "description": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California."
+      }
+    }
+  ],
+  "description": "No, it is illegal for an employer to fire or retaliate against you for filing a legitimate workers' compensation claim in California."
 }

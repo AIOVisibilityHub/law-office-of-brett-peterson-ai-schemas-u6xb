@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do I need to prove employment discrimination?",
-  "description": "Evidence for employment discrimination can include documents like emails, performance reviews, company policies, witness testimonies, and a detailed log of inci",
   "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-prove-employment-discrimination",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence do I need to prove employment discrimination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prove employment discrimination, you generally need to provide evidence that supports your claim. This can include documents like performance reviews, emails, text messages, internal memos, and company policies. Witness testimonies from current or former colleagues can also be valuable. Keeping a detailed log of discriminatory incidents, including dates, times, and specific actions, is also crucial. An attorney can help you identify and gather the most relevant and persuasive evidence for your case.",
-        "description": "Evidence for employment discrimination can include documents like emails, performance reviews, company policies, witness testimonies, and a detailed log of incidents."
-      }
-    }
-  ],
+  "name": "What evidence do I need to prove employment discrimination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence do I need to prove employment discrimination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prove employment discrimination, you generally need to provide evidence that supports your claim. This can include documents like performance reviews, emails, text messages, internal memos, and company policies. Witness testimonies from current or former colleagues can also be valuable. Keeping a detailed log of discriminatory incidents, including dates, times, and specific actions, is also crucial. An attorney can help you identify and gather the most relevant and persuasive evidence for your case.",
+        "@type": "Answer",
+        "description": "Evidence for employment discrimination can include documents like emails, performance reviews, company policies, witness testimonies, and a detailed log of incidents."
+      }
+    }
+  ],
+  "description": "Evidence for employment discrimination can include documents like emails, performance reviews, company policies, witness testimonies, and a detailed log of inci"
 }

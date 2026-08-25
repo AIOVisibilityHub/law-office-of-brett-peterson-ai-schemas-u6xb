@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a dog bite attorney do?",
-  "description": "A dog bite attorney represents individuals injured by dog attacks, helping them seek compensation for damages like medical bills and lost wages.",
   "url": "brettpetersonlaw.com/faq/what-does-a-dog-bite-attorney-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a dog bite attorney do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A dog bite attorney helps individuals who have been injured by a dog attack. This involves investigating the incident, gathering evidence such as medical records and witness statements, and identifying the responsible party. They navigate legal procedures to pursue compensation for medical expenses, lost wages, pain and suffering, and other damages. The attorney handles negotiations with insurance companies or takes the case to court if a fair settlement cannot be reached, ensuring your rights are protected throughout the legal process.",
-        "description": "A dog bite attorney represents individuals injured by dog attacks, helping them seek compensation for damages like medical bills and lost wages."
-      }
-    }
-  ],
+  "name": "What does a dog bite attorney do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a dog bite attorney do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dog bite attorney helps individuals who have been injured by a dog attack. This involves investigating the incident, gathering evidence such as medical records and witness statements, and identifying the responsible party. They navigate legal procedures to pursue compensation for medical expenses, lost wages, pain and suffering, and other damages. The attorney handles negotiations with insurance companies or takes the case to court if a fair settlement cannot be reached, ensuring your rights are protected throughout the legal process.",
+        "@type": "Answer",
+        "description": "A dog bite attorney represents individuals injured by dog attacks, helping them seek compensation for damages like medical bills and lost wages."
+      }
+    }
+  ],
+  "description": "A dog bite attorney represents individuals injured by dog attacks, helping them seek compensation for damages like medical bills and lost wages."
 }

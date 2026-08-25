@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need an employee rights attorney in San Diego if my employer is based elsewhere?",
-  "description": "If you worked in San Diego, you may need a local employee rights attorney familiar with California and local San Diego employment laws, even if your employer is",
   "url": "brettpetersonlaw.com/faq/do-i-need-an-employee-rights-attorney-in-san-diego-if-my-employer-is-based-elsew",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need an employee rights attorney in San Diego if my employer is based elsewhere?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If you work or worked in San Diego, even if your employer's headquarters are located in another city or state, you may still need an attorney who practices in California and specifically in the San Diego area. Employment laws can vary significantly by state, and sometimes by specific local ordinances. An attorney in San Diego will be familiar with the relevant California state laws and local court procedures that apply to your situation, ensuring your rights are protected according to the jurisdiction where you performed your work.",
-        "description": "If you worked in San Diego, you may need a local employee rights attorney familiar with California and local San Diego employment laws, even if your employer is based elsewhere."
-      }
-    }
-  ],
+  "name": "Do I need an employee rights attorney in San Diego if my employer is based elsewhere?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an employee rights attorney in San Diego if my employer is based elsewhere?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you work or worked in San Diego, even if your employer's headquarters are located in another city or state, you may still need an attorney who practices in California and specifically in the San Diego area. Employment laws can vary significantly by state, and sometimes by specific local ordinances. An attorney in San Diego will be familiar with the relevant California state laws and local court procedures that apply to your situation, ensuring your rights are protected according to the jurisdiction where you performed your work.",
+        "@type": "Answer",
+        "description": "If you worked in San Diego, you may need a local employee rights attorney familiar with California and local San Diego employment laws, even if your employer is based elsewhere."
+      }
+    }
+  ],
+  "description": "If you worked in San Diego, you may need a local employee rights attorney familiar with California and local San Diego employment laws, even if your employer is"
 }

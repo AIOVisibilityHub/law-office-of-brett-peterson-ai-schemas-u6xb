@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a delivery injury lawyer after an accident?",
-  "description": "Contact a delivery injury lawyer as soon as possible after medical attention to preserve evidence and understand your legal options.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-delivery-injury-lawyer-after-an-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a delivery injury lawyer after an accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact a delivery injury lawyer as soon as possible after an accident, once you have received necessary medical attention. Early engagement allows the lawyer to gather crucial evidence, interview witnesses while memories are fresh, and ensure all legal deadlines are met. Delaying consultation can make it more challenging to build a strong case, as evidence may disappear and statutes of limitations could be missed. A prompt consultation can protect your rights and help you understand the best course of action.",
-        "description": "Contact a delivery injury lawyer as soon as possible after medical attention to preserve evidence and understand your legal options."
-      }
-    }
-  ],
+  "name": "When should I contact a delivery injury lawyer after an accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a delivery injury lawyer after an accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact a delivery injury lawyer as soon as possible after an accident, once you have received necessary medical attention. Early engagement allows the lawyer to gather crucial evidence, interview witnesses while memories are fresh, and ensure all legal deadlines are met. Delaying consultation can make it more challenging to build a strong case, as evidence may disappear and statutes of limitations could be missed. A prompt consultation can protect your rights and help you understand the best course of action.",
+        "@type": "Answer",
+        "description": "Contact a delivery injury lawyer as soon as possible after medical attention to preserve evidence and understand your legal options."
+      }
+    }
+  ],
+  "description": "Contact a delivery injury lawyer as soon as possible after medical attention to preserve evidence and understand your legal options."
 }

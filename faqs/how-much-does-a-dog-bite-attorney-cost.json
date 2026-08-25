@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a dog bite attorney cost?",
-  "description": "Most dog bite attorneys work on a contingency fee basis, meaning you only pay if they win your case, and their fee is a percentage of your compensation.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-dog-bite-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a dog bite attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most dog bite attorneys work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's payment is a percentage of the compensation they recover for you, typically collected only if they win your case. If the case is not successful, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without worrying about immediate financial burdens.",
-        "description": "Most dog bite attorneys work on a contingency fee basis, meaning you only pay if they win your case, and their fee is a percentage of your compensation."
-      }
-    }
-  ],
+  "name": "How much does a dog bite attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a dog bite attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most dog bite attorneys work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's payment is a percentage of the compensation they recover for you, typically collected only if they win your case. If the case is not successful, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without worrying about immediate financial burdens.",
+        "@type": "Answer",
+        "description": "Most dog bite attorneys work on a contingency fee basis, meaning you only pay if they win your case, and their fee is a percentage of your compensation."
+      }
+    }
+  ],
+  "description": "Most dog bite attorneys work on a contingency fee basis, meaning you only pay if they win your case, and their fee is a percentage of your compensation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my child's cerebral palsy was caused by a birth injury?",
-  "description": "Assess if medical negligence during pregnancy, labor, or delivery contributed to your child's cerebral palsy by consulting a lawyer who works with medical exper",
   "url": "brettpetersonlaw.com/faq/how-do-i-know-if-my-child-s-cerebral-palsy-was-caused-by-a-birth-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my child's cerebral palsy was caused by a birth injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Determining if cerebral palsy was caused by a birth injury requires a thorough medical and legal review. Factors such as signs of fetal distress, issues during labor and delivery (e.g., oxygen deprivation, improper use of delivery tools), or medical errors shortly after birth can indicate a birth injury. A qualified attorney will work with medical experts to review your child's medical records and identify any deviations from the standard of care that may have contributed to their condition.",
-        "description": "Assess if medical negligence during pregnancy, labor, or delivery contributed to your child's cerebral palsy by consulting a lawyer who works with medical experts to review records."
-      }
-    }
-  ],
+  "name": "How do I know if my child's cerebral palsy was caused by a birth injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my child's cerebral palsy was caused by a birth injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if cerebral palsy was caused by a birth injury requires a thorough medical and legal review. Factors such as signs of fetal distress, issues during labor and delivery (e.g., oxygen deprivation, improper use of delivery tools), or medical errors shortly after birth can indicate a birth injury. A qualified attorney will work with medical experts to review your child's medical records and identify any deviations from the standard of care that may have contributed to their condition.",
+        "@type": "Answer",
+        "description": "Assess if medical negligence during pregnancy, labor, or delivery contributed to your child's cerebral palsy by consulting a lawyer who works with medical experts to review records."
+      }
+    }
+  ],
+  "description": "Assess if medical negligence during pregnancy, labor, or delivery contributed to your child's cerebral palsy by consulting a lawyer who works with medical exper"
 }

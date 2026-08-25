@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best workplace retaliation attorney for my case?",
-  "description": "Choose an attorney with specific experience in employment and retaliation cases. Look for a good track record, clear communication, and a comfortable fit.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-workplace-retaliation-attorney-for-my-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best workplace retaliation attorney for my case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney, look for someone with specific experience in employment law and, ideally, workplace retaliation cases. Consider their track record, communication style, and whether you feel comfortable discussing sensitive details with them. Interview a few attorneys to compare their approaches, fee structures, and overall fit. It's beneficial to select an attorney who understands the local legal landscape and applicable state and federal laws.",
-        "description": "Choose an attorney with specific experience in employment and retaliation cases. Look for a good track record, clear communication, and a comfortable fit."
-      }
-    }
-  ],
+  "name": "How do I choose the best workplace retaliation attorney for my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best workplace retaliation attorney for my case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney, look for someone with specific experience in employment law and, ideally, workplace retaliation cases. Consider their track record, communication style, and whether you feel comfortable discussing sensitive details with them. Interview a few attorneys to compare their approaches, fee structures, and overall fit. It's beneficial to select an attorney who understands the local legal landscape and applicable state and federal laws.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience in employment and retaliation cases. Look for a good track record, clear communication, and a comfortable fit."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience in employment and retaliation cases. Look for a good track record, clear communication, and a comfortable fit."
 }

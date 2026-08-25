@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right employment law attorney in San Diego?",
-  "description": "Choose an attorney with specific employment law experience, a strong reputation, and good communication. Prioritize local attorneys familiar with San Diego cour",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-employment-law-attorney-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right employment law attorney in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right employment law attorney involves several factors. Look for an attorney with specific experience in employment law, particularly with cases similar to yours. Consider their reputation, client reviews, and their approach to client communication. It's also beneficial to find someone who practices in San Diego or the surrounding areas, as they will be familiar with local court procedures and legal community. Schedule initial consultations with a few attorneys to compare their expertise, fees, and whether you feel comfortable working with them.",
-        "description": "Choose an attorney with specific employment law experience, a strong reputation, and good communication. Prioritize local attorneys familiar with San Diego courts. Compare a few through initial consultations."
-      }
-    }
-  ],
+  "name": "How do I choose the right employment law attorney in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right employment law attorney in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right employment law attorney involves several factors. Look for an attorney with specific experience in employment law, particularly with cases similar to yours. Consider their reputation, client reviews, and their approach to client communication. It's also beneficial to find someone who practices in San Diego or the surrounding areas, as they will be familiar with local court procedures and legal community. Schedule initial consultations with a few attorneys to compare their expertise, fees, and whether you feel comfortable working with them.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific employment law experience, a strong reputation, and good communication. Prioritize local attorneys familiar with San Diego courts. Compare a few through initial consultations."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific employment law experience, a strong reputation, and good communication. Prioritize local attorneys familiar with San Diego cour"
 }

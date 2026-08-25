@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a workplace retaliation attorney?",
-  "description": "Contact an attorney as soon as you suspect retaliation after a protected activity. Early consultation helps preserve evidence and meets filing deadlines.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-workplace-retaliation-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a workplace retaliation attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a workplace retaliation attorney as soon as you suspect you've been retaliated against after engaging in a protected activity. Early consultation can help preserve evidence, ensure you meet crucial deadlines for filing claims, and guide you on appropriate steps to take within your workplace. An attorney can assess your situation, explain your rights, and help determine the best course of action to protect your interests.",
-        "description": "Contact an attorney as soon as you suspect retaliation after a protected activity. Early consultation helps preserve evidence and meets filing deadlines."
-      }
-    }
-  ],
+  "name": "When should I contact a workplace retaliation attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a workplace retaliation attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a workplace retaliation attorney as soon as you suspect you've been retaliated against after engaging in a protected activity. Early consultation can help preserve evidence, ensure you meet crucial deadlines for filing claims, and guide you on appropriate steps to take within your workplace. An attorney can assess your situation, explain your rights, and help determine the best course of action to protect your interests.",
+        "@type": "Answer",
+        "description": "Contact an attorney as soon as you suspect retaliation after a protected activity. Early consultation helps preserve evidence and meets filing deadlines."
+      }
+    }
+  ],
+  "description": "Contact an attorney as soon as you suspect retaliation after a protected activity. Early consultation helps preserve evidence and meets filing deadlines."
 }

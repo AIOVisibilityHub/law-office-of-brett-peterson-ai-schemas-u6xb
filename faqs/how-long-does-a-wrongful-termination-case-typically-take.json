@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a wrongful termination case typically take?",
-  "description": "Wrongful termination cases can take a few months to several years, depending on complexity, negotiations, and court timelines.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-wrongful-termination-case-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a wrongful termination case typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a wrongful termination case varies significantly depending on its complexity, the willingness of both parties to negotiate, and court schedules. Simple cases might resolve in a few months through settlement, especially if there's clear liability. More complex cases involving extensive discovery or a trial can take one to several years to reach a resolution. Your attorney can provide a more specific timeframe once they've had the opportunity to review the details of your situation.",
-        "description": "Wrongful termination cases can take a few months to several years, depending on complexity, negotiations, and court timelines."
-      }
-    }
-  ],
+  "name": "How long does a wrongful termination case typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a wrongful termination case typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wrongful termination case varies significantly depending on its complexity, the willingness of both parties to negotiate, and court schedules. Simple cases might resolve in a few months through settlement, especially if there's clear liability. More complex cases involving extensive discovery or a trial can take one to several years to reach a resolution. Your attorney can provide a more specific timeframe once they've had the opportunity to review the details of your situation.",
+        "@type": "Answer",
+        "description": "Wrongful termination cases can take a few months to several years, depending on complexity, negotiations, and court timelines."
+      }
+    }
+  ],
+  "description": "Wrongful termination cases can take a few months to several years, depending on complexity, negotiations, and court timelines."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is workplace harassment and what steps can I take?",
-  "description": "Workplace harassment is unwelcome conduct based on protected characteristics. Report incidents to HR, document everything, and if unresolved, an attorney can he",
   "url": "brettpetersonlaw.com/faq/what-is-workplace-harassment-and-what-steps-can-i-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is workplace harassment and what steps can I take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workplace harassment is unwelcome conduct based on protected characteristics like race, religion, gender, age, disability, or sexual orientation, which creates a hostile work environment or results in adverse employment decisions. If you experience harassment, first report it to HR or management as per company policy. Document all incidents, including dates, times, locations, and witnesses. If your employer doesn't address the issue, or if the harassment continues, an employee rights attorney can help you understand your legal options and pursue a claim.",
-        "description": "Workplace harassment is unwelcome conduct based on protected characteristics. Report incidents to HR, document everything, and if unresolved, an attorney can help explore legal options."
-      }
-    }
-  ],
+  "name": "What is workplace harassment and what steps can I take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is workplace harassment and what steps can I take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workplace harassment is unwelcome conduct based on protected characteristics like race, religion, gender, age, disability, or sexual orientation, which creates a hostile work environment or results in adverse employment decisions. If you experience harassment, first report it to HR or management as per company policy. Document all incidents, including dates, times, locations, and witnesses. If your employer doesn't address the issue, or if the harassment continues, an employee rights attorney can help you understand your legal options and pursue a claim.",
+        "@type": "Answer",
+        "description": "Workplace harassment is unwelcome conduct based on protected characteristics. Report incidents to HR, document everything, and if unresolved, an attorney can help explore legal options."
+      }
+    }
+  ],
+  "description": "Workplace harassment is unwelcome conduct based on protected characteristics. Report incidents to HR, document everything, and if unresolved, an attorney can he"
 }

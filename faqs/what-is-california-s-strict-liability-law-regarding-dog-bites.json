@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is California's 'strict liability' law regarding dog bites?",
-  "description": "California's 'strict liability' law (Civil Code Section 3342) holds dog owners responsible for bites regardless of the dog's history or owner's negligence, if t",
   "url": "brettpetersonlaw.com/faq/what-is-california-s-strict-liability-law-regarding-dog-bites",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is California's 'strict liability' law regarding dog bites?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California has a 'strict liability' law for dog bites, which is outlined in Civil Code Section 3342. This law states that a dog owner is liable for damages suffered by a person bitten by their dog in a public place or lawfully in a private place, regardless of the dog's past behavior or the owner's knowledge of its viciousness. This means that unlike some other states, you typically do not need to prove the dog had a history of aggression or that the owner was negligent for your claim to be valid. The owner is held responsible simply because their dog caused the injury.",
-        "description": "California's 'strict liability' law (Civil Code Section 3342) holds dog owners responsible for bites regardless of the dog's history or owner's negligence, if the bite occurred in a public or lawful private place."
-      }
-    }
-  ],
+  "name": "What is California's 'strict liability' law regarding dog bites?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is California's 'strict liability' law regarding dog bites?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California has a 'strict liability' law for dog bites, which is outlined in Civil Code Section 3342. This law states that a dog owner is liable for damages suffered by a person bitten by their dog in a public place or lawfully in a private place, regardless of the dog's past behavior or the owner's knowledge of its viciousness. This means that unlike some other states, you typically do not need to prove the dog had a history of aggression or that the owner was negligent for your claim to be valid. The owner is held responsible simply because their dog caused the injury.",
+        "@type": "Answer",
+        "description": "California's 'strict liability' law (Civil Code Section 3342) holds dog owners responsible for bites regardless of the dog's history or owner's negligence, if the bite occurred in a public or lawful private place."
+      }
+    }
+  ],
+  "description": "California's 'strict liability' law (Civil Code Section 3342) holds dog owners responsible for bites regardless of the dog's history or owner's negligence, if t"
 }

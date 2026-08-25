@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of benefits can I receive through workers' compensation?",
-  "description": "Benefits include medical care, temporary and permanent disability payments for lost wages and impairment, vocational rehabilitation, and death benefits.",
   "url": "brettpetersonlaw.com/faq/what-types-of-benefits-can-i-receive-through-workers-compensation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of benefits can I receive through workers' compensation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation benefits typically include medical care for your work-related injury or illness, temporary disability benefits to replace lost wages while you are recovering, and permanent disability benefits if your injury results in a lasting impairment. In some cases, vocational rehabilitation services may be provided to help you return to work. In the unfortunate event of a work-related death, death benefits are provided to dependents. Your attorney can ensure you receive all eligible benefits.",
-        "description": "Benefits include medical care, temporary and permanent disability payments for lost wages and impairment, vocational rehabilitation, and death benefits."
-      }
-    }
-  ],
+  "name": "What types of benefits can I receive through workers' compensation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of benefits can I receive through workers' compensation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation benefits typically include medical care for your work-related injury or illness, temporary disability benefits to replace lost wages while you are recovering, and permanent disability benefits if your injury results in a lasting impairment. In some cases, vocational rehabilitation services may be provided to help you return to work. In the unfortunate event of a work-related death, death benefits are provided to dependents. Your attorney can ensure you receive all eligible benefits.",
+        "@type": "Answer",
+        "description": "Benefits include medical care, temporary and permanent disability payments for lost wages and impairment, vocational rehabilitation, and death benefits."
+      }
+    }
+  ],
+  "description": "Benefits include medical care, temporary and permanent disability payments for lost wages and impairment, vocational rehabilitation, and death benefits."
 }

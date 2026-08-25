@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do I need to prove wrongful termination?",
-  "description": "Key evidence for wrongful termination includes employment contracts, performance reviews, communications like emails or texts, witness statements, and company p",
   "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-prove-wrongful-termination",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence do I need to prove wrongful termination?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prove wrongful termination, you typically need evidence that your firing was unlawful. This can include employment contracts, performance reviews, emails, text messages, witness statements, company policies, and documentation of any complaints you made or discriminatory incidents. Keep a detailed record of events, including dates and specific interactions, as this can be crucial for building your case.",
-        "description": "Key evidence for wrongful termination includes employment contracts, performance reviews, communications like emails or texts, witness statements, and company policies. Detailed records of events are crucial."
-      }
-    }
-  ],
+  "name": "What evidence do I need to prove wrongful termination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence do I need to prove wrongful termination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prove wrongful termination, you typically need evidence that your firing was unlawful. This can include employment contracts, performance reviews, emails, text messages, witness statements, company policies, and documentation of any complaints you made or discriminatory incidents. Keep a detailed record of events, including dates and specific interactions, as this can be crucial for building your case.",
+        "@type": "Answer",
+        "description": "Key evidence for wrongful termination includes employment contracts, performance reviews, communications like emails or texts, witness statements, and company policies. Detailed records of events are crucial."
+      }
+    }
+  ],
+  "description": "Key evidence for wrongful termination includes employment contracts, performance reviews, communications like emails or texts, witness statements, and company p"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a cerebral palsy birth injury lawyer?",
-  "description": "A cerebral palsy birth injury lawyer specializes in legal cases involving medical negligence that leads to cerebral palsy at birth, helping families seek compen",
   "url": "brettpetersonlaw.com/faq/what-is-a-cerebral-palsy-birth-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a cerebral palsy birth injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A cerebral palsy birth injury lawyer specializes in legal cases where a child develops cerebral palsy due to medical negligence during pregnancy, labor, delivery, or shortly after birth. They investigate the circumstances surrounding the injury, gather medical evidence, and represent families seeking compensation for medical expenses, therapy, lost future earnings, and pain and suffering. Their role is to advocate for the child's long-term care needs and financial security resulting from preventable harm.",
-        "description": "A cerebral palsy birth injury lawyer specializes in legal cases involving medical negligence that leads to cerebral palsy at birth, helping families seek compensation."
-      }
-    }
-  ],
+  "name": "What is a cerebral palsy birth injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a cerebral palsy birth injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cerebral palsy birth injury lawyer specializes in legal cases where a child develops cerebral palsy due to medical negligence during pregnancy, labor, delivery, or shortly after birth. They investigate the circumstances surrounding the injury, gather medical evidence, and represent families seeking compensation for medical expenses, therapy, lost future earnings, and pain and suffering. Their role is to advocate for the child's long-term care needs and financial security resulting from preventable harm.",
+        "@type": "Answer",
+        "description": "A cerebral palsy birth injury lawyer specializes in legal cases involving medical negligence that leads to cerebral palsy at birth, helping families seek compensation."
+      }
+    }
+  ],
+  "description": "A cerebral palsy birth injury lawyer specializes in legal cases involving medical negligence that leads to cerebral palsy at birth, helping families seek compen"
 }

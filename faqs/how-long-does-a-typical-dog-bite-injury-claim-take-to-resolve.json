@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical dog bite injury claim take to resolve?",
-  "description": "The resolution time for a dog bite claim varies; simple cases may take months, while complex ones with severe injuries can take a year or more.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-typical-dog-bite-injury-claim-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical dog bite injury claim take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a dog bite injury claim can vary significantly. Simple cases with clear liability and minor injuries might resolve in a few months, while more complex cases involving severe injuries, extensive medical treatment, or disputes over liability could take a year or more. Factors like insurance company cooperation, the extent of injuries, and court schedules all influence the timeline. Your lawyer can provide a more specific estimate after reviewing your case.",
-        "description": "The resolution time for a dog bite claim varies; simple cases may take months, while complex ones with severe injuries can take a year or more."
-      }
-    }
-  ],
+  "name": "How long does a typical dog bite injury claim take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical dog bite injury claim take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a dog bite injury claim can vary significantly. Simple cases with clear liability and minor injuries might resolve in a few months, while more complex cases involving severe injuries, extensive medical treatment, or disputes over liability could take a year or more. Factors like insurance company cooperation, the extent of injuries, and court schedules all influence the timeline. Your lawyer can provide a more specific estimate after reviewing your case.",
+        "@type": "Answer",
+        "description": "The resolution time for a dog bite claim varies; simple cases may take months, while complex ones with severe injuries can take a year or more."
+      }
+    }
+  ],
+  "description": "The resolution time for a dog bite claim varies; simple cases may take months, while complex ones with severe injuries can take a year or more."
 }

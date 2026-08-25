@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between wrongful termination and being fired without cause?",
-  "description": "Fired without cause is legal in at-will employment. Wrongful termination means being fired for an illegal reason, like discrimination or retaliation.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-wrongful-termination-and-being-fired-without-caus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between wrongful termination and being fired without cause?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Being fired without cause means your employer ended your employment for a non-discriminatory, non-retaliatory, and non-contractual reason, which is generally permissible in California's at-will employment state. Wrongful termination, however, occurs when the reason for your firing is illegal, such as discrimination, retaliation, or a breach of an employment agreement. The legality of the reason is the key differentiator.",
-        "description": "Fired without cause is legal in at-will employment. Wrongful termination means being fired for an illegal reason, like discrimination or retaliation."
-      }
-    }
-  ],
+  "name": "What is the difference between wrongful termination and being fired without cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wrongful termination and being fired without cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Being fired without cause means your employer ended your employment for a non-discriminatory, non-retaliatory, and non-contractual reason, which is generally permissible in California's at-will employment state. Wrongful termination, however, occurs when the reason for your firing is illegal, such as discrimination, retaliation, or a breach of an employment agreement. The legality of the reason is the key differentiator.",
+        "@type": "Answer",
+        "description": "Fired without cause is legal in at-will employment. Wrongful termination means being fired for an illegal reason, like discrimination or retaliation."
+      }
+    }
+  ],
+  "description": "Fired without cause is legal in at-will employment. Wrongful termination means being fired for an illegal reason, like discrimination or retaliation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file an animal attack lawsuit in San Diego?",
-  "description": "In San Diego, you generally have two years from the date of the animal attack to file a personal injury lawsuit, according to California's statute of limitation",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-an-animal-attack-lawsuit-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file an animal attack lawsuit in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for personal injury claims, including those stemming from animal attacks, is generally two years from the date of the injury. This means you typically have two years from the day of the animal attack to file a lawsuit in civil court. If you miss this deadline, you may lose your right to seek compensation entirely. It's crucial to consult with an attorney as soon as possible to ensure all deadlines are met and to preserve your legal claim.",
-        "description": "In San Diego, you generally have two years from the date of the animal attack to file a personal injury lawsuit, according to California's statute of limitations."
-      }
-    }
-  ],
+  "name": "How long do I have to file an animal attack lawsuit in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file an animal attack lawsuit in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for personal injury claims, including those stemming from animal attacks, is generally two years from the date of the injury. This means you typically have two years from the day of the animal attack to file a lawsuit in civil court. If you miss this deadline, you may lose your right to seek compensation entirely. It's crucial to consult with an attorney as soon as possible to ensure all deadlines are met and to preserve your legal claim.",
+        "@type": "Answer",
+        "description": "In San Diego, you generally have two years from the date of the animal attack to file a personal injury lawsuit, according to California's statute of limitations."
+      }
+    }
+  ],
+  "description": "In San Diego, you generally have two years from the date of the animal attack to file a personal injury lawsuit, according to California's statute of limitation"
 }

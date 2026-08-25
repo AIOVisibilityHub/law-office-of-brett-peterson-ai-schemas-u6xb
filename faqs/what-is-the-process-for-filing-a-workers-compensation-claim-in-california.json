@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a workers' compensation claim in California?",
-  "description": "Report your injury to your employer, complete a DWC-1 form, and your employer will file it with their insurance carrier.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-workers-compensation-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a workers' compensation claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins by reporting your injury to your employer as soon as possible, typically within 30 days. Your employer must then provide you with a DWC-1 claim form. Complete and return this form to your employer. They will then send it to their insurance carrier. The insurance carrier has 90 days to accept or deny your claim. During this time, you can typically receive medical treatment. If your claim is denied or if issues arise, seeking legal counsel is advisable.",
-        "description": "Report your injury to your employer, complete a DWC-1 form, and your employer will file it with their insurance carrier."
-      }
-    }
-  ],
+  "name": "What is the process for filing a workers' compensation claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a workers' compensation claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins by reporting your injury to your employer as soon as possible, typically within 30 days. Your employer must then provide you with a DWC-1 claim form. Complete and return this form to your employer. They will then send it to their insurance carrier. The insurance carrier has 90 days to accept or deny your claim. During this time, you can typically receive medical treatment. If your claim is denied or if issues arise, seeking legal counsel is advisable.",
+        "@type": "Answer",
+        "description": "Report your injury to your employer, complete a DWC-1 form, and your employer will file it with their insurance carrier."
+      }
+    }
+  ],
+  "description": "Report your injury to your employer, complete a DWC-1 form, and your employer will file it with their insurance carrier."
 }

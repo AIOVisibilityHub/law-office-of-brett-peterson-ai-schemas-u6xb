@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my San Diego dog bite case go to court?",
-  "description": "Most San Diego dog bite cases settle out of court through negotiation. However, if a fair settlement isn't reached or liability is disputed, the case may procee",
   "url": "brettpetersonlaw.com/faq/will-my-san-diego-dog-bite-case-go-to-court",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my San Diego dog bite case go to court?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many San Diego dog bite cases are resolved through negotiation and settlement outside of court. Your lawyer will typically attempt to reach a fair settlement with the dog owner's insurance company. However, if a fair settlement cannot be reached, or if liability is heavily disputed, your case may proceed to litigation and potentially a trial. The decision to go to court is usually made after careful consideration of the evidence, settlement offers, and your best interests. Your attorney will advise you throughout this process.",
-        "description": "Most San Diego dog bite cases settle out of court through negotiation. However, if a fair settlement isn't reached or liability is disputed, the case may proceed to trial."
-      }
-    }
-  ],
+  "name": "Will my San Diego dog bite case go to court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my San Diego dog bite case go to court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many San Diego dog bite cases are resolved through negotiation and settlement outside of court. Your lawyer will typically attempt to reach a fair settlement with the dog owner's insurance company. However, if a fair settlement cannot be reached, or if liability is heavily disputed, your case may proceed to litigation and potentially a trial. The decision to go to court is usually made after careful consideration of the evidence, settlement offers, and your best interests. Your attorney will advise you throughout this process.",
+        "@type": "Answer",
+        "description": "Most San Diego dog bite cases settle out of court through negotiation. However, if a fair settlement isn't reached or liability is disputed, the case may proceed to trial."
+      }
+    }
+  ],
+  "description": "Most San Diego dog bite cases settle out of court through negotiation. However, if a fair settlement isn't reached or liability is disputed, the case may procee"
 }

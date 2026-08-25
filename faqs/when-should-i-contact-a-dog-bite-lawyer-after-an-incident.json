@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a dog bite lawyer after an incident?",
-  "description": "You should contact a dog bite lawyer as soon as possible after an incident to preserve evidence and meet claim deadlines.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-dog-bite-lawyer-after-an-incident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a dog bite lawyer after an incident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact a dog bite lawyer as soon as possible after an incident, ideally within a few days. Prompt action allows the lawyer to investigate while evidence is fresh, witness memories are clear, and to meet any strict deadlines for filing claims. Delaying could make it more challenging to gather crucial information and negatively impact your case.",
-        "description": "You should contact a dog bite lawyer as soon as possible after an incident to preserve evidence and meet claim deadlines."
-      }
-    }
-  ],
+  "name": "When should I contact a dog bite lawyer after an incident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a dog bite lawyer after an incident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact a dog bite lawyer as soon as possible after an incident, ideally within a few days. Prompt action allows the lawyer to investigate while evidence is fresh, witness memories are clear, and to meet any strict deadlines for filing claims. Delaying could make it more challenging to gather crucial information and negatively impact your case.",
+        "@type": "Answer",
+        "description": "You should contact a dog bite lawyer as soon as possible after an incident to preserve evidence and meet claim deadlines."
+      }
+    }
+  ],
+  "description": "You should contact a dog bite lawyer as soon as possible after an incident to preserve evidence and meet claim deadlines."
 }

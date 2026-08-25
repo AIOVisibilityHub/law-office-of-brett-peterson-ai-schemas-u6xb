@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need an animal attack injury lawyer?",
-  "description": "You need an animal attack injury lawyer if you suffered injuries, emotional distress, or property damage from an animal attack and require assistance with legal",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-an-animal-attack-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need an animal attack injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring an animal attack injury lawyer if you've sustained injuries from an animal bite or attack that required medical treatment, or if the attack resulted in significant emotional distress or property damage. An attorney can help you navigate the legal complexities, identify responsible parties, gather evidence, and pursue compensation for medical bills, lost wages, pain and suffering, and other damages. It's especially important if the animal owner disputes liability or if insurance companies are involved.",
-        "description": "You need an animal attack injury lawyer if you suffered injuries, emotional distress, or property damage from an animal attack and require assistance with legal complexities or compensation."
-      }
-    }
-  ],
+  "name": "When do I need an animal attack injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an animal attack injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring an animal attack injury lawyer if you've sustained injuries from an animal bite or attack that required medical treatment, or if the attack resulted in significant emotional distress or property damage. An attorney can help you navigate the legal complexities, identify responsible parties, gather evidence, and pursue compensation for medical bills, lost wages, pain and suffering, and other damages. It's especially important if the animal owner disputes liability or if insurance companies are involved.",
+        "@type": "Answer",
+        "description": "You need an animal attack injury lawyer if you suffered injuries, emotional distress, or property damage from an animal attack and require assistance with legal complexities or compensation."
+      }
+    }
+  ],
+  "description": "You need an animal attack injury lawyer if you suffered injuries, emotional distress, or property damage from an animal attack and require assistance with legal"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can an employment attorney represent both employees and employers?",
-  "description": "Some employment attorneys represent both employees and employers, offering a broad understanding of labor law. They must avoid conflicts of interest, so confirm",
   "url": "brettpetersonlaw.com/faq/can-an-employment-attorney-represent-both-employees-and-employers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can an employment attorney represent both employees and employers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, some employment law attorneys represent both employees and employers, though many choose to focus on one side. Attorneys who represent both gain a comprehensive understanding of the legal landscape from different perspectives, which can be beneficial in negotiations and litigation. However, they must always avoid conflicts of interest. It's important to clarify during your initial consultation whether the attorney or firm you're considering has experience representing clients on your side of the dispute and if they have any potential conflicts.",
-        "description": "Some employment attorneys represent both employees and employers, offering a broad understanding of labor law. They must avoid conflicts of interest, so confirm their experience and potential conflicts during consultation."
-      }
-    }
-  ],
+  "name": "Can an employment attorney represent both employees and employers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can an employment attorney represent both employees and employers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some employment law attorneys represent both employees and employers, though many choose to focus on one side. Attorneys who represent both gain a comprehensive understanding of the legal landscape from different perspectives, which can be beneficial in negotiations and litigation. However, they must always avoid conflicts of interest. It's important to clarify during your initial consultation whether the attorney or firm you're considering has experience representing clients on your side of the dispute and if they have any potential conflicts.",
+        "@type": "Answer",
+        "description": "Some employment attorneys represent both employees and employers, offering a broad understanding of labor law. They must avoid conflicts of interest, so confirm their experience and potential conflicts during consultation."
+      }
+    }
+  ],
+  "description": "Some employment attorneys represent both employees and employers, offering a broad understanding of labor law. They must avoid conflicts of interest, so confirm"
 }

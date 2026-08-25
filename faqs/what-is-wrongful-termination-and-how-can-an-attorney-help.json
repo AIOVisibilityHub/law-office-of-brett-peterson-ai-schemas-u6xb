@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is wrongful termination and how can an attorney help?",
-  "description": "Wrongful termination is when an employer fires someone for an illegal reason. An attorney can investigate, gather evidence, and represent you to seek remedies l",
   "url": "brettpetersonlaw.com/faq/what-is-wrongful-termination-and-how-can-an-attorney-help",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is wrongful termination and how can an attorney help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wrongful termination occurs when an employer fires an employee for an illegal reason, such as discrimination, retaliation for reporting a safety violation, or breach of an employment contract. An employee rights attorney can help by investigating the circumstances of your termination, gathering evidence, and determining if your rights were violated. They can then represent you in negotiations with your former employer or file a lawsuit to seek remedies like reinstatement, back pay, lost benefits, or damages for emotional distress.",
-        "description": "Wrongful termination is when an employer fires someone for an illegal reason. An attorney can investigate, gather evidence, and represent you to seek remedies like reinstatement or back pay."
-      }
-    }
-  ],
+  "name": "What is wrongful termination and how can an attorney help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is wrongful termination and how can an attorney help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wrongful termination occurs when an employer fires an employee for an illegal reason, such as discrimination, retaliation for reporting a safety violation, or breach of an employment contract. An employee rights attorney can help by investigating the circumstances of your termination, gathering evidence, and determining if your rights were violated. They can then represent you in negotiations with your former employer or file a lawsuit to seek remedies like reinstatement, back pay, lost benefits, or damages for emotional distress.",
+        "@type": "Answer",
+        "description": "Wrongful termination is when an employer fires someone for an illegal reason. An attorney can investigate, gather evidence, and represent you to seek remedies like reinstatement or back pay."
+      }
+    }
+  ],
+  "description": "Wrongful termination is when an employer fires someone for an illegal reason. An attorney can investigate, gather evidence, and represent you to seek remedies l"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best birth injury lawyer for my family?",
-  "description": "Choose a birth injury lawyer with specific experience and a proven track record in these cases. Assess their resources, communication, and ensure they are licen",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-birth-injury-lawyer-for-my-family",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best birth injury lawyer for my family?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a birth injury lawyer, look for someone with specific experience and a proven track record in birth injury litigation, not just general personal injury. Consider their resources, as these cases require significant financial investment and access to medical experts. Schedule consultations with a few firms to assess their communication style, empathy, and understanding of your family's unique situation. Check their reputation, client testimonials, and ensure they are licensed to practice in California, especially if your injury occurred in San Diego or a nearby area we serve.",
-        "description": "Choose a birth injury lawyer with specific experience and a proven track record in these cases. Assess their resources, communication, and ensure they are licensed in California."
-      }
-    }
-  ],
+  "name": "How do I choose the best birth injury lawyer for my family?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best birth injury lawyer for my family?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a birth injury lawyer, look for someone with specific experience and a proven track record in birth injury litigation, not just general personal injury. Consider their resources, as these cases require significant financial investment and access to medical experts. Schedule consultations with a few firms to assess their communication style, empathy, and understanding of your family's unique situation. Check their reputation, client testimonials, and ensure they are licensed to practice in California, especially if your injury occurred in San Diego or a nearby area we serve.",
+        "@type": "Answer",
+        "description": "Choose a birth injury lawyer with specific experience and a proven track record in these cases. Assess their resources, communication, and ensure they are licensed in California."
+      }
+    }
+  ],
+  "description": "Choose a birth injury lawyer with specific experience and a proven track record in these cases. Assess their resources, communication, and ensure they are licen"
 }

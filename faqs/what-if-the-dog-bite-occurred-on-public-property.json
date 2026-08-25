@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the dog bite occurred on public property?",
-  "description": "If a dog bite occurs on public property, liability is typically with the dog's owner, but an attorney can help investigate other responsible parties based on sp",
   "url": "brettpetersonlaw.com/faq/what-if-the-dog-bite-occurred-on-public-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the dog bite occurred on public property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If a dog bite occurs on public property, the process of determining liability can be complex. While the dog's owner is generally held responsible, specific circumstances, such as whether the dog was leashed or if there were warning signs, can influence the case. An attorney will investigate these details, identify the responsible party, which could include a property owner or municipality in certain situations, and help you pursue a claim to cover your damages.",
-        "description": "If a dog bite occurs on public property, liability is typically with the dog's owner, but an attorney can help investigate other responsible parties based on specific circumstances."
-      }
-    }
-  ],
+  "name": "What if the dog bite occurred on public property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the dog bite occurred on public property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a dog bite occurs on public property, the process of determining liability can be complex. While the dog's owner is generally held responsible, specific circumstances, such as whether the dog was leashed or if there were warning signs, can influence the case. An attorney will investigate these details, identify the responsible party, which could include a property owner or municipality in certain situations, and help you pursue a claim to cover your damages.",
+        "@type": "Answer",
+        "description": "If a dog bite occurs on public property, liability is typically with the dog's owner, but an attorney can help investigate other responsible parties based on specific circumstances."
+      }
+    }
+  ],
+  "description": "If a dog bite occurs on public property, liability is typically with the dog's owner, but an attorney can help investigate other responsible parties based on sp"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I receive in a workplace discrimination case?",
-  "description": "Compensation in a discrimination case can include back pay, front pay, emotional distress damages, and sometimes punitive damages. Policy changes or training ma",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-in-a-workplace-discrimination-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I receive in a workplace discrimination case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If successful in a workplace discrimination case, you may be eligible for various types of compensation. This can include back pay for lost wages and benefits, front pay if reinstatement isn't feasible, and compensation for emotional distress, pain, and suffering. In some cases, punitive damages may be awarded to punish the employer for egregious conduct. Additionally, the employer may be ordered to implement policy changes or provide training. A lawyer can assess your specific situation and help you understand the potential remedies available.",
-        "description": "Compensation in a discrimination case can include back pay, front pay, emotional distress damages, and sometimes punitive damages. Policy changes or training may also be ordered."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I receive in a workplace discrimination case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I receive in a workplace discrimination case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If successful in a workplace discrimination case, you may be eligible for various types of compensation. This can include back pay for lost wages and benefits, front pay if reinstatement isn't feasible, and compensation for emotional distress, pain, and suffering. In some cases, punitive damages may be awarded to punish the employer for egregious conduct. Additionally, the employer may be ordered to implement policy changes or provide training. A lawyer can assess your specific situation and help you understand the potential remedies available.",
+        "@type": "Answer",
+        "description": "Compensation in a discrimination case can include back pay, front pay, emotional distress damages, and sometimes punitive damages. Policy changes or training may also be ordered."
+      }
+    }
+  ],
+  "description": "Compensation in a discrimination case can include back pay, front pay, emotional distress damages, and sometimes punitive damages. Policy changes or training ma"
 }

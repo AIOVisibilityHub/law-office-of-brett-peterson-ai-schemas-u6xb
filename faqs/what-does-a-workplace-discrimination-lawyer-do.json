@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a workplace discrimination lawyer do?",
-  "description": "A workplace discrimination lawyer represents employees facing unlawful discrimination, investigating claims, gathering evidence, negotiating, and potentially fi",
   "url": "brettpetersonlaw.com/faq/what-does-a-workplace-discrimination-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a workplace discrimination lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A workplace discrimination lawyer represents employees who have been subjected to unlawful discrimination. Their role includes investigating claims, gathering evidence, negotiating with employers, and if necessary, filing lawsuits. They guide clients through the legal process, explain complex laws, and advocate for their best interests to achieve a favorable outcome. This might involve recovering lost wages, securing reinstatement, or obtaining compensation for emotional distress, depending on the specifics of the case.",
-        "description": "A workplace discrimination lawyer represents employees facing unlawful discrimination, investigating claims, gathering evidence, negotiating, and potentially filing lawsuits. They advocate for clients' rights and seek appropriate compensation."
-      }
-    }
-  ],
+  "name": "What does a workplace discrimination lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a workplace discrimination lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A workplace discrimination lawyer represents employees who have been subjected to unlawful discrimination. Their role includes investigating claims, gathering evidence, negotiating with employers, and if necessary, filing lawsuits. They guide clients through the legal process, explain complex laws, and advocate for their best interests to achieve a favorable outcome. This might involve recovering lost wages, securing reinstatement, or obtaining compensation for emotional distress, depending on the specifics of the case.",
+        "@type": "Answer",
+        "description": "A workplace discrimination lawyer represents employees facing unlawful discrimination, investigating claims, gathering evidence, negotiating, and potentially filing lawsuits. They advocate for clients' rights and seek appropriate compensation."
+      }
+    }
+  ],
+  "description": "A workplace discrimination lawyer represents employees facing unlawful discrimination, investigating claims, gathering evidence, negotiating, and potentially fi"
 }

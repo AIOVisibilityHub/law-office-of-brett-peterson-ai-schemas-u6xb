@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I seek for an animal attack injury?",
-  "description": "You can seek compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress resulting from an animal attack.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-seek-for-an-animal-attack-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I seek for an animal attack injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Victims of animal attacks may be entitled to various types of compensation, including economic and non-economic damages. Economic damages cover tangible losses such as medical expenses (emergency care, surgeries, therapy), lost wages from time off work, and property damage. Non-economic damages address intangible losses like pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. The specific compensation available depends on the severity of your injuries, the circumstances of the attack, and applicable state laws.",
-        "description": "You can seek compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress resulting from an animal attack."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I seek for an animal attack injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I seek for an animal attack injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victims of animal attacks may be entitled to various types of compensation, including economic and non-economic damages. Economic damages cover tangible losses such as medical expenses (emergency care, surgeries, therapy), lost wages from time off work, and property damage. Non-economic damages address intangible losses like pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. The specific compensation available depends on the severity of your injuries, the circumstances of the attack, and applicable state laws.",
+        "@type": "Answer",
+        "description": "You can seek compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress resulting from an animal attack."
+      }
+    }
+  ],
+  "description": "You can seek compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress resulting from an animal attack."
 }

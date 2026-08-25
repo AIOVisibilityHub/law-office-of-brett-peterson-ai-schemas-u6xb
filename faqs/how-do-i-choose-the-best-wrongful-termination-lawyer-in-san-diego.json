@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best wrongful termination lawyer in San Diego?",
-  "description": "Choose a San Diego wrongful termination lawyer with employment law experience, a good reputation, and clear communication. Schedule consultations to compare app",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-wrongful-termination-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best wrongful termination lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a wrongful termination lawyer in San Diego, look for someone with specific experience in employment law, particularly representing employees in wrongful termination cases. Consider their reputation, client testimonials, and their approach to client communication. It's helpful to schedule consultations with a few lawyers to discuss your case, compare their strategies, and ensure you feel comfortable and confident in their abilities to represent your interests effectively within the San Diego legal landscape.",
-        "description": "Choose a San Diego wrongful termination lawyer with employment law experience, a good reputation, and clear communication. Schedule consultations to compare approaches and find a good fit."
-      }
-    }
-  ],
+  "name": "How do I choose the best wrongful termination lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best wrongful termination lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a wrongful termination lawyer in San Diego, look for someone with specific experience in employment law, particularly representing employees in wrongful termination cases. Consider their reputation, client testimonials, and their approach to client communication. It's helpful to schedule consultations with a few lawyers to discuss your case, compare their strategies, and ensure you feel comfortable and confident in their abilities to represent your interests effectively within the San Diego legal landscape.",
+        "@type": "Answer",
+        "description": "Choose a San Diego wrongful termination lawyer with employment law experience, a good reputation, and clear communication. Schedule consultations to compare approaches and find a good fit."
+      }
+    }
+  ],
+  "description": "Choose a San Diego wrongful termination lawyer with employment law experience, a good reputation, and clear communication. Schedule consultations to compare app"
 }

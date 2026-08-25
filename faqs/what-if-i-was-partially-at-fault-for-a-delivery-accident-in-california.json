@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I was partially at fault for a delivery accident in California?",
-  "description": "In California's pure comparative negligence system, your compensation for a delivery accident will be reduced by your percentage of fault if you are partially r",
   "url": "brettpetersonlaw.com/faq/what-if-i-was-partially-at-fault-for-a-delivery-accident-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I was partially at fault for a delivery accident in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, personal injury cases, including delivery accidents, operate under a system of pure comparative negligence. This means that if you are found to be partially at fault for an accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% responsible, your total damages would be reduced by 20%. Your lawyer will work to minimize your attributed fault and maximize your compensation by presenting evidence that clarifies liability. It's important to discuss all circumstances of the accident openly with your attorney.",
-        "description": "In California's pure comparative negligence system, your compensation for a delivery accident will be reduced by your percentage of fault if you are partially responsible."
-      }
-    }
-  ],
+  "name": "What if I was partially at fault for a delivery accident in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I was partially at fault for a delivery accident in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, personal injury cases, including delivery accidents, operate under a system of pure comparative negligence. This means that if you are found to be partially at fault for an accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% responsible, your total damages would be reduced by 20%. Your lawyer will work to minimize your attributed fault and maximize your compensation by presenting evidence that clarifies liability. It's important to discuss all circumstances of the accident openly with your attorney.",
+        "@type": "Answer",
+        "description": "In California's pure comparative negligence system, your compensation for a delivery accident will be reduced by your percentage of fault if you are partially responsible."
+      }
+    }
+  ],
+  "description": "In California's pure comparative negligence system, your compensation for a delivery accident will be reduced by your percentage of fault if you are partially r"
 }

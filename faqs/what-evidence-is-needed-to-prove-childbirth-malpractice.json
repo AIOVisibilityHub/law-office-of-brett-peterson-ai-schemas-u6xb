@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is needed to prove childbirth malpractice?",
-  "description": "Evidence for childbirth malpractice includes medical records, expert testimony, and proof of duty breach, causation, and resulting damages.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-to-prove-childbirth-malpractice",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is needed to prove childbirth malpractice?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To prove childbirth malpractice, you generally need evidence demonstrating four key elements: a professional duty of care existed (e.g., between doctor and patient), the medical professional breached that duty (acted negligently), this breach directly caused the injury, and you or your baby suffered damages as a result. This evidence typically includes comprehensive medical records, expert witness testimony from other medical professionals, and sometimes photographic or video evidence. Your lawyer will meticulously gather and present this evidence to build a strong case.",
-        "description": "Evidence for childbirth malpractice includes medical records, expert testimony, and proof of duty breach, causation, and resulting damages."
-      }
-    }
-  ],
+  "name": "What evidence is needed to prove childbirth malpractice?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is needed to prove childbirth malpractice?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prove childbirth malpractice, you generally need evidence demonstrating four key elements: a professional duty of care existed (e.g., between doctor and patient), the medical professional breached that duty (acted negligently), this breach directly caused the injury, and you or your baby suffered damages as a result. This evidence typically includes comprehensive medical records, expert witness testimony from other medical professionals, and sometimes photographic or video evidence. Your lawyer will meticulously gather and present this evidence to build a strong case.",
+        "@type": "Answer",
+        "description": "Evidence for childbirth malpractice includes medical records, expert testimony, and proof of duty breach, causation, and resulting damages."
+      }
+    }
+  ],
+  "description": "Evidence for childbirth malpractice includes medical records, expert testimony, and proof of duty breach, causation, and resulting damages."
 }

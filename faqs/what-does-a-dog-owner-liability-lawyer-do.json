@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a dog owner liability lawyer do?",
-  "description": "A dog owner liability lawyer represents individuals injured by a dog, helping them pursue compensation for their damages.",
   "url": "brettpetersonlaw.com/faq/what-does-a-dog-owner-liability-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a dog owner liability lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A dog owner liability lawyer represents individuals who have been injured by a dog, helping them understand their legal rights and options. This includes investigating the incident, gathering evidence, negotiating with insurance companies, and, if necessary, filing a lawsuit. Their goal is to secure compensation for damages such as medical bills, lost wages, pain and suffering, and other related expenses resulting from the dog bite or attack.",
-        "description": "A dog owner liability lawyer represents individuals injured by a dog, helping them pursue compensation for their damages."
-      }
-    }
-  ],
+  "name": "What does a dog owner liability lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a dog owner liability lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dog owner liability lawyer represents individuals who have been injured by a dog, helping them understand their legal rights and options. This includes investigating the incident, gathering evidence, negotiating with insurance companies, and, if necessary, filing a lawsuit. Their goal is to secure compensation for damages such as medical bills, lost wages, pain and suffering, and other related expenses resulting from the dog bite or attack.",
+        "@type": "Answer",
+        "description": "A dog owner liability lawyer represents individuals injured by a dog, helping them pursue compensation for their damages."
+      }
+    }
+  ],
+  "description": "A dog owner liability lawyer represents individuals injured by a dog, helping them pursue compensation for their damages."
 }

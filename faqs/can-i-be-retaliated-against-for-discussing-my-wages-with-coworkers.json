@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I be retaliated against for discussing my wages with coworkers?",
-  "description": "No, both federal and California laws protect your right to discuss wages with coworkers without retaliation, as it's a protected concerted activity.",
   "url": "brettpetersonlaw.com/faq/can-i-be-retaliated-against-for-discussing-my-wages-with-coworkers",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I be retaliated against for discussing my wages with coworkers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Generally, no. Both federal law, specifically the National Labor Relations Act (NLRA), and California law protect employees' rights to discuss their wages, benefits, and other terms and conditions of employment with coworkers without fear of retaliation, even in non-union workplaces. This is considered a protected concerted activity. If your employer takes adverse action against you for discussing wages, it could be considered illegal retaliation. However, there can be specific nuances depending on the context.",
-        "description": "No, both federal and California laws protect your right to discuss wages with coworkers without retaliation, as it's a protected concerted activity."
-      }
-    }
-  ],
+  "name": "Can I be retaliated against for discussing my wages with coworkers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I be retaliated against for discussing my wages with coworkers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, no. Both federal law, specifically the National Labor Relations Act (NLRA), and California law protect employees' rights to discuss their wages, benefits, and other terms and conditions of employment with coworkers without fear of retaliation, even in non-union workplaces. This is considered a protected concerted activity. If your employer takes adverse action against you for discussing wages, it could be considered illegal retaliation. However, there can be specific nuances depending on the context.",
+        "@type": "Answer",
+        "description": "No, both federal and California laws protect your right to discuss wages with coworkers without retaliation, as it's a protected concerted activity."
+      }
+    }
+  ],
+  "description": "No, both federal and California laws protect your right to discuss wages with coworkers without retaliation, as it's a protected concerted activity."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consult a wrongful termination lawyer?",
-  "description": "Consult a wrongful termination lawyer if you suspect your firing was illegal due to discrimination, retaliation, or contract breach. Early consultation is advis",
   "url": "brettpetersonlaw.com/faq/when-should-i-consult-a-wrongful-termination-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consult a wrongful termination lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider consulting a wrongful termination lawyer if you believe your termination was based on discrimination, retaliation, or violated a contract or public policy. It's often best to seek advice early, even if you're unsure, as there are strict deadlines for filing claims. A lawyer can assess your situation, explain your rights, and help determine the best course of action.",
-        "description": "Consult a wrongful termination lawyer if you suspect your firing was illegal due to discrimination, retaliation, or contract breach. Early consultation is advised due to strict deadlines."
-      }
-    }
-  ],
+  "name": "When should I consult a wrongful termination lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consult a wrongful termination lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider consulting a wrongful termination lawyer if you believe your termination was based on discrimination, retaliation, or violated a contract or public policy. It's often best to seek advice early, even if you're unsure, as there are strict deadlines for filing claims. A lawyer can assess your situation, explain your rights, and help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Consult a wrongful termination lawyer if you suspect your firing was illegal due to discrimination, retaliation, or contract breach. Early consultation is advised due to strict deadlines."
+      }
+    }
+  ],
+  "description": "Consult a wrongful termination lawyer if you suspect your firing was illegal due to discrimination, retaliation, or contract breach. Early consultation is advis"
 }

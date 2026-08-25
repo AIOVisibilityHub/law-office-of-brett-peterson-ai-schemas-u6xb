@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a workers' comp lawyer cost, and how are they paid?",
-  "description": "Workers' comp lawyers usually work on a contingency fee, meaning they are paid a percentage of your settlement or award, with no upfront costs.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-workers-comp-lawyer-cost-and-how-are-they-paid",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a workers' comp lawyer cost, and how are they paid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most workers' compensation lawyers work on a contingency fee basis. This means you typically don't pay upfront legal fees. Instead, the lawyer's fee is a percentage of the compensation you receive from your claim. If you don't win your case, you generally don't owe attorney fees. This arrangement ensures that legal representation is accessible to injured workers regardless of their financial situation. The percentage is set by state law and approved by the Workers' Compensation Appeals Board.",
-        "description": "Workers' comp lawyers usually work on a contingency fee, meaning they are paid a percentage of your settlement or award, with no upfront costs."
-      }
-    }
-  ],
+  "name": "How much does a workers' comp lawyer cost, and how are they paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a workers' comp lawyer cost, and how are they paid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most workers' compensation lawyers work on a contingency fee basis. This means you typically don't pay upfront legal fees. Instead, the lawyer's fee is a percentage of the compensation you receive from your claim. If you don't win your case, you generally don't owe attorney fees. This arrangement ensures that legal representation is accessible to injured workers regardless of their financial situation. The percentage is set by state law and approved by the Workers' Compensation Appeals Board.",
+        "@type": "Answer",
+        "description": "Workers' comp lawyers usually work on a contingency fee, meaning they are paid a percentage of your settlement or award, with no upfront costs."
+      }
+    }
+  ],
+  "description": "Workers' comp lawyers usually work on a contingency fee, meaning they are paid a percentage of your settlement or award, with no upfront costs."
 }

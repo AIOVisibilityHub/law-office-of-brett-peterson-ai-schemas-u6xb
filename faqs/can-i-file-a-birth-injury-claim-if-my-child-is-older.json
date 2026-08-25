@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I file a birth injury claim if my child is older?",
-  "description": "Yes, you might be able to file a claim for an older child, especially in California, where deadlines can extend to the child's eighth birthday. Consult a lawyer",
   "url": "brettpetersonlaw.com/faq/can-i-file-a-birth-injury-claim-if-my-child-is-older",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I file a birth injury claim if my child is older?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it may still be possible to file a birth injury claim even if your child is no longer an infant. The statute of limitations for minors in California allows for claims to be filed under certain circumstances until the child's eighth birthday. However, the sooner you investigate, the better, as evidence can become harder to obtain and memories fade over time. It is important to discuss the specifics of your situation with a qualified birth injury lawyer as soon as possible to determine if your case falls within the legal time limits.",
-        "description": "Yes, you might be able to file a claim for an older child, especially in California, where deadlines can extend to the child's eighth birthday. Consult a lawyer promptly to review your case."
-      }
-    }
-  ],
+  "name": "Can I file a birth injury claim if my child is older?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a birth injury claim if my child is older?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it may still be possible to file a birth injury claim even if your child is no longer an infant. The statute of limitations for minors in California allows for claims to be filed under certain circumstances until the child's eighth birthday. However, the sooner you investigate, the better, as evidence can become harder to obtain and memories fade over time. It is important to discuss the specifics of your situation with a qualified birth injury lawyer as soon as possible to determine if your case falls within the legal time limits.",
+        "@type": "Answer",
+        "description": "Yes, you might be able to file a claim for an older child, especially in California, where deadlines can extend to the child's eighth birthday. Consult a lawyer promptly to review your case."
+      }
+    }
+  ],
+  "description": "Yes, you might be able to file a claim for an older child, especially in California, where deadlines can extend to the child's eighth birthday. Consult a lawyer"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I receive in a dog bite claim?",
-  "description": "You may receive compensation for medical expenses, lost wages, and future medical care. Non-economic damages like pain and suffering, emotional distress, and di",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-in-a-dog-bite-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I receive in a dog bite claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a dog bite claim, you may be eligible for various types of compensation, often referred to as damages. These can include economic damages such as medical expenses (hospital visits, surgeries, medications, therapy), lost wages if your injuries prevent you from working, and future medical care costs. Non-economic damages may also be awarded for pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. The specific compensation depends on the severity of your injuries, the impact on your life, and the unique circumstances of the incident.",
-        "description": "You may receive compensation for medical expenses, lost wages, and future medical care. Non-economic damages like pain and suffering, emotional distress, and disfigurement may also be sought."
-      }
-    }
-  ],
+  "name": "What types of compensation can I receive in a dog bite claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I receive in a dog bite claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a dog bite claim, you may be eligible for various types of compensation, often referred to as damages. These can include economic damages such as medical expenses (hospital visits, surgeries, medications, therapy), lost wages if your injuries prevent you from working, and future medical care costs. Non-economic damages may also be awarded for pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. The specific compensation depends on the severity of your injuries, the impact on your life, and the unique circumstances of the incident.",
+        "@type": "Answer",
+        "description": "You may receive compensation for medical expenses, lost wages, and future medical care. Non-economic damages like pain and suffering, emotional distress, and disfigurement may also be sought."
+      }
+    }
+  ],
+  "description": "You may receive compensation for medical expenses, lost wages, and future medical care. Non-economic damages like pain and suffering, emotional distress, and di"
 }

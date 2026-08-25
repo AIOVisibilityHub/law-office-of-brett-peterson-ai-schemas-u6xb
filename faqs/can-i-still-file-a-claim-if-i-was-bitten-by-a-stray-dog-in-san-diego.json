@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if I was bitten by a stray dog in San Diego?",
-  "description": "Claims for stray dog bites in San Diego are challenging due to no identifiable owner, but other avenues like premises liability may exist. Consult a lawyer to e",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-bitten-by-a-stray-dog-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if I was bitten by a stray dog in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Filing a claim for a bite from a stray dog in San Diego can be challenging because there is no identifiable owner to hold liable under California's strict liability law. However, depending on the circumstances, there might be other avenues for compensation. For instance, if the bite occurred on someone's property due to negligent property maintenance, a premises liability claim might be possible. It's crucial to report the bite to Animal Services. A San Diego dog bite lawyer can evaluate the unique details of your situation to explore any potential legal recourse.",
-        "description": "Claims for stray dog bites in San Diego are challenging due to no identifiable owner, but other avenues like premises liability may exist. Consult a lawyer to explore options."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if I was bitten by a stray dog in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if I was bitten by a stray dog in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Filing a claim for a bite from a stray dog in San Diego can be challenging because there is no identifiable owner to hold liable under California's strict liability law. However, depending on the circumstances, there might be other avenues for compensation. For instance, if the bite occurred on someone's property due to negligent property maintenance, a premises liability claim might be possible. It's crucial to report the bite to Animal Services. A San Diego dog bite lawyer can evaluate the unique details of your situation to explore any potential legal recourse.",
+        "@type": "Answer",
+        "description": "Claims for stray dog bites in San Diego are challenging due to no identifiable owner, but other avenues like premises liability may exist. Consult a lawyer to explore options."
+      }
+    }
+  ],
+  "description": "Claims for stray dog bites in San Diego are challenging due to no identifiable owner, but other avenues like premises liability may exist. Consult a lawyer to e"
 }

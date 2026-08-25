@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need a dog attack attorney?",
-  "description": "Consider an attorney if you've sustained injuries from a dog bite, especially if severe or requiring medical treatment. They can help with liability, insurance,",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-a-dog-attack-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need a dog attack attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider contacting a dog attack attorney if you or a loved one has suffered injuries from a dog bite, especially if those injuries are severe, require medical treatment, or result in lost wages. An attorney can help determine liability, navigate insurance claims, and pursue compensation for medical bills, pain and suffering, and other damages. They can also protect your rights and ensure you receive fair treatment throughout the legal process.",
-        "description": "Consider an attorney if you've sustained injuries from a dog bite, especially if severe or requiring medical treatment. They can help with liability, insurance, and compensation."
-      }
-    }
-  ],
+  "name": "When do I need a dog attack attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a dog attack attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider contacting a dog attack attorney if you or a loved one has suffered injuries from a dog bite, especially if those injuries are severe, require medical treatment, or result in lost wages. An attorney can help determine liability, navigate insurance claims, and pursue compensation for medical bills, pain and suffering, and other damages. They can also protect your rights and ensure you receive fair treatment throughout the legal process.",
+        "@type": "Answer",
+        "description": "Consider an attorney if you've sustained injuries from a dog bite, especially if severe or requiring medical treatment. They can help with liability, insurance, and compensation."
+      }
+    }
+  ],
+  "description": "Consider an attorney if you've sustained injuries from a dog bite, especially if severe or requiring medical treatment. They can help with liability, insurance,"
 }

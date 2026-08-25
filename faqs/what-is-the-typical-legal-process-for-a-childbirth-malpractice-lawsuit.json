@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
-  "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy.",
   "url": "brettpetersonlaw.com/faq/what-is-the-typical-legal-process-for-a-childbirth-malpractice-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The legal process for a childbirth malpractice lawsuit typically begins with an initial consultation where a lawyer assesses your case. If accepted, the lawyer will gather extensive medical records and expert opinions to establish negligence and causation. This investigative phase is crucial. Next, a complaint is filed, initiating the lawsuit. The discovery phase follows, involving depositions and exchanges of evidence. Many cases resolve through negotiation or mediation. If a settlement isn't reached, the case may proceed to trial. This entire process can be lengthy.",
-        "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy."
-      }
-    }
-  ],
+  "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The legal process for a childbirth malpractice lawsuit typically begins with an initial consultation where a lawyer assesses your case. If accepted, the lawyer will gather extensive medical records and expert opinions to establish negligence and causation. This investigative phase is crucial. Next, a complaint is filed, initiating the lawsuit. The discovery phase follows, involving depositions and exchanges of evidence. Many cases resolve through negotiation or mediation. If a settlement isn't reached, the case may proceed to trial. This entire process can be lengthy.",
+        "@type": "Answer",
+        "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy."
+      }
+    }
+  ],
+  "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy."
 }

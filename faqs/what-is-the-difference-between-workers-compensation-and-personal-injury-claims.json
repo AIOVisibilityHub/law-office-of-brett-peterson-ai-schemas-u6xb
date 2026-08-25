@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between workers' compensation and personal injury claims?",
-  "description": "Workers' comp covers work injuries regardless of fault; personal injury covers injuries due to another's negligence and includes pain and suffering damages.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-workers-compensation-and-personal-injury-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between workers' compensation and personal injury claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation claims cover injuries that occur at work, regardless of fault, and provide specific benefits like medical care and lost wages. Personal injury claims, on the other hand, deal with injuries caused by the negligence or wrongful act of another party, whether at work or elsewhere. Personal injury claims allow for recovery of a broader range of damages, including pain and suffering, which are generally not available in workers' compensation cases. You may have both if a third party caused your work injury.",
-        "description": "Workers' comp covers work injuries regardless of fault; personal injury covers injuries due to another's negligence and includes pain and suffering damages."
-      }
-    }
-  ],
+  "name": "What is the difference between workers' compensation and personal injury claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between workers' compensation and personal injury claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation claims cover injuries that occur at work, regardless of fault, and provide specific benefits like medical care and lost wages. Personal injury claims, on the other hand, deal with injuries caused by the negligence or wrongful act of another party, whether at work or elsewhere. Personal injury claims allow for recovery of a broader range of damages, including pain and suffering, which are generally not available in workers' compensation cases. You may have both if a third party caused your work injury.",
+        "@type": "Answer",
+        "description": "Workers' comp covers work injuries regardless of fault; personal injury covers injuries due to another's negligence and includes pain and suffering damages."
+      }
+    }
+  ],
+  "description": "Workers' comp covers work injuries regardless of fault; personal injury covers injuries due to another's negligence and includes pain and suffering damages."
 }

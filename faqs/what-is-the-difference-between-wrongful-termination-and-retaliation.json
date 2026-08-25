@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between wrongful termination and retaliation?",
-  "description": "Wrongful termination is being fired for an illegal reason. Retaliation is any adverse employer action, including termination, for a protected activity.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-wrongful-termination-and-retaliation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between wrongful termination and retaliation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While often related, wrongful termination specifically refers to being fired for an illegal reason, such as discrimination, breach of contract, or whistleblowing. Retaliation is a broader concept where an employer takes any adverse action (which could include termination, but also demotion, harassment, etc.) against an employee for engaging in a legally protected activity. Wrongful termination due to reporting illegal activities is a specific type of retaliation. Not all retaliatory actions result in termination.",
-        "description": "Wrongful termination is being fired for an illegal reason. Retaliation is any adverse employer action, including termination, for a protected activity."
-      }
-    }
-  ],
+  "name": "What is the difference between wrongful termination and retaliation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wrongful termination and retaliation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often related, wrongful termination specifically refers to being fired for an illegal reason, such as discrimination, breach of contract, or whistleblowing. Retaliation is a broader concept where an employer takes any adverse action (which could include termination, but also demotion, harassment, etc.) against an employee for engaging in a legally protected activity. Wrongful termination due to reporting illegal activities is a specific type of retaliation. Not all retaliatory actions result in termination.",
+        "@type": "Answer",
+        "description": "Wrongful termination is being fired for an illegal reason. Retaliation is any adverse employer action, including termination, for a protected activity."
+      }
+    }
+  ],
+  "description": "Wrongful termination is being fired for an illegal reason. Retaliation is any adverse employer action, including termination, for a protected activity."
 }
