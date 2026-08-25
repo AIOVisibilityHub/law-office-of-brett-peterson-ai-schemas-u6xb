@@ -1,11 +1,11 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T00:36:28.158Z",
+  "generatedAt": "2026-08-25T18:05:20.490Z",
   "client": {
     "name": "Law Office of Brett Peterson",
-    "canonicalUrl": "https://baylawinjury.aiovisibility.net",
+    "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
     "primaryWebsiteUrl": "brettpetersonlaw.com",
-    "pagesUrl": "https://baylawinjury.aiovisibility.net",
+    "pagesUrl": "https://brettpetersonlaw.aiovisibility.net",
     "phone": "619.702.8412",
     "email": "brett@brettpetersonlaw.com",
     "locations": [
@@ -153,23 +153,23 @@
   },
   "package": {
     "totalFiles": 1289,
-    "totalBytes": 5436878,
+    "totalBytes": 5504328,
     "stats": {
+      "qna": 0,
       "faqs": 881,
-      "helpArticles": 185,
+      "press": 0,
+      "total": 1267,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 0,
       "services": 102,
       "webpages": 95,
-      "personnel": 2,
-      "products": 0,
       "locations": 1,
-      "awards": 0,
+      "personnel": 2,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 0,
-      "qna": 0,
-      "research": 0,
-      "total": 1267
+      "helpArticles": 185,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -6535,54 +6535,54 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 13571,
+        "bytes": 19643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 22462,
+        "bytes": 28333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 330441,
+        "bytes": 336579,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9931,
+        "bytes": 15704,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 731178,
+        "bytes": 736929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 513713,
+        "bytes": 519422,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 15616,
+        "bytes": 21343,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 449341,
+        "bytes": 455050,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 317,
+        "bytes": 325,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 4620,
+        "bytes": 4652,
         "purpose": "LLM hint"
       },
       {
@@ -6592,7 +6592,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 367,
+        "bytes": 371,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -6602,42 +6602,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1753,
+        "bytes": 1769,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 566487,
+        "bytes": 571639,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 155778,
+        "bytes": 160914,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 155778,
+        "bytes": 160914,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4622,
+        "bytes": 4634,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 195446,
+        "bytes": 195458,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 165266,
+        "bytes": 170414,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 957,
+        "bytes": 1001,
         "purpose": "Standard sitemap"
       }
     ]

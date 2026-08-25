@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T00:36:28.142Z",
+  "generatedAt": "2026-08-25T18:05:20.474Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -11,20 +11,20 @@
   "notALinkWheel": true,
   "entity": {
     "name": "Law Office of Brett Peterson",
-    "canonicalUrl": "https://baylawinjury.aiovisibility.net",
+    "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
     "primaryWebsiteUrl": "brettpetersonlaw.com",
-    "aiDataHub": "https://baylawinjury.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://brettpetersonlaw.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
       "role": "canonical",
       "label": "Law Office of Brett Peterson — canonical website",
-      "url": "https://baylawinjury.aiovisibility.net"
+      "url": "https://brettpetersonlaw.aiovisibility.net"
     },
     {
       "role": "ai-data-hub",
       "label": "Law Office of Brett Peterson — AI Data Hub",
-      "url": "https://baylawinjury.aiovisibility.net/ai-data.html"
+      "url": "https://brettpetersonlaw.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",
