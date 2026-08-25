@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-25T00:36:11.078Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Law Office of Brett Peterson",
+    "canonicalUrl": "https://baylawinjury.aiovisibility.net",
+    "primaryWebsiteUrl": "brettpetersonlaw.com",
+    "aiDataHub": "https://baylawinjury.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Law Office of Brett Peterson — canonical website",
+      "url": "https://baylawinjury.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Law Office of Brett Peterson — AI Data Hub",
+      "url": "https://baylawinjury.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
+    }
+  }
+}
