@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://baylawinjury.aiovisibility.net/sitemap.xml
-Sitemap: https://baylawinjury.aiovisibility.net/ai-sitemap.xml
+Sitemap: https://brettpetersonlaw.aiovisibility.net/sitemap.xml
+Sitemap: https://brettpetersonlaw.aiovisibility.net/ai-sitemap.xml

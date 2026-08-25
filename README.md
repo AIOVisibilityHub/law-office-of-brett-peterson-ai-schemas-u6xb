@@ -2,7 +2,7 @@
 
 Canonical AI Data Package for Law Office of Brett Peterson.
 
-- Canonical: https://baylawinjury.aiovisibility.net
+- Canonical: https://brettpetersonlaw.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -10,17 +10,17 @@ Canonical AI Data Package for Law Office of Brett Peterson.
 
 ## Stats
 - 881 faqs
-- 185 helpArticles
 - 102 services
 - 95 webpages
-- 2 personnel
 - 1 locations
+- 2 personnel
+- 185 helpArticles
 - 1 organization
 - **1267** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Law Office of Brett Peterson — canonical website — https://baylawinjury.aiovisibility.net
-- [ai-data-hub] Law Office of Brett Peterson — AI Data Hub — https://baylawinjury.aiovisibility.net/ai-data.html
+- [canonical] Law Office of Brett Peterson — canonical website — https://brettpetersonlaw.aiovisibility.net
+- [ai-data-hub] Law Office of Brett Peterson — AI Data Hub — https://brettpetersonlaw.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/ai-data.html
 

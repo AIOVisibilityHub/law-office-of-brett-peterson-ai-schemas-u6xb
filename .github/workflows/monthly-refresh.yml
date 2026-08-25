@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Law Office of Brett Peterson' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://baylawinjury.aiovisibility.net"
-          KEY="21eaaf801b3e4c6f2dbbf2dbab9ed20f"
+          SITE="https://brettpetersonlaw.aiovisibility.net"
+          KEY="d83da5d9fba5b6b8e40effeba3bf4bb0"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)

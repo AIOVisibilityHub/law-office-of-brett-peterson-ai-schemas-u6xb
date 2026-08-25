@@ -3,18 +3,18 @@
 Law Office of Brett Peterson publishes structured AI-readable data for discovery and recommendation by AI systems.
 
 ## Canonical
-- https://baylawinjury.aiovisibility.net
+- https://brettpetersonlaw.aiovisibility.net
 
 ## Core AI Resources
-- https://baylawinjury.aiovisibility.net/ai-data.html
-- https://baylawinjury.aiovisibility.net/data/publishing-manifest.json
-- https://baylawinjury.aiovisibility.net/llms-full.txt
-- https://baylawinjury.aiovisibility.net/full-context.md
-- https://baylawinjury.aiovisibility.net/ai-sitemap.xml
+- https://brettpetersonlaw.aiovisibility.net/ai-data.html
+- https://brettpetersonlaw.aiovisibility.net/data/publishing-manifest.json
+- https://brettpetersonlaw.aiovisibility.net/llms-full.txt
+- https://brettpetersonlaw.aiovisibility.net/full-context.md
+- https://brettpetersonlaw.aiovisibility.net/ai-sitemap.xml
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Law Office of Brett Peterson — canonical website — https://baylawinjury.aiovisibility.net
-- [ai-data-hub] Law Office of Brett Peterson — AI Data Hub — https://baylawinjury.aiovisibility.net/ai-data.html
+- [canonical] Law Office of Brett Peterson — canonical website — https://brettpetersonlaw.aiovisibility.net
+- [ai-data-hub] Law Office of Brett Peterson — AI Data Hub — https://brettpetersonlaw.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/ai-data.html
 
