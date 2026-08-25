@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What to Do Immediately After Suspecting Medical Malpractice",
-  "description": "Step 1: Prioritize Your Health and Safety. Get immediate medical attention from a different healthcare provider if you believe the original care was flawed or made your condition worse. Your well-bein",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Prioritize Your Health and Safety. Get immediate medical attention from a different healthcare provider if you believe the original care was flawed or made your condition worse. Your well-being is the most important thing. Make sure you're stable and getting appropriate care for any new or worsened conditions. Documenting new treatments and diagnoses is crucial here.",
-      "text": "Step 1: Prioritize Your Health and Safety. Get immediate medical attention from a different healthcare provider if you believe the original care was flawed or made your condition worse. Your well-being is the most important thing. Make sure you're stable and getting appropriate care for any new or worsened conditions. Documenting new treatments and diagnoses is crucial here."
+      "text": "Step 1: Prioritize Your Health and Safety. Get immediate medical attention from a different healthcare provider if you believe the original care was flawed or made your condition worse. Your well-being is the most important thing. Make sure you're stable and getting appropriate care for any new or worsened conditions. Documenting new treatments and diagnoses is crucial here.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Gather and Preserve Medical Records. Collect all relevant medical documents, including doctor's notes, test results, hospital discharge summaries, prescription lists, and billing statements. These records are the backbone of any medical malpractice claim, providing a timeline and evidence of the care you received. Requesting them early ensures you have access before anything gets lost or altered.",
-      "text": "Step 2: Gather and Preserve Medical Records. Collect all relevant medical documents, including doctor's notes, test results, hospital discharge summaries, prescription lists, and billing statements. These records are the backbone of any medical malpractice claim, providing a timeline and evidence of the care you received. Requesting them early ensures you have access before anything gets lost or altered."
+      "text": "Step 2: Gather and Preserve Medical Records. Collect all relevant medical documents, including doctor's notes, test results, hospital discharge summaries, prescription lists, and billing statements. These records are the backbone of any medical malpractice claim, providing a timeline and evidence of the care you received. Requesting them early ensures you have access before anything gets lost or altered.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Document Everything You Remember. Write down a detailed account of what happened, including dates, times, names of medical personnel involved, and specific events or conversations. Include how your condition has changed and how it impacts your daily life. The more details you can recall, the better picture an attorney can form, as memories can fade over time.",
-      "text": "Step 3: Document Everything You Remember. Write down a detailed account of what happened, including dates, times, names of medical personnel involved, and specific events or conversations. Include how your condition has changed and how it impacts your daily life. The more details you can recall, the better picture an attorney can form, as memories can fade over time."
+      "text": "Step 3: Document Everything You Remember. Write down a detailed account of what happened, including dates, times, names of medical personnel involved, and specific events or conversations. Include how your condition has changed and how it impacts your daily life. The more details you can recall, the better picture an attorney can form, as memories can fade over time.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Avoid Discussing Details with the Hospital or Insurers. It’s tempting to want answers from the healthcare provider or discuss your situation with their insurance company. However, it's best to refrain from giving detailed statements or signing anything until you've spoken with your own legal counsel. They may try to get you to say something that could harm your claim.",
-      "text": "Step 4: Avoid Discussing Details with the Hospital or Insurers. It’s tempting to want answers from the healthcare provider or discuss your situation with their insurance company. However, it's best to refrain from giving detailed statements or signing anything until you've spoken with your own legal counsel. They may try to get you to say something that could harm your claim."
+      "text": "Step 4: Avoid Discussing Details with the Hospital or Insurers. It’s tempting to want answers from the healthcare provider or discuss your situation with their insurance company. However, it's best to refrain from giving detailed statements or signing anything until you've spoken with your own legal counsel. They may try to get you to say something that could harm your claim.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Consult with a Medical Malpractice Attorney. Reach out to an experienced personal injury attorney, like Brett Peterson, who focuses on medical malpractice. They can review your case, explain your rights, and guide you through the complex legal process without obligation. They'll help determine if you have a viable claim and what legal avenues are available to seek the compensation you deserve.",
-      "text": "Step 5: Consult with a Medical Malpractice Attorney. Reach out to an experienced personal injury attorney, like Brett Peterson, who focuses on medical malpractice. They can review your case, explain your rights, and guide you through the complex legal process without obligation. They'll help determine if you have a viable claim and what legal avenues are available to seek the compensation you deserve."
+      "text": "Step 5: Consult with a Medical Malpractice Attorney. Reach out to an experienced personal injury attorney, like Brett Peterson, who focuses on medical malpractice. They can review your case, explain your rights, and guide you through the complex legal process without obligation. They'll help determine if you have a viable claim and what legal avenues are available to seek the compensation you deserve.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Prioritize Your Health and Safety. Get immediate medical attention from a different healthcare provider if you believe the original care was flawed or made your condition worse. Your well-bein"
 }

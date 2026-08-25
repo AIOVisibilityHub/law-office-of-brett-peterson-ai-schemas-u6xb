@@ -1,197 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Checklist: What to Gather for Your Traffic Collision Claim",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "- [ ] Police Report Number — why it matters: This official document provides crucial details about the accident, including driver information, witness statements, and the investigating officer's findings.\n- [ ] Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffic signals, and injuries can vividly support your account of what happened.\n- [ ] Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your story and strengthen your claim against conflicting narratives.\n- [ ] Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the financial costs incurred for treatment, which are vital for compensation.\n- [ ] Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employer will demonstrate any income lost due to your inability to work after the collision.\n- [ ] Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensures smooth communication with insurance providers and understanding coverage limits.\n- [ ] Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a significant part of your overall compensation.\n\nHow to use this checklist: After a traffic collision, emotions run high and it's easy to forget important details. Use this checklist as soon as you're able to systematically gather all necessary information. Having these items organized will make your claim process much smoother, whether you're dealing with insurance companies or speaking with an attorney like Brett Peterson.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Checklist: What to Gather for Your Traffic Collision Claim",
-    "numberOfItems": 7,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Police Report Number — why it matters: This official document provides crucial details about the accident,…",
-        "description": "Police Report Number — why it matters: This official document provides crucial details about the accident, including driver information, witness statements, and the investigating officer's findings."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffi…",
-        "description": "Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffic signals, and injuries can vividly support your account of what happened."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your stor…",
-        "description": "Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your story and strengthen your claim against conflicting narratives."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the finan…",
-        "description": "Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the financial costs incurred for treatment, which are vital for compensation."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employe…",
-        "description": "Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employer will demonstrate any income lost due to your inability to work after the collision."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensure…",
-        "description": "Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensures smooth communication with insurance providers and understanding coverage limits."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a si…",
-        "description": "Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a significant part of your overall compensation."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Checklist: What to Gather for Your Traffic Collision Claim",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -201,5 +19,187 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: What to Gather for Your Traffic Collision Claim",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Police Report Number — why it matters: This official document provides crucial details about the accident,…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Police Report Number — why it matters: This official document provides crucial details about the accident, including driver information, witness statements, and the investigating officer's findings."
+      },
+      {
+        "name": "Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffi…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffic signals, and injuries can vividly support your account of what happened."
+      },
+      {
+        "name": "Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your stor…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your story and strengthen your claim against conflicting narratives."
+      },
+      {
+        "name": "Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the finan…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the financial costs incurred for treatment, which are vital for compensation."
+      },
+      {
+        "name": "Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employe…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employer will demonstrate any income lost due to your inability to work after the collision."
+      },
+      {
+        "name": "Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensure…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensures smooth communication with insurance providers and understanding coverage limits."
+      },
+      {
+        "name": "Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a si…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a significant part of your overall compensation."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Police Report Number — why it matters: This official document provides crucial details about the accident, including driver information, witness statements, and the investigating officer's findings.\n- [ ] Photos and Videos of the Scene — why it matters: Visual evidence of vehicle damage, road conditions, traffic signals, and injuries can vividly support your account of what happened.\n- [ ] Witness Contact Information — why it matters: Independent accounts from witnesses can corroborate your story and strengthen your claim against conflicting narratives.\n- [ ] Medical Records and Bills — why it matters: These documents prove the extent of your injuries and the financial costs incurred for treatment, which are vital for compensation.\n- [ ] Wage Loss Documentation — why it matters: Pay stubs, employment verification, and letters from your employer will demonstrate any income lost due to your inability to work after the collision.\n- [ ] Insurance Policy Information — why it matters: Having your own and the other driver's policy details ensures smooth communication with insurance providers and understanding coverage limits.\n- [ ] Repair Estimates or Receipts — why it matters: These show the cost of property damage to your vehicle, a significant part of your overall compensation.\n\nHow to use this checklist: After a traffic collision, emotions run high and it's easy to forget important details. Use this checklist as soon as you're able to systematically gather all necessary information. Having these items organized will make your claim process much smoother, whether you're dealing with insurance companies or speaking with an attorney like Brett Peterson.",
+  "datePublished": "2026-08-25"
 }

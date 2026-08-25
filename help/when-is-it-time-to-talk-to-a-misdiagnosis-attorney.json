@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "When is it Time to Talk to a Misdiagnosis Attorney?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It’s tough to know when a medical mistake crosses the line into something that requires legal help. You're probably already stressed about your health, so adding legal concerns can feel like too much. But recognizing the right time to speak with a misdiagnosis attorney can make a huge difference in protecting your rights and securing your future. Here are some signs it might be time to pick up the phone:\n\n- [ ] Your condition worsened significantly due to delayed or incorrect treatment — this suggests the misdiagnosis had a tangible, negative impact on your health and recovery.\n- [ ] You underwent unnecessary or incorrect treatments because of the misdiagnosis — these treatments can cause further harm, incur avoidable costs, and indicate a significant error.\n- [ ] A second medical opinion completely contradicted the initial diagnosis, revealing a serious oversight — a clear discrepancy often points to a failure in the expected standard of care.\n- [ ] You've incurred substantial medical bills, lost wages, or other financial burdens directly related to the misdiagnosis — these quantifiable damages are key components of a malpractice claim.\n- [ ] The original medical professional or facility is being uncooperative or dismissive when you try to get answers — a lack of transparency can be a red flag and makes navigating the situation alone very difficult.\n- [ ] You feel overwhelmed and unsure of your legal options or how to proceed — seeking professional guidance can alleviate stress and ensure you make informed decisions.\n\nHow to use this checklist: Go through these points and see how many resonate with your situation. If several of these apply, it’s a strong indicator that speaking with an experienced misdiagnosis attorney for a free consultation would be beneficial. They can help you understand the next steps and ensure your interests are protected, allowing you to focus on your health.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Talk to a Misdiagnosis Attorney?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s tough to know when a medical mistake crosses the line into something that requires legal help. You're probably already stressed about your health, so adding legal concerns can feel like too much. But recognizing the right time to speak with a misdiagnosis attorney can make a huge difference in protecting your rights and securing your future. Here are some signs it might be time to pick up the phone:\n\n- [ ] Your condition worsened significantly due to delayed or incorrect treatment — this suggests the misdiagnosis had a tangible, negative impact on your health and recovery.\n- [ ] You underwent unnecessary or incorrect treatments because of the misdiagnosis — these treatments can cause further harm, incur avoidable costs, and indicate a significant error.\n- [ ] A second medical opinion completely contradicted the initial diagnosis, revealing a serious oversight — a clear discrepancy often points to a failure in the expected standard of care.\n- [ ] You've incurred substantial medical bills, lost wages, or other financial burdens directly related to the misdiagnosis — these quantifiable damages are key components of a malpractice claim.\n- [ ] The original medical professional or facility is being uncooperative or dismissive when you try to get answers — a lack of transparency can be a red flag and makes navigating the situation alone very difficult.\n- [ ] You feel overwhelmed and unsure of your legal options or how to proceed — seeking professional guidance can alleviate stress and ensure you make informed decisions.\n\nHow to use this checklist: Go through these points and see how many resonate with your situation. If several of these apply, it’s a strong indicator that speaking with an experienced misdiagnosis attorney for a free consultation would be beneficial. They can help you understand the next steps and ensure your interests are protected, allowing you to focus on your health.",
+  "datePublished": "2026-08-25"
 }

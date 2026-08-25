@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Steps to Take After a Potential Misdiagnosis",
-  "description": "Step 1: Seek a second medical opinion. Get an appointment with a different doctor, ideally a specialist in the suspected area, as soon as possible. Be sure to provide them with all your existing medic",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Seek a second medical opinion. Get an appointment with a different doctor, ideally a specialist in the suspected area, as soon as possible. Be sure to provide them with all your existing medical records for a comprehensive review.",
-      "text": "Step 1: Seek a second medical opinion. Get an appointment with a different doctor, ideally a specialist in the suspected area, as soon as possible. Be sure to provide them with all your existing medical records for a comprehensive review."
+      "text": "Step 1: Seek a second medical opinion. Get an appointment with a different doctor, ideally a specialist in the suspected area, as soon as possible. Be sure to provide them with all your existing medical records for a comprehensive review.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Collect all your medical records. Request copies of everything: doctor's notes, test results, imaging reports, and prescriptions related to your diagnosis and treatment. These documents are crucial for understanding the timeline and details of your care.",
-      "text": "Step 2: Collect all your medical records. Request copies of everything: doctor's notes, test results, imaging reports, and prescriptions related to your diagnosis and treatment. These documents are crucial for understanding the timeline and details of your care."
+      "text": "Step 2: Collect all your medical records. Request copies of everything: doctor's notes, test results, imaging reports, and prescriptions related to your diagnosis and treatment. These documents are crucial for understanding the timeline and details of your care.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Document your symptoms and experiences. Keep a detailed journal. Note when symptoms started or changed, how they affected you, and every conversation you had with medical staff. Include dates, times, and specific comments made.",
-      "text": "Step 3: Document your symptoms and experiences. Keep a detailed journal. Note when symptoms started or changed, how they affected you, and every conversation you had with medical staff. Include dates, times, and specific comments made."
+      "text": "Step 3: Document your symptoms and experiences. Keep a detailed journal. Note when symptoms started or changed, how they affected you, and every conversation you had with medical staff. Include dates, times, and specific comments made.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Understand the impact of the misdiagnosis. Consider how the misdiagnosis affected your health, your work, and your personal life. Did it cause your condition to worsen? Did you incur additional medical expenses? These details are important.",
-      "text": "Step 4: Understand the impact of the misdiagnosis. Consider how the misdiagnosis affected your health, your work, and your personal life. Did it cause your condition to worsen? Did you incur additional medical expenses? These details are important."
+      "text": "Step 4: Understand the impact of the misdiagnosis. Consider how the misdiagnosis affected your health, your work, and your personal life. Did it cause your condition to worsen? Did you incur additional medical expenses? These details are important.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Consult with an experienced medical malpractice attorney. If you suspect negligence led to the misdiagnosis and caused harm, talking to a lawyer like Brett Peterson can clarify your options. They can evaluate your case, explain the legal process, and help you pursue compensation without you having to navigate the complexities alone.",
-      "text": "Step 5: Consult with an experienced medical malpractice attorney. If you suspect negligence led to the misdiagnosis and caused harm, talking to a lawyer like Brett Peterson can clarify your options. They can evaluate your case, explain the legal process, and help you pursue compensation without you having to navigate the complexities alone."
+      "text": "Step 5: Consult with an experienced medical malpractice attorney. If you suspect negligence led to the misdiagnosis and caused harm, talking to a lawyer like Brett Peterson can clarify your options. They can evaluate your case, explain the legal process, and help you pursue compensation without you having to navigate the complexities alone.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Seek a second medical opinion. Get an appointment with a different doctor, ideally a specialist in the suspected area, as soon as possible. Be sure to provide them with all your existing medic"
 }

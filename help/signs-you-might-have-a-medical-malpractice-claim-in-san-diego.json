@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Signs You Might Have a Medical Malpractice Claim in San Diego",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's tough when you've been hurt, and sometimes, those injuries stem from medical care. You might be wondering if what happened was just an unfortunate outcome or if it crosses the line into medical malpractice. Often, people don't realize they have a valid claim because they're focused on healing.\n\nHere are some signals that it might be time to look into what happened:\n- [ ] **Unexpected Worsening of Condition** — Did your health take a sudden turn for the worse after a procedure or treatment, beyond what was explained as a normal risk? If a condition unexpectedly declines due to a medical action (or inaction), it could indicate a deviation from accepted medical standards.\n- [ ] **Diagnosis Delay or Error** — Was a critical diagnosis missed or significantly delayed, leading to a much more severe prognosis or treatment than if it had been caught earlier? Timely and accurate diagnosis is crucial for effective treatment, and errors here can have devastating consequences.\n- [ ] **Wrongful Treatment or Procedure** — Were you subjected to a treatment or procedure that seems completely inappropriate for your condition, or was the wrong limb operated on? This is a clear indicator that something went seriously wrong and warrants immediate investigation.\n- [ ] **Unexplained Post-Procedure Complications** — Did you suffer complications after a surgery or medical intervention that weren't discussed as potential risks, or that seem out of proportion? While some complications are normal, unexplained or severe ones could point to negligence.\n- [ ] **Lack of Informed Consent** — Were you fully informed of all risks, benefits, and alternative treatments before undergoing a procedure? If you weren't given adequate information to make an informed decision, your rights might have been violated.\n- [ ] **Staff Negligence** — Did nurses or other medical staff fail to properly monitor you, administer medication correctly, or maintain hygiene standards, leading to injury or infection? Their actions, or lack thereof, can be just as critical as a doctor's.\n\nHow to use this checklist: Go through these points and see if any resonate with your experience. If you find yourself nodding along to a few, it's probably a good idea to seek out a personal injury attorney with experience in medical malpractice. They can help you understand if what you experienced constitutes negligence and what your next steps could be to protect your rights and pursue fair compensation for your injuries.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Have a Medical Malpractice Claim in San Diego",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough when you've been hurt, and sometimes, those injuries stem from medical care. You might be wondering if what happened was just an unfortunate outcome or if it crosses the line into medical malpractice. Often, people don't realize they have a valid claim because they're focused on healing.\n\nHere are some signals that it might be time to look into what happened:\n- [ ] **Unexpected Worsening of Condition** — Did your health take a sudden turn for the worse after a procedure or treatment, beyond what was explained as a normal risk? If a condition unexpectedly declines due to a medical action (or inaction), it could indicate a deviation from accepted medical standards.\n- [ ] **Diagnosis Delay or Error** — Was a critical diagnosis missed or significantly delayed, leading to a much more severe prognosis or treatment than if it had been caught earlier? Timely and accurate diagnosis is crucial for effective treatment, and errors here can have devastating consequences.\n- [ ] **Wrongful Treatment or Procedure** — Were you subjected to a treatment or procedure that seems completely inappropriate for your condition, or was the wrong limb operated on? This is a clear indicator that something went seriously wrong and warrants immediate investigation.\n- [ ] **Unexplained Post-Procedure Complications** — Did you suffer complications after a surgery or medical intervention that weren't discussed as potential risks, or that seem out of proportion? While some complications are normal, unexplained or severe ones could point to negligence.\n- [ ] **Lack of Informed Consent** — Were you fully informed of all risks, benefits, and alternative treatments before undergoing a procedure? If you weren't given adequate information to make an informed decision, your rights might have been violated.\n- [ ] **Staff Negligence** — Did nurses or other medical staff fail to properly monitor you, administer medication correctly, or maintain hygiene standards, leading to injury or infection? Their actions, or lack thereof, can be just as critical as a doctor's.\n\nHow to use this checklist: Go through these points and see if any resonate with your experience. If you find yourself nodding along to a few, it's probably a good idea to seek out a personal injury attorney with experience in medical malpractice. They can help you understand if what you experienced constitutes negligence and what your next steps could be to protect your rights and pursue fair compensation for your injuries.",
+  "datePublished": "2026-08-25"
 }

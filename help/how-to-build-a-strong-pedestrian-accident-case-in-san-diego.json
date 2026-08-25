@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Build a Strong Pedestrian Accident Case in San Diego",
-  "description": "After any pedestrian accident, your health is paramount. Seek medical care right away, even if you feel fine, as some injuries aren't immediately apparent. Ensure all your injuries are thoroughly docu",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Get Immediate Medical Attention and Document Injuries.",
-      "text": "After any pedestrian accident, your health is paramount. Seek medical care right away, even if you feel fine, as some injuries aren't immediately apparent. Ensure all your injuries are thoroughly documented by medical professionals. This creates an official record that directly links your physical harm to the accident, which is crucial for any future claim."
+      "text": "After any pedestrian accident, your health is paramount. Seek medical care right away, even if you feel fine, as some injuries aren't immediately apparent. Ensure all your injuries are thoroughly documented by medical professionals. This creates an official record that directly links your physical harm to the accident, which is crucial for any future claim.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Collect Evidence at the Scene.",
-      "text": "If you're able and safe to do so, gather as much evidence as possible at the accident site. Take photos and videos of the scene, your injuries, the vehicle involved, road conditions, traffic signals, and any relevant signage. Get contact information from the driver, passengers, and any eyewitnesses. This immediate collection of evidence helps to establish what happened."
+      "text": "If you're able and safe to do so, gather as much evidence as possible at the accident site. Take photos and videos of the scene, your injuries, the vehicle involved, road conditions, traffic signals, and any relevant signage. Get contact information from the driver, passengers, and any eyewitnesses. This immediate collection of evidence helps to establish what happened.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: File a Police Report.",
-      "text": "Always report the accident to the police. A formal police report documents the incident, provides an objective account, and can be a vital piece of evidence. Make sure you get a copy of this report, as it will contain important details and potentially the officer's initial assessment of fault."
+      "text": "Always report the accident to the police. A formal police report documents the incident, provides an objective account, and can be a vital piece of evidence. Make sure you get a copy of this report, as it will contain important details and potentially the officer's initial assessment of fault.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Avoid Speaking to Insurance Companies Without Counsel.",
-      "text": "It's common for insurance adjusters to contact you soon after an accident. Be very cautious about what you say. They might try to get you to admit fault or accept a quick, low settlement. It's best to politely decline to give a recorded statement or sign any documents until you've spoken with an experienced pedestrian accident attorney. They can protect your interests and prevent you from inadvertently harming your claim."
+      "text": "It's common for insurance adjusters to contact you soon after an accident. Be very cautious about what you say. They might try to get you to admit fault or accept a quick, low settlement. It's best to politely decline to give a recorded statement or sign any documents until you've spoken with an experienced pedestrian accident attorney. They can protect your interests and prevent you from inadvertently harming your claim.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Consult with a San Diego Pedestrian Accident Attorney.",
-      "text": "Working with a seasoned attorney like Brett Peterson from the outset can make a significant difference. They can help you understand your rights, investigate your case thoroughly, gather additional evidence like GPS data or helmet cam footage if available, and negotiate with insurance companies on your behalf. An attorney will fight to ensure you receive fair compensation for medical bills, lost wages, and pain and suffering, guiding you through every step of the legal process with confidence and clarity."
+      "text": "Working with a seasoned attorney like Brett Peterson from the outset can make a significant difference. They can help you understand your rights, investigate your case thoroughly, gather additional evidence like GPS data or helmet cam footage if available, and negotiate with insurance companies on your behalf. An attorney will fight to ensure you receive fair compensation for medical bills, lost wages, and pain and suffering, guiding you through every step of the legal process with confidence and clarity.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "After any pedestrian accident, your health is paramount. Seek medical care right away, even if you feel fine, as some injuries aren't immediately apparent. Ensure all your injuries are thoroughly docu"
 }

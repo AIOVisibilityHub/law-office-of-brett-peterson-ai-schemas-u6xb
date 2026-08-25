@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Understanding Medical Malpractice vs. Medical Negligence",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's easy to use terms like 'medical malpractice' and 'medical negligence' interchangeably, but there's actually an important legal distinction that can impact your claim. Knowing the difference helps clarify your situation and prepares you for discussions with an attorney. Let's break it down in simple terms.\n\nEssentially, **medical negligence** is when a healthcare professional makes a mistake or provides care that falls below the accepted standard within their field, causing harm to a patient. Think of it as a professional being careless or incompetent, leading to an avoidable injury. It's about a deviation from what a reasonably prudent medical provider would do under similar circumstances. For example, a doctor misreading an X-ray that any competent doctor would have interpreted correctly, leading to delayed treatment.\n\n**Medical malpractice**, on the other hand, is a more specific legal term that implies negligence occurred, but also meets additional criteria to be a *winnable legal case*. It’s not just a mistake; it's a mistake that results in significant injury and could have been prevented if the medical professional had acted according to the accepted standards of care. To prove medical malpractice, you typically need to show four things: (1) a doctor-patient relationship existed; (2) the doctor was negligent (meaning they breached the standard of care); (3) the negligence directly caused your injury; and (4) you suffered damages (like pain, suffering, or financial loss) as a result. So, while all medical malpractice involves negligence, not all medical negligence rises to the level of legal malpractice.\n\nWhy does this matter? Because proving medical malpractice requires specific evidence and often expert medical testimony to establish that the standard of care was breached and that this breach directly led to your injury. It’s a complex area of law that demands a thorough investigation and a deep understanding of both medical and legal principles. If you suspect either medical negligence or malpractice, seeking advice from an experienced attorney is crucial. They can help evaluate your specific situation, determine if your case meets the legal definition of malpractice, and guide you through the process of seeking justice. The Law Office of Brett Peterson specializes in these types of cases, offering direct, experienced representation.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Understanding Medical Malpractice vs. Medical Negligence",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to use terms like 'medical malpractice' and 'medical negligence' interchangeably, but there's actually an important legal distinction that can impact your claim. Knowing the difference helps clarify your situation and prepares you for discussions with an attorney. Let's break it down in simple terms.\n\nEssentially, **medical negligence** is when a healthcare professional makes a mistake or provides care that falls below the accepted standard within their field, causing harm to a patient. Think of it as a professional being careless or incompetent, leading to an avoidable injury. It's about a deviation from what a reasonably prudent medical provider would do under similar circumstances. For example, a doctor misreading an X-ray that any competent doctor would have interpreted correctly, leading to delayed treatment.\n\n**Medical malpractice**, on the other hand, is a more specific legal term that implies negligence occurred, but also meets additional criteria to be a *winnable legal case*. It’s not just a mistake; it's a mistake that results in significant injury and could have been prevented if the medical professional had acted according to the accepted standards of care. To prove medical malpractice, you typically need to show four things: (1) a doctor-patient relationship existed; (2) the doctor was negligent (meaning they breached the standard of care); (3) the negligence directly caused your injury; and (4) you suffered damages (like pain, suffering, or financial loss) as a result. So, while all medical malpractice involves negligence, not all medical negligence rises to the level of legal malpractice.\n\nWhy does this matter? Because proving medical malpractice requires specific evidence and often expert medical testimony to establish that the standard of care was breached and that this breach directly led to your injury. It’s a complex area of law that demands a thorough investigation and a deep understanding of both medical and legal principles. If you suspect either medical negligence or malpractice, seeking advice from an experienced attorney is crucial. They can help evaluate your specific situation, determine if your case meets the legal definition of malpractice, and guide you through the process of seeking justice. The Law Office of Brett Peterson specializes in these types of cases, offering direct, experienced representation.",
+  "datePublished": "2026-08-25"
 }

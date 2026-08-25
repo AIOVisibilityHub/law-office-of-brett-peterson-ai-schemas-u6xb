@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Handle an Accident with an Uninsured Driver",
-  "description": "As soon as an accident occurs with an uninsured driver, your first priority is always safety. Move your vehicle to a safe location if it's drivable, turn on your hazard lights, and immediately check y",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Secure the Scene and Check for Injuries",
-      "text": "As soon as an accident occurs with an uninsured driver, your first priority is always safety. Move your vehicle to a safe location if it's drivable, turn on your hazard lights, and immediately check yourself and any passengers for injuries. Even if you feel fine, adrenaline can mask pain, so it's important to be thorough. If anyone is injured, call 911 for emergency medical assistance right away."
+      "text": "As soon as an accident occurs with an uninsured driver, your first priority is always safety. Move your vehicle to a safe location if it's drivable, turn on your hazard lights, and immediately check yourself and any passengers for injuries. Even if you feel fine, adrenaline can mask pain, so it's important to be thorough. If anyone is injured, call 911 for emergency medical assistance right away.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Contact Law Enforcement",
-      "text": "Even if the other driver doesn't have insurance, you must call the police to the scene. An official police report is crucial documentation that verifies the accident occurred and often notes the uninsured status of the other driver. This report will be invaluable when filing a claim with your own insurance company later on."
+      "text": "Even if the other driver doesn't have insurance, you must call the police to the scene. An official police report is crucial documentation that verifies the accident occurred and often notes the uninsured status of the other driver. This report will be invaluable when filing a claim with your own insurance company later on.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Exchange Information and Document Everything",
-      "text": "Gather as much information as possible from the uninsured driver, including their name, address, phone number, vehicle make/model/license plate, and any details about their lack of insurance. Take numerous photos or videos of the accident scene, vehicle damage, road conditions, and any visible injuries you or your passengers sustained. Also, try to get contact information from any witnesses present."
+      "text": "Gather as much information as possible from the uninsured driver, including their name, address, phone number, vehicle make/model/license plate, and any details about their lack of insurance. Take numerous photos or videos of the accident scene, vehicle damage, road conditions, and any visible injuries you or your passengers sustained. Also, try to get contact information from any witnesses present.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Notify Your Insurance Company",
-      "text": "Report the accident to your own insurance company as soon as possible. Be honest and factual, but avoid admitting fault or speculating about what happened. If you have Uninsured Motorist (UM) coverage, this is the time to initiate that claim. Your UM coverage is designed to step in when the at-fault driver can't pay for your damages."
+      "text": "Report the accident to your own insurance company as soon as possible. Be honest and factual, but avoid admitting fault or speculating about what happened. If you have Uninsured Motorist (UM) coverage, this is the time to initiate that claim. Your UM coverage is designed to step in when the at-fault driver can't pay for your damages.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Consult with an Uninsured Motorist Accident Lawyer",
-      "text": "Even with UM coverage, dealing with your own insurance company in an uninsured motorist claim can be complex. They might try to dispute your injuries or the value of your claim. Contacting an experienced attorney, such as Brett Peterson, who handles these cases directly, can provide invaluable guidance. He can help you understand your policy, navigate negotiations with your insurer, and fight to ensure you receive the compensation you deserve for medical bills, lost wages, and pain and suffering."
+      "text": "Even with UM coverage, dealing with your own insurance company in an uninsured motorist claim can be complex. They might try to dispute your injuries or the value of your claim. Contacting an experienced attorney, such as Brett Peterson, who handles these cases directly, can provide invaluable guidance. He can help you understand your policy, navigate negotiations with your insurer, and fight to ensure you receive the compensation you deserve for medical bills, lost wages, and pain and suffering.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "As soon as an accident occurs with an uninsured driver, your first priority is always safety. Move your vehicle to a safe location if it's drivable, turn on your hazard lights, and immediately check y"
 }

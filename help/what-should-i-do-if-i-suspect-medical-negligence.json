@@ -1,177 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What Should I Do If I Suspect Medical Negligence?",
-  "description": "Discovering you or a loved one might be a victim of medical negligence is incredibly upsetting, and knowing what steps to take next can feel overwhelming. It's totally normal to feel confused or angry",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Discovering you or a loved one might be a victim of medical neglige…",
-      "text": "Discovering you or a loved one might be a victim of medical negligence is incredibly upsetting, and knowing what steps to take next can feel overwhelming. It's totally normal to feel confused or angry. But don't worry, there are clear actions you can take to protect your rights and explore your options."
+      "text": "Discovering you or a loved one might be a victim of medical negligence is incredibly upsetting, and knowing what steps to take next can feel overwhelming. It's totally normal to feel confused or angry. But don't worry, there are clear actions you can take to protect your rights and explore your options.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: First off, your health is paramount",
-      "text": "First off, your health is paramount. Make sure you're getting the medical attention you need to address any injuries or conditions that resulted from the suspected negligence. It’s important to establish a clear record of your current health status."
+      "text": "First off, your health is paramount. Make sure you're getting the medical attention you need to address any injuries or conditions that resulted from the suspected negligence. It’s important to establish a clear record of your current health status.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Next, gather all relevant medical records",
-      "text": "Next, gather all relevant medical records. This includes everything from initial diagnoses, treatment plans, lab results, prescriptions, and any communications with healthcare providers. The more comprehensive your records, the better picture you'll have of what transpired."
+      "text": "Next, gather all relevant medical records. This includes everything from initial diagnoses, treatment plans, lab results, prescriptions, and any communications with healthcare providers. The more comprehensive your records, the better picture you'll have of what transpired.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: It’s also crucial to document everything you remember about the inc…",
-      "text": "It’s also crucial to document everything you remember about the incident. Write down dates, times, names of staff involved, and a detailed description of what happened and how it has affected you. Even small details can be significant later on."
+      "text": "It’s also crucial to document everything you remember about the incident. Write down dates, times, names of staff involved, and a detailed description of what happened and how it has affected you. Even small details can be significant later on.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Avoid discussing the situation with healthcare providers or their i…",
-      "text": "Avoid discussing the situation with healthcare providers or their insurance representatives without legal counsel. They may try to get you to say things that could hurt your potential claim."
+      "text": "Avoid discussing the situation with healthcare providers or their insurance representatives without legal counsel. They may try to get you to say things that could hurt your potential claim.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Finally, and perhaps most importantly, seek legal advice",
-      "text": "Finally, and perhaps most importantly, seek legal advice. An attorney experienced in medical negligence can review your situation, assess the viability of your claim, and guide you through the complex legal process. They can help you understand the nuances between a medical mistake and actionable negligence and ensure your case is handled properly from the start, protecting you from potential pitfalls. The Law Office of Brett Peterson has over two decades of experience helping injured individuals, and Brett Peterson personally handles each case, ensuring you get the direct, hands-on representation you deserve."
+      "text": "Finally, and perhaps most importantly, seek legal advice. An attorney experienced in medical negligence can review your situation, assess the viability of your claim, and guide you through the complex legal process. They can help you understand the nuances between a medical mistake and actionable negligence and ensure your case is handled properly from the start, protecting you from potential pitfalls. The Law Office of Brett Peterson has over two decades of experience helping injured individuals, and Brett Peterson personally handles each case, ensuring you get the direct, hands-on representation you deserve.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -179,5 +47,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Discovering you or a loved one might be a victim of medical negligence is incredibly upsetting, and knowing what steps to take next can feel overwhelming. It's totally normal to feel confused or angry"
 }

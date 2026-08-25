@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Protecting Your Rights After an Uninsured Motorist Collision",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "Getting into an accident is bad enough, but discovering the other driver is uninsured adds a whole new layer of stress and uncertainty. Many people feel like they're out of options, but that's just not true! You absolutely have rights, and knowing how to protect them is key to getting the compensation you deserve. It’s not about fighting; it's about being informed and strategic.\n\n- [ ] Secure the Scene and Call the Police: Always make sure everyone is safe and call the police, even if the other driver has no insurance. An official police report documenting the accident and the lack of insurance is critical for your claim. This report provides an objective record of what happened.\n\n- [ ] Gather Comprehensive Evidence: Don't rely solely on the police report. Take detailed photos of both vehicles, the accident scene, road conditions, and any visible injuries. Get contact information from witnesses. The more evidence you have, the stronger your position when dealing with your own insurance company.\n\n- [ ] Don't Delay Medical Treatment: Get checked by a medical professional right away. Delays can allow the insurance company to argue your injuries weren't caused by the accident. A thorough medical record is essential for proving the extent of your damages.\n\n- [ ] Understand Your Uninsured Motorist (UM) Coverage: This is your best protection. UM coverage is designed to kick in when the at-fault driver has no insurance. It typically covers medical bills, lost wages, and pain and suffering. Review your policy to know your limits and what's covered. If you have it, use it.\n\n- [ ] Be Cautious with Your Own Insurance Company: While you're filing a claim with your own insurer for UM benefits, remember that they still operate like any other insurance company – they want to minimize payouts. Avoid giving recorded statements or signing releases without consulting an attorney. Your statements can be used against you.\n\n- [ ] Consult with a Knowledgeable Attorney: Navigating an uninsured motorist claim can be surprisingly complex. Your own insurance company might try to undervalue your claim, and you need someone on your side who understands how to negotiate effectively. An experienced personal injury attorney in San Diego can personally handle every aspect of your case, from collecting evidence and dealing with your insurer to negotiating for the maximum compensation you deserve. They ensure your interests are protected throughout the entire process.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Protecting Your Rights After an Uninsured Motorist Collision",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting into an accident is bad enough, but discovering the other driver is uninsured adds a whole new layer of stress and uncertainty. Many people feel like they're out of options, but that's just not true! You absolutely have rights, and knowing how to protect them is key to getting the compensation you deserve. It’s not about fighting; it's about being informed and strategic.\n\n- [ ] Secure the Scene and Call the Police: Always make sure everyone is safe and call the police, even if the other driver has no insurance. An official police report documenting the accident and the lack of insurance is critical for your claim. This report provides an objective record of what happened.\n\n- [ ] Gather Comprehensive Evidence: Don't rely solely on the police report. Take detailed photos of both vehicles, the accident scene, road conditions, and any visible injuries. Get contact information from witnesses. The more evidence you have, the stronger your position when dealing with your own insurance company.\n\n- [ ] Don't Delay Medical Treatment: Get checked by a medical professional right away. Delays can allow the insurance company to argue your injuries weren't caused by the accident. A thorough medical record is essential for proving the extent of your damages.\n\n- [ ] Understand Your Uninsured Motorist (UM) Coverage: This is your best protection. UM coverage is designed to kick in when the at-fault driver has no insurance. It typically covers medical bills, lost wages, and pain and suffering. Review your policy to know your limits and what's covered. If you have it, use it.\n\n- [ ] Be Cautious with Your Own Insurance Company: While you're filing a claim with your own insurer for UM benefits, remember that they still operate like any other insurance company – they want to minimize payouts. Avoid giving recorded statements or signing releases without consulting an attorney. Your statements can be used against you.\n\n- [ ] Consult with a Knowledgeable Attorney: Navigating an uninsured motorist claim can be surprisingly complex. Your own insurance company might try to undervalue your claim, and you need someone on your side who understands how to negotiate effectively. An experienced personal injury attorney in San Diego can personally handle every aspect of your case, from collecting evidence and dealing with your insurer to negotiating for the maximum compensation you deserve. They ensure your interests are protected throughout the entire process.",
+  "datePublished": "2026-08-25"
 }

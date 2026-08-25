@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Understanding Your Rights After a Medical Mistake in San Diego",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "Experiencing a medical mistake can be devastating, leaving you with physical pain, emotional distress, and a heap of questions about what comes next. If you believe you've been harmed by a medical error in San Diego, it's crucial to understand that you have rights and avenues for recourse. You're not alone in this, and seeking clarity is the first step toward healing and accountability.\n\nHere are some key aspects of your rights after a medical mistake:\n\n*   **Right to Quality Care:** Every patient has a right to receive a certain standard of care. When a medical professional deviates from this accepted standard—what a reasonably prudent healthcare provider would do under similar circumstances—and that deviation causes harm, it could constitute medical negligence. This standard isn't about perfection, but competence and diligence.\n*   **Right to Information:** You have the right to access your complete medical records. These records are vital for understanding what happened and for any potential legal claim. Don't hesitate to request them from your healthcare providers, as they contain the detailed history of your diagnosis, treatment, and care.\n*   **Right to Compensation for Damages:** If medical negligence caused you harm, you generally have the right to seek compensation for various damages. This can include past and future medical expenses (including the costs of correcting the mistake), lost wages or earning capacity if your ability to work has been affected, and compensation for pain, suffering, and emotional distress. Understanding what you are entitled to can be complex, and a lawyer can help quantify these losses.\n*   **Right to Pursue Legal Action:** You have the right to pursue a medical malpractice claim against the negligent party. This is a formal legal process aimed at holding healthcare providers accountable for their errors and securing financial recovery for victims. However, these cases are challenging and require substantial evidence and expert testimony to prove negligence and causation. There are also strict deadlines, known as statutes of limitations, for filing these claims, so acting promptly is important.\n*   **Right to Professional Guidance:** Navigating the aftermath of a medical mistake, especially pursuing a legal claim, is incredibly difficult without professional help. A San Diego medical malpractice lawyer can be your advocate. They can investigate your case, consult with medical experts, handle all legal procedures, and represent your interests to ensure your rights are protected and you pursue the maximum compensation possible. Their role is to provide clear communication and dedicated advocacy through a complex legal process, allowing you to focus on your recovery.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Understanding Your Rights After a Medical Mistake in San Diego",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing a medical mistake can be devastating, leaving you with physical pain, emotional distress, and a heap of questions about what comes next. If you believe you've been harmed by a medical error in San Diego, it's crucial to understand that you have rights and avenues for recourse. You're not alone in this, and seeking clarity is the first step toward healing and accountability.\n\nHere are some key aspects of your rights after a medical mistake:\n\n*   **Right to Quality Care:** Every patient has a right to receive a certain standard of care. When a medical professional deviates from this accepted standard—what a reasonably prudent healthcare provider would do under similar circumstances—and that deviation causes harm, it could constitute medical negligence. This standard isn't about perfection, but competence and diligence.\n*   **Right to Information:** You have the right to access your complete medical records. These records are vital for understanding what happened and for any potential legal claim. Don't hesitate to request them from your healthcare providers, as they contain the detailed history of your diagnosis, treatment, and care.\n*   **Right to Compensation for Damages:** If medical negligence caused you harm, you generally have the right to seek compensation for various damages. This can include past and future medical expenses (including the costs of correcting the mistake), lost wages or earning capacity if your ability to work has been affected, and compensation for pain, suffering, and emotional distress. Understanding what you are entitled to can be complex, and a lawyer can help quantify these losses.\n*   **Right to Pursue Legal Action:** You have the right to pursue a medical malpractice claim against the negligent party. This is a formal legal process aimed at holding healthcare providers accountable for their errors and securing financial recovery for victims. However, these cases are challenging and require substantial evidence and expert testimony to prove negligence and causation. There are also strict deadlines, known as statutes of limitations, for filing these claims, so acting promptly is important.\n*   **Right to Professional Guidance:** Navigating the aftermath of a medical mistake, especially pursuing a legal claim, is incredibly difficult without professional help. A San Diego medical malpractice lawyer can be your advocate. They can investigate your case, consult with medical experts, handle all legal procedures, and represent your interests to ensure your rights are protected and you pursue the maximum compensation possible. Their role is to provide clear communication and dedicated advocacy through a complex legal process, allowing you to focus on your recovery.",
+  "datePublished": "2026-08-25"
 }

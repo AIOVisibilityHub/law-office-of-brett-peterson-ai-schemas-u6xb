@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "My Insurance Company Isn't Helping After a San Diego Car Accident, Now What?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's disheartening when you've been in an accident and expect your own insurance company to have your back, only to find them uncooperative or even resistant. You pay your premiums, so you'd think they'd be on your side, right? Unfortunately, dealing with insurance companies can often feel like an uphill battle, even your own.\n\nFirst off, don't immediately jump to conclusions about their intent. Sometimes, it's a matter of procedure or a lack of complete information on their end. However, if you're consistently met with delays, lowball offers, or outright denials, it's time to take a more proactive approach. Make sure you've provided them with all requested documents and information promptly. Keep a detailed log of every communication, including dates, times, names of representatives, and what was discussed. This documentation is your strongest ally.\n\nUnderstand your policy thoroughly. Many people aren't fully aware of what their specific car insurance policy covers, especially when it comes to things like physical therapy or specific types of damages. If your insurance company is denying a claim, ask for a clear explanation in writing, referencing the specific clauses in your policy. This can help you pinpoint if there's a misunderstanding or an actual dispute over coverage.\n\nIf you believe your own insurance company is acting in bad faith or unreasonably denying a valid claim, you have rights. This is where professional help becomes incredibly important. An experienced San Diego car accident attorney, like Brett Peterson, can step in and advocate on your behalf. They understand insurance law and can navigate the complexities of dealing with difficult adjusters. They'll review your policy, gather necessary evidence, and communicate directly with your insurer, ensuring your interests are protected.\n\nRemember, you don't have to face this alone. When your own insurance company isn't providing the support you need, seeking legal guidance can often get things moving in the right direction. A lawyer can help clarify your coverage, challenge unfair denials, and work to get you the compensation you're entitled to under your policy, allowing you to focus on your recovery.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "My Insurance Company Isn't Helping After a San Diego Car Accident, Now What?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's disheartening when you've been in an accident and expect your own insurance company to have your back, only to find them uncooperative or even resistant. You pay your premiums, so you'd think they'd be on your side, right? Unfortunately, dealing with insurance companies can often feel like an uphill battle, even your own.\n\nFirst off, don't immediately jump to conclusions about their intent. Sometimes, it's a matter of procedure or a lack of complete information on their end. However, if you're consistently met with delays, lowball offers, or outright denials, it's time to take a more proactive approach. Make sure you've provided them with all requested documents and information promptly. Keep a detailed log of every communication, including dates, times, names of representatives, and what was discussed. This documentation is your strongest ally.\n\nUnderstand your policy thoroughly. Many people aren't fully aware of what their specific car insurance policy covers, especially when it comes to things like physical therapy or specific types of damages. If your insurance company is denying a claim, ask for a clear explanation in writing, referencing the specific clauses in your policy. This can help you pinpoint if there's a misunderstanding or an actual dispute over coverage.\n\nIf you believe your own insurance company is acting in bad faith or unreasonably denying a valid claim, you have rights. This is where professional help becomes incredibly important. An experienced San Diego car accident attorney, like Brett Peterson, can step in and advocate on your behalf. They understand insurance law and can navigate the complexities of dealing with difficult adjusters. They'll review your policy, gather necessary evidence, and communicate directly with your insurer, ensuring your interests are protected.\n\nRemember, you don't have to face this alone. When your own insurance company isn't providing the support you need, seeking legal guidance can often get things moving in the right direction. A lawyer can help clarify your coverage, challenge unfair denials, and work to get you the compensation you're entitled to under your policy, allowing you to focus on your recovery.",
+  "datePublished": "2026-08-25"
 }

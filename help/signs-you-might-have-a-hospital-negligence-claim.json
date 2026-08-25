@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Signs You Might Have a Hospital Negligence Claim",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's tough to know if a negative medical outcome is just a complication or actual hospital negligence. Many people feel uncertain, but there are often clear indicators that something went wrong beyond typical medical risks. Understanding these signs can empower you to take the right steps toward seeking justice. \n\nHere are some things to look out for that might signal a negligence claim:\n- Unexpected worsening of your condition: If your health significantly declined after a procedure or treatment in a way that wasn't explained as a potential risk.\n- Undiagnosed or misdiagnosed conditions leading to harm: When a hospital's failure to properly identify or treat a condition causes further injury or illness.\n- Medication errors: Receiving the wrong medication, incorrect dosage, or drugs that interact negatively, leading to adverse effects.\n- Infections acquired in the hospital: Developing a severe infection that could have been prevented with proper hygiene or protocols.\n- Equipment malfunction causing injury: If faulty or improperly used hospital equipment directly contributed to your injury.\n- Staffing issues leading to poor care: Instances where understaffing or poorly trained personnel resulted in preventable harm.\n- Lack of informed consent: If you weren't fully informed of the risks and benefits of a procedure, and an undisclosed risk caused harm.\n\nHow to use this checklist: If several of these points resonate with your experience, it might be time to discuss your situation with an experienced attorney. They can help you determine if you have a valid claim and how to move forward, protecting your interests.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Have a Hospital Negligence Claim",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough to know if a negative medical outcome is just a complication or actual hospital negligence. Many people feel uncertain, but there are often clear indicators that something went wrong beyond typical medical risks. Understanding these signs can empower you to take the right steps toward seeking justice. \n\nHere are some things to look out for that might signal a negligence claim:\n- Unexpected worsening of your condition: If your health significantly declined after a procedure or treatment in a way that wasn't explained as a potential risk.\n- Undiagnosed or misdiagnosed conditions leading to harm: When a hospital's failure to properly identify or treat a condition causes further injury or illness.\n- Medication errors: Receiving the wrong medication, incorrect dosage, or drugs that interact negatively, leading to adverse effects.\n- Infections acquired in the hospital: Developing a severe infection that could have been prevented with proper hygiene or protocols.\n- Equipment malfunction causing injury: If faulty or improperly used hospital equipment directly contributed to your injury.\n- Staffing issues leading to poor care: Instances where understaffing or poorly trained personnel resulted in preventable harm.\n- Lack of informed consent: If you weren't fully informed of the risks and benefits of a procedure, and an undisclosed risk caused harm.\n\nHow to use this checklist: If several of these points resonate with your experience, it might be time to discuss your situation with an experienced attorney. They can help you determine if you have a valid claim and how to move forward, protecting your interests.",
+  "datePublished": "2026-08-25"
 }

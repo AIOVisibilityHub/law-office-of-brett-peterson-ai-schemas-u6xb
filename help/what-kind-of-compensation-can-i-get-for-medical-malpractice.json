@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What Kind of Compensation Can I Get for Medical Malpractice?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "When you've suffered due to medical malpractice, it's not just about proving what happened; it's also about understanding the financial and personal impact on your life. Many people wonder what kind of compensation they can actually receive to help them recover. The goal of a medical malpractice claim isn't just to punish a negligent party, but to fairly compensate you for all the harm you've endured, aiming to put you back in the position you would have been in if the malpractice hadn't occurred, as much as money can.\n\nGenerally, compensation in medical malpractice cases falls into two main categories: economic damages and non-economic damages.\n\n**Economic damages** are the quantifiable financial losses you've incurred. These are often easier to calculate because they have a clear dollar amount attached. This can include past and future medical expenses directly related to the malpractice, such as hospital bills, doctor visits, surgeries, medications, rehabilitation, and long-term care. It also covers lost wages or income, both for time you've already missed from work and for any future earning capacity you've lost due to the injury or disability. Additionally, it might include the cost of household services if you can no longer perform daily tasks yourself.\n\n**Non-economic damages** are harder to put a price tag on, but they represent the very real personal impact of the malpractice. This includes compensation for your pain and suffering, which covers physical pain, discomfort, and emotional distress. It also accounts for loss of enjoyment of life, meaning how the injury has affected your ability to participate in hobbies, activities, or social events you once enjoyed. In some cases, if the malpractice led to a permanent disfigurement or disability, compensation for that impact would fall under non-economic damages as well.\n\nThe specific amount you might receive varies greatly depending on the severity of your injuries, the long-term impact on your life, and the unique circumstances of your case. It's critical to have an experienced medical malpractice attorney evaluate your situation to accurately assess all potential damages and fight for the full compensation you deserve. The Law Office of Brett Peterson has over twenty years of experience in personal injury and will personally handle your case to pursue fair compensation.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "What Kind of Compensation Can I Get for Medical Malpractice?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you've suffered due to medical malpractice, it's not just about proving what happened; it's also about understanding the financial and personal impact on your life. Many people wonder what kind of compensation they can actually receive to help them recover. The goal of a medical malpractice claim isn't just to punish a negligent party, but to fairly compensate you for all the harm you've endured, aiming to put you back in the position you would have been in if the malpractice hadn't occurred, as much as money can.\n\nGenerally, compensation in medical malpractice cases falls into two main categories: economic damages and non-economic damages.\n\n**Economic damages** are the quantifiable financial losses you've incurred. These are often easier to calculate because they have a clear dollar amount attached. This can include past and future medical expenses directly related to the malpractice, such as hospital bills, doctor visits, surgeries, medications, rehabilitation, and long-term care. It also covers lost wages or income, both for time you've already missed from work and for any future earning capacity you've lost due to the injury or disability. Additionally, it might include the cost of household services if you can no longer perform daily tasks yourself.\n\n**Non-economic damages** are harder to put a price tag on, but they represent the very real personal impact of the malpractice. This includes compensation for your pain and suffering, which covers physical pain, discomfort, and emotional distress. It also accounts for loss of enjoyment of life, meaning how the injury has affected your ability to participate in hobbies, activities, or social events you once enjoyed. In some cases, if the malpractice led to a permanent disfigurement or disability, compensation for that impact would fall under non-economic damages as well.\n\nThe specific amount you might receive varies greatly depending on the severity of your injuries, the long-term impact on your life, and the unique circumstances of your case. It's critical to have an experienced medical malpractice attorney evaluate your situation to accurately assess all potential damages and fight for the full compensation you deserve. The Law Office of Brett Peterson has over twenty years of experience in personal injury and will personally handle your case to pursue fair compensation.",
+  "datePublished": "2026-08-25"
 }

@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What Happens If I Get Hit by a Car While Walking in San Diego?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's a scary thought, but pedestrian accidents happen more often than we'd like, especially in a busy city like San Diego. When you're hit by a car, the immediate aftermath can be chaotic and confusing, but knowing what to do next can make a huge difference in your recovery and any potential legal claim. First, your safety is paramount. Seek immediate medical attention, even if you feel okay, because some injuries aren't immediately apparent. The adrenaline can mask pain, and a proper medical evaluation creates crucial documentation for your case later on.\n\nAfter addressing your health, try to gather information at the scene if you're able. Get the driver's contact and insurance details, and if there are witnesses, ask for their information too. Don't admit fault or apologize, even if you think you might have contributed somehow; leave that to the professionals. Many people wonder about medical bills and insurance coverage right away. It's a complex area, as California law has specific rules about what you can recover. You might be surprised to learn that it's not always the full billed amount, but rather what you and your health insurance actually paid or owe, as highlighted by cases like *Howell v. Hamilton Meats & Provisions, Inc.*\n\nInsurance companies often contact you quickly, but be cautious. They're looking out for their bottom line, not necessarily your best interests. It's wise to speak with an attorney before giving any recorded statements. A personal injury lawyer, like those at the Law Office of Brett Peterson, can help you understand your rights and the nuances of California law, ensuring you don't inadvertently jeopardize your claim. They can help you figure out what compensation you're entitled to for your medical bills, lost wages, and pain and suffering. Trying to handle all this yourself while recovering can be overwhelming. Speaking with someone experienced can help clarify your options and provide peace of mind during a difficult time.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "What Happens If I Get Hit by a Car While Walking in San Diego?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a scary thought, but pedestrian accidents happen more often than we'd like, especially in a busy city like San Diego. When you're hit by a car, the immediate aftermath can be chaotic and confusing, but knowing what to do next can make a huge difference in your recovery and any potential legal claim. First, your safety is paramount. Seek immediate medical attention, even if you feel okay, because some injuries aren't immediately apparent. The adrenaline can mask pain, and a proper medical evaluation creates crucial documentation for your case later on.\n\nAfter addressing your health, try to gather information at the scene if you're able. Get the driver's contact and insurance details, and if there are witnesses, ask for their information too. Don't admit fault or apologize, even if you think you might have contributed somehow; leave that to the professionals. Many people wonder about medical bills and insurance coverage right away. It's a complex area, as California law has specific rules about what you can recover. You might be surprised to learn that it's not always the full billed amount, but rather what you and your health insurance actually paid or owe, as highlighted by cases like *Howell v. Hamilton Meats & Provisions, Inc.*\n\nInsurance companies often contact you quickly, but be cautious. They're looking out for their bottom line, not necessarily your best interests. It's wise to speak with an attorney before giving any recorded statements. A personal injury lawyer, like those at the Law Office of Brett Peterson, can help you understand your rights and the nuances of California law, ensuring you don't inadvertently jeopardize your claim. They can help you figure out what compensation you're entitled to for your medical bills, lost wages, and pain and suffering. Trying to handle all this yourself while recovering can be overwhelming. Speaking with someone experienced can help clarify your options and provide peace of mind during a difficult time.",
+  "datePublished": "2026-08-25"
 }

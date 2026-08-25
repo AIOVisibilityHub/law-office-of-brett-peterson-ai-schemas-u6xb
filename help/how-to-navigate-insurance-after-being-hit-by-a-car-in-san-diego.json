@@ -1,177 +1,45 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Navigate Insurance After Being Hit by a Car in San Diego",
-  "description": "Step 1: Seek Medical Attention Immediately — This is non-negotiable. Your health comes first, and comprehensive medical records are vital. They're the foundation of proving your injuries and the need ",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Seek Medical Attention Immediately — This is non-negotiable. Your health comes first, and comprehensive medical records are vital. They're the foundation of proving your injuries and the need for treatment, including things like physical therapy. Don't skip this, even if you feel fine at first; injuries can worsen or become apparent later.",
-      "text": "Step 1: Seek Medical Attention Immediately — This is non-negotiable. Your health comes first, and comprehensive medical records are vital. They're the foundation of proving your injuries and the need for treatment, including things like physical therapy. Don't skip this, even if you feel fine at first; injuries can worsen or become apparent later."
+      "text": "Step 1: Seek Medical Attention Immediately — This is non-negotiable. Your health comes first, and comprehensive medical records are vital. They're the foundation of proving your injuries and the need for treatment, including things like physical therapy. Don't skip this, even if you feel fine at first; injuries can worsen or become apparent later.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Report the Accident — Inform the police and your own insurance company as soon as possible. Even if the driver who hit you reports it, having your official report creates a record. Provide factual information without admitting fault or speculating.",
-      "text": "Step 2: Report the Accident — Inform the police and your own insurance company as soon as possible. Even if the driver who hit you reports it, having your official report creates a record. Provide factual information without admitting fault or speculating."
+      "text": "Step 2: Report the Accident — Inform the police and your own insurance company as soon as possible. Even if the driver who hit you reports it, having your official report creates a record. Provide factual information without admitting fault or speculating.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Document Everything — Take photos of the accident scene, your injuries, and any damage to your belongings. Keep a detailed journal of your pain, symptoms, medical appointments, and how your injuries affect your daily life. Save all medical bills, receipts for injury-related expenses, and communications from insurance companies.",
-      "text": "Step 3: Document Everything — Take photos of the accident scene, your injuries, and any damage to your belongings. Keep a detailed journal of your pain, symptoms, medical appointments, and how your injuries affect your daily life. Save all medical bills, receipts for injury-related expenses, and communications from insurance companies."
+      "text": "Step 3: Document Everything — Take photos of the accident scene, your injuries, and any damage to your belongings. Keep a detailed journal of your pain, symptoms, medical appointments, and how your injuries affect your daily life. Save all medical bills, receipts for injury-related expenses, and communications from insurance companies.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Be Wary of Early Settlement Offers — Insurance adjusters might contact you quickly with a settlement offer. These initial offers are often low and don't account for the full extent of your injuries, future medical needs, or long-term impacts. Don't sign anything or agree to a settlement without fully understanding your injuries and consulting with an attorney.",
-      "text": "Step 4: Be Wary of Early Settlement Offers — Insurance adjusters might contact you quickly with a settlement offer. These initial offers are often low and don't account for the full extent of your injuries, future medical needs, or long-term impacts. Don't sign anything or agree to a settlement without fully understanding your injuries and consulting with an attorney."
+      "text": "Step 4: Be Wary of Early Settlement Offers — Insurance adjusters might contact you quickly with a settlement offer. These initial offers are often low and don't account for the full extent of your injuries, future medical needs, or long-term impacts. Don't sign anything or agree to a settlement without fully understanding your injuries and consulting with an attorney.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Understand Medical Bill Recovery — In California, things get a bit tricky here. While you might see a large bill from the hospital, what you can actually recover from the at-fault driver's insurance might be closer to what your health insurance paid or what you actually owe out-of-pocket, as precedent from cases like *Howell v. Hamilton Meats & Provisions, Inc.* demonstrates. This is a complex area where legal guidance is incredibly helpful.",
-      "text": "Step 5: Understand Medical Bill Recovery — In California, things get a bit tricky here. While you might see a large bill from the hospital, what you can actually recover from the at-fault driver's insurance might be closer to what your health insurance paid or what you actually owe out-of-pocket, as precedent from cases like *Howell v. Hamilton Meats & Provisions, Inc.* demonstrates. This is a complex area where legal guidance is incredibly helpful."
+      "text": "Step 5: Understand Medical Bill Recovery — In California, things get a bit tricky here. While you might see a large bill from the hospital, what you can actually recover from the at-fault driver's insurance might be closer to what your health insurance paid or what you actually owe out-of-pocket, as precedent from cases like *Howell v. Hamilton Meats & Provisions, Inc.* demonstrates. This is a complex area where legal guidance is incredibly helpful.",
+      "@type": "HowToStep",
+      "position": 5
     },
     {
-      "@type": "HowToStep",
-      "position": 6,
       "name": "Step 6: Consult a Personal Injury Attorney — Navigating insurance claims, especially involving pedestrian accidents, is complex. An experienced San Diego personal injury attorney, like Brett Peterson, can handle communication with insurers, gather necessary evidence, and negotiate on your behalf. They'll ensure your rights are protected and that you pursue fair compensation for all your damages, including medical expenses, lost wages, and pain and suffering.",
-      "text": "Step 6: Consult a Personal Injury Attorney — Navigating insurance claims, especially involving pedestrian accidents, is complex. An experienced San Diego personal injury attorney, like Brett Peterson, can handle communication with insurers, gather necessary evidence, and negotiate on your behalf. They'll ensure your rights are protected and that you pursue fair compensation for all your damages, including medical expenses, lost wages, and pain and suffering."
+      "text": "Step 6: Consult a Personal Injury Attorney — Navigating insurance claims, especially involving pedestrian accidents, is complex. An experienced San Diego personal injury attorney, like Brett Peterson, can handle communication with insurers, gather necessary evidence, and negotiate on your behalf. They'll ensure your rights are protected and that you pursue fair compensation for all your damages, including medical expenses, lost wages, and pain and suffering.",
+      "@type": "HowToStep",
+      "position": 6
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -179,5 +47,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Seek Medical Attention Immediately — This is non-negotiable. Your health comes first, and comprehensive medical records are vital. They're the foundation of proving your injuries and the need "
 }
