@@ -1,149 +1,149 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "Spinal cord injury lawyer Legal Help",
-  "description": "Law Office of Brett Peterson represents clients dealing with Spinal cord injury lawyer in San Diego, Imperial Beach, Coronado. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
-  "serviceType": "Spinal cord injury lawyer",
-  "provider": {
-    "@type": "LegalService",
-    "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com",
-    "telephone": "619.702.8412"
-  },
   "url": "brettpetersonlaw.com",
-  "telephone": "619.702.8412",
+  "name": "Spinal cord injury lawyer Legal Help",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "San Diego"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "LegalService",
+    "telephone": "619.702.8412"
+  },
+  "telephone": "619.702.8412",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "San Diego"
+      "name": "San Diego",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Imperial Beach"
+      "name": "Imperial Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Coronado"
+      "name": "Coronado",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "La Mesa"
+      "name": "La Mesa",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lemon Grove"
+      "name": "Lemon Grove",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "El Cajon"
+      "name": "El Cajon",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Santee"
+      "name": "Santee",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Poway"
+      "name": "Poway",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Del Mar"
+      "name": "Del Mar",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Solana Beach"
+      "name": "Solana Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Encinitas"
+      "name": "Encinitas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Carlsbad"
+      "name": "Carlsbad",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "San Marcos"
+      "name": "San Marcos",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Escondido"
+      "name": "Escondido",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Vista"
+      "name": "Vista",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Oceanside"
+      "name": "Oceanside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bonita"
+      "name": "Bonita",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Spring Valley"
+      "name": "Spring Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Rancho San Diego"
+      "name": "Rancho San Diego",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
+      "name": "Rancho Santa Fe",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lakeside"
+      "name": "Lakeside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Alpine"
+      "name": "Alpine",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Jamul"
+      "name": "Jamul",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Fallbrook"
+      "name": "Fallbrook",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Ramona"
+      "name": "Ramona",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "La Jolla"
+      "name": "La Jolla",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Clairemont"
+      "name": "Clairemont",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pacific Beach"
+      "name": "Pacific Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Mission Valley"
+      "name": "Mission Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Tierrasanta"
+      "name": "Tierrasanta",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Chula Vista"
+      "name": "Chula Vista",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "National City"
+      "name": "National City",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "Law Office of Brett Peterson represents clients dealing with Spinal cord injury lawyer in San Diego, Imperial Beach, Coronado. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
+  "serviceType": "Spinal cord injury lawyer"
 }
