@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right fatal accident lawyer for my family?",
+  "description": "Choose a fatal accident lawyer with experience in wrongful death cases, a strong reputation, and who communicates effectively and understands local laws.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-fatal-accident-lawyer-for-my-family",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right fatal accident lawyer for my family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a fatal accident lawyer, look for someone with specific experience in wrongful death cases and a proven track record of successful outcomes. Consider their reputation, client testimonials, and how they communicate. It's crucial to select an attorney who understands the local laws in areas like San Diego and who you feel comfortable entrusting with such a sensitive matter. A good lawyer will offer a free consultation to discuss your case and explain their approach.",
+        "description": "Choose a fatal accident lawyer with experience in wrongful death cases, a strong reputation, and who communicates effectively and understands local laws."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

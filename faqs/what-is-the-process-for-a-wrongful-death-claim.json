@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a wrongful death claim?",
+  "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-a-wrongful-death-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a wrongful death claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an investigation into the circumstances of the death and gathering evidence. Your attorney will then typically file a complaint in court. This is followed by a discovery phase, where both sides exchange information and evidence. Many cases are resolved through negotiation or mediation before trial. If a settlement cannot be reached, the case may proceed to trial, where a judge or jury will make a decision. The timeline varies significantly depending on the case's complexity.",
+        "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

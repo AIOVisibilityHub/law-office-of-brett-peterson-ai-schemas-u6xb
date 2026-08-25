@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire an attorney after an Uber accident?",
+  "description": "Hire an attorney as soon as possible after an Uber accident, ideally within days, to protect your rights, preserve evidence, and handle insurance communications",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-an-attorney-after-an-uber-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire an attorney after an Uber accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is highly advisable to consult an attorney as soon as possible after an Uber accident, ideally within days. Prompt legal counsel ensures that crucial evidence is preserved, proper procedures are followed, and your rights are protected from the outset. Insurance companies, including Uber's, may contact you quickly, and anything you say could be used against your claim. An attorney can handle all communications with insurers, gather necessary documentation, and guide you through the complex legal process, allowing you to focus on your recovery. Waiting too long can jeopardize your case.",
+        "description": "Hire an attorney as soon as possible after an Uber accident, ideally within days, to protect your rights, preserve evidence, and handle insurance communications. Waiting can jeopardize your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

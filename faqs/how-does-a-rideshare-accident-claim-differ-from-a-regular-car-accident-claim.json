@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a rideshare accident claim differ from a regular car accident claim?",
+  "description": "Rideshare claims are complex due to corporate insurance policies (Uber/Lyft) that may apply depending on the driver's status, unlike standard car accidents invo",
+  "url": "brettpetersonlaw.com/faq/how-does-a-rideshare-accident-claim-differ-from-a-regular-car-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a rideshare accident claim differ from a regular car accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rideshare accident claims are more complex than standard car accidents due to the involvement of a third-party company (like Uber or Lyft) and their specific insurance policies. While personal auto insurance applies in regular accidents, rideshare companies maintain commercial insurance that may cover the driver and passengers depending on the driver's status at the time of the crash (e.g., app on, waiting for a ride, or on an active trip). Determining which policy applies and navigating the multiple insurance carriers involved often requires specialized legal knowledge.",
+        "description": "Rideshare claims are complex due to corporate insurance policies (Uber/Lyft) that may apply depending on the driver's status, unlike standard car accidents involving only personal auto insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

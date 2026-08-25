@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a TBI attorney and what do they do?",
+  "description": "A TBI attorney specializes in legal cases involving traumatic brain injuries, helping victims seek compensation for medical expenses and other damages.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-tbi-attorney-and-what-do-they-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a TBI attorney and what do they do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A TBI attorney specializes in legal cases involving traumatic brain injuries. They represent individuals who have sustained a TBI due to another party's negligence, such as in car accidents, slip and falls, or workplace incidents. Their role includes investigating the incident, gathering medical evidence, interviewing witnesses, negotiating with insurance companies, and if necessary, litigating the case in court to secure fair compensation for medical expenses, lost wages, pain and suffering, and long-term care needs. They understand the complex medical and legal aspects unique to brain injury claims.",
+        "description": "A TBI attorney specializes in legal cases involving traumatic brain injuries, helping victims seek compensation for medical expenses and other damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

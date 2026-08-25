@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does your firm handle TBI cases in San Diego?",
+  "description": "Yes, the Law Office of Brett Peterson handles TBI cases throughout San Diego County, including Imperial Beach, Coronado, La Mesa, and Lemon Grove.",
+  "url": "brettpetersonlaw.com/faq/does-your-firm-handle-tbi-cases-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does your firm handle TBI cases in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Law Office of Brett Peterson proudly handles TBI cases throughout San Diego County, including specific areas like Imperial Beach, Coronado, La Mesa, and Lemon Grove. Our deep understanding of local laws, court systems, and medical networks in the San Diego region allows us to effectively represent clients and navigate the legal landscape efficiently. If your TBI occurred anywhere in San Diego County, our firm is equipped to provide dedicated and experienced legal representation.",
+        "description": "Yes, the Law Office of Brett Peterson handles TBI cases throughout San Diego County, including Imperial Beach, Coronado, La Mesa, and Lemon Grove."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

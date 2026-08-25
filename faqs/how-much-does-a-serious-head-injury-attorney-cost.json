@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a serious head injury attorney cost?",
+  "description": "Most serious head injury attorneys work on a contingency fee basis, meaning you pay no upfront costs; fees are a percentage of the compensation recovered.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-serious-head-injury-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a serious head injury attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most serious head injury attorneys, including our firm, work on a contingency fee basis. This means you do not pay any upfront fees or hourly charges. Instead, the attorney's payment is a percentage of the compensation they recover for you, either through a settlement or a court award. If your attorney doesn't secure a recovery, you generally owe no legal fees. This fee structure makes legal representation accessible without immediate financial burden.",
+        "description": "Most serious head injury attorneys work on a contingency fee basis, meaning you pay no upfront costs; fees are a percentage of the compensation recovered."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

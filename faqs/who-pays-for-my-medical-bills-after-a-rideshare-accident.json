@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays for my medical bills after a rideshare accident?",
+  "description": "Medical bills may be covered by the rideshare company's insurance, the driver's personal insurance, or the at-fault driver's insurance. A lawyer can help identi",
+  "url": "brettpetersonlaw.com/faq/who-pays-for-my-medical-bills-after-a-rideshare-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays for my medical bills after a rideshare accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Responsibility for medical bills in a rideshare accident can be complex. Depending on the stage of the rideshare trip and the driver's actions, the rideshare company's insurance policy, the rideshare driver's personal insurance, or the at-fault driver's insurance may be liable. Often, rideshare companies carry significant insurance coverage for when a driver is engaged in a trip. A personal injury lawyer specializing in rideshare cases can help identify all potential sources of recovery and navigate claims to ensure your medical expenses are covered.",
+        "description": "Medical bills may be covered by the rideshare company's insurance, the driver's personal insurance, or the at-fault driver's insurance. A lawyer can help identify liable parties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

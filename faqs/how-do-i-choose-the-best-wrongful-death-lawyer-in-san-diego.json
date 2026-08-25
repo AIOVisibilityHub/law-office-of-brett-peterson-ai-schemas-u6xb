@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best wrongful death lawyer in San Diego?",
+  "description": "To choose a wrongful death lawyer in San Diego, look for experience in these specific cases, local knowledge, clear communication, and a compassionate approach.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-wrongful-death-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best wrongful death lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a wrongful death lawyer in San Diego, look for someone with specific experience in wrongful death cases and a strong track record of successful outcomes. Consider their local knowledge of San Diego courts and legal procedures. Evaluate their communication style, ensuring they are compassionate and responsive. It's advisable to schedule initial consultations with a few lawyers to discuss their approach, fees, and to assess your comfort level with them.",
+        "description": "To choose a wrongful death lawyer in San Diego, look for experience in these specific cases, local knowledge, clear communication, and a compassionate approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

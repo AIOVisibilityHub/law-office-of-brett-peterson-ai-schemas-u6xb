@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who can file a wrongful death lawsuit in San Diego?",
+  "description": "In San Diego, a wrongful death lawsuit can typically be filed by the deceased's surviving spouse, domestic partner, children, or other heirs as defined by Calif",
+  "url": "brettpetersonlaw.com/faq/who-can-file-a-wrongful-death-lawsuit-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who can file a wrongful death lawsuit in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, as in the rest of California, certain individuals are legally permitted to file a wrongful death lawsuit. This typically includes the deceased's surviving spouse, domestic partner, and children. If there is no surviving spouse, partner, or children, then others who would be entitled to the deceased's property by intestate succession (such as parents or siblings) may file. The order of priority is established by law, ensuring that those most directly affected have the right to seek justice.",
+        "description": "In San Diego, a wrongful death lawsuit can typically be filed by the deceased's surviving spouse, domestic partner, children, or other heirs as defined by California law."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

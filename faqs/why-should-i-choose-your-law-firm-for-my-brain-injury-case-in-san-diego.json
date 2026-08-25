@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose your law firm for my brain injury case in San Diego?",
+  "description": "Our San Diego-based firm offers experienced legal representation for brain injury cases, providing thorough investigation and dedicated advocacy to achieve favo",
+  "url": "brettpetersonlaw.com/faq/why-should-i-choose-your-law-firm-for-my-brain-injury-case-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose your law firm for my brain injury case in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our firm focuses on helping individuals who have suffered brain injuries due to negligence. We have experience handling complex cases and understand the intricate medical and legal aspects involved. Our approach prioritizes clear communication, thorough investigation, and dedicated advocacy to pursue the best possible outcome for our clients. We serve the San Diego area, including Imperial Beach, Coronado, La Mesa, and Lemon Grove, and are committed to guiding you through every step of your recovery and legal journey.",
+        "description": "Our San Diego-based firm offers experienced legal representation for brain injury cases, providing thorough investigation and dedicated advocacy to achieve favorable client outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

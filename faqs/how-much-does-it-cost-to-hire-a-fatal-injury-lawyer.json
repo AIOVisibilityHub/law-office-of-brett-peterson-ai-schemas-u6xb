@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a fatal injury lawyer?",
+  "description": "Most fatal injury lawyers work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-fatal-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a fatal injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many fatal injury lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered in your case, whether through a settlement or a court award. If no compensation is recovered, you generally owe no legal fees. This arrangement allows families to pursue justice without immediate financial strain. It's important to discuss the specific percentage and any potential associated costs, such as litigation expenses, during your initial consultation.",
+        "description": "Most fatal injury lawyers work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

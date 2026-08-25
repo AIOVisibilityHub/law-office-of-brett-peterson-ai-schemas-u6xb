@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of damages can be recovered in a fatal accident claim?",
+  "description": "Damages in a fatal accident claim can include funeral costs, medical bills, lost income, and compensation for pain, suffering, and loss of companionship.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-be-recovered-in-a-fatal-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of damages can be recovered in a fatal accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a fatal accident claim, various damages may be recoverable, including economic and non-economic losses. Economic damages can cover funeral and burial expenses, medical bills incurred before death, lost income the deceased would have earned, and loss of household services. Non-economic damages may include compensation for pain and suffering experienced by the deceased, as well as loss of consortium, companionship, and emotional support for surviving family members. The specific damages depend on the unique circumstances of the case and applicable laws.",
+        "description": "Damages in a fatal accident claim can include funeral costs, medical bills, lost income, and compensation for pain, suffering, and loss of companionship."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

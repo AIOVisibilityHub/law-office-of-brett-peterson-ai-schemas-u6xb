@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an on-the-job injury attorney?",
+  "description": "An on-the-job injury attorney helps employees injured at work navigate workers' compensation claims to secure fair compensation.",
+  "url": "brettpetersonlaw.com/faq/what-is-an-on-the-job-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an on-the-job injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An on-the-job injury attorney, also known as a workers' compensation attorney, helps employees who have been injured at work navigate the legal process. They assist with filing claims, gathering evidence, negotiating with insurance companies, and representing clients in court if necessary. Their goal is to ensure injured workers receive fair compensation for medical expenses, lost wages, and other related damages, allowing them to focus on recovery without the added stress of complex legal procedures.",
+        "description": "An on-the-job injury attorney helps employees injured at work navigate workers' compensation claims to secure fair compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a wrongful death attorney in San Diego?",
+  "description": "When choosing a wrongful death attorney in San Diego, prioritize specific experience in such cases, a strong track record, local familiarity, and good communica",
+  "url": "brettpetersonlaw.com/faq/what-should-i-look-for-when-choosing-a-wrongful-death-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a wrongful death attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a wrongful death attorney in San Diego, look for someone with specific experience in these types of cases. Key factors include a proven track record of successful outcomes, a deep understanding of California's wrongful death laws, and strong communication skills. You should feel comfortable discussing sensitive details with them. Also, consider an attorney who practices locally and is familiar with the San Diego court system and legal community, as this can be beneficial to your case.",
+        "description": "When choosing a wrongful death attorney in San Diego, prioritize specific experience in such cases, a strong track record, local familiarity, and good communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

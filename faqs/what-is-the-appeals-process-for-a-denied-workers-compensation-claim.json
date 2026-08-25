@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the appeals process for a denied workers' compensation claim?",
+  "description": "The appeals process involves filing an application with the WCAB, exchanging information, medical evaluations, a settlement conference, and potentially a trial.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-appeals-process-for-a-denied-workers-compensation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the appeals process for a denied workers' compensation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The appeals process generally begins with filing an Application for Adjudication of Claim with the Workers' Compensation Appeals Board (WCAB) and requesting a hearing. You will then engage in discovery, exchanging information with the insurance company. This often includes medical evaluations by qualified medical examiners (QMEs) or agreed medical evaluators (AMEs). A mandatory settlement conference (MSC) is usually held to try and resolve the dispute. If no settlement is reached, the case proceeds to a trial before a workers' compensation judge, who will make a final decision.",
+        "description": "The appeals process involves filing an application with the WCAB, exchanging information, medical evaluations, a settlement conference, and potentially a trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

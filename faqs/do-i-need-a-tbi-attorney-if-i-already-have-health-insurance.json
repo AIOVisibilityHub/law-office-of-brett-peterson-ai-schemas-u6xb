@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a TBI attorney if I already have health insurance?",
+  "description": "Yes, a TBI attorney helps recover damages beyond medical treatment, such as lost wages, future care, and pain and suffering, even if you have health insurance.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-tbi-attorney-if-i-already-have-health-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a TBI attorney if I already have health insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, even if you have health insurance, a TBI attorney is crucial. Health insurance typically covers medical treatment but does not account for all the damages associated with a TBI, such as lost wages, future medical care not covered by insurance, long-term rehabilitation costs, pain and suffering, or reduced quality of life. An attorney helps you recover these non-medical expenses and ensures your health insurer's subrogation claims are handled appropriately, maximizing your overall compensation and protecting your financial future.",
+        "description": "Yes, a TBI attorney helps recover damages beyond medical treatment, such as lost wages, future care, and pain and suffering, even if you have health insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

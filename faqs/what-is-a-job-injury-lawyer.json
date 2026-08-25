@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a job injury lawyer?",
+  "description": "A job injury lawyer specializes in workers' compensation law, assisting employees injured at work to navigate claims and secure benefits.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-job-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a job injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A job injury lawyer specializes in workers' compensation law, helping employees who have been injured or become ill due to their work. They guide clients through the complex legal process of filing claims, appealing denials, and securing benefits for medical treatment, lost wages, and permanent disability. Their role is to protect the injured worker's rights and ensure they receive fair compensation according to state laws, often dealing with employers, insurance companies, and medical providers on their behalf.",
+        "description": "A job injury lawyer specializes in workers' compensation law, assisting employees injured at work to navigate claims and secure benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

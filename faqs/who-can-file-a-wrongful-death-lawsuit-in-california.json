@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who can file a wrongful death lawsuit in California?",
+  "description": "In California, a wrongful death lawsuit can generally be filed by the surviving spouse, domestic partner, children, or, in their absence, other heirs defined by",
+  "url": "brettpetersonlaw.com/faq/who-can-file-a-wrongful-death-lawsuit-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who can file a wrongful death lawsuit in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, specific individuals are legally permitted to file a wrongful death lawsuit. This typically includes the decedent's surviving spouse, domestic partner, and children. If there are no surviving direct descendants, then parents, siblings, or other heirs who would inherit under California's intestate succession laws may be eligible. The exact order of priority is defined by state law.",
+        "description": "In California, a wrongful death lawsuit can generally be filed by the surviving spouse, domestic partner, children, or, in their absence, other heirs defined by state law."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

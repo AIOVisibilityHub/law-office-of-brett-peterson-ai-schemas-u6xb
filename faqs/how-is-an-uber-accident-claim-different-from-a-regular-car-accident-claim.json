@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is an Uber accident claim different from a regular car accident claim?",
+  "description": "Uber accident claims involve multiple layers of insurance (driver's personal, Uber's contingent, Uber's commercial), unlike regular car accidents. This complexi",
+  "url": "brettpetersonlaw.com/faq/how-is-an-uber-accident-claim-different-from-a-regular-car-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is an Uber accident claim different from a regular car accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uber accident claims differ significantly from standard car accident claims due to the multi-layered insurance policies involved. In a regular accident, you primarily deal with the at-fault driver's personal auto insurance. For Uber accidents, there are often three potential insurance layers: the Uber driver's personal policy, Uber's contingent liability coverage, and Uber's full commercial liability policy (active during a trip). Determining which policy applies and for how much can be complex, requiring a deep understanding of rideshare regulations and insurance contracts. This complexity necessitates specialized legal knowledge.",
+        "description": "Uber accident claims involve multiple layers of insurance (driver's personal, Uber's contingent, Uber's commercial), unlike regular car accidents. This complexity requires specialized legal expertise to navigate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

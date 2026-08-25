@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a rideshare accident lawsuit in California?",
+  "description": "In California, you generally have two years from the injury date to file a personal injury lawsuit for a rideshare accident. Property damage claims typically ha",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-rideshare-accident-lawsuit-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a rideshare accident lawsuit in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for most personal injury claims, including those stemming from rideshare accidents, is generally two years from the date of the injury. For claims involving property damage only, the limit is typically three years. It is crucial to understand that these deadlines are strict, and failing to file a lawsuit within the specified period usually results in losing your right to pursue compensation. Consulting with a lawyer promptly ensures your claim is filed within the necessary timeframe.",
+        "description": "In California, you generally have two years from the injury date to file a personal injury lawsuit for a rideshare accident. Property damage claims typically have a three-year limit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

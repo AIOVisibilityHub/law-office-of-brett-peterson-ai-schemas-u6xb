@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue Uber directly after an accident?",
+  "description": "Typically, you cannot sue Uber directly because drivers are independent contractors, but you can usually pursue a claim through Uber's commercial insurance.",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-uber-directly-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue Uber directly after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you cannot sue Uber directly in most accident scenarios. Uber classifies its drivers as independent contractors, not employees. This distinction usually shields Uber from direct liability for the actions of its drivers. However, you can typically pursue a claim through Uber's commercial insurance policy if the driver was operating on the Uber platform at the time of the accident. In rare cases where Uber's own negligence contributed to the accident, direct liability might be possible, but this is less common.",
+        "description": "Typically, you cannot sue Uber directly because drivers are independent contractors, but you can usually pursue a claim through Uber's commercial insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

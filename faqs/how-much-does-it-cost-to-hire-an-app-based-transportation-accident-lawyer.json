@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire an app-based transportation accident lawyer?",
+  "description": "Most app-based accident lawyers work on a contingency fee basis, meaning they only get paid a percentage of your settlement if your case is successful.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-an-app-based-transportation-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire an app-based transportation accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most app-based transportation accident lawyers work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the lawyer's fees are a percentage of the final settlement or court award you receive. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows individuals to pursue justice without financial burden during a difficult time. You should discuss the specific percentage and any potential out-of-pocket expenses (like court filing fees) during your initial consultation.",
+        "description": "Most app-based accident lawyers work on a contingency fee basis, meaning they only get paid a percentage of your settlement if your case is successful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

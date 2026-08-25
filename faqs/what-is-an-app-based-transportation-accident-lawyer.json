@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an app-based transportation accident lawyer?",
+  "description": "An app-based transportation accident lawyer handles cases involving rideshare services like Uber or Lyft, understanding their unique insurance and liability com",
+  "url": "brettpetersonlaw.com/faq/what-is-an-app-based-transportation-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an app-based transportation accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An app-based transportation accident lawyer specializes in cases involving rideshare services like Uber or Lyft. These attorneys understand the unique complexities of accidents involving drivers operating under a company's app, which often includes multiple insurance policies and liability challenges. They help victims navigate the legal process to secure compensation for injuries, medical bills, lost wages, and other damages. Their expertise is crucial because the insurance frameworks for rideshare companies differ significantly from standard personal auto insurance.",
+        "description": "An app-based transportation accident lawyer handles cases involving rideshare services like Uber or Lyft, understanding their unique insurance and liability complexities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

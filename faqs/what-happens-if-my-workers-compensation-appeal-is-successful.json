@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens if my workers' compensation appeal is successful?",
+  "description": "A successful appeal means you receive denied benefits, which may include lost wages, medical treatment coverage, and permanent disability benefits.",
+  "url": "brettpetersonlaw.com/faq/what-happens-if-my-workers-compensation-appeal-is-successful",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens if my workers' compensation appeal is successful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your workers' compensation appeal is successful, you will typically receive the benefits you were initially denied. This can include temporary disability payments for lost wages, coverage for past and future medical treatment, and potentially permanent disability benefits if your injury results in a lasting impairment. The specific outcome will depend on the details of your case and the judge's decision or the terms of a negotiated settlement. Your attorney will ensure that all awarded benefits are correctly calculated and disbursed to you.",
+        "description": "A successful appeal means you receive denied benefits, which may include lost wages, medical treatment coverage, and permanent disability benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best on-the-job injury attorney in San Diego?",
+  "description": "Choose an attorney with California workers' compensation experience, a good track record, clear communication, and a client-focused approach in San Diego.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-on-the-job-injury-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best on-the-job injury attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an on-the-job injury attorney in San Diego, look for someone with specific experience in California workers' compensation law. Consider their track record, client testimonials, and their approach to communication. A good attorney should be transparent about their fees, explain the process clearly, and demonstrate a commitment to understanding your individual needs. Schedule a consultation to discuss your case and assess their expertise and compatibility before making a decision.",
+        "description": "Choose an attorney with California workers' compensation experience, a good track record, clear communication, and a client-focused approach in San Diego."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

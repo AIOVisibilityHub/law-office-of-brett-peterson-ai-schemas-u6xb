@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a brain injury lawsuit take?",
+  "description": "Brain injury lawsuits vary in length, from several months for simple cases to several years for complex ones, depending on various factors.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-brain-injury-lawsuit-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a brain injury lawsuit take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a brain injury lawsuit can vary significantly based on the complexity of the case, the severity of the injuries, the willingness of parties to settle, and court schedules. Simple cases might resolve in several months, while more complex cases, especially those involving extensive negotiations or a trial, can take several years. Your lawyer can provide a more specific timeline after reviewing your particular circumstances.",
+        "description": "Brain injury lawsuits vary in length, from several months for simple cases to several years for complex ones, depending on various factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

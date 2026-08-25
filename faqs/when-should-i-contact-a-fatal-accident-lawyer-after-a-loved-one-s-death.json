@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a fatal accident lawyer after a loved one's death?",
+  "description": "Contact a fatal accident lawyer as soon as possible after a death to preserve evidence and protect your legal rights.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-fatal-accident-lawyer-after-a-loved-one-s-death",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a fatal accident lawyer after a loved one's death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a fatal accident lawyer as soon as possible after a loved one's death. Early involvement allows the attorney to preserve crucial evidence, interview witnesses while memories are fresh, and navigate immediate legal requirements. Waiting too long can complicate the case, as evidence may disappear and statutes of limitations limit the time available to file a claim. Prompt action ensures your legal rights are protected from the outset.",
+        "description": "Contact a fatal accident lawyer as soon as possible after a death to preserve evidence and protect your legal rights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

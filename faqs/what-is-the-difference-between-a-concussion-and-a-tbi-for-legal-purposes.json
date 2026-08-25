@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a concussion and a TBI for legal purposes?",
+  "description": "A concussion is a mild TBI; legally, any brain injury from an external force caused by negligence can lead to a claim, based on its lasting impact.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-concussion-and-a-tbi-for-legal-purposes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a concussion and a TBI for legal purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "From a legal perspective, a concussion is considered a mild form of traumatic brain injury (mTBI). While a concussion might resolve quickly, it can still lead to lasting symptoms like headaches, dizziness, or cognitive issues. Any brain injury caused by an external force, regardless of severity, can be the basis for a TBI claim if caused by negligence. A lawyer evaluates the specific impact and lasting effects, not just the initial diagnosis, to determine claim viability.",
+        "description": "A concussion is a mild TBI; legally, any brain injury from an external force caused by negligence can lead to a claim, based on its lasting impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

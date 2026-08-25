@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right serious head injury attorney in San Diego?",
+  "description": "Choose a San Diego serious head injury attorney with specific experience in brain injury cases, a strong reputation, clear communication, and local familiarity.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-serious-head-injury-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right serious head injury attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a serious head injury attorney in San Diego, look for a lawyer with specific experience and a strong track record in handling brain injury cases. Consider their reputation, client testimonials, and their ability to clearly explain the legal process and potential outcomes. Ensure they offer a free consultation to discuss your case without obligation. It's also beneficial to choose an attorney who is familiar with the local court systems and medical networks in the San Diego area.",
+        "description": "Choose a San Diego serious head injury attorney with specific experience in brain injury cases, a strong reputation, clear communication, and local familiarity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

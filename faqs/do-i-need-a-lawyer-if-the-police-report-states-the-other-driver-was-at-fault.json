@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer if the police report states the other driver was at fault?",
+  "description": "Yes, even with a favorable police report, a lawyer can help ensure you receive fair compensation and handle insurance company disputes.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-if-the-police-report-states-the-other-driver-was-at-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer if the police report states the other driver was at fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if the police report clearly assigns fault, hiring a lawyer is highly recommended. While the report is strong evidence, insurance companies often dispute liability or the extent of damages. A lawyer can effectively counter these tactics, gather additional evidence to strengthen your case, and negotiate a fair settlement that fully compensates your family for all losses. Without legal representation, you risk receiving less compensation than you are entitled to or having your claim undervalued.",
+        "description": "Yes, even with a favorable police report, a lawyer can help ensure you receive fair compensation and handle insurance company disputes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

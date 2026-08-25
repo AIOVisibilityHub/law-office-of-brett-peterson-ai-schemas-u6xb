@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a workers' comp lawyer do for my claim?",
+  "description": "A workers' comp lawyer guides you through the claims process, gathers evidence, negotiates with insurers, and represents you in hearings. They aim to secure all",
+  "url": "brettpetersonlaw.com/faq/what-does-a-workers-comp-lawyer-do-for-my-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a workers' comp lawyer do for my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workers' comp lawyer assists by guiding you through the complex claims process, from initial filing to appealing denials. They gather evidence, interview witnesses, obtain medical records, and communicate with employers and insurance companies on your behalf. Lawyers negotiate settlements, represent you in hearings or court, and work to maximize your benefits, including medical treatment, temporary disability, permanent disability, and vocational rehabilitation. Their goal is to ensure you receive all entitled compensation.",
+        "description": "A workers' comp lawyer guides you through the claims process, gathers evidence, negotiates with insurers, and represents you in hearings. They aim to secure all entitled benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps should I take after suffering a head injury in an accident?",
+  "description": "Seek immediate medical care, document the accident, and consult a lawyer promptly to protect your claim.",
+  "url": "brettpetersonlaw.com/faq/what-steps-should-i-take-after-suffering-a-head-injury-in-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps should I take after suffering a head injury in an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a head injury in an accident, your top priority is immediate medical attention, even if symptoms seem minor at first. Follow all doctor's recommendations for diagnosis and treatment. Next, document everything: the accident scene, any visible injuries, and contact information for witnesses. Avoid discussing fault with anyone other than your lawyer. It's crucial to consult a traumatic brain injury lawyer as soon as possible. They can advise you on legal steps, help preserve evidence, and communicate with insurance companies on your behalf, ensuring you don't inadvertently harm your future claim.",
+        "description": "Seek immediate medical care, document the accident, and consult a lawyer promptly to protect your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

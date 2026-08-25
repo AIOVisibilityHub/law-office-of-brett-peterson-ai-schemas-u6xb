@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a wrongful death lawyer?",
+  "description": "Contact a wrongful death lawyer as soon as possible after a death caused by another's actions to preserve evidence and meet legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-wrongful-death-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a wrongful death lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a wrongful death lawyer as soon as possible after the death of a loved one due to someone else's actions. Early involvement allows your attorney to investigate thoroughly, preserve crucial evidence, and ensure all legal deadlines are met. Waiting too long can jeopardize your ability to build a strong case or even file a claim due to statutes of limitations. A consultation can help you understand your rights and options without obligation.",
+        "description": "Contact a wrongful death lawyer as soon as possible after a death caused by another's actions to preserve evidence and meet legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the statute of limitations for filing a wrongful death claim in California?",
+  "description": "In California, the general statute of limitations for wrongful death claims is typically two years from the date of death, with some exceptions.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-filing-a-wrongful-death-claim-in-californ",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the statute of limitations for filing a wrongful death claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the general statute of limitations for filing a wrongful death claim is typically two years from the date of the person's death. This means a lawsuit must be filed within this two-year period, or the right to pursue compensation may be permanently lost. However, there can be exceptions to this rule, such as cases involving government entities or delayed discovery of the cause of death, which might alter the deadline. It is crucial to consult with a lawyer promptly to determine the exact statute of limitations applicable to your specific situation and ensure all deadlines are met.",
+        "description": "In California, the general statute of limitations for wrongful death claims is typically two years from the date of death, with some exceptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

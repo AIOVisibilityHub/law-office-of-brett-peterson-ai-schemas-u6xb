@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a serious head injury?",
+  "description": "A serious head injury is damage to the brain from an external force, such as a concussion or penetrating injury, leading to significant symptoms and requiring m",
+  "url": "brettpetersonlaw.com/faq/what-is-considered-a-serious-head-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a serious head injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A serious head injury, often referred to as a traumatic brain injury (TBI), involves damage to the brain from an external force. This can include concussions, contusions, penetrating injuries, and anoxic brain injuries. Symptoms range from prolonged loss of consciousness, memory problems, severe headaches, and cognitive impairment to physical disabilities. Medical diagnosis, such as imaging scans, is crucial to determine the extent and type of injury and guide treatment.",
+        "description": "A serious head injury is damage to the brain from an external force, such as a concussion or penetrating injury, leading to significant symptoms and requiring medical diagnosis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

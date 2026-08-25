@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider hiring an Uber accident lawyer in San Diego?",
+  "description": "Consider hiring a lawyer if you're injured, liability is disputed, or you need help navigating Uber's insurance policies to ensure fair compensation.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consider-hiring-an-uber-accident-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider hiring an Uber accident lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring an Uber accident lawyer in San Diego if you have sustained injuries, if liability is disputed, or if you are dealing with Uber's complex insurance policies. An attorney can help navigate the claims process, gather evidence, negotiate with insurance companies, and ensure you receive fair compensation for medical expenses, lost income, and pain and suffering. This is especially important when dealing with corporate entities like Uber and their multiple insurance layers.",
+        "description": "Consider hiring a lawyer if you're injured, liability is disputed, or you need help navigating Uber's insurance policies to ensure fair compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

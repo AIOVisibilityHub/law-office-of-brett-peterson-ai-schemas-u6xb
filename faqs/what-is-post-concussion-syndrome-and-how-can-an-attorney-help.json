@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is post-concussion syndrome and how can an attorney help?",
+  "description": "Post-concussion syndrome involves lasting symptoms after a head injury. An attorney can help you seek compensation for medical costs, lost income, and suffering",
+  "url": "brettpetersonlaw.com/faq/what-is-post-concussion-syndrome-and-how-can-an-attorney-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is post-concussion syndrome and how can an attorney help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Post-concussion syndrome (PCS) refers to a complex set of symptoms that can persist for weeks, months, or even years after a concussion. These symptoms may include headaches, dizziness, fatigue, irritability, anxiety, and difficulty concentrating. An attorney specializing in personal injury, particularly brain injuries, can help you navigate the legal process to seek compensation for medical expenses, lost wages, and pain and suffering resulting from PCS. They investigate the accident, gather medical evidence, and negotiate with insurance companies or pursue litigation to protect your rights.",
+        "description": "Post-concussion syndrome involves lasting symptoms after a head injury. An attorney can help you seek compensation for medical costs, lost income, and suffering related to your PCS."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

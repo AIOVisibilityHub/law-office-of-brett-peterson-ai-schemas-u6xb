@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information do I need to provide to a brain trauma lawyer?",
+  "description": "Provide details of the incident, medical records, financial losses, and any police reports or witness information to your lawyer.",
+  "url": "brettpetersonlaw.com/faq/what-information-do-i-need-to-provide-to-a-brain-trauma-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information do I need to provide to a brain trauma lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you consult with a brain trauma lawyer, be prepared to share details about the incident that caused your injury, including dates, locations, and involved parties. Provide any medical records, diagnoses, and treatment plans related to your brain injury. Also, bring information about your financial losses, such as lost wages or medical bills, and any police reports or witness contact information.",
+        "description": "Provide details of the incident, medical records, financial losses, and any police reports or witness information to your lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

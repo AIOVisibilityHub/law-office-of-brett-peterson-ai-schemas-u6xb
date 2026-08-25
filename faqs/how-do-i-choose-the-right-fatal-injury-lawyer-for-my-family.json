@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right fatal injury lawyer for my family?",
+  "description": "Choose a lawyer based on their experience in wrongful death cases, track record, communication style, and by ensuring a good personal fit for your family's need",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-fatal-injury-lawyer-for-my-family",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right fatal injury lawyer for my family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right fatal injury lawyer involves considering their experience in wrongful death cases, their track record of success, and their communication style. Look for a lawyer who focuses specifically on personal injury and wrongful death law and who has a deep understanding of the relevant state statutes. It's also important to feel comfortable and confident with the attorney you choose, as they will be guiding you through a difficult time. Review client testimonials and schedule initial consultations with several lawyers to compare their approaches and ensure a good fit for your family's needs.",
+        "description": "Choose a lawyer based on their experience in wrongful death cases, track record, communication style, and by ensuring a good personal fit for your family's needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

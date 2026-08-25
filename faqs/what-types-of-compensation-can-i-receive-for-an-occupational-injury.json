@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I receive for an occupational injury?",
+  "description": "Compensation can cover medical costs, temporary disability for lost wages, permanent disability for impairments, and sometimes vocational rehabilitation.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-for-an-occupational-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I receive for an occupational injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for an occupational injury typically includes medical treatment costs, which cover doctor visits, surgeries, prescriptions, and rehabilitation. You may also be eligible for temporary disability benefits, which replace a portion of your lost wages if you cannot work due to your injury. If your injury results in a permanent impairment, you might receive permanent disability benefits. In some cases, vocational rehabilitation may be provided to help you return to work. A lawyer can help identify all applicable benefits and ensure you receive the maximum compensation you are entitled to under the law.",
+        "description": "Compensation can cover medical costs, temporary disability for lost wages, permanent disability for impairments, and sometimes vocational rehabilitation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

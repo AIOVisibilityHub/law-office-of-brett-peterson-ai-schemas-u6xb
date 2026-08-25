@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a fatal accident claim typically take to resolve?",
+  "description": "Fatal accident claims can take anywhere from several months to several years to resolve, depending on case complexity and whether it goes to trial.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-fatal-accident-claim-typically-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a fatal accident claim typically take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a fatal accident claim varies significantly depending on its complexity, the clarity of liability, the extent of damages, and the willingness of all parties to negotiate. Some cases may settle within several months through negotiation, while others, especially those requiring litigation and trial, can take several years to resolve. Your attorney will provide a more specific timeline based on the details of your particular situation, always striving for an efficient resolution while maximizing your recovery.",
+        "description": "Fatal accident claims can take anywhere from several months to several years to resolve, depending on case complexity and whether it goes to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

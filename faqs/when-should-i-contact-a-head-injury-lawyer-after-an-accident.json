@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a head injury lawyer after an accident?",
+  "description": "Contact a head injury lawyer as soon as possible after an accident to preserve evidence and navigate legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-head-injury-lawyer-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a head injury lawyer after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is generally advisable to contact a head injury lawyer as soon as possible after an accident, once your immediate medical needs are addressed. Early engagement allows your attorney to begin investigating the incident, preserve critical evidence, and navigate legal deadlines. Delaying can make it more challenging to gather accurate information and build a strong case.",
+        "description": "Contact a head injury lawyer as soon as possible after an accident to preserve evidence and navigate legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

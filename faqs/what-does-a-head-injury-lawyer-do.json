@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a head injury lawyer do?",
+  "description": "A head injury lawyer represents individuals who have suffered a head injury due to another's negligence, helping them seek compensation for damages.",
+  "url": "brettpetersonlaw.com/faq/what-does-a-head-injury-lawyer-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a head injury lawyer do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A head injury lawyer helps individuals who have suffered a head injury due to someone else's negligence. This includes investigating the incident, gathering evidence such as medical records and witness statements, and negotiating with insurance companies. If a fair settlement cannot be reached, the lawyer can represent the client in court to pursue compensation for medical expenses, lost wages, pain and suffering, and other damages.",
+        "description": "A head injury lawyer represents individuals who have suffered a head injury due to another's negligence, helping them seek compensation for damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

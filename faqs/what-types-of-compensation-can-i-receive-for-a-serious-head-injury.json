@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I receive for a serious head injury?",
+  "description": "Compensation for a serious head injury can include medical expenses, lost wages, and pain and suffering, depending on the specifics of the case.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-for-a-serious-head-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I receive for a serious head injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your serious head injury was caused by another's negligence, you may be eligible for various types of compensation. This can include economic damages such as past and future medical expenses (including rehabilitation and long-term care), lost wages, and loss of earning capacity. Non-economic damages cover pain and suffering, emotional distress, loss of enjoyment of life, and in some cases, loss of consortium. The specific compensation depends on the unique details of your case.",
+        "description": "Compensation for a serious head injury can include medical expenses, lost wages, and pain and suffering, depending on the specifics of the case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

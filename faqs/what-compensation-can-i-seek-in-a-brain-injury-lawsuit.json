@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation can I seek in a brain injury lawsuit?",
+  "description": "Compensation in a brain injury lawsuit can cover medical expenses, lost wages, pain and suffering, emotional distress, and other damages related to the injury's",
+  "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-in-a-brain-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation can I seek in a brain injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a brain injury lawsuit, you may be able to seek compensation for various damages. These can include economic damages like medical expenses (past and future), lost wages, loss of earning capacity, and rehabilitation costs. Non-economic damages may cover pain and suffering, emotional distress, loss of enjoyment of life, and permanent disability. The specific compensation available depends on the severity of the injury and the unique circumstances of your case.",
+        "description": "Compensation in a brain injury lawsuit can cover medical expenses, lost wages, pain and suffering, emotional distress, and other damages related to the injury's impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

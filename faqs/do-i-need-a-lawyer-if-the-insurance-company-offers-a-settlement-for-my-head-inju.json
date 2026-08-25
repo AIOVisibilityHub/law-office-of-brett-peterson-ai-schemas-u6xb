@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer if the insurance company offers a settlement for my head injury?",
+  "description": "Even with a settlement offer, consulting an attorney is wise, as insurance offers are often low; an attorney ensures fair compensation for your head injury.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-if-the-insurance-company-offers-a-settlement-for-my-head-inju",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer if the insurance company offers a settlement for my head injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is highly advisable to consult with a serious head injury attorney even if an insurance company offers a settlement. Initial offers from insurance companies are often much lower than the actual value of your claim, as they prioritize their own financial interests. An attorney can evaluate the full extent of your damages, including future medical needs and long-term impacts, ensuring any settlement adequately covers your current and future losses. They will negotiate on your behalf to achieve fair compensation.",
+        "description": "Even with a settlement offer, consulting an attorney is wise, as insurance offers are often low; an attorney ensures fair compensation for your head injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

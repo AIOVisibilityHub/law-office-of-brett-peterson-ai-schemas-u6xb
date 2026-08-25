@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I cannot afford a post-concussion syndrome attorney?",
+  "description": "Most PCS attorneys work on a contingency fee basis, meaning you pay no upfront costs; their fee is a percentage of your successful compensation.",
+  "url": "brettpetersonlaw.com/faq/what-if-i-cannot-afford-a-post-concussion-syndrome-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I cannot afford a post-concussion syndrome attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most personal injury attorneys, including those specializing in post-concussion syndrome cases, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation they secure for you, whether through a settlement or a court award. If they don't win your case, you generally don't owe them attorney fees. This arrangement makes legal representation accessible to individuals regardless of their financial situation.",
+        "description": "Most PCS attorneys work on a contingency fee basis, meaning you pay no upfront costs; their fee is a percentage of your successful compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

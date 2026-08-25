@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my brain injury symptoms don't appear immediately?",
+  "description": "Delayed brain injury symptoms are common; seek immediate medical attention when they appear, and a lawyer can help link them to the original incident.",
+  "url": "brettpetersonlaw.com/faq/what-if-my-brain-injury-symptoms-don-t-appear-immediately",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my brain injury symptoms don't appear immediately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's common for brain injury symptoms to have a delayed onset, sometimes appearing days or even weeks after an accident. This delay doesn't diminish the validity of your injury. It is crucial to seek medical attention as soon as any symptoms appear and to fully document all diagnostic findings and treatment. A lawyer can help connect the delayed symptoms to the original incident.",
+        "description": "Delayed brain injury symptoms are common; seek immediate medical attention when they appear, and a lawyer can help link them to the original incident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

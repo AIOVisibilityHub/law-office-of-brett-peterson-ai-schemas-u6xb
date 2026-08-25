@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I receive after an Uber passenger injury?",
+  "description": "Compensation for an Uber passenger injury can include medical expenses, lost wages, property damage, and non-economic damages like pain and suffering. The amoun",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-after-an-uber-passenger-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I receive after an Uber passenger injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you're injured as an Uber passenger, you may be entitled to compensation for various damages. This can include economic damages such as medical expenses (past and future), lost wages (if your injury prevents you from working), and property damage. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be recoverable. The specific types and amount of compensation depend on the severity of your injuries, the impact on your life, and the circumstances of the accident. A personal injury attorney can assess your case and help determine the full scope of your potential compensation.",
+        "description": "Compensation for an Uber passenger injury can include medical expenses, lost wages, property damage, and non-economic damages like pain and suffering. The amount depends on injury severity and accident circumstances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

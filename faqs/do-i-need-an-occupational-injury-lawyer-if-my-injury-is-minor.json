@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an occupational injury lawyer if my injury is minor?",
+  "description": "Even for minor injuries, a lawyer can ensure proper filing, protect you from low settlements, and advise on your rights, preventing future complications.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-an-occupational-injury-lawyer-if-my-injury-is-minor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an occupational injury lawyer if my injury is minor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor injuries might seem straightforward, consulting an occupational injury lawyer can still be beneficial, even if just for an initial consultation. What appears minor initially can sometimes lead to complications or long-term issues that weren't immediately apparent. An attorney can ensure all necessary paperwork is filed correctly and on time, prevent your employer or their insurance from pressuring you into a quick, low settlement, and advise you on your rights regarding medical treatment and lost wages. This guidance can prevent future problems and ensure you receive all benefits you are due.",
+        "description": "Even for minor injuries, a lawyer can ensure proper filing, protect you from low settlements, and advise on your rights, preventing future complications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

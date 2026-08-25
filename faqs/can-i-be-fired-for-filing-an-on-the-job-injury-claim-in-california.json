@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I be fired for filing an on-the-job injury claim in California?",
+  "description": "No, it is illegal for an employer in California to fire or retaliate against you for filing a legitimate work injury claim.",
+  "url": "brettpetersonlaw.com/faq/can-i-be-fired-for-filing-an-on-the-job-injury-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I be fired for filing an on-the-job injury claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is illegal for an employer to retaliate against you for filing a legitimate workers' compensation claim in California. State laws protect injured workers from wrongful termination, demotion, or any other adverse employment action simply because they sought benefits for a work-related injury. If you believe you are being retaliated against, it's crucial to inform your attorney immediately, as they can take legal action to protect your rights and address the employer's unlawful conduct.",
+        "description": "No, it is illegal for an employer in California to fire or retaliate against you for filing a legitimate work injury claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

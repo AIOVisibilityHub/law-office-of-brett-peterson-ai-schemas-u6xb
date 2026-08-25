@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is needed for a wrongful death claim?",
+  "description": "Evidence for a wrongful death claim includes death certificates, medical and accident reports, witness statements, proof of financial losses, and potentially ex",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-for-a-wrongful-death-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is needed for a wrongful death claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong evidence is crucial for a successful wrongful death claim. This typically includes the death certificate, medical records detailing injuries and cause of death, accident reports (if applicable), police reports, witness statements, and proof of financial losses such as pay stubs, tax returns, and funeral bills. Expert testimonies, like those from accident reconstructionists or economists, may also be necessary to establish fault and quantify damages.",
+        "description": "Evidence for a wrongful death claim includes death certificates, medical and accident reports, witness statements, proof of financial losses, and potentially expert testimonies."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

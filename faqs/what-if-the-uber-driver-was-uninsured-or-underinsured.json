@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the Uber driver was uninsured or underinsured?",
+  "description": "Uber's insurance policy includes significant uninsured/underinsured motorist (UM/UIM) coverage to protect you if an at-fault driver lacks sufficient insurance.",
+  "url": "brettpetersonlaw.com/faq/what-if-the-uber-driver-was-uninsured-or-underinsured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the Uber driver was uninsured or underinsured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If an at-fault Uber driver was uninsured or underinsured, Uber's insurance policy provides coverage during an active trip. Uber carries significant uninsured/underinsured motorist (UM/UIM) coverage that can compensate you if the driver who caused the accident does not have sufficient insurance of their own. This coverage can protect you by covering medical expenses, lost wages, and other damages up to the limits of Uber's policy. An attorney can help you navigate this complex layer of coverage.",
+        "description": "Uber's insurance policy includes significant uninsured/underinsured motorist (UM/UIM) coverage to protect you if an at-fault driver lacks sufficient insurance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

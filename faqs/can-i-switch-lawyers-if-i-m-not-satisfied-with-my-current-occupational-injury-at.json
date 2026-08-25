@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I switch lawyers if I'm not satisfied with my current occupational injury attorney?",
+  "description": "Yes, you can switch lawyers if you're not satisfied. Your new attorney will manage the file transfer and handle communications regarding fees for prior work.",
+  "url": "brettpetersonlaw.com/faq/can-i-switch-lawyers-if-i-m-not-satisfied-with-my-current-occupational-injury-at",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I switch lawyers if I'm not satisfied with my current occupational injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you generally have the right to switch lawyers if you are not satisfied with their representation during your occupational injury claim. This process is typically straightforward. You would inform your current attorney of your decision and then seek new counsel. Your new lawyer would handle the transfer of your case files and communicate with your previous attorney regarding any fees owed for work already performed. It's important to discuss this during your initial consultation with a potential new lawyer to understand the process and any implications for your case or fees.",
+        "description": "Yes, you can switch lawyers if you're not satisfied. Your new attorney will manage the file transfer and handle communications regarding fees for prior work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire an attorney for a denied workers' compensation claim?",
+  "description": "Hire an attorney immediately after a denial to navigate the complex appeals process, protect your rights, and improve your chances of a successful outcome.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-an-attorney-for-a-denied-workers-compensation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire an attorney for a denied workers' compensation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring an attorney as soon as your workers' compensation claim is denied. The appeals process can be complex, involving strict deadlines, legal procedures, and negotiations with insurance companies. An attorney can help you understand your rights, prepare and file necessary paperwork, collect evidence, represent you at hearings, and negotiate a fair settlement. Early legal intervention can significantly improve your chances of a successful appeal and ensure you receive the benefits you are entitled to.",
+        "description": "Hire an attorney immediately after a denial to navigate the complex appeals process, protect your rights, and improve your chances of a successful outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

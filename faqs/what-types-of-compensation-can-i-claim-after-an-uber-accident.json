@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I claim after an Uber accident?",
+  "description": "You can claim compensation for economic damages like medical bills, lost wages, and property damage, as well as non-economic damages such as pain and suffering.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-claim-after-an-uber-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I claim after an Uber accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After an Uber accident, you may be able to claim various types of compensation, often referred to as 'damages.' These can include economic damages such as medical expenses (past and future), lost wages (past and future), property damage to your vehicle, and other out-of-pocket costs related to the accident. Non-economic damages like pain and suffering, emotional distress, and loss of enjoyment of life may also be recoverable, depending on the severity of your injuries and the specific circumstances of the accident.",
+        "description": "You can claim compensation for economic damages like medical bills, lost wages, and property damage, as well as non-economic damages such as pain and suffering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

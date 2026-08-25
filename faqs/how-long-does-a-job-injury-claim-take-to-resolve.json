@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a job injury claim take to resolve?",
+  "description": "Claim resolution time varies based on complexity and disputes. Simple cases may take months, while complex ones can take a year or more.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-job-injury-claim-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a job injury claim take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a job injury claim can vary significantly, depending on the complexity of the case, the severity of the injury, and whether it is disputed by the employer or insurance company. Simple claims might resolve within a few months, while more complex cases involving multiple body parts, extensive medical treatment, or legal disputes could take a year or more. A lawyer can provide a more accurate estimate after reviewing the specifics of your situation.",
+        "description": "Claim resolution time varies based on complexity and disputes. Simple cases may take months, while complex ones can take a year or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

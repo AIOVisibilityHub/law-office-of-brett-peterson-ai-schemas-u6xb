@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I appeal a denied workers' compensation claim without an attorney?",
+  "description": "You can appeal without an attorney, but it's not recommended due to the complexity of workers' comp law and insurance company legal resources.",
+  "url": "brettpetersonlaw.com/faq/can-i-appeal-a-denied-workers-compensation-claim-without-an-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I appeal a denied workers' compensation claim without an attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it is technically possible to appeal a denied workers' compensation claim without an attorney, it is generally not advisable. The legal system for workers' compensation is complex, with specific rules, procedures, and deadlines that must be followed. Insurance companies have experienced legal teams, and navigating the process alone can put you at a significant disadvantage. An attorney understands the nuances of the law, can gather and present evidence effectively, and negotiate on your behalf, greatly increasing your chances of a successful appeal.",
+        "description": "You can appeal without an attorney, but it's not recommended due to the complexity of workers' comp law and insurance company legal resources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

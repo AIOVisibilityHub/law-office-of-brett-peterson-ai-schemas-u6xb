@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file an Uber accident lawsuit in California?",
+  "description": "In California, you generally have two years from the accident date to file an Uber accident lawsuit, with some exceptions for minors or delayed injury discovery",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-an-uber-accident-lawsuit-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file an Uber accident lawsuit in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the general statute of limitations for personal injury claims, including those arising from Uber accidents, is typically two years from the date of the accident. This means you have two years to file a lawsuit in court. If you miss this deadline, you generally lose your right to pursue compensation through the legal system. However, there can be exceptions to this rule depending on specific circumstances, such as if the injured party is a minor or if the injury was not immediately discovered. It is advisable to consult with an attorney promptly to ensure deadlines are met.",
+        "description": "In California, you generally have two years from the accident date to file an Uber accident lawsuit, with some exceptions for minors or delayed injury discovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

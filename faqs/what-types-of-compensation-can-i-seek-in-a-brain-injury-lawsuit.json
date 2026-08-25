@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I seek in a brain injury lawsuit?",
+  "description": "Compensation in a brain injury lawsuit can cover medical expenses, lost wages, pain and suffering, and other related damages.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-in-a-brain-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I seek in a brain injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a brain injury lawsuit, you may be able to seek compensation for various damages. These often include current and future medical expenses, such as hospital stays, rehabilitation, and long-term care. Compensation can also cover lost wages and future earning capacity, pain and suffering, emotional distress, and loss of enjoyment of life. In some cases, punitive damages may be awarded.",
+        "description": "Compensation in a brain injury lawsuit can cover medical expenses, lost wages, pain and suffering, and other related damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

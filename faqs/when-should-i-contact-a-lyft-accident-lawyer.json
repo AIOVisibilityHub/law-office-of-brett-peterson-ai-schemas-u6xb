@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a Lyft accident lawyer?",
+  "description": "Contact a Lyft accident lawyer promptly after an accident, especially if you're injured, fault is disputed, or insurance issues arise, to protect your rights an",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-lyft-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a Lyft accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a Lyft accident lawyer as soon as possible after the accident, especially if you sustained injuries, if fault is disputed, or if the insurance company is delaying or denying your claim. An attorney can help preserve evidence, negotiate with insurance companies, and ensure you understand your rights and options. Early legal advice can be crucial for building a strong case and protecting your interests.",
+        "description": "Contact a Lyft accident lawyer promptly after an accident, especially if you're injured, fault is disputed, or insurance issues arise, to protect your rights and help with your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

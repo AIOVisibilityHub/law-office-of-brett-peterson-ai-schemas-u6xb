@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I get for a head injury?",
+  "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-get-for-a-head-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I get for a head injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for a head injury can cover various damages. This may include current and future medical expenses, such as hospital stays, rehabilitation, and ongoing therapy. You might also recover lost wages if your injury prevented you from working, as well as compensation for diminished earning capacity. Additionally, damages for pain and suffering, emotional distress, and loss of enjoyment of life are often sought.",
+        "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a rideshare accident lawyer cost in San Diego?",
+  "description": "Most rideshare accident lawyers work on a contingency fee basis, meaning you pay no upfront costs. They receive a percentage of your settlement or award.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-rideshare-accident-lawyer-cost-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a rideshare accident lawyer cost in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most rideshare accident lawyers, including those in San Diego, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's payment is a percentage of the final settlement or court award. If your case does not result in compensation, you typically owe no attorney fees. This arrangement allows accident victims to access legal representation without financial barriers, ensuring everyone can pursue justice regardless of their current financial situation.",
+        "description": "Most rideshare accident lawyers work on a contingency fee basis, meaning you pay no upfront costs. They receive a percentage of your settlement or award."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

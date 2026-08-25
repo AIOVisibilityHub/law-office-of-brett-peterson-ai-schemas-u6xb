@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a wrongful death claim in California?",
+  "description": "In California, the general deadline to file a wrongful death claim is two years from the date of death, though exceptions may apply.",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-wrongful-death-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a wrongful death claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, there is a statute of limitations for filing a wrongful death claim, which generally means you have a limited time from the date of death to initiate legal action. Typically, this period is two years. However, there can be exceptions or specific circumstances that shorten or extend this timeframe, particularly if a government entity is involved. It is crucial to consult with an attorney as soon as possible to ensure your claim is filed within the legally mandated period.",
+        "description": "In California, the general deadline to file a wrongful death claim is two years from the date of death, though exceptions may apply."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

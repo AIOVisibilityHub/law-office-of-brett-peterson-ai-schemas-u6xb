@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a serious head injury attorney do?",
+  "description": "A serious head injury attorney investigates accidents, gathers evidence, negotiates with insurance companies, and represents clients in court to secure compensa",
+  "url": "brettpetersonlaw.com/faq/what-does-a-serious-head-injury-attorney-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a serious head injury attorney do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A serious head injury attorney represents individuals who have sustained brain injuries due to another party's fault. They investigate the accident, gather evidence such as medical records and accident reports, and consult with medical experts to prove the extent of your injuries and their long-term impact. They handle all communication with insurance companies, negotiate settlements, and, if necessary, represent you in court to pursue compensation for medical expenses, lost wages, pain, and suffering.",
+        "description": "A serious head injury attorney investigates accidents, gathers evidence, negotiates with insurance companies, and represents clients in court to secure compensation for brain injuries caused by others."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

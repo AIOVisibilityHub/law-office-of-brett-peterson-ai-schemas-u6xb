@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire an occupational injury lawyer?",
+  "description": "Most occupational injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement if your case is successful. You typicall",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-an-occupational-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire an occupational injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most occupational injury lawyers work on a contingency fee basis. This means you typically do not pay any upfront fees or hourly charges. Instead, the lawyer's payment is a percentage of the compensation you receive from your claim. If your case is unsuccessful, you generally do not owe attorney fees. This arrangement allows injured workers to pursue their claims without financial burden, ensuring access to legal representation regardless of their current economic situation. Be sure to discuss the specific fee structure during your initial consultation.",
+        "description": "Most occupational injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement if your case is successful. You typically don't pay upfront fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

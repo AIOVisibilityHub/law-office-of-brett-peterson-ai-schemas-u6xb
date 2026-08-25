@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was a passenger in an Uber accident?",
+  "description": "Yes, as an Uber passenger, you can file a claim for injuries and damages, typically against the at-fault driver or Uber's insurance, regardless of fault.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-a-passenger-in-an-uber-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was a passenger in an Uber accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you were a passenger in an Uber involved in an accident, you absolutely have the right to file a claim for your injuries and damages. As a passenger, you are typically not at fault, which simplifies the liability aspect of your case. You can pursue compensation from the at-fault driver's insurance, the Uber driver's personal insurance, or Uber's commercial insurance policy, depending on the circumstances. An attorney can help identify all potential sources of recovery and manage the process to ensure you receive full compensation.",
+        "description": "Yes, as an Uber passenger, you can file a claim for injuries and damages, typically against the at-fault driver or Uber's insurance, regardless of fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

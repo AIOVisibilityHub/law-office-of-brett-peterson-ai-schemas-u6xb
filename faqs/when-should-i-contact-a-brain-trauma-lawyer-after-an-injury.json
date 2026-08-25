@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a brain trauma lawyer after an injury?",
+  "description": "Contact a brain trauma lawyer as soon as possible after an injury to help preserve evidence and meet legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-brain-trauma-lawyer-after-an-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a brain trauma lawyer after an injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a brain trauma lawyer as soon as possible after a brain injury, ideally within days or weeks. Early legal involvement helps preserve critical evidence, ensure proper medical documentation, and meet crucial legal deadlines. Waiting too long can make it more challenging to build a strong case and secure the maximum compensation you deserve.",
+        "description": "Contact a brain trauma lawyer as soon as possible after an injury to help preserve evidence and meet legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

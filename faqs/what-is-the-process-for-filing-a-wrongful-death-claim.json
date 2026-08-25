@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a wrongful death claim?",
+  "description": "The process involves investigation, gathering evidence, filing a formal complaint, discovery, and then either negotiating a settlement or proceeding to trial.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-wrongful-death-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a wrongful death claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for filing a wrongful death claim typically begins with a thorough investigation by your attorney to gather evidence and identify responsible parties. This involves collecting police reports, medical records, witness statements, and expert testimony. Next, a formal complaint is filed with the court, initiating the lawsuit. The process then moves through discovery, where information is exchanged, followed by negotiations for a settlement or, if necessary, a trial.",
+        "description": "The process involves investigation, gathering evidence, filing a formal complaint, discovery, and then either negotiating a settlement or proceeding to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

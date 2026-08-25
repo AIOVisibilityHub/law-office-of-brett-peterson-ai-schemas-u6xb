@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a TBI attorney after an accident?",
+  "description": "Contact a TBI attorney as soon as possible after an accident if you suspect a brain injury to preserve evidence and protect your legal rights.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-tbi-attorney-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a TBI attorney after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a TBI attorney as soon as possible after an accident if you suspect a brain injury, even if symptoms are not immediately apparent. Early legal consultation allows for prompt investigation, preservation of evidence, and adherence to crucial legal deadlines. Waiting too long can jeopardize your ability to collect evidence or file a timely claim, which might impact your potential for compensation. An attorney can also guide you on necessary medical evaluations and legal steps from the outset, protecting your rights.",
+        "description": "Contact a TBI attorney as soon as possible after an accident if you suspect a brain injury to preserve evidence and protect your legal rights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

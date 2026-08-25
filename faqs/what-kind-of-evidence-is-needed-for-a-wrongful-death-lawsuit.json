@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of evidence is needed for a wrongful death lawsuit?",
+  "description": "Evidence includes police and medical reports, witness statements, photos, videos, expert testimony, and financial documents to prove negligence and damages.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-evidence-is-needed-for-a-wrongful-death-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of evidence is needed for a wrongful death lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a strong wrongful death lawsuit requires comprehensive evidence. This can include police reports, accident reports, medical records, autopsy reports, death certificates, and toxicology results. Witness statements, photographs, video surveillance, and expert testimony (e.g., from accident reconstructionists or medical experts) are also crucial. Financial documents, such as tax returns and pay stubs, help demonstrate lost income and support. The more evidence gathered, the stronger the claim becomes, supporting the negligence and damages suffered by the family.",
+        "description": "Evidence includes police and medical reports, witness statements, photos, videos, expert testimony, and financial documents to prove negligence and damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

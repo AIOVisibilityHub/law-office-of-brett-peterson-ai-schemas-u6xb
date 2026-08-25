@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a head injury claim if I had a pre-existing condition?",
+  "description": "Yes, you can still file a claim if a new injury caused by negligence worsened a pre-existing condition.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-head-injury-claim-if-i-had-a-pre-existing-condition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a head injury claim if I had a pre-existing condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you may still be able to file a head injury claim even if you had a pre-existing condition. The law protects individuals whose pre-existing conditions are worsened or aggravated by a new injury caused by someone else's negligence. It is crucial to demonstrate that the recent accident caused a new injury or significantly exacerbated your prior condition. Your attorney will help differentiate the new damage from the old.",
+        "description": "Yes, you can still file a claim if a new injury caused by negligence worsened a pre-existing condition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

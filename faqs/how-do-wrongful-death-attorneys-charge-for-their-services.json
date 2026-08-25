@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do wrongful death attorneys charge for their services?",
+  "description": "Most wrongful death attorneys charge on a contingency fee basis, meaning their fees are a percentage of the final settlement or award, with no upfront costs.",
+  "url": "brettpetersonlaw.com/faq/how-do-wrongful-death-attorneys-charge-for-their-services",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do wrongful death attorneys charge for their services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most wrongful death attorneys work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the attorney's fees are a percentage of the final settlement or court award. If the attorney does not recover compensation for you, you typically do not owe any attorney fees. This arrangement allows families to pursue justice without immediate financial burden, as legal costs are deferred until the case's conclusion.",
+        "description": "Most wrongful death attorneys charge on a contingency fee basis, meaning their fees are a percentage of the final settlement or award, with no upfront costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

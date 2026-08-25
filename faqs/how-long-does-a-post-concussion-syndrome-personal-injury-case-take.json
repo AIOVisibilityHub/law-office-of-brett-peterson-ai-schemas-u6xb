@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a post-concussion syndrome personal injury case take?",
+  "description": "Case duration varies widely based on injury severity, evidence complexity, insurance cooperation, and court schedules, ranging from months to several years.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-post-concussion-syndrome-personal-injury-case-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a post-concussion syndrome personal injury case take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a post-concussion syndrome personal injury case can vary significantly. Factors influencing the timeline include the severity of your injuries, the complexity of medical evidence, the willingness of the at-fault party's insurance company to negotiate, and court schedules if a lawsuit is filed. Some cases settle in a few months, while others, particularly those involving more severe or long-lasting PCS symptoms, can take several years to resolve through litigation. Your attorney will provide a more specific estimate based on your situation.",
+        "description": "Case duration varies widely based on injury severity, evidence complexity, insurance cooperation, and court schedules, ranging from months to several years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

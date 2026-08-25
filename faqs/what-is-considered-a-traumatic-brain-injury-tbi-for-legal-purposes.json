@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered a traumatic brain injury (TBI) for legal purposes?",
+  "description": "A TBI for legal purposes is brain damage caused by an external force, like a blow to the head, impacting the victim's life.",
+  "url": "brettpetersonlaw.com/faq/what-is-considered-a-traumatic-brain-injury-tbi-for-legal-purposes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered a traumatic brain injury (TBI) for legal purposes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For legal purposes, a traumatic brain injury (TBI) refers to a sudden injury that damages the brain, often caused by a blow or jolt to the head. This can include concussions, contusions, or more severe injuries. The key aspect is that an external force causes the brain to move within the skull, leading to tissue damage, bleeding, or bruising. Even seemingly minor incidents can result in significant, long-term effects. A legal claim focuses on establishing the connection between the incident and the resulting brain injury, as well as its impact on the victim's life and ability to function.",
+        "description": "A TBI for legal purposes is brain damage caused by an external force, like a blow to the head, impacting the victim's life."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

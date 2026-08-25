@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue Uber or Lyft directly after an accident?",
+  "description": "Suing Uber or Lyft directly is challenging due to driver classification. A lawyer can pursue claims against their insurance policies or other liable parties eff",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-uber-or-lyft-directly-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue Uber or Lyft directly after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Suing Uber or Lyft directly can be challenging due to their classification of drivers as independent contractors, rather than employees. However, their substantial insurance policies often provide coverage for accidents that occur during a rideshare trip. A skilled rideshare injury lawyer will understand the nuances of these policies and how to pursue compensation effectively, whether by making a claim against the rideshare company's insurance, the driver's insurance, or another at-fault party. Direct lawsuits against the company itself are typically a last resort.",
+        "description": "Suing Uber or Lyft directly is challenging due to driver classification. A lawyer can pursue claims against their insurance policies or other liable parties effectively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

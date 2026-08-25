@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a wrongful death lawsuit?",
+  "description": "A wrongful death lawsuit is a civil action seeking compensation for losses when a person dies due to another's negligence or intentional act. It helps surviving",
+  "url": "brettpetersonlaw.com/faq/what-is-a-wrongful-death-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a wrongful death lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A wrongful death lawsuit is a civil action brought against a party whose negligent or intentional act caused another person's death. This type of lawsuit seeks to recover damages for the financial and emotional losses suffered by the deceased's surviving family members or beneficiaries. It is distinct from criminal charges, focusing on compensation for the harm caused rather than punishment. Common scenarios include fatal car accidents, medical malpractice, and workplace incidents. The goal is to provide financial relief to those left behind due to a preventable death.",
+        "description": "A wrongful death lawsuit is a civil action seeking compensation for losses when a person dies due to another's negligence or intentional act. It helps surviving family members recover damages for their suffering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the accident was partially my fault?",
+  "description": "In California, if you are partially at fault for an accident causing brain injury, you can still seek compensation, but your damages may be reduced by your perc",
+  "url": "brettpetersonlaw.com/faq/what-if-the-accident-was-partially-my-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the accident was partially my fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the accident that caused your brain injury was partially your fault, it doesn't necessarily prevent you from seeking compensation. California follows a 'pure comparative negligence' rule. This means that your recoverable damages may be reduced by your percentage of fault. For example, if you are found 20% at fault, your compensation would be reduced by 20%. An attorney can help determine your degree of fault and its impact on your claim.",
+        "description": "In California, if you are partially at fault for an accident causing brain injury, you can still seek compensation, but your damages may be reduced by your percentage of fault under 'pure comparative negligence.'"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

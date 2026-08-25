@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was an Uber passenger involved in an accident?",
+  "description": "As an Uber passenger, you are typically covered by Uber's $1 million commercial insurance policy if injured during a ride or while the driver was en route to pi",
+  "url": "brettpetersonlaw.com/faq/what-if-i-was-an-uber-passenger-involved-in-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was an Uber passenger involved in an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As an Uber passenger, you are generally in a strong position to seek compensation if you are injured in an accident, regardless of who was at fault. Uber's $1 million commercial insurance policy is designed to cover passenger injuries if the driver was actively transporting you or en route to pick you up. You would typically file a claim against this policy. It's still important to gather evidence and seek medical attention. An attorney can help you navigate the claim process against Uber's insurance to ensure you receive fair compensation.",
+        "description": "As an Uber passenger, you are typically covered by Uber's $1 million commercial insurance policy if injured during a ride or while the driver was en route to pick you up."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

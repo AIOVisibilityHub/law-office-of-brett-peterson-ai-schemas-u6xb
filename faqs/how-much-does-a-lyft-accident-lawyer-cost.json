@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a Lyft accident lawyer cost?",
+  "description": "Most Lyft accident lawyers operate on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of your settlement or award if y",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-lyft-accident-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a Lyft accident lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most Lyft accident lawyers work on a contingency fee basis. This means you do not pay any upfront legal fees. The lawyer's payment is a percentage of the final settlement or court award you receive. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows individuals to pursue their claims without financial burden while their case is ongoing.",
+        "description": "Most Lyft accident lawyers operate on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of your settlement or award if your case is successful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a wrongful death claim in San Diego?",
+  "description": "A wrongful death claim in San Diego allows surviving family members to seek compensation when a loved one dies due to another party's negligence or wrongful act",
+  "url": "brettpetersonlaw.com/faq/what-is-a-wrongful-death-claim-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a wrongful death claim in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A wrongful death claim in San Diego is a legal action brought by surviving family members when a loved one dies due to the negligence, recklessness, or intentional act of another party. This type of claim seeks compensation for losses suffered as a result of the death, such as funeral expenses, medical bills, loss of financial support, and emotional distress. Unlike criminal cases, which aim to punish, a wrongful death claim focuses on monetary damages for the survivors.",
+        "description": "A wrongful death claim in San Diego allows surviving family members to seek compensation when a loved one dies due to another party's negligence or wrongful act."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

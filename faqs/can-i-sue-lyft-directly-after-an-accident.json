@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue Lyft directly after an accident?",
+  "description": "Whether you can sue Lyft directly depends on the accident's circumstances and the driver's status; a lawyer can determine the correct parties to pursue a claim",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-lyft-directly-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue Lyft directly after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Suing Lyft directly depends on the specific circumstances of the accident and the Lyft driver's status at the time. Lyft provides insurance coverage for drivers when they are active on the platform, but the extent of this coverage varies. In many cases, claims are initially made against the driver's personal insurance and/or Lyft's commercial policy. A lawyer can determine the appropriate parties to pursue compensation from, which may or may not involve directly suing Lyft.",
+        "description": "Whether you can sue Lyft directly depends on the accident's circumstances and the driver's status; a lawyer can determine the correct parties to pursue a claim against."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

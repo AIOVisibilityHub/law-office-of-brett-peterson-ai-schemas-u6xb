@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important in a fatal accident case?",
+  "description": "Important evidence includes police reports, photos, witness statements, medical records, and proof of the at-fault party's negligence.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-fatal-accident-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important in a fatal accident case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence in a fatal accident case includes police reports, accident reconstruction reports, photographs and videos of the scene, witness statements, medical records of the deceased, autopsy reports, and toxicology results. Additionally, any evidence of the at-fault party's negligence, such as traffic citations, driving records, or maintenance logs for vehicles or property, is vital. Financial documents proving lost income and funeral expenses are also important for calculating damages.",
+        "description": "Important evidence includes police reports, photos, witness statements, medical records, and proof of the at-fault party's negligence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after an Uber accident in San Diego?",
+  "description": "Prioritize safety, call 911 if necessary, exchange information, document the scene, seek medical attention, and report to Uber.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-an-uber-accident-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after an Uber accident in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After an Uber accident in San Diego, first ensure your safety and call 911 for emergency services if needed. Exchange insurance and contact information with all parties involved, including the Uber driver and any other vehicles. Document the scene by taking photos of vehicle damage, injuries, and road conditions. Do not admit fault or make recorded statements to insurance companies without legal counsel. Seek medical attention promptly, even if injuries seem minor, as some symptoms can appear later. Report the incident to Uber through their app.",
+        "description": "Prioritize safety, call 911 if necessary, exchange information, document the scene, seek medical attention, and report to Uber."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important in a rideshare accident case?",
+  "description": "Important evidence includes police reports, medical records, photos/videos, witness statements, rideshare app data, and communications related to the accident.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-rideshare-accident-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important in a rideshare accident case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence in a rideshare accident case includes police reports, medical records detailing all injuries and treatments, photographs or videos of the accident scene, vehicle damage, and injuries. It also involves witness statements, rideshare app data (trip details, driver status), and any communication with the rideshare company or driver. An attorney can help identify and collect all necessary evidence, including subpoenaing records or hiring accident reconstruction experts, to build a strong case.",
+        "description": "Important evidence includes police reports, medical records, photos/videos, witness statements, rideshare app data, and communications related to the accident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

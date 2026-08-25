@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is workers' compensation and who is eligible?",
+  "description": "Workers' compensation provides wage replacement and medical benefits for employees injured on the job. Most employees are eligible if their injury or illness oc",
+  "url": "brettpetersonlaw.com/faq/what-is-workers-compensation-and-who-is-eligible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is workers' compensation and who is eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' compensation is a form of insurance providing wage replacement and medical benefits to employees injured in the course of their employment. Eligibility typically requires that the injury or illness occurred while performing job duties. It covers most employees, regardless of fault, for injuries sustained on the job, including repetitive strain injuries or occupational diseases. Self-employed individuals or independent contractors are generally not covered. It's designed to provide a safety net for workers, ensuring they receive necessary care and financial support during recovery.",
+        "description": "Workers' compensation provides wage replacement and medical benefits for employees injured on the job. Most employees are eligible if their injury or illness occurred during work duties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

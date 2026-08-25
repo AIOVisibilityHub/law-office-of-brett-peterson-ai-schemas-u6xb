@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather before speaking with a Lyft accident lawyer?",
+  "description": "Before consulting a lawyer, gather accident details like date, time, location, contact and insurance info, police reports, medical records, and any photos or vi",
+  "url": "brettpetersonlaw.com/faq/what-information-should-i-gather-before-speaking-with-a-lyft-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather before speaking with a Lyft accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before speaking with a Lyft accident lawyer, gather any information you have about the incident. This includes the date, time, and location of the accident, contact details for all parties involved, insurance information, police report numbers, medical records related to your injuries, and any photos or videos you took at the scene. This information helps your lawyer quickly assess your case.",
+        "description": "Before consulting a lawyer, gather accident details like date, time, location, contact and insurance info, police reports, medical records, and any photos or videos."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

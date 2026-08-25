@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a wrongful death claim in California?",
+  "description": "A wrongful death claim in California allows surviving family members to seek compensation when a loved one dies due to another's negligence or misconduct.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-wrongful-death-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a wrongful death claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A wrongful death claim in California allows certain surviving family members to seek compensation when a loved one dies due to someone else's negligence or misconduct. This could involve car accidents, medical malpractice, dangerous property conditions, or other negligent acts. The purpose of such a claim is to recover damages for financial losses, such as lost income and funeral expenses, as well as non-economic damages like loss of companionship. It is distinct from criminal charges, focusing instead on civil liability and monetary recovery for the family.",
+        "description": "A wrongful death claim in California allows surviving family members to seek compensation when a loved one dies due to another's negligence or misconduct."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

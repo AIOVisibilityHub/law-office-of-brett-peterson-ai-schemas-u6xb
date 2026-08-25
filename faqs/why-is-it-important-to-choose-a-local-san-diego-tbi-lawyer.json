@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is it important to choose a local San Diego TBI lawyer?",
+  "description": "A local San Diego TBI lawyer understands local courts, judges, and has connections with local experts, which can benefit your case.",
+  "url": "brettpetersonlaw.com/faq/why-is-it-important-to-choose-a-local-san-diego-tbi-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is it important to choose a local San Diego TBI lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a local San Diego TBI lawyer offers distinct advantages because they are familiar with the specific court procedures, local judges, and opposing counsel in the San Diego County legal system. This local knowledge can be invaluable in strategizing and navigating the legal process efficiently. They also have established relationships with local medical experts and investigators who can provide crucial support for your case. A local lawyer is easily accessible for in-person meetings and understands the community context, which can be beneficial in presenting your case effectively to a local jury, if necessary.",
+        "description": "A local San Diego TBI lawyer understands local courts, judges, and has connections with local experts, which can benefit your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation can I seek after an Uber car accident?",
+  "description": "You may seek compensation for medical expenses, lost wages, pain and suffering, emotional distress, and property damage after an Uber accident.",
+  "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-after-an-uber-car-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation can I seek after an Uber car accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you've been injured in an Uber accident due to another party's negligence, you may be eligible to recover various types of damages. These can include medical expenses (past and future), lost wages or earning capacity, pain and suffering, emotional distress, and property damage to your vehicle. The specific compensation you can seek depends on the severity of your injuries, the impact on your life, and the specifics of the accident. An attorney can help you identify and quantify all potential damages.",
+        "description": "You may seek compensation for medical expenses, lost wages, pain and suffering, emotional distress, and property damage after an Uber accident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

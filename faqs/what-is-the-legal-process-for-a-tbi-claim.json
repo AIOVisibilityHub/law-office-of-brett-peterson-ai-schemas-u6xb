@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the legal process for a TBI claim?",
+  "description": "The process involves investigation, demand letter, negotiations, and potentially a lawsuit with discovery, mediation, and trial.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-legal-process-for-a-tbi-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the legal process for a TBI claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The legal process for a TBI claim typically begins with an initial consultation and investigation by your lawyer. This involves gathering evidence, medical records, and expert opinions. Next, a demand letter is sent to the at-fault party's insurance company. If negotiations don't result in a fair settlement, a lawsuit may be filed. This can lead to discovery (exchanging information), mediation, and potentially a trial. Your lawyer will guide you through each step.",
+        "description": "The process involves investigation, demand letter, negotiations, and potentially a lawsuit with discovery, mediation, and trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

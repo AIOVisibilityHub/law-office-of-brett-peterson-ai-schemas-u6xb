@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I receive for a traumatic brain injury?",
+  "description": "You can receive compensation for medical expenses, lost wages, rehabilitation, pain and suffering, and other damages resulting from your TBI.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-for-a-traumatic-brain-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I receive for a traumatic brain injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for a traumatic brain injury can cover a range of damages, both economic and non-economic. Economic damages include current and future medical expenses, rehabilitation costs, lost wages, and loss of earning capacity. Non-economic damages address pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. The specific amount depends on the severity of the injury, its impact on your life, and the specifics of your case.",
+        "description": "You can receive compensation for medical expenses, lost wages, rehabilitation, pain and suffering, and other damages resulting from your TBI."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

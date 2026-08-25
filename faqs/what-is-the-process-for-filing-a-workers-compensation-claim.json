@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a workers' compensation claim?",
+  "description": "First, report your injury to your employer and seek medical attention. Then, file a claim form. A lawyer can help if your claim is denied or disputed.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-workers-compensation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a workers' compensation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with reporting your injury to your employer immediately. Then, you'll need to seek medical attention and inform the doctor that it's a work-related injury. Your employer should provide you with a claim form (e.g., DWC-1 in California) to fill out and submit. Once filed, the insurance company will review your claim, potentially authorizing medical treatment. If your claim is denied or if you encounter issues, a lawyer can help you navigate appeals and other legal steps.",
+        "description": "First, report your injury to your employer and seek medical attention. Then, file a claim form. A lawyer can help if your claim is denied or disputed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

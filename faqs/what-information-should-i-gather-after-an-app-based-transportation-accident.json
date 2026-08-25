@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I gather after an app-based transportation accident?",
+  "description": "Gather all drivers' info, witness contacts, photos/videos of the scene and injuries, and rideshare trip details. This documentation is crucial for your case.",
+  "url": "brettpetersonlaw.com/faq/what-information-should-i-gather-after-an-app-based-transportation-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I gather after an app-based transportation accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After ensuring your safety and seeking medical attention, gather as much information as possible at the scene. This includes contact and insurance details for all drivers involved, names and contact information of any witnesses, photos or videos of the accident scene, vehicle damage, and your injuries. Also, record the rideshare driver's name, the rideshare service used, and any trip details from the app. This documentation is vital for building a strong case and will be critical for your lawyer to review.",
+        "description": "Gather all drivers' info, witness contacts, photos/videos of the scene and injuries, and rideshare trip details. This documentation is crucial for your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

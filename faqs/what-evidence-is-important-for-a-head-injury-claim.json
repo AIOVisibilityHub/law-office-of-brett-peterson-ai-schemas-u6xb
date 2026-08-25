@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important for a head injury claim?",
+  "description": "Important evidence includes medical records, accident reports, witness statements, photos, proof of lost wages, and expert testimony.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-head-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important for a head injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence for a head injury claim includes detailed medical records documenting your diagnosis, treatment, and prognosis, as well as bills for all medical expenses. Accident reports, witness statements, and photographs or videos of the accident scene and your injuries are also vital. Proof of lost wages, such as pay stubs or employer statements, and expert testimony from medical professionals can further strengthen your case.",
+        "description": "Important evidence includes medical records, accident reports, witness statements, photos, proof of lost wages, and expert testimony."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

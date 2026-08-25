@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a wrongful death attorney cost?",
+  "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you only pay if they win your case, typically as a percentage of the settlement or award.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-wrongful-death-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a wrongful death attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most wrongful death attorneys, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the final settlement or court award. If the case is unsuccessful, you typically owe no attorney fees. This arrangement allows families to pursue justice without immediate financial burden during a difficult time.",
+        "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you only pay if they win your case, typically as a percentage of the settlement or award."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

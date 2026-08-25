@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a job injury lawyer?",
+  "description": "Hire a job injury lawyer if your claim is denied, your employer disputes your injury, or if your injury is severe and impacting your ability to work.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-job-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a job injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider hiring a job injury lawyer if your claim has been denied, if your employer is disputing the injury, or if you are not receiving necessary medical treatment. You should also consult a lawyer if your injury is severe, causes long-term disability, or prevents you from returning to your previous job. It's often beneficial to seek legal advice early, even if your case seems straightforward, to understand your rights and avoid common pitfalls that could jeopardize your benefits.",
+        "description": "Hire a job injury lawyer if your claim is denied, your employer disputes your injury, or if your injury is severe and impacting your ability to work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

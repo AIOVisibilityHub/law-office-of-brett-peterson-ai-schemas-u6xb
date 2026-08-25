@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a traumatic brain injury lawyer in San Diego?",
+  "description": "TBI lawyers in San Diego usually work on a contingency fee, meaning no upfront costs; they get paid a percentage of your recovery.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-traumatic-brain-injury-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a traumatic brain injury lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most traumatic brain injury lawyers in San Diego, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fee is a percentage of the compensation recovered through a settlement or trial verdict. If your case is not successful, you generally owe no attorney fees. This arrangement allows individuals who have suffered serious injuries to pursue justice without the burden of hourly legal costs. We typically offer a free initial consultation to discuss your case and explain our fee structure.",
+        "description": "TBI lawyers in San Diego usually work on a contingency fee, meaning no upfront costs; they get paid a percentage of your recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

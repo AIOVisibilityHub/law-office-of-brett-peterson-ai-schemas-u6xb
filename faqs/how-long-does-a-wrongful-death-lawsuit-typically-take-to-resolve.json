@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a wrongful death lawsuit typically take to resolve?",
+  "description": "The resolution time for a wrongful death lawsuit varies, from under a year for settlements to several years for trials, depending on case complexity and negotia",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-wrongful-death-lawsuit-typically-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a wrongful death lawsuit typically take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a wrongful death lawsuit can vary significantly depending on several factors, including the complexity of the case, the number of parties involved, the extent of damages, and whether a settlement can be reached. Some cases may resolve within a year through negotiation, while others, particularly those that proceed to trial, could take several years. Factors such as court schedules, the discovery process, and the willingness of all parties to negotiate impact the timeline. Your lawyer can provide a more specific estimate after evaluating the details of your particular claim.",
+        "description": "The resolution time for a wrongful death lawsuit varies, from under a year for settlements to several years for trials, depending on case complexity and negotiation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

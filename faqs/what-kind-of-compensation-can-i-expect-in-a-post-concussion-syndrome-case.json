@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I expect in a post-concussion syndrome case?",
+  "description": "Compensation for PCS can include medical expenses, lost wages, and non-economic damages like pain and suffering, depending on the injury's impact and circumstan",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-expect-in-a-post-concussion-syndrome-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I expect in a post-concussion syndrome case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation in a post-concussion syndrome case can cover a range of damages. This may include current and future medical expenses, such as doctor visits, therapy, and medications. You might also seek compensation for lost wages due to time off work or reduced earning capacity. Additionally, non-economic damages like pain and suffering, emotional distress, and loss of enjoyment of life may be pursued. The specific amount depends on the severity of your condition, the impact on your life, and the circumstances of the injury.",
+        "description": "Compensation for PCS can include medical expenses, lost wages, and non-economic damages like pain and suffering, depending on the injury's impact and circumstances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

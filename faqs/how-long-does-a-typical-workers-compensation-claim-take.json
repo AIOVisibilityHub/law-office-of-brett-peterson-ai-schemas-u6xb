@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical workers' compensation claim take?",
+  "description": "Claim duration varies by injury severity and dispute status. Simple claims may take months, complex ones a year or more. A lawyer can help streamline the proces",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-typical-workers-compensation-claim-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical workers' compensation claim take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a workers' compensation claim varies significantly based on factors like the severity of your injury, whether the claim is disputed, and the specific processes in your state. Simple, undisputed claims might resolve in a few months, while complex cases involving multiple medical evaluations or appeals could take a year or more. A lawyer can help expedite the process by ensuring all paperwork is correctly filed and by effectively negotiating with the insurance company, but they cannot guarantee specific timelines.",
+        "description": "Claim duration varies by injury severity and dispute status. Simple claims may take months, complex ones a year or more. A lawyer can help streamline the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

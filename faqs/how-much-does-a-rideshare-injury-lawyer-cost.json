@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a rideshare injury lawyer cost?",
+  "description": "Most rideshare injury lawyers work on a contingency fee basis, meaning you pay no upfront fees. Their payment is a percentage of your successful compensation.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-rideshare-injury-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a rideshare injury lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most rideshare injury lawyers work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation they successfully recover for you, either through a settlement or a court award. If your lawyer does not win your case, you typically owe them nothing. This arrangement allows injured individuals to pursue justice without worrying about hourly rates or initial costs, making legal representation accessible.",
+        "description": "Most rideshare injury lawyers work on a contingency fee basis, meaning you pay no upfront fees. Their payment is a percentage of your successful compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

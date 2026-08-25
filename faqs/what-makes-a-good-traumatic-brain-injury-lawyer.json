@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What makes a good traumatic brain injury lawyer?",
+  "description": "A good TBI lawyer has specific experience with brain injury cases, a strong track record, negotiation skills, and a compassionate approach.",
+  "url": "brettpetersonlaw.com/faq/what-makes-a-good-traumatic-brain-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes a good traumatic brain injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A good traumatic brain injury lawyer possesses specific experience in handling TBI cases, understanding the unique medical, financial, and emotional challenges involved. They should have a proven track record of securing favorable outcomes for clients with brain injuries. Key qualities include strong negotiation skills, litigation experience, access to medical experts, and a compassionate approach to client care. They must be capable of accurately valuing complex damages and explaining legal processes clearly. Importantly, they should be dedicated to advocating for your long-term well-being.",
+        "description": "A good TBI lawyer has specific experience with brain injury cases, a strong track record, negotiation skills, and a compassionate approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

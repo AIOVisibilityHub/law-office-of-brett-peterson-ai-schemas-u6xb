@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of damages can be recovered in a wrongful death case?",
+  "description": "Recoverable damages in a wrongful death case can include funeral costs, lost income, medical bills, and compensation for emotional suffering and loss of compani",
+  "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-be-recovered-in-a-wrongful-death-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of damages can be recovered in a wrongful death case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Damages in a wrongful death case can include economic and non-economic losses. Economic damages may cover funeral and burial expenses, medical bills incurred before death, loss of the deceased's expected income, and loss of household services. Non-economic damages compensate for emotional suffering, loss of companionship, comfort, affection, and moral support. The specific damages awarded depend on the unique circumstances of each case.",
+        "description": "Recoverable damages in a wrongful death case can include funeral costs, lost income, medical bills, and compensation for emotional suffering and loss of companionship."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

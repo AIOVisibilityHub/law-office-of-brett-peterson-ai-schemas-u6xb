@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider hiring a wrongful death attorney?",
+  "description": "Consider hiring an attorney immediately after a wrongful death to preserve evidence, meet deadlines, and handle legal complexities while you grieve.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consider-hiring-a-wrongful-death-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider hiring a wrongful death attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a wrongful death attorney as soon as possible after a loved one's death due to someone else's actions or negligence. This early engagement allows your legal team to promptly investigate the incident, preserve critical evidence, and ensure all legal deadlines are met. Delaying can make it more challenging to gather evidence and build a strong case. An attorney can also handle communications with insurance companies and other parties, allowing you to focus on grieving and your family.",
+        "description": "Consider hiring an attorney immediately after a wrongful death to preserve evidence, meet deadlines, and handle legal complexities while you grieve."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

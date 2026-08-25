@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I seek in a TBI lawsuit?",
+  "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from a TBI.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-in-a-tbi-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I seek in a TBI lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a TBI lawsuit, you can seek various types of compensation, often categorized as economic and non-economic damages. Economic damages cover tangible financial losses, such as past and future medical expenses (hospital stays, rehabilitation, medications), lost wages, and loss of earning capacity. Non-economic damages address intangible losses like pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. The goal is to compensate you fully for the impact the brain injury has had on your life, both financially and personally. Your lawyer will help quantify these damages.",
+        "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from a TBI."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
