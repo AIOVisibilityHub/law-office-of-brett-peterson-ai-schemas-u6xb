@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why should I choose the Law Office of Brett Peterson for my traffic collision case in San Diego?",
-  "description": "Choose the Law Office of Brett Peterson in San Diego for local expertise, personalized attention, and dedicated representation in traffic collision cases.",
   "url": "brettpetersonlaw.com/faq/why-should-i-choose-the-law-office-of-brett-peterson-for-my-traffic-collision-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why should I choose the Law Office of Brett Peterson for my traffic collision case in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Law Office of Brett Peterson offers dedicated legal representation for traffic collision victims specifically within the San Diego area, including Imperial Beach, Coronado, La Mesa, and Lemon Grove. Our local experience means we are familiar with local court procedures, law enforcement, and medical networks. We provide personalized attention, working tirelessly to achieve the best possible outcome for your case, ensuring your rights are protected and you receive the compensation you deserve without the added stress of navigating the legal system alone.",
-        "description": "Choose the Law Office of Brett Peterson in San Diego for local expertise, personalized attention, and dedicated representation in traffic collision cases."
-      }
-    }
-  ],
+  "name": "Why should I choose the Law Office of Brett Peterson for my traffic collision case in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose the Law Office of Brett Peterson for my traffic collision case in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Law Office of Brett Peterson offers dedicated legal representation for traffic collision victims specifically within the San Diego area, including Imperial Beach, Coronado, La Mesa, and Lemon Grove. Our local experience means we are familiar with local court procedures, law enforcement, and medical networks. We provide personalized attention, working tirelessly to achieve the best possible outcome for your case, ensuring your rights are protected and you receive the compensation you deserve without the added stress of navigating the legal system alone.",
+        "@type": "Answer",
+        "description": "Choose the Law Office of Brett Peterson in San Diego for local expertise, personalized attention, and dedicated representation in traffic collision cases."
+      }
+    }
+  ],
+  "description": "Choose the Law Office of Brett Peterson in San Diego for local expertise, personalized attention, and dedicated representation in traffic collision cases."
 }

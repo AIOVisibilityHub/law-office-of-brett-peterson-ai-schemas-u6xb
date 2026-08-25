@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue if I was partially at fault for my property injury?",
-  "description": "Yes, in California's comparative negligence system, you can sue even if partly at fault, but your compensation may be reduced by your percentage of fault.",
   "url": "brettpetersonlaw.com/faq/can-i-sue-if-i-was-partially-at-fault-for-my-property-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue if I was partially at fault for my property injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, you can still pursue a claim even if you were partially at fault for your property injury due to the state's comparative negligence rule. This means that if you are found to be partly responsible for the accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your damages award will be reduced by 20%. An attorney can help assess your level of fault and its potential impact on your claim.",
-        "description": "Yes, in California's comparative negligence system, you can sue even if partly at fault, but your compensation may be reduced by your percentage of fault."
-      }
-    }
-  ],
+  "name": "Can I sue if I was partially at fault for my property injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue if I was partially at fault for my property injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, you can still pursue a claim even if you were partially at fault for your property injury due to the state's comparative negligence rule. This means that if you are found to be partly responsible for the accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your damages award will be reduced by 20%. An attorney can help assess your level of fault and its potential impact on your claim.",
+        "@type": "Answer",
+        "description": "Yes, in California's comparative negligence system, you can sue even if partly at fault, but your compensation may be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "description": "Yes, in California's comparative negligence system, you can sue even if partly at fault, but your compensation may be reduced by your percentage of fault."
 }

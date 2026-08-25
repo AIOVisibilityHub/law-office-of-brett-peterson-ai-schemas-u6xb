@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to settle a car accident case?",
-  "description": "The settlement time for a car accident case varies from months to years, depending on factors like injury severity, liability disputes, and litigation.",
   "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-settle-a-car-accident-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to settle a car accident case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a car accident case can vary significantly, ranging from a few months to several years. Simple cases with clear liability and minor injuries may settle more quickly. More complex cases involving serious injuries, extensive medical treatment, disputed fault, or multiple parties can take longer, especially if they proceed to litigation. Factors like insurance company responsiveness and court schedules also influence the timeline. Your lawyer can provide a more specific estimate based on your case details.",
-        "description": "The settlement time for a car accident case varies from months to years, depending on factors like injury severity, liability disputes, and litigation."
-      }
-    }
-  ],
+  "name": "How long does it take to settle a car accident case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to settle a car accident case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a car accident case can vary significantly, ranging from a few months to several years. Simple cases with clear liability and minor injuries may settle more quickly. More complex cases involving serious injuries, extensive medical treatment, disputed fault, or multiple parties can take longer, especially if they proceed to litigation. Factors like insurance company responsiveness and court schedules also influence the timeline. Your lawyer can provide a more specific estimate based on your case details.",
+        "@type": "Answer",
+        "description": "The settlement time for a car accident case varies from months to years, depending on factors like injury severity, liability disputes, and litigation."
+      }
+    }
+  ],
+  "description": "The settlement time for a car accident case varies from months to years, depending on factors like injury severity, liability disputes, and litigation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a medical misdiagnosis and how can a misdiagnosis attorney help?",
-  "description": "A medical misdiagnosis is an incorrect or delayed diagnosis causing harm. A misdiagnosis attorney investigates negligence, gathers evidence, and represents clie",
   "url": "brettpetersonlaw.com/faq/what-is-a-medical-misdiagnosis-and-how-can-a-misdiagnosis-attorney-help",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a medical misdiagnosis and how can a misdiagnosis attorney help?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A medical misdiagnosis occurs when a healthcare professional makes an incorrect or delayed diagnosis of a patient's condition, leading to improper treatment, delayed treatment, or no treatment at all. This can result in significant harm, worsening health, or even death. A misdiagnosis attorney specializes in medical malpractice cases, investigating whether a doctor's actions deviated from the accepted standard of care. They gather evidence, consult medical experts, and represent the patient or their family to seek compensation for damages such as medical bills, lost wages, pain, and suffering. Their goal is to hold negligent parties accountable and secure justice for their clients.",
-        "description": "A medical misdiagnosis is an incorrect or delayed diagnosis causing harm. A misdiagnosis attorney investigates negligence, gathers evidence, and represents clients to seek compensation for damages."
-      }
-    }
-  ],
+  "name": "What is a medical misdiagnosis and how can a misdiagnosis attorney help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a medical misdiagnosis and how can a misdiagnosis attorney help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A medical misdiagnosis occurs when a healthcare professional makes an incorrect or delayed diagnosis of a patient's condition, leading to improper treatment, delayed treatment, or no treatment at all. This can result in significant harm, worsening health, or even death. A misdiagnosis attorney specializes in medical malpractice cases, investigating whether a doctor's actions deviated from the accepted standard of care. They gather evidence, consult medical experts, and represent the patient or their family to seek compensation for damages such as medical bills, lost wages, pain, and suffering. Their goal is to hold negligent parties accountable and secure justice for their clients.",
+        "@type": "Answer",
+        "description": "A medical misdiagnosis is an incorrect or delayed diagnosis causing harm. A misdiagnosis attorney investigates negligence, gathers evidence, and represents clients to seek compensation for damages."
+      }
+    }
+  ],
+  "description": "A medical misdiagnosis is an incorrect or delayed diagnosis causing harm. A misdiagnosis attorney investigates negligence, gathers evidence, and represents clie"
 }

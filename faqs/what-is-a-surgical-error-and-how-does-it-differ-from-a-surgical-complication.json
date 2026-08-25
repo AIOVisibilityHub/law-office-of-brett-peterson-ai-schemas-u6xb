@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a surgical error and how does it differ from a surgical complication?",
-  "description": "A surgical error is a preventable mistake due to negligence, while a complication is a known risk of surgery. A lawyer helps distinguish between them.",
   "url": "brettpetersonlaw.com/faq/what-is-a-surgical-error-and-how-does-it-differ-from-a-surgical-complication",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a surgical error and how does it differ from a surgical complication?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A surgical error occurs when a medical professional deviates from the accepted standard of care during a procedure, directly causing harm to the patient. This could involve operating on the wrong body part, leaving an object inside the patient, or making an avoidable mistake. In contrast, a surgical complication is an expected or known risk of a procedure that can occur even when the medical team acts competently. While complications are sometimes unavoidable, errors are typically preventable and indicate negligence. A surgical error lawyer helps determine if your injury was due to negligence rather than a standard complication.",
-        "description": "A surgical error is a preventable mistake due to negligence, while a complication is a known risk of surgery. A lawyer helps distinguish between them."
-      }
-    }
-  ],
+  "name": "What is a surgical error and how does it differ from a surgical complication?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a surgical error and how does it differ from a surgical complication?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A surgical error occurs when a medical professional deviates from the accepted standard of care during a procedure, directly causing harm to the patient. This could involve operating on the wrong body part, leaving an object inside the patient, or making an avoidable mistake. In contrast, a surgical complication is an expected or known risk of a procedure that can occur even when the medical team acts competently. While complications are sometimes unavoidable, errors are typically preventable and indicate negligence. A surgical error lawyer helps determine if your injury was due to negligence rather than a standard complication.",
+        "@type": "Answer",
+        "description": "A surgical error is a preventable mistake due to negligence, while a complication is a known risk of surgery. A lawyer helps distinguish between them."
+      }
+    }
+  ],
+  "description": "A surgical error is a preventable mistake due to negligence, while a complication is a known risk of surgery. A lawyer helps distinguish between them."
 }

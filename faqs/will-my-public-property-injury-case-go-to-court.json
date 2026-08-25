@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my public property injury case go to court?",
-  "description": "Not all cases go to court; many settle through negotiation. Court is an option if a fair settlement cannot be reached, depending on evidence and willingness to",
   "url": "brettpetersonlaw.com/faq/will-my-public-property-injury-case-go-to-court",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my public property injury case go to court?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not all public property injury cases go to court. Many claims are resolved through negotiations with the government entity or its insurance carrier before a lawsuit is even filed, or during the early stages of litigation. However, if a satisfactory settlement cannot be reached, filing a lawsuit and proceeding to trial may be necessary to pursue fair compensation. The decision to go to court depends on factors like the strength of the evidence, the extent of your damages, and the willingness of the public entity to offer a reasonable settlement. Your attorney will advise on the best course of action.",
-        "description": "Not all cases go to court; many settle through negotiation. Court is an option if a fair settlement cannot be reached, depending on evidence and willingness to settle."
-      }
-    }
-  ],
+  "name": "Will my public property injury case go to court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my public property injury case go to court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all public property injury cases go to court. Many claims are resolved through negotiations with the government entity or its insurance carrier before a lawsuit is even filed, or during the early stages of litigation. However, if a satisfactory settlement cannot be reached, filing a lawsuit and proceeding to trial may be necessary to pursue fair compensation. The decision to go to court depends on factors like the strength of the evidence, the extent of your damages, and the willingness of the public entity to offer a reasonable settlement. Your attorney will advise on the best course of action.",
+        "@type": "Answer",
+        "description": "Not all cases go to court; many settle through negotiation. Court is an option if a fair settlement cannot be reached, depending on evidence and willingness to settle."
+      }
+    }
+  ],
+  "description": "Not all cases go to court; many settle through negotiation. Court is an option if a fair settlement cannot be reached, depending on evidence and willingness to"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a traffic collision claim take to resolve?",
-  "description": "Claim resolution time varies based on accident complexity and injury severity, ranging from a few months for minor cases to over a year for complex ones.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-traffic-collision-claim-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a traffic collision claim take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a traffic collision claim can vary significantly depending on several factors, such as the complexity of the accident, the severity of your injuries, and the responsiveness of insurance companies. Straightforward cases with minor injuries might settle in a few months, while more complex cases involving serious injuries or disputes over fault could take a year or longer, especially if litigation becomes necessary. Your attorney will provide an estimated timeline for your specific situation.",
-        "description": "Claim resolution time varies based on accident complexity and injury severity, ranging from a few months for minor cases to over a year for complex ones."
-      }
-    }
-  ],
+  "name": "How long does a traffic collision claim take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a traffic collision claim take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a traffic collision claim can vary significantly depending on several factors, such as the complexity of the accident, the severity of your injuries, and the responsiveness of insurance companies. Straightforward cases with minor injuries might settle in a few months, while more complex cases involving serious injuries or disputes over fault could take a year or longer, especially if litigation becomes necessary. Your attorney will provide an estimated timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Claim resolution time varies based on accident complexity and injury severity, ranging from a few months for minor cases to over a year for complex ones."
+      }
+    }
+  ],
+  "description": "Claim resolution time varies based on accident complexity and injury severity, ranging from a few months for minor cases to over a year for complex ones."
 }

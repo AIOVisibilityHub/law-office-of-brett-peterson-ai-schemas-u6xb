@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do I need for a premises liability case?",
-  "description": "You'll need photos, videos, witness contacts, medical records, and incident reports to support a premises liability case.",
   "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-for-a-premises-liability-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence do I need for a premises liability case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strong evidence is crucial for a successful premises liability case. This typically includes photographs or videos of the dangerous condition and your injuries, witness contact information, medical records detailing your treatment and diagnosis, incident reports, and any communication with the property owner or their insurance. An attorney can help you identify and gather all necessary evidence to support your claim effectively.",
-        "description": "You'll need photos, videos, witness contacts, medical records, and incident reports to support a premises liability case."
-      }
-    }
-  ],
+  "name": "What evidence do I need for a premises liability case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence do I need for a premises liability case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong evidence is crucial for a successful premises liability case. This typically includes photographs or videos of the dangerous condition and your injuries, witness contact information, medical records detailing your treatment and diagnosis, incident reports, and any communication with the property owner or their insurance. An attorney can help you identify and gather all necessary evidence to support your claim effectively.",
+        "@type": "Answer",
+        "description": "You'll need photos, videos, witness contacts, medical records, and incident reports to support a premises liability case."
+      }
+    }
+  ],
+  "description": "You'll need photos, videos, witness contacts, medical records, and incident reports to support a premises liability case."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered an accident on private property?",
-  "description": "An accident on private property involves injury due to a hazardous condition on land or in a building owned by another party. Property owners may be liable if t",
   "url": "brettpetersonlaw.com/faq/what-is-considered-an-accident-on-private-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered an accident on private property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An accident on private property, often called a premises liability case, occurs when someone is injured due to a hazardous condition on land or in a building owned by another party. This can include slips and falls, dog bites, swimming pool accidents, or injuries from faulty equipment. Property owners have a responsibility to maintain a safe environment for visitors, and if their negligence leads to an injury, they may be held liable. The type of duty owed by the property owner can depend on the injured person's status as an invitee, licensee, or trespasser.",
-        "description": "An accident on private property involves injury due to a hazardous condition on land or in a building owned by another party. Property owners may be liable if their negligence causes harm."
-      }
-    }
-  ],
+  "name": "What is considered an accident on private property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered an accident on private property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accident on private property, often called a premises liability case, occurs when someone is injured due to a hazardous condition on land or in a building owned by another party. This can include slips and falls, dog bites, swimming pool accidents, or injuries from faulty equipment. Property owners have a responsibility to maintain a safe environment for visitors, and if their negligence leads to an injury, they may be held liable. The type of duty owed by the property owner can depend on the injured person's status as an invitee, licensee, or trespasser.",
+        "@type": "Answer",
+        "description": "An accident on private property involves injury due to a hazardous condition on land or in a building owned by another party. Property owners may be liable if their negligence causes harm."
+      }
+    }
+  ],
+  "description": "An accident on private property involves injury due to a hazardous condition on land or in a building owned by another party. Property owners may be liable if t"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why should I choose a local medical negligence lawyer in San Diego?",
-  "description": "A local San Diego medical negligence lawyer understands California laws and local court procedures, has familiarity with local experts, and provides convenient,",
   "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-local-medical-negligence-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why should I choose a local medical negligence lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing a local medical negligence lawyer in San Diego, such as our firm, offers several advantages. We have an in-depth understanding of California's specific medical negligence laws and local court procedures, which can differ from other jurisdictions. Our familiarity with local healthcare providers, medical communities, and expert witnesses in the San Diego area can be invaluable to your case. Being local also allows for more convenient in-person meetings and a more personalized approach, ensuring we are readily available to discuss your case and address your concerns directly.",
-        "description": "A local San Diego medical negligence lawyer understands California laws and local court procedures, has familiarity with local experts, and provides convenient, personalized service."
-      }
-    }
-  ],
+  "name": "Why should I choose a local medical negligence lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local medical negligence lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local medical negligence lawyer in San Diego, such as our firm, offers several advantages. We have an in-depth understanding of California's specific medical negligence laws and local court procedures, which can differ from other jurisdictions. Our familiarity with local healthcare providers, medical communities, and expert witnesses in the San Diego area can be invaluable to your case. Being local also allows for more convenient in-person meetings and a more personalized approach, ensuring we are readily available to discuss your case and address your concerns directly.",
+        "@type": "Answer",
+        "description": "A local San Diego medical negligence lawyer understands California laws and local court procedures, has familiarity with local experts, and provides convenient, personalized service."
+      }
+    }
+  ],
+  "description": "A local San Diego medical negligence lawyer understands California laws and local court procedures, has familiarity with local experts, and provides convenient,"
 }

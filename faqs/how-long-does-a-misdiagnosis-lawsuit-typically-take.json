@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a misdiagnosis lawsuit typically take?",
-  "description": "Misdiagnosis lawsuits can take one to several years, depending on complexity, injury severity, parties involved, and court schedules. Settlement negotiations an",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-misdiagnosis-lawsuit-typically-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a misdiagnosis lawsuit typically take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a misdiagnosis lawsuit can vary significantly, ranging from one year to several years, depending on the complexity of the case, the severity of the injuries, the number of parties involved, and the court's schedule. Factors such as extensive discovery, the need for multiple expert opinions, and the willingness of parties to negotiate can all impact the timeline. While some cases settle relatively quickly, others may proceed through various stages of litigation, including trial and potential appeals, which can extend the process. Your attorney can provide a more specific estimate once they have thoroughly reviewed your particular situation.",
-        "description": "Misdiagnosis lawsuits can take one to several years, depending on complexity, injury severity, parties involved, and court schedules. Settlement negotiations and trials influence the timeline."
-      }
-    }
-  ],
+  "name": "How long does a misdiagnosis lawsuit typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a misdiagnosis lawsuit typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a misdiagnosis lawsuit can vary significantly, ranging from one year to several years, depending on the complexity of the case, the severity of the injuries, the number of parties involved, and the court's schedule. Factors such as extensive discovery, the need for multiple expert opinions, and the willingness of parties to negotiate can all impact the timeline. While some cases settle relatively quickly, others may proceed through various stages of litigation, including trial and potential appeals, which can extend the process. Your attorney can provide a more specific estimate once they have thoroughly reviewed your particular situation.",
+        "@type": "Answer",
+        "description": "Misdiagnosis lawsuits can take one to several years, depending on complexity, injury severity, parties involved, and court schedules. Settlement negotiations and trials influence the timeline."
+      }
+    }
+  ],
+  "description": "Misdiagnosis lawsuits can take one to several years, depending on complexity, injury severity, parties involved, and court schedules. Settlement negotiations an"
 }

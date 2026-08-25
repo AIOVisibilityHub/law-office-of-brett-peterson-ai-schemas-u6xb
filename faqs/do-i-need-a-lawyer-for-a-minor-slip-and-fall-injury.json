@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for a minor slip and fall injury?",
-  "description": "Even for minor slip and fall injuries, a lawyer can help ensure fair compensation and manage communications with insurance companies.",
   "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-for-a-minor-slip-and-fall-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a lawyer for a minor slip and fall injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While minor injuries might seem manageable without legal help, consulting a lawyer is still advisable. What appears minor initially can sometimes lead to more serious complications or long-term issues. A lawyer can help ensure you don't overlook any potential compensation, even for seemingly small medical bills or lost time at work. They can also handle communication with insurance companies, who might try to offer a low settlement, protecting your rights and ensuring you receive fair compensation.",
-        "description": "Even for minor slip and fall injuries, a lawyer can help ensure fair compensation and manage communications with insurance companies."
-      }
-    }
-  ],
+  "name": "Do I need a lawyer for a minor slip and fall injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a lawyer for a minor slip and fall injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor injuries might seem manageable without legal help, consulting a lawyer is still advisable. What appears minor initially can sometimes lead to more serious complications or long-term issues. A lawyer can help ensure you don't overlook any potential compensation, even for seemingly small medical bills or lost time at work. They can also handle communication with insurance companies, who might try to offer a low settlement, protecting your rights and ensuring you receive fair compensation.",
+        "@type": "Answer",
+        "description": "Even for minor slip and fall injuries, a lawyer can help ensure fair compensation and manage communications with insurance companies."
+      }
+    }
+  ],
+  "description": "Even for minor slip and fall injuries, a lawyer can help ensure fair compensation and manage communications with insurance companies."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact an auto accident lawyer after a car crash?",
-  "description": "Contact an auto accident lawyer as soon as possible after a crash, especially with injuries or significant damage, to protect your rights and aid evidence colle",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-auto-accident-lawyer-after-a-car-crash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact an auto accident lawyer after a car crash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact an auto accident lawyer as soon as possible after a car crash, especially if there are injuries, significant property damage, or disputes about fault. Early legal consultation can help protect your rights, ensure proper evidence collection, and guide you through the complex claims process. Waiting too long might lead to missed deadlines or difficulties in gathering crucial information. A lawyer can assess your situation and advise on the best course of action from the outset.",
-        "description": "Contact an auto accident lawyer as soon as possible after a crash, especially with injuries or significant damage, to protect your rights and aid evidence collection."
-      }
-    }
-  ],
+  "name": "When should I contact an auto accident lawyer after a car crash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact an auto accident lawyer after a car crash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact an auto accident lawyer as soon as possible after a car crash, especially if there are injuries, significant property damage, or disputes about fault. Early legal consultation can help protect your rights, ensure proper evidence collection, and guide you through the complex claims process. Waiting too long might lead to missed deadlines or difficulties in gathering crucial information. A lawyer can assess your situation and advise on the best course of action from the outset.",
+        "@type": "Answer",
+        "description": "Contact an auto accident lawyer as soon as possible after a crash, especially with injuries or significant damage, to protect your rights and aid evidence collection."
+      }
+    }
+  ],
+  "description": "Contact an auto accident lawyer as soon as possible after a crash, especially with injuries or significant damage, to protect your rights and aid evidence colle"
 }

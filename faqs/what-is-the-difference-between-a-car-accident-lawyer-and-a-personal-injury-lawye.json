@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a car accident lawyer and a personal injury lawyer?",
-  "description": "A car accident lawyer specializes in vehicle collisions, while a personal injury lawyer handles a broader range of injury cases; car accident lawyers offer spec",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-car-accident-lawyer-and-a-personal-injury-lawye",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a car accident lawyer and a personal injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While often used interchangeably, a car accident lawyer is a type of personal injury lawyer who specializes specifically in cases involving vehicle collisions. A personal injury lawyer has a broader practice area, handling various types of injury cases, such as slip and falls, dog bites, or product liability. For car accidents, choosing a lawyer with specific expertise in that area ensures specialized knowledge.",
-        "description": "A car accident lawyer specializes in vehicle collisions, while a personal injury lawyer handles a broader range of injury cases; car accident lawyers offer specialized expertise."
-      }
-    }
-  ],
+  "name": "What is the difference between a car accident lawyer and a personal injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a car accident lawyer and a personal injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a car accident lawyer is a type of personal injury lawyer who specializes specifically in cases involving vehicle collisions. A personal injury lawyer has a broader practice area, handling various types of injury cases, such as slip and falls, dog bites, or product liability. For car accidents, choosing a lawyer with specific expertise in that area ensures specialized knowledge.",
+        "@type": "Answer",
+        "description": "A car accident lawyer specializes in vehicle collisions, while a personal injury lawyer handles a broader range of injury cases; car accident lawyers offer specialized expertise."
+      }
+    }
+  ],
+  "description": "A car accident lawyer specializes in vehicle collisions, while a personal injury lawyer handles a broader range of injury cases; car accident lawyers offer spec"
 }

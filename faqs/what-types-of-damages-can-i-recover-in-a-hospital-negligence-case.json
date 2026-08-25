@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damages can I recover in a hospital negligence case?",
-  "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering.",
   "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-i-recover-in-a-hospital-negligence-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damages can I recover in a hospital negligence case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a successful hospital negligence case, you may be able to recover various types of damages. These typically include economic damages, such as medical expenses (past and future), lost wages (past and future earning capacity), and costs for rehabilitation or long-term care. Non-economic damages can also be awarded for pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. In some rare cases involving extreme misconduct, punitive damages might be awarded to punish the negligent party. The specific types and amounts of damages depend on the unique circumstances and impact of the negligence on your life.",
-        "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
-      }
-    }
-  ],
+  "name": "What types of damages can I recover in a hospital negligence case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damages can I recover in a hospital negligence case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a successful hospital negligence case, you may be able to recover various types of damages. These typically include economic damages, such as medical expenses (past and future), lost wages (past and future earning capacity), and costs for rehabilitation or long-term care. Non-economic damages can also be awarded for pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. In some rare cases involving extreme misconduct, punitive damages might be awarded to punish the negligent party. The specific types and amounts of damages depend on the unique circumstances and impact of the negligence on your life.",
+        "@type": "Answer",
+        "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
+      }
+    }
+  ],
+  "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
 }

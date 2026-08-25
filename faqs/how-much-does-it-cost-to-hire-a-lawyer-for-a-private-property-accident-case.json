@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a lawyer for a private property accident case?",
-  "description": "Most private property accident lawyers work on a contingency fee basis, meaning you only pay if they win your case. There are typically no upfront legal fees.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-lawyer-for-a-private-property-accident-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a lawyer for a private property accident case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most personal injury lawyers, including those handling private property accident cases, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation you receive if they win your case, either through a settlement or a court verdict. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows injured individuals to pursue justice without immediate financial burden. Be sure to discuss the fee structure and any potential litigation costs during your initial consultation.",
-        "description": "Most private property accident lawyers work on a contingency fee basis, meaning you only pay if they win your case. There are typically no upfront legal fees."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a lawyer for a private property accident case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a lawyer for a private property accident case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most personal injury lawyers, including those handling private property accident cases, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation you receive if they win your case, either through a settlement or a court verdict. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows injured individuals to pursue justice without immediate financial burden. Be sure to discuss the fee structure and any potential litigation costs during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most private property accident lawyers work on a contingency fee basis, meaning you only pay if they win your case. There are typically no upfront legal fees."
+      }
+    }
+  ],
+  "description": "Most private property accident lawyers work on a contingency fee basis, meaning you only pay if they win your case. There are typically no upfront legal fees."
 }

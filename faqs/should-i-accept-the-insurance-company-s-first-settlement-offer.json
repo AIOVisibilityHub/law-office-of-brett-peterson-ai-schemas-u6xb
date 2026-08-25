@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I accept the insurance company's first settlement offer?",
-  "description": "Do not accept the first settlement offer without a lawyer. Initial offers are often low; an attorney can negotiate for fair compensation covering all your damag",
   "url": "brettpetersonlaw.com/faq/should-i-accept-the-insurance-company-s-first-settlement-offer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I accept the insurance company's first settlement offer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally not advisable to accept the insurance company's first settlement offer without first consulting with a rear-end collision lawyer. Initial offers are often low and may not fully account for all your current and future medical expenses, lost wages, or pain and suffering. An attorney can evaluate the true value of your claim, negotiate with the insurance company on your behalf, and work to secure a more favorable settlement that fully compensates you for your losses.",
-        "description": "Do not accept the first settlement offer without a lawyer. Initial offers are often low; an attorney can negotiate for fair compensation covering all your damages."
-      }
-    }
-  ],
+  "name": "Should I accept the insurance company's first settlement offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I accept the insurance company's first settlement offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally not advisable to accept the insurance company's first settlement offer without first consulting with a rear-end collision lawyer. Initial offers are often low and may not fully account for all your current and future medical expenses, lost wages, or pain and suffering. An attorney can evaluate the true value of your claim, negotiate with the insurance company on your behalf, and work to secure a more favorable settlement that fully compensates you for your losses.",
+        "@type": "Answer",
+        "description": "Do not accept the first settlement offer without a lawyer. Initial offers are often low; an attorney can negotiate for fair compensation covering all your damages."
+      }
+    }
+  ],
+  "description": "Do not accept the first settlement offer without a lawyer. Initial offers are often low; an attorney can negotiate for fair compensation covering all your damag"
 }

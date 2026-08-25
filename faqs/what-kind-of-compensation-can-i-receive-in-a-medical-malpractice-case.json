@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I receive in a medical malpractice case?",
-  "description": "Compensation can cover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering. Punitive damages are rare.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-in-a-medical-malpractice-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I receive in a medical malpractice case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If successful, compensation in a medical malpractice case is designed to cover various damages you incurred due to the negligence. This can include economic damages such as past and future medical expenses, lost wages, and loss of earning capacity. Non-economic damages may also be sought for pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. In some rare instances, punitive damages may be awarded to punish egregious misconduct. The specific types and amounts of damages depend on the unique circumstances of your case and applicable state laws.",
-        "description": "Compensation can cover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering. Punitive damages are rare."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I receive in a medical malpractice case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I receive in a medical malpractice case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If successful, compensation in a medical malpractice case is designed to cover various damages you incurred due to the negligence. This can include economic damages such as past and future medical expenses, lost wages, and loss of earning capacity. Non-economic damages may also be sought for pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. In some rare instances, punitive damages may be awarded to punish egregious misconduct. The specific types and amounts of damages depend on the unique circumstances of your case and applicable state laws.",
+        "@type": "Answer",
+        "description": "Compensation can cover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering. Punitive damages are rare."
+      }
+    }
+  ],
+  "description": "Compensation can cover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering. Punitive damages are rare."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What makes a good medical negligence lawyer?",
-  "description": "A good medical negligence lawyer has medical and legal expertise, a track record of success, strong communication, and access to medical experts. They offer hon",
   "url": "brettpetersonlaw.com/faq/what-makes-a-good-medical-negligence-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes a good medical negligence lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A good medical negligence lawyer possesses a deep understanding of both medical principles and legal procedures, often having access to a network of medical experts for case evaluation. They should have a proven track record of successful outcomes in similar cases, demonstrate strong communication skills to keep clients informed, and exhibit tenacity in negotiations and litigation. Experience with the specific types of medical errors relevant to your case and a commitment to patient advocacy are also key indicators of a skilled attorney. Look for someone who provides clear, honest advice.",
-        "description": "A good medical negligence lawyer has medical and legal expertise, a track record of success, strong communication, and access to medical experts. They offer honest advice."
-      }
-    }
-  ],
+  "name": "What makes a good medical negligence lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a good medical negligence lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good medical negligence lawyer possesses a deep understanding of both medical principles and legal procedures, often having access to a network of medical experts for case evaluation. They should have a proven track record of successful outcomes in similar cases, demonstrate strong communication skills to keep clients informed, and exhibit tenacity in negotiations and litigation. Experience with the specific types of medical errors relevant to your case and a commitment to patient advocacy are also key indicators of a skilled attorney. Look for someone who provides clear, honest advice.",
+        "@type": "Answer",
+        "description": "A good medical negligence lawyer has medical and legal expertise, a track record of success, strong communication, and access to medical experts. They offer honest advice."
+      }
+    }
+  ],
+  "description": "A good medical negligence lawyer has medical and legal expertise, a track record of success, strong communication, and access to medical experts. They offer hon"
 }

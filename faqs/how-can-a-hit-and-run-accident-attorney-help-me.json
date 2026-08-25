@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can a hit-and-run accident attorney help me?",
-  "description": "An attorney investigates the hit-and-run, deals with insurance companies, and helps you pursue compensation for your damages.",
   "url": "brettpetersonlaw.com/faq/how-can-a-hit-and-run-accident-attorney-help-me",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can a hit-and-run accident attorney help me?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A hit-and-run accident attorney can assist in several ways. They can conduct an independent investigation, helping to identify the fleeing driver through evidence like surveillance footage or witness statements. They will also manage communications with insurance companies, including your own uninsured motorist coverage, to ensure you receive fair compensation for medical bills, lost wages, vehicle repairs, and pain and suffering. If the driver is found, they can pursue a personal injury claim against them.",
-        "description": "An attorney investigates the hit-and-run, deals with insurance companies, and helps you pursue compensation for your damages."
-      }
-    }
-  ],
+  "name": "How can a hit-and-run accident attorney help me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can a hit-and-run accident attorney help me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hit-and-run accident attorney can assist in several ways. They can conduct an independent investigation, helping to identify the fleeing driver through evidence like surveillance footage or witness statements. They will also manage communications with insurance companies, including your own uninsured motorist coverage, to ensure you receive fair compensation for medical bills, lost wages, vehicle repairs, and pain and suffering. If the driver is found, they can pursue a personal injury claim against them.",
+        "@type": "Answer",
+        "description": "An attorney investigates the hit-and-run, deals with insurance companies, and helps you pursue compensation for your damages."
+      }
+    }
+  ],
+  "description": "An attorney investigates the hit-and-run, deals with insurance companies, and helps you pursue compensation for your damages."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a car accident attorney do?",
-  "description": "A car accident attorney represents injured individuals, protects their rights, investigates the accident, and negotiates with insurance companies to secure fair",
   "url": "brettpetersonlaw.com/faq/what-does-a-car-accident-attorney-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a car accident attorney do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A car accident attorney represents individuals injured in vehicle collisions. Their primary role is to protect your rights, investigate the accident, gather evidence, negotiate with insurance companies, and, if necessary, litigate your case in court. They handle legal complexities, allowing you to focus on your recovery. This includes filing paperwork, meeting deadlines, and aiming to secure fair compensation for medical bills, lost wages, pain and suffering, and other damages.",
-        "description": "A car accident attorney represents injured individuals, protects their rights, investigates the accident, and negotiates with insurance companies to secure fair compensation."
-      }
-    }
-  ],
+  "name": "What does a car accident attorney do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a car accident attorney do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A car accident attorney represents individuals injured in vehicle collisions. Their primary role is to protect your rights, investigate the accident, gather evidence, negotiate with insurance companies, and, if necessary, litigate your case in court. They handle legal complexities, allowing you to focus on your recovery. This includes filing paperwork, meeting deadlines, and aiming to secure fair compensation for medical bills, lost wages, pain and suffering, and other damages.",
+        "@type": "Answer",
+        "description": "A car accident attorney represents injured individuals, protects their rights, investigates the accident, and negotiates with insurance companies to secure fair compensation."
+      }
+    }
+  ],
+  "description": "A car accident attorney represents injured individuals, protects their rights, investigates the accident, and negotiates with insurance companies to secure fair"
 }

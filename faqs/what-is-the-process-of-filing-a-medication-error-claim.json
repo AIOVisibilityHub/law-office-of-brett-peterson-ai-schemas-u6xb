@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of filing a medication error claim?",
-  "description": "The process involves an initial consultation, evidence gathering, filing a claim, discovery, potential settlement negotiations, and possibly a trial.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-medication-error-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of filing a medication error claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with a free consultation where the attorney assesses your case. If accepted, the attorney will gather medical records, evidence, and expert opinions to build a strong claim. This initial investigation phase can take time. After evidence collection, a formal complaint may be filed, followed by discovery (exchange of information between parties). Most cases attempt mediation or settlement negotiations before going to trial. If a settlement isn't reached, the case proceeds to court. Each step aims to establish negligence and prove damages.",
-        "description": "The process involves an initial consultation, evidence gathering, filing a claim, discovery, potential settlement negotiations, and possibly a trial."
-      }
-    }
-  ],
+  "name": "What is the process of filing a medication error claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of filing a medication error claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a free consultation where the attorney assesses your case. If accepted, the attorney will gather medical records, evidence, and expert opinions to build a strong claim. This initial investigation phase can take time. After evidence collection, a formal complaint may be filed, followed by discovery (exchange of information between parties). Most cases attempt mediation or settlement negotiations before going to trial. If a settlement isn't reached, the case proceeds to court. Each step aims to establish negligence and prove damages.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, evidence gathering, filing a claim, discovery, potential settlement negotiations, and possibly a trial."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, evidence gathering, filing a claim, discovery, potential settlement negotiations, and possibly a trial."
 }

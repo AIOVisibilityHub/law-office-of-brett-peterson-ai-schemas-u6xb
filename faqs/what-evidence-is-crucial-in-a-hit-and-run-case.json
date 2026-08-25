@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is crucial in a hit-and-run case?",
-  "description": "Key evidence includes police reports, witness statements, surveillance footage, physical debris, medical records, and photos from the scene.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-crucial-in-a-hit-and-run-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is crucial in a hit-and-run case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence in a hit-and-run case includes police reports, witness statements, any available surveillance footage from nearby businesses or traffic cameras, and physical evidence from the scene (such as paint chips or vehicle parts left behind). Medical records detailing your injuries and treatment, as well as documentation of lost wages and vehicle repair estimates, are also vital to establish your damages. Photos and videos you take at the scene can be highly impactful.",
-        "description": "Key evidence includes police reports, witness statements, surveillance footage, physical debris, medical records, and photos from the scene."
-      }
-    }
-  ],
+  "name": "What evidence is crucial in a hit-and-run case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is crucial in a hit-and-run case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence in a hit-and-run case includes police reports, witness statements, any available surveillance footage from nearby businesses or traffic cameras, and physical evidence from the scene (such as paint chips or vehicle parts left behind). Medical records detailing your injuries and treatment, as well as documentation of lost wages and vehicle repair estimates, are also vital to establish your damages. Photos and videos you take at the scene can be highly impactful.",
+        "@type": "Answer",
+        "description": "Key evidence includes police reports, witness statements, surveillance footage, physical debris, medical records, and photos from the scene."
+      }
+    }
+  ],
+  "description": "Key evidence includes police reports, witness statements, surveillance footage, physical debris, medical records, and photos from the scene."
 }

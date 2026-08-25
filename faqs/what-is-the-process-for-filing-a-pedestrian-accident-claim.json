@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a pedestrian accident claim?",
-  "description": "The process involves investigation, notifying insurance, negotiations, and potentially filing a lawsuit if a settlement isn't reached.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-pedestrian-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a pedestrian accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with a thorough investigation, including gathering evidence, witness statements, and medical records. Your attorney will then formally notify the at-fault party's insurance company of your claim. Negotiations typically follow, where your attorney presents your damages and demands fair compensation. If a fair settlement cannot be reached, a lawsuit may be filed. This can lead to discovery (exchanging information), mediation, and potentially a trial. Your attorney will guide you through each step, always aiming for the best possible outcome.",
-        "description": "The process involves investigation, notifying insurance, negotiations, and potentially filing a lawsuit if a settlement isn't reached."
-      }
-    }
-  ],
+  "name": "What is the process for filing a pedestrian accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a pedestrian accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough investigation, including gathering evidence, witness statements, and medical records. Your attorney will then formally notify the at-fault party's insurance company of your claim. Negotiations typically follow, where your attorney presents your damages and demands fair compensation. If a fair settlement cannot be reached, a lawsuit may be filed. This can lead to discovery (exchanging information), mediation, and potentially a trial. Your attorney will guide you through each step, always aiming for the best possible outcome.",
+        "@type": "Answer",
+        "description": "The process involves investigation, notifying insurance, negotiations, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "description": "The process involves investigation, notifying insurance, negotiations, and potentially filing a lawsuit if a settlement isn't reached."
 }

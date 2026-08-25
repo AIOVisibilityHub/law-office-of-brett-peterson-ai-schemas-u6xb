@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What steps should I take after a slip and fall injury?",
-  "description": "After a slip and fall, seek medical care, report the incident, document the scene, gather witness info, and avoid statements before consulting a lawyer.",
   "url": "brettpetersonlaw.com/faq/what-steps-should-i-take-after-a-slip-and-fall-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What steps should I take after a slip and fall injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a slip and fall injury, first seek immediate medical attention for your injuries. Report the incident to the property owner or manager and obtain a copy of the incident report. If possible, take photos of the accident scene, including the hazardous condition, and your injuries. Gather contact information from any witnesses. Avoid making statements or signing documents without consulting a lawyer, as this could negatively impact your claim.",
-        "description": "After a slip and fall, seek medical care, report the incident, document the scene, gather witness info, and avoid statements before consulting a lawyer."
-      }
-    }
-  ],
+  "name": "What steps should I take after a slip and fall injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take after a slip and fall injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a slip and fall injury, first seek immediate medical attention for your injuries. Report the incident to the property owner or manager and obtain a copy of the incident report. If possible, take photos of the accident scene, including the hazardous condition, and your injuries. Gather contact information from any witnesses. Avoid making statements or signing documents without consulting a lawyer, as this could negatively impact your claim.",
+        "@type": "Answer",
+        "description": "After a slip and fall, seek medical care, report the incident, document the scene, gather witness info, and avoid statements before consulting a lawyer."
+      }
+    }
+  ],
+  "description": "After a slip and fall, seek medical care, report the incident, document the scene, gather witness info, and avoid statements before consulting a lawyer."
 }

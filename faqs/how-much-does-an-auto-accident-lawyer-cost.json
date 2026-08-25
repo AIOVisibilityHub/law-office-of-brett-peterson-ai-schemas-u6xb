@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does an auto accident lawyer cost?",
-  "description": "Most auto accident lawyers work on a contingency fee basis, meaning you pay no upfront costs, and their fee is a percentage of your settlement or award.",
   "url": "brettpetersonlaw.com/faq/how-much-does-an-auto-accident-lawyer-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does an auto accident lawyer cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most auto accident lawyers work on a contingency fee basis. This means you generally do not pay any upfront fees. Instead, the lawyer's fees are a percentage of the final settlement or court award you receive. If you don't recover compensation, you typically don't pay attorney fees. Other costs, such as filing fees or expert witness fees, may be advanced by the firm and reimbursed from the settlement. The percentage can vary but is usually agreed upon before representation begins.",
-        "description": "Most auto accident lawyers work on a contingency fee basis, meaning you pay no upfront costs, and their fee is a percentage of your settlement or award."
-      }
-    }
-  ],
+  "name": "How much does an auto accident lawyer cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an auto accident lawyer cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most auto accident lawyers work on a contingency fee basis. This means you generally do not pay any upfront fees. Instead, the lawyer's fees are a percentage of the final settlement or court award you receive. If you don't recover compensation, you typically don't pay attorney fees. Other costs, such as filing fees or expert witness fees, may be advanced by the firm and reimbursed from the settlement. The percentage can vary but is usually agreed upon before representation begins.",
+        "@type": "Answer",
+        "description": "Most auto accident lawyers work on a contingency fee basis, meaning you pay no upfront costs, and their fee is a percentage of your settlement or award."
+      }
+    }
+  ],
+  "description": "Most auto accident lawyers work on a contingency fee basis, meaning you pay no upfront costs, and their fee is a percentage of your settlement or award."
 }

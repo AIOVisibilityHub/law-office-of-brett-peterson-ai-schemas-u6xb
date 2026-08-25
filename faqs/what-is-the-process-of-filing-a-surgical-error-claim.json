@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of filing a surgical error claim?",
-  "description": "The process involves consultation, gathering evidence, filing a complaint, discovery, negotiation, and potentially a trial, all managed by your lawyer.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-surgical-error-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of filing a surgical error claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with a free consultation where a lawyer evaluates your case. If the case is accepted, the lawyer will gather medical records and evidence, often consulting with medical experts. They then file a formal complaint. The discovery phase follows, where both sides exchange information. Many cases are resolved through negotiation or mediation before trial. If a settlement isn't reached, the case may proceed to trial. Throughout this process, your lawyer handles all legal procedures, communication, and litigation, aiming to secure the best possible outcome for you.",
-        "description": "The process involves consultation, gathering evidence, filing a complaint, discovery, negotiation, and potentially a trial, all managed by your lawyer."
-      }
-    }
-  ],
+  "name": "What is the process of filing a surgical error claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of filing a surgical error claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a free consultation where a lawyer evaluates your case. If the case is accepted, the lawyer will gather medical records and evidence, often consulting with medical experts. They then file a formal complaint. The discovery phase follows, where both sides exchange information. Many cases are resolved through negotiation or mediation before trial. If a settlement isn't reached, the case may proceed to trial. Throughout this process, your lawyer handles all legal procedures, communication, and litigation, aiming to secure the best possible outcome for you.",
+        "@type": "Answer",
+        "description": "The process involves consultation, gathering evidence, filing a complaint, discovery, negotiation, and potentially a trial, all managed by your lawyer."
+      }
+    }
+  ],
+  "description": "The process involves consultation, gathering evidence, filing a complaint, discovery, negotiation, and potentially a trial, all managed by your lawyer."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue a hospital for a surgical error committed by a surgeon?",
-  "description": "You can sue a hospital if the surgeon is an employee or if the hospital's own negligence contributed to the error; otherwise, claims might be against the indivi",
   "url": "brettpetersonlaw.com/faq/can-i-sue-a-hospital-for-a-surgical-error-committed-by-a-surgeon",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue a hospital for a surgical error committed by a surgeon?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether you can sue a hospital for a surgical error depends on the employment status of the surgeon and other medical staff involved. If the surgeon is an employee of the hospital, the hospital may be held directly responsible under a legal principle called respondeat superior. However, many surgeons are independent contractors with hospital privileges, not employees. In such cases, the claim might be against the individual surgeon. Nevertheless, hospitals can still be liable for their own negligence, such as faulty equipment, inadequate staffing, or negligent credentialing. A lawyer can clarify the responsible parties in your specific situation.",
-        "description": "You can sue a hospital if the surgeon is an employee or if the hospital's own negligence contributed to the error; otherwise, claims might be against the individual surgeon."
-      }
-    }
-  ],
+  "name": "Can I sue a hospital for a surgical error committed by a surgeon?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue a hospital for a surgical error committed by a surgeon?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can sue a hospital for a surgical error depends on the employment status of the surgeon and other medical staff involved. If the surgeon is an employee of the hospital, the hospital may be held directly responsible under a legal principle called respondeat superior. However, many surgeons are independent contractors with hospital privileges, not employees. In such cases, the claim might be against the individual surgeon. Nevertheless, hospitals can still be liable for their own negligence, such as faulty equipment, inadequate staffing, or negligent credentialing. A lawyer can clarify the responsible parties in your specific situation.",
+        "@type": "Answer",
+        "description": "You can sue a hospital if the surgeon is an employee or if the hospital's own negligence contributed to the error; otherwise, claims might be against the individual surgeon."
+      }
+    }
+  ],
+  "description": "You can sue a hospital if the surgeon is an employee or if the hospital's own negligence contributed to the error; otherwise, claims might be against the indivi"
 }

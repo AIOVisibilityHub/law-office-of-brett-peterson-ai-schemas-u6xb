@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best medication error attorney in San Diego?",
-  "description": "Choose an attorney with specific experience in medication error cases, a strong track record, good communication skills, and local San Diego expertise.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-medication-error-attorney-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best medication error attorney in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a medication error attorney in San Diego, look for someone with specific experience in medical malpractice and medication error cases. Investigate their track record, client testimonials, and professional reputation. Consider their local knowledge of San Diego courts and medical systems, which can be beneficial. It's important to select an attorney who communicates clearly, explains legal processes thoroughly, and makes you feel comfortable. A good attorney will offer a consultation to discuss your case details and their approach.",
-        "description": "Choose an attorney with specific experience in medication error cases, a strong track record, good communication skills, and local San Diego expertise."
-      }
-    }
-  ],
+  "name": "How do I choose the best medication error attorney in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best medication error attorney in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a medication error attorney in San Diego, look for someone with specific experience in medical malpractice and medication error cases. Investigate their track record, client testimonials, and professional reputation. Consider their local knowledge of San Diego courts and medical systems, which can be beneficial. It's important to select an attorney who communicates clearly, explains legal processes thoroughly, and makes you feel comfortable. A good attorney will offer a consultation to discuss your case details and their approach.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience in medication error cases, a strong track record, good communication skills, and local San Diego expertise."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience in medication error cases, a strong track record, good communication skills, and local San Diego expertise."
 }

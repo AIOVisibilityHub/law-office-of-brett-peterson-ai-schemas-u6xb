@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a claim after a hit-and-run in San Diego?",
-  "description": "In California, you generally have two years to file a personal injury lawsuit for a hit-and-run, and three years for property damage.",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-claim-after-a-hit-and-run-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a claim after a hit-and-run in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for filing a personal injury lawsuit, which includes cases stemming from a hit-and-run accident, is generally two years from the date of the injury. For property damage only, the statute of limitations is typically three years. However, various factors can affect these deadlines, such as the age of the injured party or when the injury was discovered. It is crucial to consult with an attorney promptly to ensure your claim is filed within the appropriate legal timeframe.",
-        "description": "In California, you generally have two years to file a personal injury lawsuit for a hit-and-run, and three years for property damage."
-      }
-    }
-  ],
+  "name": "How long do I have to file a claim after a hit-and-run in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a claim after a hit-and-run in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for filing a personal injury lawsuit, which includes cases stemming from a hit-and-run accident, is generally two years from the date of the injury. For property damage only, the statute of limitations is typically three years. However, various factors can affect these deadlines, such as the age of the injured party or when the injury was discovered. It is crucial to consult with an attorney promptly to ensure your claim is filed within the appropriate legal timeframe.",
+        "@type": "Answer",
+        "description": "In California, you generally have two years to file a personal injury lawsuit for a hit-and-run, and three years for property damage."
+      }
+    }
+  ],
+  "description": "In California, you generally have two years to file a personal injury lawsuit for a hit-and-run, and three years for property damage."
 }

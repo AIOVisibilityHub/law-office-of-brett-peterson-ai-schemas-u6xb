@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a medical negligence lawyer?",
-  "description": "Contact a medical negligence lawyer immediately if you suspect a medical error caused injury. Strict deadlines apply to these claims, and early consultation is",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-medical-negligence-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a medical negligence lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a medical negligence lawyer as soon as you suspect that an injury or illness was caused by a medical error or substandard care. There are strict deadlines, known as statutes of limitations, for filing medical negligence claims, which vary by state and circumstances. Early consultation allows your lawyer to promptly investigate your case, gather crucial evidence, interview witnesses, and ensure all legal deadlines are met. Delaying contact could jeopardize your ability to pursue a claim.",
-        "description": "Contact a medical negligence lawyer immediately if you suspect a medical error caused injury. Strict deadlines apply to these claims, and early consultation is crucial for investigation and evidence gathering."
-      }
-    }
-  ],
+  "name": "When should I contact a medical negligence lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a medical negligence lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a medical negligence lawyer as soon as you suspect that an injury or illness was caused by a medical error or substandard care. There are strict deadlines, known as statutes of limitations, for filing medical negligence claims, which vary by state and circumstances. Early consultation allows your lawyer to promptly investigate your case, gather crucial evidence, interview witnesses, and ensure all legal deadlines are met. Delaying contact could jeopardize your ability to pursue a claim.",
+        "@type": "Answer",
+        "description": "Contact a medical negligence lawyer immediately if you suspect a medical error caused injury. Strict deadlines apply to these claims, and early consultation is crucial for investigation and evidence gathering."
+      }
+    }
+  ],
+  "description": "Contact a medical negligence lawyer immediately if you suspect a medical error caused injury. Strict deadlines apply to these claims, and early consultation is"
 }

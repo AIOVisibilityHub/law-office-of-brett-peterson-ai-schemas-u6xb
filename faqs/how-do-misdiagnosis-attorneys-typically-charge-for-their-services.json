@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do misdiagnosis attorneys typically charge for their services?",
-  "description": "Most misdiagnosis attorneys charge on a contingency fee basis, meaning their fees are a percentage of your recovery. You typically pay no upfront legal fees, bu",
   "url": "brettpetersonlaw.com/faq/how-do-misdiagnosis-attorneys-typically-charge-for-their-services",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do misdiagnosis attorneys typically charge for their services?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most misdiagnosis attorneys work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation they successfully recover for you, either through a settlement or a court verdict. If they don't win your case, you generally don't owe any attorney fees. This arrangement allows individuals who might not otherwise afford legal representation to pursue justice. However, clients are usually responsible for case-related expenses, such as court filing fees and expert witness costs, regardless of the outcome, though sometimes these are advanced by the firm and reimbursed from the settlement.",
-        "description": "Most misdiagnosis attorneys charge on a contingency fee basis, meaning their fees are a percentage of your recovery. You typically pay no upfront legal fees, but may be responsible for case expenses."
-      }
-    }
-  ],
+  "name": "How do misdiagnosis attorneys typically charge for their services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do misdiagnosis attorneys typically charge for their services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most misdiagnosis attorneys work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation they successfully recover for you, either through a settlement or a court verdict. If they don't win your case, you generally don't owe any attorney fees. This arrangement allows individuals who might not otherwise afford legal representation to pursue justice. However, clients are usually responsible for case-related expenses, such as court filing fees and expert witness costs, regardless of the outcome, though sometimes these are advanced by the firm and reimbursed from the settlement.",
+        "@type": "Answer",
+        "description": "Most misdiagnosis attorneys charge on a contingency fee basis, meaning their fees are a percentage of your recovery. You typically pay no upfront legal fees, but may be responsible for case expenses."
+      }
+    }
+  ],
+  "description": "Most misdiagnosis attorneys charge on a contingency fee basis, meaning their fees are a percentage of your recovery. You typically pay no upfront legal fees, bu"
 }

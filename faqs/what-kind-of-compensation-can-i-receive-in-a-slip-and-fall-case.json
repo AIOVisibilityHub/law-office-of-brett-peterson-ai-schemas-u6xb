@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I receive in a slip and fall case?",
-  "description": "Compensation in a slip and fall case can include medical bills, lost wages, and pain and suffering.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-in-a-slip-and-fall-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I receive in a slip and fall case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a successful slip and fall case, you may be able to recover various types of compensation, often referred to as damages. These can include economic damages such as medical bills (past and future), lost wages (current and future), and property damage. Non-economic damages might cover pain and suffering, emotional distress, and loss of enjoyment of life. The specific amount and types of compensation depend on the severity of your injuries, the impact on your life, and the specific circumstances of the accident.",
-        "description": "Compensation in a slip and fall case can include medical bills, lost wages, and pain and suffering."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I receive in a slip and fall case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I receive in a slip and fall case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a successful slip and fall case, you may be able to recover various types of compensation, often referred to as damages. These can include economic damages such as medical bills (past and future), lost wages (current and future), and property damage. Non-economic damages might cover pain and suffering, emotional distress, and loss of enjoyment of life. The specific amount and types of compensation depend on the severity of your injuries, the impact on your life, and the specific circumstances of the accident.",
+        "@type": "Answer",
+        "description": "Compensation in a slip and fall case can include medical bills, lost wages, and pain and suffering."
+      }
+    }
+  ],
+  "description": "Compensation in a slip and fall case can include medical bills, lost wages, and pain and suffering."
 }

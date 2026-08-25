@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I signed a consent form? Does that prevent me from suing for a surgical error?",
-  "description": "No, signing a consent form does not prevent you from suing for a surgical error caused by negligence; it only acknowledges known risks, not mistakes.",
   "url": "brettpetersonlaw.com/faq/what-if-i-signed-a-consent-form-does-that-prevent-me-from-suing-for-a-surgical-e",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I signed a consent form? Does that prevent me from suing for a surgical error?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Signing a consent form acknowledges that you understand the risks and potential complications of a surgery. However, it does not waive your right to sue for a surgical error caused by negligence. A consent form applies to known and accepted risks, not to mistakes that fall below the accepted standard of care. If a surgeon acts negligently or makes a preventable error, the consent form does not protect them from liability for that error. Your lawyer will evaluate the specifics of your consent form alongside the details of the surgical error to determine its relevance to your claim.",
-        "description": "No, signing a consent form does not prevent you from suing for a surgical error caused by negligence; it only acknowledges known risks, not mistakes."
-      }
-    }
-  ],
+  "name": "What if I signed a consent form? Does that prevent me from suing for a surgical error?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I signed a consent form? Does that prevent me from suing for a surgical error?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signing a consent form acknowledges that you understand the risks and potential complications of a surgery. However, it does not waive your right to sue for a surgical error caused by negligence. A consent form applies to known and accepted risks, not to mistakes that fall below the accepted standard of care. If a surgeon acts negligently or makes a preventable error, the consent form does not protect them from liability for that error. Your lawyer will evaluate the specifics of your consent form alongside the details of the surgical error to determine its relevance to your claim.",
+        "@type": "Answer",
+        "description": "No, signing a consent form does not prevent you from suing for a surgical error caused by negligence; it only acknowledges known risks, not mistakes."
+      }
+    }
+  ],
+  "description": "No, signing a consent form does not prevent you from suing for a surgical error caused by negligence; it only acknowledges known risks, not mistakes."
 }

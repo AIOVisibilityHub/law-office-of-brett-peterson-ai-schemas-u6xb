@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to hire a pedestrian accident attorney?",
-  "description": "You should hire an attorney if you sustained injuries, have property damage, or if fault is disputed, to protect your rights and ensure fair compensation.",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-to-hire-a-pedestrian-accident-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to hire a pedestrian accident attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to hire a pedestrian accident attorney as soon as possible after an accident, especially if you have sustained injuries, property damage, or if fault is disputed. An attorney can help you navigate the complex legal and insurance processes, gather evidence, communicate with insurance companies on your behalf, and ensure all deadlines are met. Early legal representation can protect your rights, prevent common mistakes, and help you recover fair compensation for medical expenses, lost wages, and pain and suffering.",
-        "description": "You should hire an attorney if you sustained injuries, have property damage, or if fault is disputed, to protect your rights and ensure fair compensation."
-      }
-    }
-  ],
+  "name": "When do I need to hire a pedestrian accident attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a pedestrian accident attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to hire a pedestrian accident attorney as soon as possible after an accident, especially if you have sustained injuries, property damage, or if fault is disputed. An attorney can help you navigate the complex legal and insurance processes, gather evidence, communicate with insurance companies on your behalf, and ensure all deadlines are met. Early legal representation can protect your rights, prevent common mistakes, and help you recover fair compensation for medical expenses, lost wages, and pain and suffering.",
+        "@type": "Answer",
+        "description": "You should hire an attorney if you sustained injuries, have property damage, or if fault is disputed, to protect your rights and ensure fair compensation."
+      }
+    }
+  ],
+  "description": "You should hire an attorney if you sustained injuries, have property damage, or if fault is disputed, to protect your rights and ensure fair compensation."
 }

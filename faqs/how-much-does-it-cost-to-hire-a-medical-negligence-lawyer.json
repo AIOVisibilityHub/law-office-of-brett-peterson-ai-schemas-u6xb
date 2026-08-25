@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a medical negligence lawyer?",
-  "description": "Medical negligence lawyers typically work on a contingency fee, meaning you pay no upfront fees; their payment comes from a percentage of your successful recove",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-medical-negligence-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a medical negligence lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most medical negligence lawyers work on a contingency fee basis. This means you do not pay upfront legal fees. Instead, the attorney's payment is a percentage of the compensation you receive if your case is successful, either through a settlement or a court award. If your case is not successful, you typically do not owe attorney fees. This arrangement allows individuals who might not otherwise afford legal representation to pursue justice.",
-        "description": "Medical negligence lawyers typically work on a contingency fee, meaning you pay no upfront fees; their payment comes from a percentage of your successful recovery."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a medical negligence lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a medical negligence lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most medical negligence lawyers work on a contingency fee basis. This means you do not pay upfront legal fees. Instead, the attorney's payment is a percentage of the compensation you receive if your case is successful, either through a settlement or a court award. If your case is not successful, you typically do not owe attorney fees. This arrangement allows individuals who might not otherwise afford legal representation to pursue justice.",
+        "@type": "Answer",
+        "description": "Medical negligence lawyers typically work on a contingency fee, meaning you pay no upfront fees; their payment comes from a percentage of your successful recovery."
+      }
+    }
+  ],
+  "description": "Medical negligence lawyers typically work on a contingency fee, meaning you pay no upfront fees; their payment comes from a percentage of your successful recove"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the time limit to file a medical malpractice lawsuit in California?",
-  "description": "The time limit in California is generally one year from discovery of the injury or three years from the date of injury, whichever is first, with limited excepti",
   "url": "brettpetersonlaw.com/faq/what-is-the-time-limit-to-file-a-medical-malpractice-lawsuit-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the time limit to file a medical malpractice lawsuit in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for medical malpractice is generally one year after the injured person discovers, or through the use of reasonable diligence should have discovered, the injury, or three years from the date of the injury, whichever occurs first. There are limited exceptions, especially for minors. It is critical to consult with an attorney as soon as possible, as missing this deadline can permanently bar your right to seek compensation.",
-        "description": "The time limit in California is generally one year from discovery of the injury or three years from the date of injury, whichever is first, with limited exceptions."
-      }
-    }
-  ],
+  "name": "What is the time limit to file a medical malpractice lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the time limit to file a medical malpractice lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for medical malpractice is generally one year after the injured person discovers, or through the use of reasonable diligence should have discovered, the injury, or three years from the date of the injury, whichever occurs first. There are limited exceptions, especially for minors. It is critical to consult with an attorney as soon as possible, as missing this deadline can permanently bar your right to seek compensation.",
+        "@type": "Answer",
+        "description": "The time limit in California is generally one year from discovery of the injury or three years from the date of injury, whichever is first, with limited exceptions."
+      }
+    }
+  ],
+  "description": "The time limit in California is generally one year from discovery of the injury or three years from the date of injury, whichever is first, with limited excepti"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a public property injury attorney charge?",
-  "description": "Most public property injury attorneys work on a contingency fee basis, meaning they are paid a percentage of the compensation recovered, with no upfront fees.",
   "url": "brettpetersonlaw.com/faq/what-does-a-public-property-injury-attorney-charge",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a public property injury attorney charge?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most public property injury attorneys, including those handling claims in the San Diego area, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the compensation recovered in your case, whether through a settlement or a court award. If no compensation is recovered, you generally owe no attorney's fees. This arrangement allows injured individuals to pursue justice without immediate financial burden. Specific percentages can vary but typically range from 33% to 40% of the gross settlement or award.",
-        "description": "Most public property injury attorneys work on a contingency fee basis, meaning they are paid a percentage of the compensation recovered, with no upfront fees."
-      }
-    }
-  ],
+  "name": "What does a public property injury attorney charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a public property injury attorney charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most public property injury attorneys, including those handling claims in the San Diego area, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the compensation recovered in your case, whether through a settlement or a court award. If no compensation is recovered, you generally owe no attorney's fees. This arrangement allows injured individuals to pursue justice without immediate financial burden. Specific percentages can vary but typically range from 33% to 40% of the gross settlement or award.",
+        "@type": "Answer",
+        "description": "Most public property injury attorneys work on a contingency fee basis, meaning they are paid a percentage of the compensation recovered, with no upfront fees."
+      }
+    }
+  ],
+  "description": "Most public property injury attorneys work on a contingency fee basis, meaning they are paid a percentage of the compensation recovered, with no upfront fees."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a motor vehicle accident claim?",
-  "description": "The process involves medical care, reporting the accident, lawyer investigation, evidence gathering, negotiating with insurers, and potentially filing a lawsuit",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-motor-vehicle-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a motor vehicle accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with seeking medical attention and reporting the accident to the authorities and your insurance company. Your lawyer will then conduct an independent investigation, gather evidence, and communicate with the at-fault driver's insurance. They will typically submit a demand letter outlining your damages. If a settlement is not reached, a lawsuit may be filed, leading to discovery, negotiations, and potentially a trial.",
-        "description": "The process involves medical care, reporting the accident, lawyer investigation, evidence gathering, negotiating with insurers, and potentially filing a lawsuit."
-      }
-    }
-  ],
+  "name": "What is the process for filing a motor vehicle accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a motor vehicle accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with seeking medical attention and reporting the accident to the authorities and your insurance company. Your lawyer will then conduct an independent investigation, gather evidence, and communicate with the at-fault driver's insurance. They will typically submit a demand letter outlining your damages. If a settlement is not reached, a lawsuit may be filed, leading to discovery, negotiations, and potentially a trial.",
+        "@type": "Answer",
+        "description": "The process involves medical care, reporting the accident, lawyer investigation, evidence gathering, negotiating with insurers, and potentially filing a lawsuit."
+      }
+    }
+  ],
+  "description": "The process involves medical care, reporting the accident, lawyer investigation, evidence gathering, negotiating with insurers, and potentially filing a lawsuit"
 }

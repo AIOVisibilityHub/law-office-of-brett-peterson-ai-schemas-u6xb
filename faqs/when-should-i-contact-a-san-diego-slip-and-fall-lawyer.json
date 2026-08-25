@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a San Diego slip and fall lawyer?",
-  "description": "Contact a lawyer as soon as possible after a slip and fall accident, especially if you are injured, to preserve evidence and protect your rights.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-san-diego-slip-and-fall-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a San Diego slip and fall lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a slip and fall lawyer as soon as possible after your accident, especially if you sustained injuries. Early consultation allows the attorney to investigate the incident, gather crucial evidence like surveillance footage and witness statements, and ensure all necessary documentation is collected promptly. This proactive approach helps preserve the strength of your claim and protects your legal rights, as there are time limits for filing personal injury lawsuits.",
-        "description": "Contact a lawyer as soon as possible after a slip and fall accident, especially if you are injured, to preserve evidence and protect your rights."
-      }
-    }
-  ],
+  "name": "When should I contact a San Diego slip and fall lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a San Diego slip and fall lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a slip and fall lawyer as soon as possible after your accident, especially if you sustained injuries. Early consultation allows the attorney to investigate the incident, gather crucial evidence like surveillance footage and witness statements, and ensure all necessary documentation is collected promptly. This proactive approach helps preserve the strength of your claim and protects your legal rights, as there are time limits for filing personal injury lawsuits.",
+        "@type": "Answer",
+        "description": "Contact a lawyer as soon as possible after a slip and fall accident, especially if you are injured, to preserve evidence and protect your rights."
+      }
+    }
+  ],
+  "description": "Contact a lawyer as soon as possible after a slip and fall accident, especially if you are injured, to preserve evidence and protect your rights."
 }

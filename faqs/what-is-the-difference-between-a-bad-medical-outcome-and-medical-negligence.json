@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a bad medical outcome and medical negligence?",
-  "description": "A bad medical outcome isn't always negligence; negligence occurs when a healthcare provider's actions fall below the accepted standard of care, causing harm.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-bad-medical-outcome-and-medical-negligence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a bad medical outcome and medical negligence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A bad medical outcome does not automatically mean medical negligence occurred. Healthcare is complex, and not all treatments are successful, nor do all complications indicate error. Medical negligence specifically involves a departure from the accepted standard of care, meaning the healthcare provider's actions or inactions fell below what a reasonably skilled and competent professional would have done under similar circumstances. A bad outcome is negligent only if it resulted from such a deviation. A lawyer can help distinguish between the two.",
-        "description": "A bad medical outcome isn't always negligence; negligence occurs when a healthcare provider's actions fall below the accepted standard of care, causing harm."
-      }
-    }
-  ],
+  "name": "What is the difference between a bad medical outcome and medical negligence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bad medical outcome and medical negligence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bad medical outcome does not automatically mean medical negligence occurred. Healthcare is complex, and not all treatments are successful, nor do all complications indicate error. Medical negligence specifically involves a departure from the accepted standard of care, meaning the healthcare provider's actions or inactions fell below what a reasonably skilled and competent professional would have done under similar circumstances. A bad outcome is negligent only if it resulted from such a deviation. A lawyer can help distinguish between the two.",
+        "@type": "Answer",
+        "description": "A bad medical outcome isn't always negligence; negligence occurs when a healthcare provider's actions fall below the accepted standard of care, causing harm."
+      }
+    }
+  ],
+  "description": "A bad medical outcome isn't always negligence; negligence occurs when a healthcare provider's actions fall below the accepted standard of care, causing harm."
 }

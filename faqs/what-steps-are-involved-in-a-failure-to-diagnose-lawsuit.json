@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What steps are involved in a failure-to-diagnose lawsuit?",
-  "description": "Steps include investigation, medical expert review, filing a complaint, discovery, negotiations, and potentially a trial.",
   "url": "brettpetersonlaw.com/faq/what-steps-are-involved-in-a-failure-to-diagnose-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What steps are involved in a failure-to-diagnose lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A failure-to-diagnose lawsuit typically begins with an investigation and gathering of medical records. The lawyer then consults with medical experts to determine if malpractice occurred. If there's a strong case, a complaint is filed, followed by discovery where both sides exchange information. This may lead to mediation or settlement negotiations. If no settlement is reached, the case proceeds to trial. The process can be lengthy and complex.",
-        "description": "Steps include investigation, medical expert review, filing a complaint, discovery, negotiations, and potentially a trial."
-      }
-    }
-  ],
+  "name": "What steps are involved in a failure-to-diagnose lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in a failure-to-diagnose lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A failure-to-diagnose lawsuit typically begins with an investigation and gathering of medical records. The lawyer then consults with medical experts to determine if malpractice occurred. If there's a strong case, a complaint is filed, followed by discovery where both sides exchange information. This may lead to mediation or settlement negotiations. If no settlement is reached, the case proceeds to trial. The process can be lengthy and complex.",
+        "@type": "Answer",
+        "description": "Steps include investigation, medical expert review, filing a complaint, discovery, negotiations, and potentially a trial."
+      }
+    }
+  ],
+  "description": "Steps include investigation, medical expert review, filing a complaint, discovery, negotiations, and potentially a trial."
 }

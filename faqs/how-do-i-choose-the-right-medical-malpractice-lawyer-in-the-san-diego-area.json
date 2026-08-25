@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right medical malpractice lawyer in the San Diego area?",
-  "description": "Choose a lawyer with specific experience in medical malpractice, a strong track record, sufficient resources, good communication, and local familiarity with the",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-medical-malpractice-lawyer-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right medical malpractice lawyer in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a medical malpractice lawyer, look for one with specific experience in this complex area of law, as it differs significantly from other personal injury cases. Consider their track record, resources to handle expert witnesses and litigation, and their commitment to client communication. It's also beneficial to select a firm that operates within the San Diego area, ensuring familiarity with local courts and legal procedures. Schedule consultations with a few attorneys to find one whose approach aligns with your needs.",
-        "description": "Choose a lawyer with specific experience in medical malpractice, a strong track record, sufficient resources, good communication, and local familiarity with the San Diego area."
-      }
-    }
-  ],
+  "name": "How do I choose the right medical malpractice lawyer in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right medical malpractice lawyer in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a medical malpractice lawyer, look for one with specific experience in this complex area of law, as it differs significantly from other personal injury cases. Consider their track record, resources to handle expert witnesses and litigation, and their commitment to client communication. It's also beneficial to select a firm that operates within the San Diego area, ensuring familiarity with local courts and legal procedures. Schedule consultations with a few attorneys to find one whose approach aligns with your needs.",
+        "@type": "Answer",
+        "description": "Choose a lawyer with specific experience in medical malpractice, a strong track record, sufficient resources, good communication, and local familiarity with the San Diego area."
+      }
+    }
+  ],
+  "description": "Choose a lawyer with specific experience in medical malpractice, a strong track record, sufficient resources, good communication, and local familiarity with the"
 }

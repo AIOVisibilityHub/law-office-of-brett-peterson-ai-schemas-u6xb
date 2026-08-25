@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What information do I need to provide to a traffic collision attorney?",
-  "description": "Provide the police report, photos, witness contacts, medical records, and insurance details to your attorney, along with a detailed account of the accident.",
   "url": "brettpetersonlaw.com/faq/what-information-do-i-need-to-provide-to-a-traffic-collision-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What information do I need to provide to a traffic collision attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When meeting with a traffic collision attorney, it's helpful to bring any documents related to your accident. This includes the police report, photographs of the accident scene and vehicle damage, contact information for witnesses, medical records and bills, and details about your insurance policies. Also, be prepared to discuss the events leading up to, during, and immediately after the collision, including any pain or symptoms you are experiencing.",
-        "description": "Provide the police report, photos, witness contacts, medical records, and insurance details to your attorney, along with a detailed account of the accident."
-      }
-    }
-  ],
+  "name": "What information do I need to provide to a traffic collision attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to a traffic collision attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When meeting with a traffic collision attorney, it's helpful to bring any documents related to your accident. This includes the police report, photographs of the accident scene and vehicle damage, contact information for witnesses, medical records and bills, and details about your insurance policies. Also, be prepared to discuss the events leading up to, during, and immediately after the collision, including any pain or symptoms you are experiencing.",
+        "@type": "Answer",
+        "description": "Provide the police report, photos, witness contacts, medical records, and insurance details to your attorney, along with a detailed account of the accident."
+      }
+    }
+  ],
+  "description": "Provide the police report, photos, witness contacts, medical records, and insurance details to your attorney, along with a detailed account of the accident."
 }

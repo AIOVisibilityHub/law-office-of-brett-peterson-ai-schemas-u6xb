@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best misdiagnosis attorney for my case?",
-  "description": "Choose an attorney with specific experience and a proven track record in misdiagnosis cases. Consider their reputation, communication style, and ensure you feel",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-misdiagnosis-attorney-for-my-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best misdiagnosis attorney for my case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right misdiagnosis attorney is a critical decision. Look for an attorney with significant experience specifically in medical malpractice and misdiagnosis cases. They should have a proven track record of successful outcomes, whether through settlements or trial verdicts. Consider their reputation, client testimonials, and their ability to communicate clearly and empathetically. Schedule consultations with a few attorneys to assess their understanding of your case, their legal strategy, and their fee structure. Ensure they are responsive, accessible, and that you feel comfortable entrusting them with your sensitive legal matter.",
-        "description": "Choose an attorney with specific experience and a proven track record in misdiagnosis cases. Consider their reputation, communication style, and ensure you feel comfortable with their approach."
-      }
-    }
-  ],
+  "name": "How do I choose the best misdiagnosis attorney for my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best misdiagnosis attorney for my case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right misdiagnosis attorney is a critical decision. Look for an attorney with significant experience specifically in medical malpractice and misdiagnosis cases. They should have a proven track record of successful outcomes, whether through settlements or trial verdicts. Consider their reputation, client testimonials, and their ability to communicate clearly and empathetically. Schedule consultations with a few attorneys to assess their understanding of your case, their legal strategy, and their fee structure. Ensure they are responsive, accessible, and that you feel comfortable entrusting them with your sensitive legal matter.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience and a proven track record in misdiagnosis cases. Consider their reputation, communication style, and ensure you feel comfortable with their approach."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience and a proven track record in misdiagnosis cases. Consider their reputation, communication style, and ensure you feel"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I was partly to blame for my slip and fall accident?",
-  "description": "In California, if you are partly to blame for a slip and fall, your compensation may be reduced by your percentage of fault.",
   "url": "brettpetersonlaw.com/faq/what-if-i-was-partly-to-blame-for-my-slip-and-fall-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I was partly to blame for my slip and fall accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California follows a pure comparative negligence rule. This means that if you were partly at fault for your slip and fall accident, you can still recover damages, but your compensation will be reduced by your percentage of fault. For example, if you are found to be 20% responsible for the accident, your total awarded damages would be reduced by 20%. An experienced attorney can help evaluate your degree of fault, if any, and work to minimize its impact on your claim.",
-        "description": "In California, if you are partly to blame for a slip and fall, your compensation may be reduced by your percentage of fault."
-      }
-    }
-  ],
+  "name": "What if I was partly to blame for my slip and fall accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I was partly to blame for my slip and fall accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California follows a pure comparative negligence rule. This means that if you were partly at fault for your slip and fall accident, you can still recover damages, but your compensation will be reduced by your percentage of fault. For example, if you are found to be 20% responsible for the accident, your total awarded damages would be reduced by 20%. An experienced attorney can help evaluate your degree of fault, if any, and work to minimize its impact on your claim.",
+        "@type": "Answer",
+        "description": "In California, if you are partly to blame for a slip and fall, your compensation may be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "description": "In California, if you are partly to blame for a slip and fall, your compensation may be reduced by your percentage of fault."
 }

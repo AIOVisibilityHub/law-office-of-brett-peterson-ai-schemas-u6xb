@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is needed for a medication error claim?",
-  "description": "Key evidence includes medical records, prescriptions, pharmacy records, documentation of injuries and expenses, and expert witness testimony.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-for-a-medication-error-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is needed for a medication error claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To support a medication error claim, crucial evidence typically includes all relevant medical records, such as prescriptions, hospital charts, pharmacy records, and physician notes. You'll also need documentation of your injuries, subsequent treatments, and any related expenses. Expert witness testimony from medical professionals is often vital to establish that a standard of care was breached and directly caused your harm. Personal accounts, witness statements, and photographic evidence of injuries can also strengthen your case.",
-        "description": "Key evidence includes medical records, prescriptions, pharmacy records, documentation of injuries and expenses, and expert witness testimony."
-      }
-    }
-  ],
+  "name": "What evidence is needed for a medication error claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is needed for a medication error claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To support a medication error claim, crucial evidence typically includes all relevant medical records, such as prescriptions, hospital charts, pharmacy records, and physician notes. You'll also need documentation of your injuries, subsequent treatments, and any related expenses. Expert witness testimony from medical professionals is often vital to establish that a standard of care was breached and directly caused your harm. Personal accounts, witness statements, and photographic evidence of injuries can also strengthen your case.",
+        "@type": "Answer",
+        "description": "Key evidence includes medical records, prescriptions, pharmacy records, documentation of injuries and expenses, and expert witness testimony."
+      }
+    }
+  ],
+  "description": "Key evidence includes medical records, prescriptions, pharmacy records, documentation of injuries and expenses, and expert witness testimony."
 }

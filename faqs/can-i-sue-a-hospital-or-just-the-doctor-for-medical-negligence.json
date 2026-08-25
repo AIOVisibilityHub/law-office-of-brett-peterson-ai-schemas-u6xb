@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue a hospital or just the doctor for medical negligence?",
-  "description": "You may sue the healthcare professional, the hospital, or both, depending on the negligence's origin. Hospitals can be liable for systemic failures or employee",
   "url": "brettpetersonlaw.com/faq/can-i-sue-a-hospital-or-just-the-doctor-for-medical-negligence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue a hospital or just the doctor for medical negligence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Depending on the circumstances, you may be able to sue either the individual healthcare professional, the hospital, or both for medical negligence. Hospitals can be held liable if their policies, procedures, or systemic failures contributed to the negligence, or if their employees acted negligently within the scope of their employment. For example, issues like inadequate staffing, faulty equipment, or negligent hiring can make a hospital responsible. An attorney will assess the facts to determine all potentially liable parties in your specific case.",
-        "description": "You may sue the healthcare professional, the hospital, or both, depending on the negligence's origin. Hospitals can be liable for systemic failures or employee actions."
-      }
-    }
-  ],
+  "name": "Can I sue a hospital or just the doctor for medical negligence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue a hospital or just the doctor for medical negligence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Depending on the circumstances, you may be able to sue either the individual healthcare professional, the hospital, or both for medical negligence. Hospitals can be held liable if their policies, procedures, or systemic failures contributed to the negligence, or if their employees acted negligently within the scope of their employment. For example, issues like inadequate staffing, faulty equipment, or negligent hiring can make a hospital responsible. An attorney will assess the facts to determine all potentially liable parties in your specific case.",
+        "@type": "Answer",
+        "description": "You may sue the healthcare professional, the hospital, or both, depending on the negligence's origin. Hospitals can be liable for systemic failures or employee actions."
+      }
+    }
+  ],
+  "description": "You may sue the healthcare professional, the hospital, or both, depending on the negligence's origin. Hospitals can be liable for systemic failures or employee"
 }

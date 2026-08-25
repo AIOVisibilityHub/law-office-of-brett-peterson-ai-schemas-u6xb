@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of damages can I claim in a property injury case?",
-  "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, in a property injury case.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-claim-in-a-property-injury-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of damages can I claim in a property injury case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a property injury case, you may be able to claim various types of damages. These often include economic damages like medical expenses (past and future), lost wages or earning capacity, and property damage. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be sought. The specific damages available depend on the severity of your injuries, the impact on your life, and the circumstances of the accident.",
-        "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, in a property injury case."
-      }
-    }
-  ],
+  "name": "What kind of damages can I claim in a property injury case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damages can I claim in a property injury case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a property injury case, you may be able to claim various types of damages. These often include economic damages like medical expenses (past and future), lost wages or earning capacity, and property damage. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be sought. The specific damages available depend on the severity of your injuries, the impact on your life, and the circumstances of the accident.",
+        "@type": "Answer",
+        "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, in a property injury case."
+      }
+    }
+  ],
+  "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, in a property injury case."
 }

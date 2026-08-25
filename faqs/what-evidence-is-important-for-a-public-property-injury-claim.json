@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important for a public property injury claim?",
-  "description": "Important evidence includes photos/videos of the scene and hazard, medical records, witness statements, and incident reports to strengthen your claim.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-public-property-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important for a public property injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence for a public property injury claim includes photographs and videos of the accident scene, including the specific hazard that caused your injury, from various angles and distances. Medical records detailing your injuries, treatment, and prognosis are essential. Witness statements, if available, can corroborate your account. Incident reports filed with the public entity, if any, are also valuable. Maintaining a journal of your symptoms, limitations, and pain levels can also support your claim for non-economic damages. Gathering this evidence promptly can strengthen your case significantly.",
-        "description": "Important evidence includes photos/videos of the scene and hazard, medical records, witness statements, and incident reports to strengthen your claim."
-      }
-    }
-  ],
+  "name": "What evidence is important for a public property injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important for a public property injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence for a public property injury claim includes photographs and videos of the accident scene, including the specific hazard that caused your injury, from various angles and distances. Medical records detailing your injuries, treatment, and prognosis are essential. Witness statements, if available, can corroborate your account. Incident reports filed with the public entity, if any, are also valuable. Maintaining a journal of your symptoms, limitations, and pain levels can also support your claim for non-economic damages. Gathering this evidence promptly can strengthen your case significantly.",
+        "@type": "Answer",
+        "description": "Important evidence includes photos/videos of the scene and hazard, medical records, witness statements, and incident reports to strengthen your claim."
+      }
+    }
+  ],
+  "description": "Important evidence includes photos/videos of the scene and hazard, medical records, witness statements, and incident reports to strengthen your claim."
 }

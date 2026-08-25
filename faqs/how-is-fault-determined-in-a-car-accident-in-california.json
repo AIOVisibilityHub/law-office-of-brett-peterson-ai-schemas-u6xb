@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is fault determined in a car accident in California?",
-  "description": "Fault is determined by assessing negligence and traffic law violations; California uses a pure comparative negligence system, reducing compensation by your faul",
   "url": "brettpetersonlaw.com/faq/how-is-fault-determined-in-a-car-accident-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is fault determined in a car accident in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Fault in a California car accident is determined by assessing negligence. This involves looking at factors such as traffic laws violated, witness statements, police reports, and accident reconstruction if necessary. California uses a 'pure comparative negligence' system. This means if you are found partially at fault for the accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, you would receive 80% of the total damages. Your attorney works to demonstrate the other party's full liability.",
-        "description": "Fault is determined by assessing negligence and traffic law violations; California uses a pure comparative negligence system, reducing compensation by your fault percentage."
-      }
-    }
-  ],
+  "name": "How is fault determined in a car accident in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is fault determined in a car accident in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fault in a California car accident is determined by assessing negligence. This involves looking at factors such as traffic laws violated, witness statements, police reports, and accident reconstruction if necessary. California uses a 'pure comparative negligence' system. This means if you are found partially at fault for the accident, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, you would receive 80% of the total damages. Your attorney works to demonstrate the other party's full liability.",
+        "@type": "Answer",
+        "description": "Fault is determined by assessing negligence and traffic law violations; California uses a pure comparative negligence system, reducing compensation by your fault percentage."
+      }
+    }
+  ],
+  "description": "Fault is determined by assessing negligence and traffic law violations; California uses a pure comparative negligence system, reducing compensation by your faul"
 }

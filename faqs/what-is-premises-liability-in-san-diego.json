@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is 'premises liability' in San Diego?",
-  "description": "Premises liability in San Diego holds property owners responsible for injuries occurring on their property due to unsafe conditions.",
   "url": "brettpetersonlaw.com/faq/what-is-premises-liability-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is 'premises liability' in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Premises liability in San Diego, like the rest of California, refers to a property owner's legal responsibility for injuries that occur on their property due to unsafe conditions. Property owners, including businesses and homeowners, must maintain their premises in a reasonably safe condition and warn visitors of potential hazards. If an owner's negligence leads to an injury, they can be held liable. The specific duties can vary based on whether the injured person was an invitee, licensee, or trespasser.",
-        "description": "Premises liability in San Diego holds property owners responsible for injuries occurring on their property due to unsafe conditions."
-      }
-    }
-  ],
+  "name": "What is 'premises liability' in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'premises liability' in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Premises liability in San Diego, like the rest of California, refers to a property owner's legal responsibility for injuries that occur on their property due to unsafe conditions. Property owners, including businesses and homeowners, must maintain their premises in a reasonably safe condition and warn visitors of potential hazards. If an owner's negligence leads to an injury, they can be held liable. The specific duties can vary based on whether the injured person was an invitee, licensee, or trespasser.",
+        "@type": "Answer",
+        "description": "Premises liability in San Diego holds property owners responsible for injuries occurring on their property due to unsafe conditions."
+      }
+    }
+  ],
+  "description": "Premises liability in San Diego holds property owners responsible for injuries occurring on their property due to unsafe conditions."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a car accident lawyer in San Diego?",
-  "description": "Most San Diego car accident lawyers work on a contingency fee basis, meaning they take a percentage of your recovery and you pay no upfront fees.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-car-accident-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a car accident lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most San Diego car accident lawyers work on a contingency fee basis. This means you typically don't pay any upfront fees or hourly charges. Instead, the lawyer's fee is a percentage of the compensation they recover for you, either through a settlement or a court award. If your case is unsuccessful, you generally don't owe any attorney fees. It's important to discuss the contingency fee percentage and any potential costs like court filing fees or expert witness charges during your initial consultation so you understand the financial agreement completely.",
-        "description": "Most San Diego car accident lawyers work on a contingency fee basis, meaning they take a percentage of your recovery and you pay no upfront fees."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a car accident lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a car accident lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most San Diego car accident lawyers work on a contingency fee basis. This means you typically don't pay any upfront fees or hourly charges. Instead, the lawyer's fee is a percentage of the compensation they recover for you, either through a settlement or a court award. If your case is unsuccessful, you generally don't owe any attorney fees. It's important to discuss the contingency fee percentage and any potential costs like court filing fees or expert witness charges during your initial consultation so you understand the financial agreement completely.",
+        "@type": "Answer",
+        "description": "Most San Diego car accident lawyers work on a contingency fee basis, meaning they take a percentage of your recovery and you pay no upfront fees."
+      }
+    }
+  ],
+  "description": "Most San Diego car accident lawyers work on a contingency fee basis, meaning they take a percentage of your recovery and you pay no upfront fees."
 }

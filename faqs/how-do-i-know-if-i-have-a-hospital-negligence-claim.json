@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I have a hospital negligence claim?",
-  "description": "You may have a claim if hospital error caused your injury. Gather medical records and consult with an attorney.",
   "url": "brettpetersonlaw.com/faq/how-do-i-know-if-i-have-a-hospital-negligence-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I have a hospital negligence claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Determining if you have a valid hospital negligence claim involves assessing several factors: whether the hospital or its employees breached their duty of care, if that breach directly caused your injury, and if you suffered damages as a result. This often requires reviewing medical records and consulting with medical experts. If you suspect negligence, gather all relevant medical documentation, including records, bills, and any communication with the hospital. A legal consultation can help evaluate the specifics of your case to determine if legal action is appropriate and feasible.",
-        "description": "You may have a claim if hospital error caused your injury. Gather medical records and consult with an attorney."
-      }
-    }
-  ],
+  "name": "How do I know if I have a hospital negligence claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have a hospital negligence claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if you have a valid hospital negligence claim involves assessing several factors: whether the hospital or its employees breached their duty of care, if that breach directly caused your injury, and if you suffered damages as a result. This often requires reviewing medical records and consulting with medical experts. If you suspect negligence, gather all relevant medical documentation, including records, bills, and any communication with the hospital. A legal consultation can help evaluate the specifics of your case to determine if legal action is appropriate and feasible.",
+        "@type": "Answer",
+        "description": "You may have a claim if hospital error caused your injury. Gather medical records and consult with an attorney."
+      }
+    }
+  ],
+  "description": "You may have a claim if hospital error caused your injury. Gather medical records and consult with an attorney."
 }

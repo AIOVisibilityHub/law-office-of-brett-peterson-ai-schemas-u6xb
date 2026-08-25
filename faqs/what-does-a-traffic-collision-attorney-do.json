@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a traffic collision attorney do?",
-  "description": "A traffic collision attorney represents injured individuals in vehicle accidents, handling legal aspects like investigation, negotiation, and litigation to secu",
   "url": "brettpetersonlaw.com/faq/what-does-a-traffic-collision-attorney-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a traffic collision attorney do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A traffic collision attorney represents individuals who have been injured in vehicle accidents. They handle the legal aspects of your claim, including investigating the accident, gathering evidence, communicating with insurance companies, and negotiating settlements. If a fair settlement cannot be reached, they can represent you in court. Their goal is to ensure you receive fair compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from the collision, allowing you to focus on your recovery.",
-        "description": "A traffic collision attorney represents injured individuals in vehicle accidents, handling legal aspects like investigation, negotiation, and litigation to secure fair compensation."
-      }
-    }
-  ],
+  "name": "What does a traffic collision attorney do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a traffic collision attorney do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traffic collision attorney represents individuals who have been injured in vehicle accidents. They handle the legal aspects of your claim, including investigating the accident, gathering evidence, communicating with insurance companies, and negotiating settlements. If a fair settlement cannot be reached, they can represent you in court. Their goal is to ensure you receive fair compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from the collision, allowing you to focus on your recovery.",
+        "@type": "Answer",
+        "description": "A traffic collision attorney represents injured individuals in vehicle accidents, handling legal aspects like investigation, negotiation, and litigation to secure fair compensation."
+      }
+    }
+  ],
+  "description": "A traffic collision attorney represents injured individuals in vehicle accidents, handling legal aspects like investigation, negotiation, and litigation to secu"
 }

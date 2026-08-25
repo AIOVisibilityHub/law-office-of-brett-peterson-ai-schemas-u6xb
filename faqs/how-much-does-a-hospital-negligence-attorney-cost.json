@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a hospital negligence attorney cost?",
-  "description": "Most hospital negligence attorneys work on a contingency fee basis, meaning they are paid a percentage only if your case wins.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-hospital-negligence-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a hospital negligence attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most hospital negligence attorneys work on a contingency fee basis. This means you typically do not pay any upfront fees, and the attorney's payment is a percentage of the compensation you receive if your case is successful. If you do not win your case, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without financial burden during a difficult time. Other costs, such as court filing fees, expert witness fees, and record retrieval costs, may be advanced by the firm and reimbursed from the settlement or award. It's crucial to discuss the fee structure and all potential costs during your initial consultation.",
-        "description": "Most hospital negligence attorneys work on a contingency fee basis, meaning they are paid a percentage only if your case wins."
-      }
-    }
-  ],
+  "name": "How much does a hospital negligence attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a hospital negligence attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most hospital negligence attorneys work on a contingency fee basis. This means you typically do not pay any upfront fees, and the attorney's payment is a percentage of the compensation you receive if your case is successful. If you do not win your case, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without financial burden during a difficult time. Other costs, such as court filing fees, expert witness fees, and record retrieval costs, may be advanced by the firm and reimbursed from the settlement or award. It's crucial to discuss the fee structure and all potential costs during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most hospital negligence attorneys work on a contingency fee basis, meaning they are paid a percentage only if your case wins."
+      }
+    }
+  ],
+  "description": "Most hospital negligence attorneys work on a contingency fee basis, meaning they are paid a percentage only if your case wins."
 }

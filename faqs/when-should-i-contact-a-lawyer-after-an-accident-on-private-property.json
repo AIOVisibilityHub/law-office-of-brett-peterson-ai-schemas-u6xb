@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a lawyer after an accident on private property?",
-  "description": "Contact a lawyer as soon as possible after a private property accident, particularly if injuries are serious. Early consultation helps preserve evidence and pro",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-lawyer-after-an-accident-on-private-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a lawyer after an accident on private property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a lawyer as soon as possible after an accident on private property, especially if your injuries are serious or require ongoing medical treatment. Early consultation allows a lawyer to investigate the scene, gather evidence, identify responsible parties, and ensure proper documentation before evidence disappears or memories fade. Waiting too long might compromise your ability to build a strong case, as there are strict deadlines, known as statutes of limitations, for filing personal injury claims. A timely consultation helps protect your legal rights.",
-        "description": "Contact a lawyer as soon as possible after a private property accident, particularly if injuries are serious. Early consultation helps preserve evidence and protects your legal rights."
-      }
-    }
-  ],
+  "name": "When should I contact a lawyer after an accident on private property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a lawyer after an accident on private property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a lawyer as soon as possible after an accident on private property, especially if your injuries are serious or require ongoing medical treatment. Early consultation allows a lawyer to investigate the scene, gather evidence, identify responsible parties, and ensure proper documentation before evidence disappears or memories fade. Waiting too long might compromise your ability to build a strong case, as there are strict deadlines, known as statutes of limitations, for filing personal injury claims. A timely consultation helps protect your legal rights.",
+        "@type": "Answer",
+        "description": "Contact a lawyer as soon as possible after a private property accident, particularly if injuries are serious. Early consultation helps preserve evidence and protects your legal rights."
+      }
+    }
+  ],
+  "description": "Contact a lawyer as soon as possible after a private property accident, particularly if injuries are serious. Early consultation helps preserve evidence and pro"
 }

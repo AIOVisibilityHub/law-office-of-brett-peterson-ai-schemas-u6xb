@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right failure-to-diagnose attorney?",
-  "description": "Choose an attorney with specific medical malpractice experience, a strong track record, and good communication skills.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-failure-to-diagnose-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right failure-to-diagnose attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney, look for someone with specific experience in medical malpractice and failure-to-diagnose cases. Consider their track record, communication style, and resources to handle complex litigation. It's beneficial to schedule consultations with a few lawyers to discuss your case, evaluate their approach, and ensure you feel comfortable with their representation. Check for local bar association memberships or peer reviews.",
-        "description": "Choose an attorney with specific medical malpractice experience, a strong track record, and good communication skills."
-      }
-    }
-  ],
+  "name": "How do I choose the right failure-to-diagnose attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right failure-to-diagnose attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney, look for someone with specific experience in medical malpractice and failure-to-diagnose cases. Consider their track record, communication style, and resources to handle complex litigation. It's beneficial to schedule consultations with a few lawyers to discuss your case, evaluate their approach, and ensure you feel comfortable with their representation. Check for local bar association memberships or peer reviews.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific medical malpractice experience, a strong track record, and good communication skills."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific medical malpractice experience, a strong track record, and good communication skills."
 }

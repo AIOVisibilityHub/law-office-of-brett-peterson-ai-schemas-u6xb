@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a premises liability attorney?",
-  "description": "Contact an attorney soon after an injury on someone's property to preserve evidence and understand your legal options.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-premises-liability-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a premises liability attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a premises liability attorney as soon as possible after sustaining an injury on someone else's property. Critical evidence, such as surveillance footage, witness statements, and property conditions, can disappear or change quickly. An attorney can help preserve this evidence, assess the strength of your case, and guide you through the legal process to ensure your rights are protected and you pursue fair compensation for your injuries.",
-        "description": "Contact an attorney soon after an injury on someone's property to preserve evidence and understand your legal options."
-      }
-    }
-  ],
+  "name": "When should I contact a premises liability attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a premises liability attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a premises liability attorney as soon as possible after sustaining an injury on someone else's property. Critical evidence, such as surveillance footage, witness statements, and property conditions, can disappear or change quickly. An attorney can help preserve this evidence, assess the strength of your case, and guide you through the legal process to ensure your rights are protected and you pursue fair compensation for your injuries.",
+        "@type": "Answer",
+        "description": "Contact an attorney soon after an injury on someone's property to preserve evidence and understand your legal options."
+      }
+    }
+  ],
+  "description": "Contact an attorney soon after an injury on someone's property to preserve evidence and understand your legal options."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to resolve a public property injury claim?",
-  "description": "Resolution times vary, from months to years, depending on complexity, injury severity, entity responsiveness, and whether a lawsuit is filed.",
   "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-resolve-a-public-property-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to resolve a public property injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The time it takes to resolve a public property injury claim can vary significantly, often ranging from several months to several years. Factors influencing the timeline include the complexity of the case, the severity of your injuries, the responsiveness of the public entity, and whether a lawsuit becomes necessary. Initial steps involve filing the government claim, which has a 45-day response period. If a lawsuit is filed, discovery, negotiations, and potential court proceedings can extend the duration. A swift resolution is more likely if liability is clear and damages are easily quantifiable, but many cases require detailed investigation and negotiation.",
-        "description": "Resolution times vary, from months to years, depending on complexity, injury severity, entity responsiveness, and whether a lawsuit is filed."
-      }
-    }
-  ],
+  "name": "How long does it take to resolve a public property injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to resolve a public property injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to resolve a public property injury claim can vary significantly, often ranging from several months to several years. Factors influencing the timeline include the complexity of the case, the severity of your injuries, the responsiveness of the public entity, and whether a lawsuit becomes necessary. Initial steps involve filing the government claim, which has a 45-day response period. If a lawsuit is filed, discovery, negotiations, and potential court proceedings can extend the duration. A swift resolution is more likely if liability is clear and damages are easily quantifiable, but many cases require detailed investigation and negotiation.",
+        "@type": "Answer",
+        "description": "Resolution times vary, from months to years, depending on complexity, injury severity, entity responsiveness, and whether a lawsuit is filed."
+      }
+    }
+  ],
+  "description": "Resolution times vary, from months to years, depending on complexity, injury severity, entity responsiveness, and whether a lawsuit is filed."
 }

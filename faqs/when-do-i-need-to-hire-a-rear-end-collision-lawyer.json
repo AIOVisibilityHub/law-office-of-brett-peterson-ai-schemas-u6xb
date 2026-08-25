@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to hire a rear-end collision lawyer?",
-  "description": "Hire a lawyer if you're injured, there's fault dispute, or the insurance settlement is inadequate. They can help navigate legal complexities and secure fair com",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-to-hire-a-rear-end-collision-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to hire a rear-end collision lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consider hiring a rear-end collision lawyer if you sustained injuries, if there's a dispute over fault, or if the insurance company offers a settlement that doesn't cover your medical bills and lost wages. A lawyer can help navigate the complexities of personal injury law, negotiate with insurance companies, and ensure you receive fair compensation for damages. It's often beneficial to consult a lawyer early to understand your legal options and avoid common pitfalls.",
-        "description": "Hire a lawyer if you're injured, there's fault dispute, or the insurance settlement is inadequate. They can help navigate legal complexities and secure fair compensation."
-      }
-    }
-  ],
+  "name": "When do I need to hire a rear-end collision lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire a rear-end collision lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider hiring a rear-end collision lawyer if you sustained injuries, if there's a dispute over fault, or if the insurance company offers a settlement that doesn't cover your medical bills and lost wages. A lawyer can help navigate the complexities of personal injury law, negotiate with insurance companies, and ensure you receive fair compensation for damages. It's often beneficial to consult a lawyer early to understand your legal options and avoid common pitfalls.",
+        "@type": "Answer",
+        "description": "Hire a lawyer if you're injured, there's fault dispute, or the insurance settlement is inadequate. They can help navigate legal complexities and secure fair compensation."
+      }
+    }
+  ],
+  "description": "Hire a lawyer if you're injured, there's fault dispute, or the insurance settlement is inadequate. They can help navigate legal complexities and secure fair com"
 }

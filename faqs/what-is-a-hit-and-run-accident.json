@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a hit-and-run accident?",
-  "description": "A hit-and-run accident is when a driver leaves the scene of a collision without stopping to exchange information or report it.",
   "url": "brettpetersonlaw.com/faq/what-is-a-hit-and-run-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a hit-and-run accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A hit-and-run accident occurs when a driver leaves the scene of a collision without stopping to exchange information, render aid if needed, or report the accident. This can happen whether the collision involves another vehicle, a pedestrian, a cyclist, or property. Leaving the scene is illegal and carries significant penalties, including fines, license suspension, and potential jail time, especially if injuries or fatalities are involved.",
-        "description": "A hit-and-run accident is when a driver leaves the scene of a collision without stopping to exchange information or report it."
-      }
-    }
-  ],
+  "name": "What is a hit-and-run accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a hit-and-run accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hit-and-run accident occurs when a driver leaves the scene of a collision without stopping to exchange information, render aid if needed, or report the accident. This can happen whether the collision involves another vehicle, a pedestrian, a cyclist, or property. Leaving the scene is illegal and carries significant penalties, including fines, license suspension, and potential jail time, especially if injuries or fatalities are involved.",
+        "@type": "Answer",
+        "description": "A hit-and-run accident is when a driver leaves the scene of a collision without stopping to exchange information or report it."
+      }
+    }
+  ],
+  "description": "A hit-and-run accident is when a driver leaves the scene of a collision without stopping to exchange information or report it."
 }

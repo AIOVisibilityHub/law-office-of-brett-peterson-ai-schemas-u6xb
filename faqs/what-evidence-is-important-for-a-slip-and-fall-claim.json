@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important for a slip and fall claim?",
-  "description": "Important evidence includes photos of the hazard, witness contacts, medical records, and incident reports.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-slip-and-fall-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important for a slip and fall claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence for a slip and fall claim includes photographs or videos of the accident scene, especially the hazardous condition that caused your fall, taken as soon as possible. Witness contact information, medical records detailing your injuries and treatment, and incident reports from the property owner are also vital. Keeping a detailed journal of your pain, limitations, and how the injury affects your daily life can also strengthen your case. The more documentation you have, the stronger your position will be.",
-        "description": "Important evidence includes photos of the hazard, witness contacts, medical records, and incident reports."
-      }
-    }
-  ],
+  "name": "What evidence is important for a slip and fall claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important for a slip and fall claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence for a slip and fall claim includes photographs or videos of the accident scene, especially the hazardous condition that caused your fall, taken as soon as possible. Witness contact information, medical records detailing your injuries and treatment, and incident reports from the property owner are also vital. Keeping a detailed journal of your pain, limitations, and how the injury affects your daily life can also strengthen your case. The more documentation you have, the stronger your position will be.",
+        "@type": "Answer",
+        "description": "Important evidence includes photos of the hazard, witness contacts, medical records, and incident reports."
+      }
+    }
+  ],
+  "description": "Important evidence includes photos of the hazard, witness contacts, medical records, and incident reports."
 }

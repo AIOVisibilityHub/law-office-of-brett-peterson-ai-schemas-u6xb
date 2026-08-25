@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do immediately after an injury on public property?",
-  "description": "After an injury, seek medical attention, document the scene with photos/videos, get witness info, avoid admitting fault, and contact an attorney promptly.",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-an-injury-on-public-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do immediately after an injury on public property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Immediately after an injury on public property, prioritize your health by seeking medical attention, even if your injuries seem minor. Document the scene by taking photographs or videos of the hazard that caused your injury, the surrounding area, and your injuries. Note the date, time, and specific location. If there are witnesses, get their contact information. Do not admit fault or give detailed statements to anyone other than medical professionals or your attorney. Report the incident to the responsible public entity if possible, but be cautious about what you say. Then, contact an attorney experienced in public property claims.",
-        "description": "After an injury, seek medical attention, document the scene with photos/videos, get witness info, avoid admitting fault, and contact an attorney promptly."
-      }
-    }
-  ],
+  "name": "What should I do immediately after an injury on public property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after an injury on public property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after an injury on public property, prioritize your health by seeking medical attention, even if your injuries seem minor. Document the scene by taking photographs or videos of the hazard that caused your injury, the surrounding area, and your injuries. Note the date, time, and specific location. If there are witnesses, get their contact information. Do not admit fault or give detailed statements to anyone other than medical professionals or your attorney. Report the incident to the responsible public entity if possible, but be cautious about what you say. Then, contact an attorney experienced in public property claims.",
+        "@type": "Answer",
+        "description": "After an injury, seek medical attention, document the scene with photos/videos, get witness info, avoid admitting fault, and contact an attorney promptly."
+      }
+    }
+  ],
+  "description": "After an injury, seek medical attention, document the scene with photos/videos, get witness info, avoid admitting fault, and contact an attorney promptly."
 }

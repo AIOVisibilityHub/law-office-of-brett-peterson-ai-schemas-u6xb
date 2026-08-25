@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damages can I claim in a motor vehicle accident case?",
-  "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your case.",
   "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-i-claim-in-a-motor-vehicle-accident-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damages can I claim in a motor vehicle accident case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a motor vehicle accident case, you may be able to claim various types of damages. These often include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and rehabilitation costs. Non-economic damages, like pain and suffering, emotional distress, and loss of enjoyment of life, may also be recoverable, depending on the specifics of your injury and jurisdiction.",
-        "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your case."
-      }
-    }
-  ],
+  "name": "What types of damages can I claim in a motor vehicle accident case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damages can I claim in a motor vehicle accident case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a motor vehicle accident case, you may be able to claim various types of damages. These often include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and rehabilitation costs. Non-economic damages, like pain and suffering, emotional distress, and loss of enjoyment of life, may also be recoverable, depending on the specifics of your injury and jurisdiction.",
+        "@type": "Answer",
+        "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your case."
+      }
+    }
+  ],
+  "description": "You can claim economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your case."
 }

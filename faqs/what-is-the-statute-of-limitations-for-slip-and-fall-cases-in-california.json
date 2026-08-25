@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the statute of limitations for slip and fall cases in California?",
-  "description": "The general statute of limitations for slip and fall cases in California is two years from the injury date, but exceptions may apply.",
   "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-slip-and-fall-cases-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the statute of limitations for slip and fall cases in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the general statute of limitations for personal injury claims, including slip and fall cases, is typically two years from the date of the injury. This means you usually have two years to file a lawsuit in civil court. There are exceptions, such as cases against government entities, which often have much shorter deadlines. It is critical to consult with an attorney promptly to ensure you meet all applicable deadlines and do not forfeit your right to pursue a claim.",
-        "description": "The general statute of limitations for slip and fall cases in California is two years from the injury date, but exceptions may apply."
-      }
-    }
-  ],
+  "name": "What is the statute of limitations for slip and fall cases in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the statute of limitations for slip and fall cases in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the general statute of limitations for personal injury claims, including slip and fall cases, is typically two years from the date of the injury. This means you usually have two years to file a lawsuit in civil court. There are exceptions, such as cases against government entities, which often have much shorter deadlines. It is critical to consult with an attorney promptly to ensure you meet all applicable deadlines and do not forfeit your right to pursue a claim.",
+        "@type": "Answer",
+        "description": "The general statute of limitations for slip and fall cases in California is two years from the injury date, but exceptions may apply."
+      }
+    }
+  ],
+  "description": "The general statute of limitations for slip and fall cases in California is two years from the injury date, but exceptions may apply."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my loved one died due to medical negligence?",
-  "description": "If a loved one died from medical negligence, you may file a wrongful death claim to recover damages like funeral costs, lost financial support, and loss of comp",
   "url": "brettpetersonlaw.com/faq/what-if-my-loved-one-died-due-to-medical-negligence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if my loved one died due to medical negligence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If a loved one died due to medical negligence, you might be able to file a wrongful death claim. This type of claim seeks compensation for the surviving family members for losses such as funeral and burial expenses, loss of financial support, and loss of companionship. In California, specific family members are eligible to file a wrongful death lawsuit. A medical malpractice attorney specializing in wrongful death cases can help you understand your rights and pursue justice on behalf of your family.",
-        "description": "If a loved one died from medical negligence, you may file a wrongful death claim to recover damages like funeral costs, lost financial support, and loss of companionship."
-      }
-    }
-  ],
+  "name": "What if my loved one died due to medical negligence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if my loved one died due to medical negligence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a loved one died due to medical negligence, you might be able to file a wrongful death claim. This type of claim seeks compensation for the surviving family members for losses such as funeral and burial expenses, loss of financial support, and loss of companionship. In California, specific family members are eligible to file a wrongful death lawsuit. A medical malpractice attorney specializing in wrongful death cases can help you understand your rights and pursue justice on behalf of your family.",
+        "@type": "Answer",
+        "description": "If a loved one died from medical negligence, you may file a wrongful death claim to recover damages like funeral costs, lost financial support, and loss of companionship."
+      }
+    }
+  ],
+  "description": "If a loved one died from medical negligence, you may file a wrongful death claim to recover damages like funeral costs, lost financial support, and loss of comp"
 }

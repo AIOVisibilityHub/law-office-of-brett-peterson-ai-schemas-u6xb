@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a trip and fall attorney cost?",
-  "description": "Most trip and fall attorneys work on a contingency fee basis, meaning they are paid a percentage of your settlement or award if you win.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-trip-and-fall-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a trip and fall attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most trip and fall attorneys work on a contingency fee basis. This means you won't pay any upfront legal fees. Instead, the attorney's payment is a percentage of the compensation you receive if your case is successful. If you don't win your case, you generally don't owe attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden. It's important to discuss the specific percentage and any potential expenses with your attorney during your initial consultation.",
-        "description": "Most trip and fall attorneys work on a contingency fee basis, meaning they are paid a percentage of your settlement or award if you win."
-      }
-    }
-  ],
+  "name": "How much does a trip and fall attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a trip and fall attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most trip and fall attorneys work on a contingency fee basis. This means you won't pay any upfront legal fees. Instead, the attorney's payment is a percentage of the compensation you receive if your case is successful. If you don't win your case, you generally don't owe attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden. It's important to discuss the specific percentage and any potential expenses with your attorney during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most trip and fall attorneys work on a contingency fee basis, meaning they are paid a percentage of your settlement or award if you win."
+      }
+    }
+  ],
+  "description": "Most trip and fall attorneys work on a contingency fee basis, meaning they are paid a percentage of your settlement or award if you win."
 }

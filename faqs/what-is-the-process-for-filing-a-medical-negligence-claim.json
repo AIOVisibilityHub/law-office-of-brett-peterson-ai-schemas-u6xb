@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a medical negligence claim?",
-  "description": "Filing a claim involves an initial consultation, thorough investigation, filing a complaint, discovery, and potential settlement negotiations or trial. The proc",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-medical-negligence-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a medical negligence claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation where a lawyer evaluates the details of your potential case. If accepted, the lawyer will conduct a thorough investigation, gathering medical records, consulting with medical experts, and assessing the viability of the claim. This is followed by filing a formal complaint, engaging in discovery (exchanging information with the defense), and often attempting mediation or settlement negotiations. If a settlement cannot be reached, the case may proceed to trial. The duration can vary significantly depending on the complexity of the case.",
-        "description": "Filing a claim involves an initial consultation, thorough investigation, filing a complaint, discovery, and potential settlement negotiations or trial. The process length varies."
-      }
-    }
-  ],
+  "name": "What is the process for filing a medical negligence claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a medical negligence claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation where a lawyer evaluates the details of your potential case. If accepted, the lawyer will conduct a thorough investigation, gathering medical records, consulting with medical experts, and assessing the viability of the claim. This is followed by filing a formal complaint, engaging in discovery (exchanging information with the defense), and often attempting mediation or settlement negotiations. If a settlement cannot be reached, the case may proceed to trial. The duration can vary significantly depending on the complexity of the case.",
+        "@type": "Answer",
+        "description": "Filing a claim involves an initial consultation, thorough investigation, filing a complaint, discovery, and potential settlement negotiations or trial. The process length varies."
+      }
+    }
+  ],
+  "description": "Filing a claim involves an initial consultation, thorough investigation, filing a complaint, discovery, and potential settlement negotiations or trial. The proc"
 }

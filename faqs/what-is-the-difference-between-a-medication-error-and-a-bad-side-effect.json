@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a medication error and a bad side effect?",
-  "description": "A medication error is a preventable mistake in drug management, while a side effect is an expected reaction to properly administered medication.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-medication-error-and-a-bad-side-effect",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a medication error and a bad side effect?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A medication error is a preventable mistake in the prescribing, dispensing, or administration of a drug that leads to harm. It implies a deviation from proper medical practice or protocol. In contrast, a side effect is an expected, though sometimes undesirable, reaction to a drug that occurs even when the medication is correctly prescribed and administered. While some side effects can be severe, they are not errors unless they result from negligence, such as failing to warn a patient about known risks. The distinction lies in whether the harm was preventable due to a mistake.",
-        "description": "A medication error is a preventable mistake in drug management, while a side effect is an expected reaction to properly administered medication."
-      }
-    }
-  ],
+  "name": "What is the difference between a medication error and a bad side effect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a medication error and a bad side effect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A medication error is a preventable mistake in the prescribing, dispensing, or administration of a drug that leads to harm. It implies a deviation from proper medical practice or protocol. In contrast, a side effect is an expected, though sometimes undesirable, reaction to a drug that occurs even when the medication is correctly prescribed and administered. While some side effects can be severe, they are not errors unless they result from negligence, such as failing to warn a patient about known risks. The distinction lies in whether the harm was preventable due to a mistake.",
+        "@type": "Answer",
+        "description": "A medication error is a preventable mistake in drug management, while a side effect is an expected reaction to properly administered medication."
+      }
+    }
+  ],
+  "description": "A medication error is a preventable mistake in drug management, while a side effect is an expected reaction to properly administered medication."
 }

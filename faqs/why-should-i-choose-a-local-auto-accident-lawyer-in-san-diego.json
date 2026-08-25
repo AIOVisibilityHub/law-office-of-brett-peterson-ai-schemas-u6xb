@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why should I choose a local auto accident lawyer in San Diego?",
-  "description": "A local auto accident lawyer in San Diego understands state and local laws, court procedures, and has familiarity with the local legal landscape, which can bene",
   "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-local-auto-accident-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why should I choose a local auto accident lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing a local auto accident lawyer in San Diego means they are familiar with state and local laws, court procedures, and local medical providers and experts. A lawyer with local experience understands the specific legal landscape and challenges unique to San Diego and its surrounding areas, including Imperial Beach, Coronado, and La Mesa. This local insight can be invaluable for navigating your case efficiently and effectively, as they often have established relationships and a reputation within the local legal community.",
-        "description": "A local auto accident lawyer in San Diego understands state and local laws, court procedures, and has familiarity with the local legal landscape, which can benefit your case."
-      }
-    }
-  ],
+  "name": "Why should I choose a local auto accident lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local auto accident lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local auto accident lawyer in San Diego means they are familiar with state and local laws, court procedures, and local medical providers and experts. A lawyer with local experience understands the specific legal landscape and challenges unique to San Diego and its surrounding areas, including Imperial Beach, Coronado, and La Mesa. This local insight can be invaluable for navigating your case efficiently and effectively, as they often have established relationships and a reputation within the local legal community.",
+        "@type": "Answer",
+        "description": "A local auto accident lawyer in San Diego understands state and local laws, court procedures, and has familiarity with the local legal landscape, which can benefit your case."
+      }
+    }
+  ],
+  "description": "A local auto accident lawyer in San Diego understands state and local laws, court procedures, and has familiarity with the local legal landscape, which can bene"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue a hospital for emotional distress?",
-  "description": "Yes, you can sue a hospital for emotional distress if it directly resulted from their negligence and caused significant suffering.",
   "url": "brettpetersonlaw.com/faq/can-i-sue-a-hospital-for-emotional-distress",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue a hospital for emotional distress?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in California, you can potentially sue a hospital for emotional distress if it is a direct result of their negligence. Emotional distress, also known as mental suffering, is considered a non-economic damage. To recover for emotional distress, you typically need to show that the hospital's negligent actions caused you significant emotional suffering, anguish, anxiety, or trauma. This type of claim often accompanies physical injuries, but in some circumstances, severe emotional distress alone, caused by outrageous conduct or direct impact, might be compensable. Documenting your emotional state and seeking professional help can support such a claim.",
-        "description": "Yes, you can sue a hospital for emotional distress if it directly resulted from their negligence and caused significant suffering."
-      }
-    }
-  ],
+  "name": "Can I sue a hospital for emotional distress?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue a hospital for emotional distress?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in California, you can potentially sue a hospital for emotional distress if it is a direct result of their negligence. Emotional distress, also known as mental suffering, is considered a non-economic damage. To recover for emotional distress, you typically need to show that the hospital's negligent actions caused you significant emotional suffering, anguish, anxiety, or trauma. This type of claim often accompanies physical injuries, but in some circumstances, severe emotional distress alone, caused by outrageous conduct or direct impact, might be compensable. Documenting your emotional state and seeking professional help can support such a claim.",
+        "@type": "Answer",
+        "description": "Yes, you can sue a hospital for emotional distress if it directly resulted from their negligence and caused significant suffering."
+      }
+    }
+  ],
+  "description": "Yes, you can sue a hospital for emotional distress if it directly resulted from their negligence and caused significant suffering."
 }

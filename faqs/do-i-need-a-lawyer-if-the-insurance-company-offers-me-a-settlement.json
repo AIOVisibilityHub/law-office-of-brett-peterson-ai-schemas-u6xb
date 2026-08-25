@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer if the insurance company offers me a settlement?",
-  "description": "Yes, consult an attorney even with a settlement offer, as insurance companies may offer less than your claim's true value, and an attorney can negotiate for fai",
   "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-if-the-insurance-company-offers-me-a-settlement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a lawyer if the insurance company offers me a settlement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is highly recommended to consult with an attorney even if an insurance company offers a settlement. Insurance companies often try to settle cases quickly and for the lowest possible amount, which may not fully cover your long-term medical needs, lost wages, or pain and suffering. An experienced attorney can evaluate the true value of your claim, negotiate with the insurer, and ensure you receive fair compensation that reflects all your damages, protecting you from settling for less than you deserve.",
-        "description": "Yes, consult an attorney even with a settlement offer, as insurance companies may offer less than your claim's true value, and an attorney can negotiate for fair compensation."
-      }
-    }
-  ],
+  "name": "Do I need a lawyer if the insurance company offers me a settlement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a lawyer if the insurance company offers me a settlement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly recommended to consult with an attorney even if an insurance company offers a settlement. Insurance companies often try to settle cases quickly and for the lowest possible amount, which may not fully cover your long-term medical needs, lost wages, or pain and suffering. An experienced attorney can evaluate the true value of your claim, negotiate with the insurer, and ensure you receive fair compensation that reflects all your damages, protecting you from settling for less than you deserve.",
+        "@type": "Answer",
+        "description": "Yes, consult an attorney even with a settlement offer, as insurance companies may offer less than your claim's true value, and an attorney can negotiate for fair compensation."
+      }
+    }
+  ],
+  "description": "Yes, consult an attorney even with a settlement offer, as insurance companies may offer less than your claim's true value, and an attorney can negotiate for fai"
 }

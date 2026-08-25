@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a medical negligence case take?",
-  "description": "Medical negligence cases can take several months to several years, depending on complexity, evidence, negotiations, and court schedules. Settlements usually res",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-medical-negligence-case-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a medical negligence case take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a medical negligence case can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the medical issues, the severity of the injuries, the amount of evidence to be reviewed, the willingness of parties to negotiate, and court schedules. Cases that settle out of court typically resolve faster than those that proceed to trial. While we strive for efficient resolution, our priority is always to achieve the best possible outcome for our clients.",
-        "description": "Medical negligence cases can take several months to several years, depending on complexity, evidence, negotiations, and court schedules. Settlements usually resolve faster than trials."
-      }
-    }
-  ],
+  "name": "How long does a medical negligence case take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a medical negligence case take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a medical negligence case can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the medical issues, the severity of the injuries, the amount of evidence to be reviewed, the willingness of parties to negotiate, and court schedules. Cases that settle out of court typically resolve faster than those that proceed to trial. While we strive for efficient resolution, our priority is always to achieve the best possible outcome for our clients.",
+        "@type": "Answer",
+        "description": "Medical negligence cases can take several months to several years, depending on complexity, evidence, negotiations, and court schedules. Settlements usually resolve faster than trials."
+      }
+    }
+  ],
+  "description": "Medical negligence cases can take several months to several years, depending on complexity, evidence, negotiations, and court schedules. Settlements usually res"
 }

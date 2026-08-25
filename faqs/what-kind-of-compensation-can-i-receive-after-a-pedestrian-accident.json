@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I receive after a pedestrian accident?",
-  "description": "You can receive compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-after-a-pedestrian-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I receive after a pedestrian accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compensation in a pedestrian accident claim typically covers various damages. This can include economic damages such as medical expenses (past and future), lost wages (past and future), and property damage. Non-economic damages may include pain and suffering, emotional distress, and loss of enjoyment of life. In some rare cases involving extreme negligence, punitive damages might also be awarded. The specific types and amounts of compensation depend on the unique circumstances of your accident and the severity of your injuries.",
-        "description": "You can receive compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I receive after a pedestrian accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I receive after a pedestrian accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compensation in a pedestrian accident claim typically covers various damages. This can include economic damages such as medical expenses (past and future), lost wages (past and future), and property damage. Non-economic damages may include pain and suffering, emotional distress, and loss of enjoyment of life. In some rare cases involving extreme negligence, punitive damages might also be awarded. The specific types and amounts of compensation depend on the unique circumstances of your accident and the severity of your injuries.",
+        "@type": "Answer",
+        "description": "You can receive compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress."
+      }
+    }
+  ],
+  "description": "You can receive compensation for medical expenses, lost wages, property damage, pain and suffering, and emotional distress."
 }

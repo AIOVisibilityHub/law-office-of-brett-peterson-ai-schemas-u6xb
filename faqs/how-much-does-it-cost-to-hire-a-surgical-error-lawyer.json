@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a surgical error lawyer?",
-  "description": "Surgical error lawyers usually work on a contingency fee basis, meaning you only pay if they win your case, with no upfront costs.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-surgical-error-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a surgical error lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most surgical error lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation you receive if your case is successful, either through a settlement or a court award. If your case is not successful, you typically do not owe any attorney fees. This arrangement allows individuals who have suffered harm to pursue justice without the burden of hourly legal costs, ensuring access to legal representation regardless of financial status.",
-        "description": "Surgical error lawyers usually work on a contingency fee basis, meaning you only pay if they win your case, with no upfront costs."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a surgical error lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a surgical error lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most surgical error lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation you receive if your case is successful, either through a settlement or a court award. If your case is not successful, you typically do not owe any attorney fees. This arrangement allows individuals who have suffered harm to pursue justice without the burden of hourly legal costs, ensuring access to legal representation regardless of financial status.",
+        "@type": "Answer",
+        "description": "Surgical error lawyers usually work on a contingency fee basis, meaning you only pay if they win your case, with no upfront costs."
+      }
+    }
+  ],
+  "description": "Surgical error lawyers usually work on a contingency fee basis, meaning you only pay if they win your case, with no upfront costs."
 }

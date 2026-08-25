@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when choosing a medical malpractice attorney in San Diego?",
-  "description": "Choose an attorney with specific medical malpractice experience and a strong track record. Local knowledge, good communication, and positive testimonials are al",
   "url": "brettpetersonlaw.com/faq/what-should-i-look-for-when-choosing-a-medical-malpractice-attorney-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when choosing a medical malpractice attorney in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney in San Diego, look for someone with specific experience in medical malpractice law. Verify their track record of success in similar cases, as this field requires specialized knowledge. Consider their reputation, client testimonials, and professional affiliations. An attorney familiar with local court procedures and medical communities can be beneficial. It's also important to feel comfortable communicating with them, as you'll be sharing sensitive information. Most attorneys offer free initial consultations, allowing you to assess their suitability for your case.",
-        "description": "Choose an attorney with specific medical malpractice experience and a strong track record. Local knowledge, good communication, and positive testimonials are also important."
-      }
-    }
-  ],
+  "name": "What should I look for when choosing a medical malpractice attorney in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a medical malpractice attorney in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney in San Diego, look for someone with specific experience in medical malpractice law. Verify their track record of success in similar cases, as this field requires specialized knowledge. Consider their reputation, client testimonials, and professional affiliations. An attorney familiar with local court procedures and medical communities can be beneficial. It's also important to feel comfortable communicating with them, as you'll be sharing sensitive information. Most attorneys offer free initial consultations, allowing you to assess their suitability for your case.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific medical malpractice experience and a strong track record. Local knowledge, good communication, and positive testimonials are also important."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific medical malpractice experience and a strong track record. Local knowledge, good communication, and positive testimonials are al"
 }

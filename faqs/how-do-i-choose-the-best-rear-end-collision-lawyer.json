@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best rear-end collision lawyer?",
-  "description": "Choose a lawyer with personal injury experience, a strong track record, and good communication. Schedule consultations to find someone committed and transparent",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-rear-end-collision-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best rear-end collision lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing a rear-end collision lawyer, look for someone with specific experience in personal injury law and a strong track record of success in similar cases. Consider their reputation, client testimonials, and communication style. It's important to find an attorney who is responsive, transparent about fees, and genuinely committed to your case. Schedule consultations with a few lawyers to discuss your situation, assess their expertise, and determine who you feel most comfortable working with to represent your interests effectively.",
-        "description": "Choose a lawyer with personal injury experience, a strong track record, and good communication. Schedule consultations to find someone committed and transparent about fees."
-      }
-    }
-  ],
+  "name": "How do I choose the best rear-end collision lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best rear-end collision lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a rear-end collision lawyer, look for someone with specific experience in personal injury law and a strong track record of success in similar cases. Consider their reputation, client testimonials, and communication style. It's important to find an attorney who is responsive, transparent about fees, and genuinely committed to your case. Schedule consultations with a few lawyers to discuss your situation, assess their expertise, and determine who you feel most comfortable working with to represent your interests effectively.",
+        "@type": "Answer",
+        "description": "Choose a lawyer with personal injury experience, a strong track record, and good communication. Schedule consultations to find someone committed and transparent about fees."
+      }
+    }
+  ],
+  "description": "Choose a lawyer with personal injury experience, a strong track record, and good communication. Schedule consultations to find someone committed and transparent"
 }

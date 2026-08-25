@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why should I hire a property injury lawyer instead of handling it myself?",
-  "description": "A property injury lawyer understands complex laws, handles negotiations, assesses claim value, and manages legal procedures, often securing better outcomes.",
   "url": "brettpetersonlaw.com/faq/why-should-i-hire-a-property-injury-lawyer-instead-of-handling-it-myself",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why should I hire a property injury lawyer instead of handling it myself?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hiring a property injury lawyer is highly beneficial because these cases involve complex legal principles and often challenging negotiations with insurance companies. A lawyer understands the law, knows how to gather crucial evidence, and can accurately assess the full value of your claim, including future medical costs and lost earnings. They handle all legal procedures, deadlines, and communications, allowing you to focus on recovery, while often securing a significantly higher settlement than you might achieve alone.",
-        "description": "A property injury lawyer understands complex laws, handles negotiations, assesses claim value, and manages legal procedures, often securing better outcomes."
-      }
-    }
-  ],
+  "name": "Why should I hire a property injury lawyer instead of handling it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I hire a property injury lawyer instead of handling it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a property injury lawyer is highly beneficial because these cases involve complex legal principles and often challenging negotiations with insurance companies. A lawyer understands the law, knows how to gather crucial evidence, and can accurately assess the full value of your claim, including future medical costs and lost earnings. They handle all legal procedures, deadlines, and communications, allowing you to focus on recovery, while often securing a significantly higher settlement than you might achieve alone.",
+        "@type": "Answer",
+        "description": "A property injury lawyer understands complex laws, handles negotiations, assesses claim value, and manages legal procedures, often securing better outcomes."
+      }
+    }
+  ],
+  "description": "A property injury lawyer understands complex laws, handles negotiations, assesses claim value, and manages legal procedures, often securing better outcomes."
 }

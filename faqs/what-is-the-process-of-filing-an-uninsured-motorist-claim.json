@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of filing an uninsured motorist claim?",
-  "description": "The process involves reporting to your insurer, gathering evidence, submitting a demand, and negotiating a settlement. Your lawyer manages these steps.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-an-uninsured-motorist-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of filing an uninsured motorist claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with reporting the accident to your own insurance company and notifying them of the uninsured driver. Then, your lawyer will gather evidence, such as police reports, medical records, and witness statements, to build your case. They will submit a demand package to your insurer, initiating negotiations for a fair settlement. If negotiations fail, a lawsuit or arbitration might be pursued to resolve the claim. Your lawyer guides you through each step.",
-        "description": "The process involves reporting to your insurer, gathering evidence, submitting a demand, and negotiating a settlement. Your lawyer manages these steps."
-      }
-    }
-  ],
+  "name": "What is the process of filing an uninsured motorist claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of filing an uninsured motorist claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with reporting the accident to your own insurance company and notifying them of the uninsured driver. Then, your lawyer will gather evidence, such as police reports, medical records, and witness statements, to build your case. They will submit a demand package to your insurer, initiating negotiations for a fair settlement. If negotiations fail, a lawsuit or arbitration might be pursued to resolve the claim. Your lawyer guides you through each step.",
+        "@type": "Answer",
+        "description": "The process involves reporting to your insurer, gathering evidence, submitting a demand, and negotiating a settlement. Your lawyer manages these steps."
+      }
+    }
+  ],
+  "description": "The process involves reporting to your insurer, gathering evidence, submitting a demand, and negotiating a settlement. Your lawyer manages these steps."
 }

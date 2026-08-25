@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is hospital negligence?",
-  "description": "Hospital negligence is when a hospital or its staff fail to provide the accepted standard of care, causing patient harm.",
   "url": "brettpetersonlaw.com/faq/what-is-hospital-negligence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is hospital negligence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hospital negligence occurs when a hospital, its staff, or a healthcare provider within the hospital fails to meet the accepted standard of care, resulting in harm or injury to a patient. This can include errors in diagnosis, treatment, medication, surgery, or facility management. For instance, a hospital might be negligent if a patient contracts an infection due to unsanitary conditions, if there are significant delays in treatment leading to worsened conditions, or if staff fail to properly monitor a patient's vital signs. It is distinct from individual physician malpractice, as it focuses on systemic failures or actions of non-physician staff.",
-        "description": "Hospital negligence is when a hospital or its staff fail to provide the accepted standard of care, causing patient harm."
-      }
-    }
-  ],
+  "name": "What is hospital negligence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is hospital negligence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hospital negligence occurs when a hospital, its staff, or a healthcare provider within the hospital fails to meet the accepted standard of care, resulting in harm or injury to a patient. This can include errors in diagnosis, treatment, medication, surgery, or facility management. For instance, a hospital might be negligent if a patient contracts an infection due to unsanitary conditions, if there are significant delays in treatment leading to worsened conditions, or if staff fail to properly monitor a patient's vital signs. It is distinct from individual physician malpractice, as it focuses on systemic failures or actions of non-physician staff.",
+        "@type": "Answer",
+        "description": "Hospital negligence is when a hospital or its staff fail to provide the accepted standard of care, causing patient harm."
+      }
+    }
+  ],
+  "description": "Hospital negligence is when a hospital or its staff fail to provide the accepted standard of care, causing patient harm."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is crucial for a pedestrian accident claim?",
-  "description": "Key evidence includes police reports, medical records, photos of the scene and injuries, witness statements, and potentially video surveillance or expert testim",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-crucial-for-a-pedestrian-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is crucial for a pedestrian accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence for a pedestrian accident claim includes the police report, medical records documenting your injuries and treatment, photographs of the accident scene, vehicle damage, and your injuries. Witness statements are also very important. Additionally, video surveillance from nearby businesses or traffic cameras, cell phone records if the driver was distracted, and expert testimony (e.g., accident reconstructionists or medical experts) can significantly strengthen your case. Your attorney will help you identify, collect, and preserve all necessary evidence.",
-        "description": "Key evidence includes police reports, medical records, photos of the scene and injuries, witness statements, and potentially video surveillance or expert testimony."
-      }
-    }
-  ],
+  "name": "What evidence is crucial for a pedestrian accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is crucial for a pedestrian accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence for a pedestrian accident claim includes the police report, medical records documenting your injuries and treatment, photographs of the accident scene, vehicle damage, and your injuries. Witness statements are also very important. Additionally, video surveillance from nearby businesses or traffic cameras, cell phone records if the driver was distracted, and expert testimony (e.g., accident reconstructionists or medical experts) can significantly strengthen your case. Your attorney will help you identify, collect, and preserve all necessary evidence.",
+        "@type": "Answer",
+        "description": "Key evidence includes police reports, medical records, photos of the scene and injuries, witness statements, and potentially video surveillance or expert testimony."
+      }
+    }
+  ],
+  "description": "Key evidence includes police reports, medical records, photos of the scene and injuries, witness statements, and potentially video surveillance or expert testim"
 }

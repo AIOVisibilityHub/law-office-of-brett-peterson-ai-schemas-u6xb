@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of a car accident claim?",
-  "description": "The process involves consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit if a settlement isn't reached.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-a-car-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of a car accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an initial consultation, followed by investigation and evidence gathering by your attorney. Next, negotiations occur with the at-fault party's insurance company to reach a settlement. If a fair settlement isn't reached, your attorney may file a lawsuit. This could lead to further negotiations, mediation, or ultimately, a trial. The goal is to secure compensation for your damages.",
-        "description": "The process involves consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit if a settlement isn't reached."
-      }
-    }
-  ],
+  "name": "What is the process of a car accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of a car accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation, followed by investigation and evidence gathering by your attorney. Next, negotiations occur with the at-fault party's insurance company to reach a settlement. If a fair settlement isn't reached, your attorney may file a lawsuit. This could lead to further negotiations, mediation, or ultimately, a trial. The goal is to secure compensation for your damages.",
+        "@type": "Answer",
+        "description": "The process involves consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "description": "The process involves consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit if a settlement isn't reached."
 }

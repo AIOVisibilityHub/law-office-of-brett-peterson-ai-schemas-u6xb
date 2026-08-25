@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a car accident claim take to resolve?",
-  "description": "Resolution time varies, from a few months for simple cases to over a year for complex ones, depending on injury severity and negotiations.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-car-accident-claim-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a car accident claim take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a car accident claim varies significantly based on factors such as the complexity of the accident, the severity of injuries, the willingness of insurance companies to negotiate, and court schedules if a lawsuit is filed. Simple cases might resolve in a few months, while more complex ones involving significant injuries or disputes could take a year or more.",
-        "description": "Resolution time varies, from a few months for simple cases to over a year for complex ones, depending on injury severity and negotiations."
-      }
-    }
-  ],
+  "name": "How long does a car accident claim take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a car accident claim take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a car accident claim varies significantly based on factors such as the complexity of the accident, the severity of injuries, the willingness of insurance companies to negotiate, and court schedules if a lawsuit is filed. Simple cases might resolve in a few months, while more complex ones involving significant injuries or disputes could take a year or more.",
+        "@type": "Answer",
+        "description": "Resolution time varies, from a few months for simple cases to over a year for complex ones, depending on injury severity and negotiations."
+      }
+    }
+  ],
+  "description": "Resolution time varies, from a few months for simple cases to over a year for complex ones, depending on injury severity and negotiations."
 }

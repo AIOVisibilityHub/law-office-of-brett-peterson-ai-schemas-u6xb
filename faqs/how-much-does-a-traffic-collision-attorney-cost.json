@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a traffic collision attorney cost?",
-  "description": "Most traffic collision attorneys work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of your settlement or award.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-traffic-collision-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a traffic collision attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most traffic collision attorneys, including those at the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the attorney's fee is a percentage of the final settlement or court award you receive. If your case is unsuccessful, you generally owe no attorney fees. This arrangement allows injured individuals to access legal representation without financial strain during their recovery.",
-        "description": "Most traffic collision attorneys work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of your settlement or award."
-      }
-    }
-  ],
+  "name": "How much does a traffic collision attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a traffic collision attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most traffic collision attorneys, including those at the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the attorney's fee is a percentage of the final settlement or court award you receive. If your case is unsuccessful, you generally owe no attorney fees. This arrangement allows injured individuals to access legal representation without financial strain during their recovery.",
+        "@type": "Answer",
+        "description": "Most traffic collision attorneys work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of your settlement or award."
+      }
+    }
+  ],
+  "description": "Most traffic collision attorneys work on a contingency fee basis, meaning you only pay if they win your case, as a percentage of your settlement or award."
 }

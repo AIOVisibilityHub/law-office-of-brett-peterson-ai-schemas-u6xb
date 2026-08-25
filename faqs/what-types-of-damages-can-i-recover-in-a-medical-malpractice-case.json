@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damages can I recover in a medical malpractice case?",
-  "description": "You may recover economic damages like medical bills and lost wages, and non-economic damages for pain and suffering, though non-economic damages are capped in C",
   "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-i-recover-in-a-medical-malpractice-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damages can I recover in a medical malpractice case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If successful, you may be able to recover various types of damages. These can include economic damages such as past and future medical expenses, lost wages, and loss of earning capacity. Non-economic damages, like pain and suffering, emotional distress, and loss of enjoyment of life, may also be awarded. In California, non-economic damages in medical malpractice cases are subject to a cap, which can be adjusted periodically.",
-        "description": "You may recover economic damages like medical bills and lost wages, and non-economic damages for pain and suffering, though non-economic damages are capped in California."
-      }
-    }
-  ],
+  "name": "What types of damages can I recover in a medical malpractice case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damages can I recover in a medical malpractice case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If successful, you may be able to recover various types of damages. These can include economic damages such as past and future medical expenses, lost wages, and loss of earning capacity. Non-economic damages, like pain and suffering, emotional distress, and loss of enjoyment of life, may also be awarded. In California, non-economic damages in medical malpractice cases are subject to a cap, which can be adjusted periodically.",
+        "@type": "Answer",
+        "description": "You may recover economic damages like medical bills and lost wages, and non-economic damages for pain and suffering, though non-economic damages are capped in California."
+      }
+    }
+  ],
+  "description": "You may recover economic damages like medical bills and lost wages, and non-economic damages for pain and suffering, though non-economic damages are capped in C"
 }

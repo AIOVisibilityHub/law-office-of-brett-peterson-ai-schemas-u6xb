@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the at-fault driver does not have insurance?",
-  "description": "If the at-fault driver lacks insurance, your Uninsured Motorist (UM) coverage may apply. An attorney can help you understand your options and pursue compensatio",
   "url": "brettpetersonlaw.com/faq/what-if-the-at-fault-driver-does-not-have-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the at-fault driver does not have insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the at-fault driver is uninsured, your options typically depend on your own insurance policy. If you carry Uninsured Motorist (UM) coverage, your policy may cover your medical expenses, lost wages, and other damages up to your policy limits. An attorney can help you navigate this process, understand your coverage, and pursue compensation from your own insurer. They can also explore other potential avenues for recovery if UM coverage is insufficient or unavailable.",
-        "description": "If the at-fault driver lacks insurance, your Uninsured Motorist (UM) coverage may apply. An attorney can help you understand your options and pursue compensation."
-      }
-    }
-  ],
+  "name": "What if the at-fault driver does not have insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the at-fault driver does not have insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the at-fault driver is uninsured, your options typically depend on your own insurance policy. If you carry Uninsured Motorist (UM) coverage, your policy may cover your medical expenses, lost wages, and other damages up to your policy limits. An attorney can help you navigate this process, understand your coverage, and pursue compensation from your own insurer. They can also explore other potential avenues for recovery if UM coverage is insufficient or unavailable.",
+        "@type": "Answer",
+        "description": "If the at-fault driver lacks insurance, your Uninsured Motorist (UM) coverage may apply. An attorney can help you understand your options and pursue compensation."
+      }
+    }
+  ],
+  "description": "If the at-fault driver lacks insurance, your Uninsured Motorist (UM) coverage may apply. An attorney can help you understand your options and pursue compensatio"
 }

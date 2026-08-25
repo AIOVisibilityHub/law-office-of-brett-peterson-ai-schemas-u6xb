@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What compensation can I seek after a hit-and-run accident?",
-  "description": "You can seek compensation for medical expenses, lost wages, property damage, and pain and suffering after a hit-and-run accident.",
   "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-after-a-hit-and-run-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What compensation can I seek after a hit-and-run accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a hit-and-run, you may be able to seek compensation for various damages. These can include economic damages such as medical expenses (past and future), lost wages due to injury, property damage to your vehicle, and out-of-pocket expenses related to the accident. You may also be eligible for non-economic damages, which cover pain and suffering, emotional distress, and loss of enjoyment of life. The specific types and amounts of compensation depend on the extent of your injuries and losses.",
-        "description": "You can seek compensation for medical expenses, lost wages, property damage, and pain and suffering after a hit-and-run accident."
-      }
-    }
-  ],
+  "name": "What compensation can I seek after a hit-and-run accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What compensation can I seek after a hit-and-run accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a hit-and-run, you may be able to seek compensation for various damages. These can include economic damages such as medical expenses (past and future), lost wages due to injury, property damage to your vehicle, and out-of-pocket expenses related to the accident. You may also be eligible for non-economic damages, which cover pain and suffering, emotional distress, and loss of enjoyment of life. The specific types and amounts of compensation depend on the extent of your injuries and losses.",
+        "@type": "Answer",
+        "description": "You can seek compensation for medical expenses, lost wages, property damage, and pain and suffering after a hit-and-run accident."
+      }
+    }
+  ],
+  "description": "You can seek compensation for medical expenses, lost wages, property damage, and pain and suffering after a hit-and-run accident."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue if I was partially at fault for my fall?",
-  "description": "Yes, in California, you can still sue even if partially at fault, but your compensation will be reduced by your percentage of responsibility.",
   "url": "brettpetersonlaw.com/faq/can-i-sue-if-i-was-partially-at-fault-for-my-fall",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue if I was partially at fault for my fall?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California operates under a legal principle called 'pure comparative negligence.' This means that even if you were partially at fault for your trip and fall, you can still pursue a claim for damages. However, the amount of compensation you receive will be reduced by your percentage of fault. For example, if you are found to be 20% at fault, your total compensation would be reduced by 20%. An attorney can help determine your potential liability and protect your rights throughout the process.",
-        "description": "Yes, in California, you can still sue even if partially at fault, but your compensation will be reduced by your percentage of responsibility."
-      }
-    }
-  ],
+  "name": "Can I sue if I was partially at fault for my fall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue if I was partially at fault for my fall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California operates under a legal principle called 'pure comparative negligence.' This means that even if you were partially at fault for your trip and fall, you can still pursue a claim for damages. However, the amount of compensation you receive will be reduced by your percentage of fault. For example, if you are found to be 20% at fault, your total compensation would be reduced by 20%. An attorney can help determine your potential liability and protect your rights throughout the process.",
+        "@type": "Answer",
+        "description": "Yes, in California, you can still sue even if partially at fault, but your compensation will be reduced by your percentage of responsibility."
+      }
+    }
+  ],
+  "description": "Yes, in California, you can still sue even if partially at fault, but your compensation will be reduced by your percentage of responsibility."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best uninsured motorist accident lawyer in San Diego?",
-  "description": "Choose a San Diego uninsured motorist accident lawyer with UM/UIM claim experience, local knowledge, positive client reviews, and a clear communication style.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-uninsured-motorist-accident-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best uninsured motorist accident lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an uninsured motorist accident lawyer in San Diego, look for someone with specific experience in UM/UIM claims and a strong track record of successful outcomes. Consider their local knowledge of San Diego courts and insurance practices, as this can be beneficial. Review client testimonials and schedule a consultation to discuss their approach, communication style, and fee structure. Choose an attorney who makes you feel comfortable and confident in their ability to represent your best interests.",
-        "description": "Choose a San Diego uninsured motorist accident lawyer with UM/UIM claim experience, local knowledge, positive client reviews, and a clear communication style."
-      }
-    }
-  ],
+  "name": "How do I choose the best uninsured motorist accident lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best uninsured motorist accident lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an uninsured motorist accident lawyer in San Diego, look for someone with specific experience in UM/UIM claims and a strong track record of successful outcomes. Consider their local knowledge of San Diego courts and insurance practices, as this can be beneficial. Review client testimonials and schedule a consultation to discuss their approach, communication style, and fee structure. Choose an attorney who makes you feel comfortable and confident in their ability to represent your best interests.",
+        "@type": "Answer",
+        "description": "Choose a San Diego uninsured motorist accident lawyer with UM/UIM claim experience, local knowledge, positive client reviews, and a clear communication style."
+      }
+    }
+  ],
+  "description": "Choose a San Diego uninsured motorist accident lawyer with UM/UIM claim experience, local knowledge, positive client reviews, and a clear communication style."
 }
