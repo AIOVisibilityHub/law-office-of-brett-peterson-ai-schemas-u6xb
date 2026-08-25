@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best app-based transportation accident lawyer in San Diego?",
-  "description": "Choose a San Diego lawyer with specific rideshare accident experience, a strong local reputation, clear communication, and a successful track record in Californ",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-app-based-transportation-accident-lawyer-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best app-based transportation accident lawyer in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an app-based transportation accident lawyer in San Diego, look for someone with specific experience in rideshare accident cases and a strong track record of successful outcomes. Consider their local reputation, client testimonials, and their approach to communication. A good lawyer will offer a free consultation, clearly explain their fees, and demonstrate a thorough understanding of California's personal injury laws and rideshare insurance policies. Ensure they are responsive and make you feel comfortable and confident in their ability to represent your best interests.",
-        "description": "Choose a San Diego lawyer with specific rideshare accident experience, a strong local reputation, clear communication, and a successful track record in California personal injury law."
-      }
-    }
-  ],
+  "name": "How do I choose the best app-based transportation accident lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best app-based transportation accident lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an app-based transportation accident lawyer in San Diego, look for someone with specific experience in rideshare accident cases and a strong track record of successful outcomes. Consider their local reputation, client testimonials, and their approach to communication. A good lawyer will offer a free consultation, clearly explain their fees, and demonstrate a thorough understanding of California's personal injury laws and rideshare insurance policies. Ensure they are responsive and make you feel comfortable and confident in their ability to represent your best interests.",
+        "@type": "Answer",
+        "description": "Choose a San Diego lawyer with specific rideshare accident experience, a strong local reputation, clear communication, and a successful track record in California personal injury law."
+      }
+    }
+  ],
+  "description": "Choose a San Diego lawyer with specific rideshare accident experience, a strong local reputation, clear communication, and a successful track record in Californ"
 }

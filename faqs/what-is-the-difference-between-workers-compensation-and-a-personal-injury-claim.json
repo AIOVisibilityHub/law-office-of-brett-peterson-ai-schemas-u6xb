@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between workers' compensation and a personal injury claim?",
-  "description": "Workers' compensation is a no-fault system for work injuries, while a personal injury claim requires proving another party's negligence to recover broader damag",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-workers-compensation-and-a-personal-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between workers' compensation and a personal injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation is a no-fault system that provides benefits for work-related injuries, regardless of who was at fault. It covers medical care and lost wages but typically limits your ability to sue your employer directly for pain and suffering. A personal injury claim, conversely, requires proving negligence by another party to recover damages like pain and suffering, medical expenses, and lost wages. In some cases, you might have both a workers' compensation claim and a third-party personal injury claim if someone other than your employer caused your work injury.",
-        "description": "Workers' compensation is a no-fault system for work injuries, while a personal injury claim requires proving another party's negligence to recover broader damages."
-      }
-    }
-  ],
+  "name": "What is the difference between workers' compensation and a personal injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between workers' compensation and a personal injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation is a no-fault system that provides benefits for work-related injuries, regardless of who was at fault. It covers medical care and lost wages but typically limits your ability to sue your employer directly for pain and suffering. A personal injury claim, conversely, requires proving negligence by another party to recover damages like pain and suffering, medical expenses, and lost wages. In some cases, you might have both a workers' compensation claim and a third-party personal injury claim if someone other than your employer caused your work injury.",
+        "@type": "Answer",
+        "description": "Workers' compensation is a no-fault system for work injuries, while a personal injury claim requires proving another party's negligence to recover broader damages."
+      }
+    }
+  ],
+  "description": "Workers' compensation is a no-fault system for work injuries, while a personal injury claim requires proving another party's negligence to recover broader damag"
 }

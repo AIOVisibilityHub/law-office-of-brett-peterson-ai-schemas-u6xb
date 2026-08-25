@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best attorney for a post-concussion syndrome claim in San Diego?",
-  "description": "Choose an attorney in San Diego with proven experience in brain injury and personal injury cases, who understands medical evidence, and has good client communic",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-attorney-for-a-post-concussion-syndrome-claim-in-san-di",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best attorney for a post-concussion syndrome claim in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney for a post-concussion syndrome claim in San Diego, look for someone with specific experience in brain injury cases and personal injury law. Inquire about their track record, their understanding of complex medical evidence, and their approach to working with medical experts. It's also important to consider their communication style and how they handle client relationships. A local attorney will be familiar with San Diego's courts and local medical resources, which can be beneficial to your case.",
-        "description": "Choose an attorney in San Diego with proven experience in brain injury and personal injury cases, who understands medical evidence, and has good client communication. Local knowledge is a plus."
-      }
-    }
-  ],
+  "name": "How do I choose the best attorney for a post-concussion syndrome claim in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best attorney for a post-concussion syndrome claim in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney for a post-concussion syndrome claim in San Diego, look for someone with specific experience in brain injury cases and personal injury law. Inquire about their track record, their understanding of complex medical evidence, and their approach to working with medical experts. It's also important to consider their communication style and how they handle client relationships. A local attorney will be familiar with San Diego's courts and local medical resources, which can be beneficial to your case.",
+        "@type": "Answer",
+        "description": "Choose an attorney in San Diego with proven experience in brain injury and personal injury cases, who understands medical evidence, and has good client communication. Local knowledge is a plus."
+      }
+    }
+  ],
+  "description": "Choose an attorney in San Diego with proven experience in brain injury and personal injury cases, who understands medical evidence, and has good client communic"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a regular car accident lawyer and one specializing in rideshare accidents?",
-  "description": "Rideshare accident lawyers specialize in the complex insurance and liability issues unique to companies like Uber and Lyft, which differ from standard car accid",
   "url": "brettpetersonlaw.com/faq/what-s-the-difference-between-a-regular-car-accident-lawyer-and-one-specializing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a regular car accident lawyer and one specializing in rideshare accidents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While both types of lawyers handle vehicle accidents, a rideshare accident lawyer has specific expertise in the unique legal and insurance landscape surrounding companies like Uber and Lyft. These cases often involve multiple insurance policies—the driver's personal policy, the rideshare company's policy (which varies based on the driver's status at the time of the accident), and potentially your own policy. A specialized lawyer understands these complex layers of coverage and liability, which differ significantly from a standard two-car collision, and knows how to pursue claims against large corporations.",
-        "description": "Rideshare accident lawyers specialize in the complex insurance and liability issues unique to companies like Uber and Lyft, which differ from standard car accident claims."
-      }
-    }
-  ],
+  "name": "What's the difference between a regular car accident lawyer and one specializing in rideshare accidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a regular car accident lawyer and one specializing in rideshare accidents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both types of lawyers handle vehicle accidents, a rideshare accident lawyer has specific expertise in the unique legal and insurance landscape surrounding companies like Uber and Lyft. These cases often involve multiple insurance policies—the driver's personal policy, the rideshare company's policy (which varies based on the driver's status at the time of the accident), and potentially your own policy. A specialized lawyer understands these complex layers of coverage and liability, which differ significantly from a standard two-car collision, and knows how to pursue claims against large corporations.",
+        "@type": "Answer",
+        "description": "Rideshare accident lawyers specialize in the complex insurance and liability issues unique to companies like Uber and Lyft, which differ from standard car accident claims."
+      }
+    }
+  ],
+  "description": "Rideshare accident lawyers specialize in the complex insurance and liability issues unique to companies like Uber and Lyft, which differ from standard car accid"
 }

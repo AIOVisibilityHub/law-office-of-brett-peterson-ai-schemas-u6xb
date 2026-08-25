@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a concussion and post-concussion syndrome in a legal context?",
-  "description": "A concussion is the initial injury, while PCS refers to prolonged symptoms. Legally, PCS often results in higher compensation due to its lasting impact on healt",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-concussion-and-post-concussion-syndrome-in-a-le",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a concussion and post-concussion syndrome in a legal context?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a legal context, a concussion refers to the initial traumatic brain injury. Post-concussion syndrome (PCS) signifies the prolonged persistence of concussion symptoms beyond the typical recovery period. While a concussion might lead to short-term impacts, PCS implies a more severe and lasting injury with significant effects on a person's life, work, and well-being. This distinction is critical as PCS typically leads to higher compensation due to the extended medical treatment, greater lost earning capacity, and increased pain and suffering it entails compared to an uncomplicated concussion.",
-        "description": "A concussion is the initial injury, while PCS refers to prolonged symptoms. Legally, PCS often results in higher compensation due to its lasting impact on health and daily life."
-      }
-    }
-  ],
+  "name": "What is the difference between a concussion and post-concussion syndrome in a legal context?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a concussion and post-concussion syndrome in a legal context?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a legal context, a concussion refers to the initial traumatic brain injury. Post-concussion syndrome (PCS) signifies the prolonged persistence of concussion symptoms beyond the typical recovery period. While a concussion might lead to short-term impacts, PCS implies a more severe and lasting injury with significant effects on a person's life, work, and well-being. This distinction is critical as PCS typically leads to higher compensation due to the extended medical treatment, greater lost earning capacity, and increased pain and suffering it entails compared to an uncomplicated concussion.",
+        "@type": "Answer",
+        "description": "A concussion is the initial injury, while PCS refers to prolonged symptoms. Legally, PCS often results in higher compensation due to its lasting impact on health and daily life."
+      }
+    }
+  ],
+  "description": "A concussion is the initial injury, while PCS refers to prolonged symptoms. Legally, PCS often results in higher compensation due to its lasting impact on healt"
 }

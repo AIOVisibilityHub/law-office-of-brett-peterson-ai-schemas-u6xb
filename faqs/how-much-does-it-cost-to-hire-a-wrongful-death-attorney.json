@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a wrongful death attorney?",
-  "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you pay no upfront legal fees. The attorney's fee is a percentage of the final settlement",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-wrongful-death-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a wrongful death attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most wrongful death attorneys, including those in our San Diego office, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the final settlement or court award. If the case is unsuccessful, you typically owe no attorney fees. This arrangement allows families grieving a loss to pursue justice without the added financial burden of hourly legal costs. Any costs associated with the lawsuit, such as filing fees or expert witness fees, are usually deducted from the final recovery.",
-        "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you pay no upfront legal fees. The attorney's fee is a percentage of the final settlement or award."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a wrongful death attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a wrongful death attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most wrongful death attorneys, including those in our San Diego office, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the final settlement or court award. If the case is unsuccessful, you typically owe no attorney fees. This arrangement allows families grieving a loss to pursue justice without the added financial burden of hourly legal costs. Any costs associated with the lawsuit, such as filing fees or expert witness fees, are usually deducted from the final recovery.",
+        "@type": "Answer",
+        "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you pay no upfront legal fees. The attorney's fee is a percentage of the final settlement or award."
+      }
+    }
+  ],
+  "description": "Most wrongful death attorneys work on a contingency fee basis, meaning you pay no upfront legal fees. The attorney's fee is a percentage of the final settlement"
 }

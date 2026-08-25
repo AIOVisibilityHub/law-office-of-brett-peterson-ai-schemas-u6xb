@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need to hire an attorney after an Uber accident?",
-  "description": "You should consider hiring an attorney after an Uber accident if you have injuries, if liability is disputed, or if you are dealing with Uber's insurance compan",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-to-hire-an-attorney-after-an-uber-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need to hire an attorney after an Uber accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to consult with an attorney as soon as possible after an Uber accident, especially if you sustained injuries, if liability is disputed, or if you are dealing with Uber's insurance adjusters. An attorney can help you understand your rights, gather necessary evidence, communicate with insurance companies on your behalf, and ensure you meet critical deadlines. Delaying legal consultation might jeopardize your claim or result in a lower settlement than you deserve. Early legal intervention can protect your interests.",
-        "description": "You should consider hiring an attorney after an Uber accident if you have injuries, if liability is disputed, or if you are dealing with Uber's insurance companies."
-      }
-    }
-  ],
+  "name": "When do I need to hire an attorney after an Uber accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire an attorney after an Uber accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to consult with an attorney as soon as possible after an Uber accident, especially if you sustained injuries, if liability is disputed, or if you are dealing with Uber's insurance adjusters. An attorney can help you understand your rights, gather necessary evidence, communicate with insurance companies on your behalf, and ensure you meet critical deadlines. Delaying legal consultation might jeopardize your claim or result in a lower settlement than you deserve. Early legal intervention can protect your interests.",
+        "@type": "Answer",
+        "description": "You should consider hiring an attorney after an Uber accident if you have injuries, if liability is disputed, or if you are dealing with Uber's insurance companies."
+      }
+    }
+  ],
+  "description": "You should consider hiring an attorney after an Uber accident if you have injuries, if liability is disputed, or if you are dealing with Uber's insurance compan"
 }

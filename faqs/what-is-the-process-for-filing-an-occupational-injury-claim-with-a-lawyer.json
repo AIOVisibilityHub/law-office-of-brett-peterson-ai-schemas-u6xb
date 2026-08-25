@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing an occupational injury claim with a lawyer?",
-  "description": "After reporting your injury, your lawyer will help file claims, gather evidence, communicate with insurers, and represent you to secure fair compensation.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-an-occupational-injury-claim-with-a-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing an occupational injury claim with a lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with reporting your injury to your employer and seeking medical attention. Once you decide to involve a lawyer, they will help you officially file the necessary workers' compensation forms. This often involves gathering medical records, witness statements, and evidence related to your injury and its impact on your ability to work. Your lawyer will then communicate with your employer's insurance company, negotiate on your behalf, and represent you in any hearings or court proceedings to ensure you receive fair compensation for your medical expenses, lost wages, and other benefits.",
-        "description": "After reporting your injury, your lawyer will help file claims, gather evidence, communicate with insurers, and represent you to secure fair compensation."
-      }
-    }
-  ],
+  "name": "What is the process for filing an occupational injury claim with a lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing an occupational injury claim with a lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with reporting your injury to your employer and seeking medical attention. Once you decide to involve a lawyer, they will help you officially file the necessary workers' compensation forms. This often involves gathering medical records, witness statements, and evidence related to your injury and its impact on your ability to work. Your lawyer will then communicate with your employer's insurance company, negotiate on your behalf, and represent you in any hearings or court proceedings to ensure you receive fair compensation for your medical expenses, lost wages, and other benefits.",
+        "@type": "Answer",
+        "description": "After reporting your injury, your lawyer will help file claims, gather evidence, communicate with insurers, and represent you to secure fair compensation."
+      }
+    }
+  ],
+  "description": "After reporting your injury, your lawyer will help file claims, gather evidence, communicate with insurers, and represent you to secure fair compensation."
 }

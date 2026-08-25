@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I file a wrongful death claim if the death was caused by a criminal act?",
-  "description": "Yes, you can file a civil wrongful death claim even if the death resulted from a criminal act, as civil and criminal cases are separate.",
   "url": "brettpetersonlaw.com/faq/can-i-file-a-wrongful-death-claim-if-the-death-was-caused-by-a-criminal-act",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I file a wrongful death claim if the death was caused by a criminal act?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can file a wrongful death claim even if the death was caused by a criminal act. A wrongful death lawsuit is a civil action, which is separate and distinct from any criminal proceedings. The burden of proof is also different in civil cases. Even if the perpetrator is not convicted or charged criminally, you may still be able to recover damages for your losses through a civil wrongful death claim.",
-        "description": "Yes, you can file a civil wrongful death claim even if the death resulted from a criminal act, as civil and criminal cases are separate."
-      }
-    }
-  ],
+  "name": "Can I file a wrongful death claim if the death was caused by a criminal act?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a wrongful death claim if the death was caused by a criminal act?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can file a wrongful death claim even if the death was caused by a criminal act. A wrongful death lawsuit is a civil action, which is separate and distinct from any criminal proceedings. The burden of proof is also different in civil cases. Even if the perpetrator is not convicted or charged criminally, you may still be able to recover damages for your losses through a civil wrongful death claim.",
+        "@type": "Answer",
+        "description": "Yes, you can file a civil wrongful death claim even if the death resulted from a criminal act, as civil and criminal cases are separate."
+      }
+    }
+  ],
+  "description": "Yes, you can file a civil wrongful death claim even if the death resulted from a criminal act, as civil and criminal cases are separate."
 }

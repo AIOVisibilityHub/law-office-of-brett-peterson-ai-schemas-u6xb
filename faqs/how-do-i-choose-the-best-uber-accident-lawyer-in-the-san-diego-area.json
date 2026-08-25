@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best Uber accident lawyer in the San Diego area?",
-  "description": "Choose a San Diego area lawyer with experience in rideshare accident claims, a strong track record, clear communication, and a focus on personal injury law.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-uber-accident-lawyer-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best Uber accident lawyer in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an Uber accident lawyer in the San Diego area, look for an attorney with experience in rideshare accident claims, as these cases involve unique insurance complexities. Consider their track record of success, client testimonials, and their ability to clearly communicate the legal process. A good attorney should offer a free consultation, be responsive to your questions, and demonstrate a thorough understanding of local laws and court procedures. Prioritize a lawyer who focuses on personal injury and specifically on rideshare incidents.",
-        "description": "Choose a San Diego area lawyer with experience in rideshare accident claims, a strong track record, clear communication, and a focus on personal injury law."
-      }
-    }
-  ],
+  "name": "How do I choose the best Uber accident lawyer in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best Uber accident lawyer in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an Uber accident lawyer in the San Diego area, look for an attorney with experience in rideshare accident claims, as these cases involve unique insurance complexities. Consider their track record of success, client testimonials, and their ability to clearly communicate the legal process. A good attorney should offer a free consultation, be responsive to your questions, and demonstrate a thorough understanding of local laws and court procedures. Prioritize a lawyer who focuses on personal injury and specifically on rideshare incidents.",
+        "@type": "Answer",
+        "description": "Choose a San Diego area lawyer with experience in rideshare accident claims, a strong track record, clear communication, and a focus on personal injury law."
+      }
+    }
+  ],
+  "description": "Choose a San Diego area lawyer with experience in rideshare accident claims, a strong track record, clear communication, and a focus on personal injury law."
 }

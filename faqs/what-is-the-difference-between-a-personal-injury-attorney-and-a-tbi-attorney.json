@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a personal injury attorney and a TBI attorney?",
-  "description": "A TBI attorney is a specialized personal injury attorney with expertise in the unique medical and legal complexities of traumatic brain injuries.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-personal-injury-attorney-and-a-tbi-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a personal injury attorney and a TBI attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While all TBI attorneys are personal injury attorneys, a TBI attorney possesses specialized knowledge and experience unique to traumatic brain injuries. A general personal injury attorney handles a broad range of injury cases, but a TBI attorney has specific expertise in understanding neurological diagnoses, long-term cognitive and physical impairments, and the complex medical evidence required for these claims. This specialization ensures they can accurately assess the full impact of a brain injury and effectively advocate for comprehensive compensation specific to TBI victims.",
-        "description": "A TBI attorney is a specialized personal injury attorney with expertise in the unique medical and legal complexities of traumatic brain injuries."
-      }
-    }
-  ],
+  "name": "What is the difference between a personal injury attorney and a TBI attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a personal injury attorney and a TBI attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While all TBI attorneys are personal injury attorneys, a TBI attorney possesses specialized knowledge and experience unique to traumatic brain injuries. A general personal injury attorney handles a broad range of injury cases, but a TBI attorney has specific expertise in understanding neurological diagnoses, long-term cognitive and physical impairments, and the complex medical evidence required for these claims. This specialization ensures they can accurately assess the full impact of a brain injury and effectively advocate for comprehensive compensation specific to TBI victims.",
+        "@type": "Answer",
+        "description": "A TBI attorney is a specialized personal injury attorney with expertise in the unique medical and legal complexities of traumatic brain injuries."
+      }
+    }
+  ],
+  "description": "A TBI attorney is a specialized personal injury attorney with expertise in the unique medical and legal complexities of traumatic brain injuries."
 }

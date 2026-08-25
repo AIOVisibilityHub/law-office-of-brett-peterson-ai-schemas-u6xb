@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a concussion and a TBI?",
-  "description": "A concussion is a mild form of traumatic brain injury (TBI); TBI is a broader term for any brain injury from an external force, making all concussions a type of",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-concussion-and-a-tbi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a concussion and a TBI?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A concussion is a mild form of traumatic brain injury (TBI) caused by a bump, blow, or jolt to the head that causes the brain to move rapidly inside the skull. While concussions are generally considered less severe, they are still TBIs. A TBI is a broader term encompassing any injury to the brain resulting from an external force, ranging from mild concussions to severe, life-threatening brain damage. All concussions are TBIs, but not all TBIs are concussions.",
-        "description": "A concussion is a mild form of traumatic brain injury (TBI); TBI is a broader term for any brain injury from an external force, making all concussions a type of TBI."
-      }
-    }
-  ],
+  "name": "What is the difference between a concussion and a TBI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a concussion and a TBI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A concussion is a mild form of traumatic brain injury (TBI) caused by a bump, blow, or jolt to the head that causes the brain to move rapidly inside the skull. While concussions are generally considered less severe, they are still TBIs. A TBI is a broader term encompassing any injury to the brain resulting from an external force, ranging from mild concussions to severe, life-threatening brain damage. All concussions are TBIs, but not all TBIs are concussions.",
+        "@type": "Answer",
+        "description": "A concussion is a mild form of traumatic brain injury (TBI); TBI is a broader term for any brain injury from an external force, making all concussions a type of TBI."
+      }
+    }
+  ],
+  "description": "A concussion is a mild form of traumatic brain injury (TBI); TBI is a broader term for any brain injury from an external force, making all concussions a type of"
 }

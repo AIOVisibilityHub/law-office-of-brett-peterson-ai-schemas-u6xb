@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do immediately after an Uber accident if I'm a passenger?",
-  "description": "After an Uber accident, seek medical attention, report to police and Uber, document the scene, and gather contact information. Do not discuss fault or accept se",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-an-uber-accident-if-i-m-a-passenger",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do immediately after an Uber accident if I'm a passenger?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After an Uber accident as a passenger, prioritize your safety and health. Seek immediate medical attention, even if you feel fine, as some injuries may not be apparent right away. Report the accident to the police and Uber through their app. Document the scene by taking photos or videos of the vehicles involved, any visible damage, and your injuries. Gather contact information from the Uber driver and any witnesses. Do not discuss fault or accept any settlement offers without consulting an attorney. These steps are crucial for protecting your health and preserving any potential legal claim.",
-        "description": "After an Uber accident, seek medical attention, report to police and Uber, document the scene, and gather contact information. Do not discuss fault or accept settlement offers without legal advice."
-      }
-    }
-  ],
+  "name": "What should I do immediately after an Uber accident if I'm a passenger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after an Uber accident if I'm a passenger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After an Uber accident as a passenger, prioritize your safety and health. Seek immediate medical attention, even if you feel fine, as some injuries may not be apparent right away. Report the accident to the police and Uber through their app. Document the scene by taking photos or videos of the vehicles involved, any visible damage, and your injuries. Gather contact information from the Uber driver and any witnesses. Do not discuss fault or accept any settlement offers without consulting an attorney. These steps are crucial for protecting your health and preserving any potential legal claim.",
+        "@type": "Answer",
+        "description": "After an Uber accident, seek medical attention, report to police and Uber, document the scene, and gather contact information. Do not discuss fault or accept settlement offers without legal advice."
+      }
+    }
+  ],
+  "description": "After an Uber accident, seek medical attention, report to police and Uber, document the scene, and gather contact information. Do not discuss fault or accept se"
 }

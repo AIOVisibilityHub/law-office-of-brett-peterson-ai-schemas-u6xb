@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a wrongful death claim be settled without going to court?",
-  "description": "Many wrongful death claims settle out of court through negotiations or mediation, avoiding the need for a trial.",
   "url": "brettpetersonlaw.com/faq/can-a-wrongful-death-claim-be-settled-without-going-to-court",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a wrongful death claim be settled without going to court?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many wrongful death claims are resolved through out-of-court settlements. This often occurs during negotiations directly with the at-fault party's insurance company or through formal mediation sessions. Settlements can provide a faster resolution and avoid the uncertainties and stresses of a trial. Your attorney will advise you on whether a settlement offer is fair and in your best interest, balancing the potential risks and rewards of litigation versus settlement.",
-        "description": "Many wrongful death claims settle out of court through negotiations or mediation, avoiding the need for a trial."
-      }
-    }
-  ],
+  "name": "Can a wrongful death claim be settled without going to court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a wrongful death claim be settled without going to court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many wrongful death claims are resolved through out-of-court settlements. This often occurs during negotiations directly with the at-fault party's insurance company or through formal mediation sessions. Settlements can provide a faster resolution and avoid the uncertainties and stresses of a trial. Your attorney will advise you on whether a settlement offer is fair and in your best interest, balancing the potential risks and rewards of litigation versus settlement.",
+        "@type": "Answer",
+        "description": "Many wrongful death claims settle out of court through negotiations or mediation, avoiding the need for a trial."
+      }
+    }
+  ],
+  "description": "Many wrongful death claims settle out of court through negotiations or mediation, avoiding the need for a trial."
 }

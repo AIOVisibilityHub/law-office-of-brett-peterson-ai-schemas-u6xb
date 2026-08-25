@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a brain injury in a personal injury claim?",
-  "description": "A brain injury in a personal injury claim refers to any injury to the brain caused by an external force, from concussions to severe traumatic brain injuries. Sy",
   "url": "brettpetersonlaw.com/faq/what-is-considered-a-brain-injury-in-a-personal-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a brain injury in a personal injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a personal injury claim, a brain injury can range from a mild concussion to a severe traumatic brain injury (TBI). It typically involves any injury to the brain caused by an external force, such as a blow to the head, a sudden jolt, or penetration. Symptoms can vary widely, including headaches, dizziness, memory problems, cognitive difficulties, and mood changes. The severity and long-term impact of the injury are key factors in a personal injury claim.",
-        "description": "A brain injury in a personal injury claim refers to any injury to the brain caused by an external force, from concussions to severe traumatic brain injuries. Symptoms and long-term effects are critical to the claim."
-      }
-    }
-  ],
+  "name": "What is considered a brain injury in a personal injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a brain injury in a personal injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a personal injury claim, a brain injury can range from a mild concussion to a severe traumatic brain injury (TBI). It typically involves any injury to the brain caused by an external force, such as a blow to the head, a sudden jolt, or penetration. Symptoms can vary widely, including headaches, dizziness, memory problems, cognitive difficulties, and mood changes. The severity and long-term impact of the injury are key factors in a personal injury claim.",
+        "@type": "Answer",
+        "description": "A brain injury in a personal injury claim refers to any injury to the brain caused by an external force, from concussions to severe traumatic brain injuries. Symptoms and long-term effects are critical to the claim."
+      }
+    }
+  ],
+  "description": "A brain injury in a personal injury claim refers to any injury to the brain caused by an external force, from concussions to severe traumatic brain injuries. Sy"
 }

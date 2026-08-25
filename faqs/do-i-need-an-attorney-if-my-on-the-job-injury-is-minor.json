@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need an attorney if my on-the-job injury is minor?",
-  "description": "Even for minor injuries, an attorney can ensure proper documentation and protect your rights from potential complications.",
   "url": "brettpetersonlaw.com/faq/do-i-need-an-attorney-if-my-on-the-job-injury-is-minor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need an attorney if my on-the-job injury is minor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Even for seemingly minor on-the-job injuries, consulting an attorney can be beneficial. What appears minor initially can sometimes lead to complications or long-term issues not immediately apparent. An attorney can ensure your injury is properly documented, all necessary medical treatments are covered, and your rights are protected, even in straightforward cases. They can also prevent common mistakes that might jeopardize your claim later, should the injury prove more significant than first thought.",
-        "description": "Even for minor injuries, an attorney can ensure proper documentation and protect your rights from potential complications."
-      }
-    }
-  ],
+  "name": "Do I need an attorney if my on-the-job injury is minor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an attorney if my on-the-job injury is minor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even for seemingly minor on-the-job injuries, consulting an attorney can be beneficial. What appears minor initially can sometimes lead to complications or long-term issues not immediately apparent. An attorney can ensure your injury is properly documented, all necessary medical treatments are covered, and your rights are protected, even in straightforward cases. They can also prevent common mistakes that might jeopardize your claim later, should the injury prove more significant than first thought.",
+        "@type": "Answer",
+        "description": "Even for minor injuries, an attorney can ensure proper documentation and protect your rights from potential complications."
+      }
+    }
+  ],
+  "description": "Even for minor injuries, an attorney can ensure proper documentation and protect your rights from potential complications."
 }

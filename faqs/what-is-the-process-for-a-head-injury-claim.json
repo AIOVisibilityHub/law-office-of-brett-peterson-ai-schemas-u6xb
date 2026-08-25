@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for a head injury claim?",
-  "description": "The process involves an initial consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit and going to trial.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-a-head-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for a head injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to discuss your injury and the circumstances. Your lawyer will then investigate, gather evidence, and determine liability. Next, a demand letter is usually sent to the at-fault party's insurance company. If negotiations fail to reach a fair settlement, a lawsuit may be filed, leading to discovery, mediation, and potentially a trial. The goal is to secure maximum compensation for your damages.",
-        "description": "The process involves an initial consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit and going to trial."
-      }
-    }
-  ],
+  "name": "What is the process for a head injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a head injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your injury and the circumstances. Your lawyer will then investigate, gather evidence, and determine liability. Next, a demand letter is usually sent to the at-fault party's insurance company. If negotiations fail to reach a fair settlement, a lawsuit may be filed, leading to discovery, mediation, and potentially a trial. The goal is to secure maximum compensation for your damages.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit and going to trial."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, investigation, negotiation with insurance companies, and potentially filing a lawsuit and going to trial."
 }

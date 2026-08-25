@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue Uber directly if I was injured as a passenger?",
-  "description": "Directly suing Uber is complex due to their independent contractor model. Claims usually involve the at-fault driver's insurance and Uber's commercial insurance",
   "url": "brettpetersonlaw.com/faq/can-i-sue-uber-directly-if-i-was-injured-as-a-passenger",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue Uber directly if I was injured as a passenger?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "As an Uber passenger, you generally cannot sue Uber directly as if they were a traditional taxi company. Uber classifies its drivers as independent contractors, which often limits their direct liability. Instead, claims are typically made against the at-fault driver's insurance and Uber's commercial insurance policy, which provides coverage for accidents during rides. An attorney can help you navigate these complex insurance claims to ensure you pursue compensation from the appropriate parties, which may include the driver, their personal insurance, and Uber's uninsured/underinsured motorist coverage or third-party liability policy.",
-        "description": "Directly suing Uber is complex due to their independent contractor model. Claims usually involve the at-fault driver's insurance and Uber's commercial insurance policy."
-      }
-    }
-  ],
+  "name": "Can I sue Uber directly if I was injured as a passenger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue Uber directly if I was injured as a passenger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As an Uber passenger, you generally cannot sue Uber directly as if they were a traditional taxi company. Uber classifies its drivers as independent contractors, which often limits their direct liability. Instead, claims are typically made against the at-fault driver's insurance and Uber's commercial insurance policy, which provides coverage for accidents during rides. An attorney can help you navigate these complex insurance claims to ensure you pursue compensation from the appropriate parties, which may include the driver, their personal insurance, and Uber's uninsured/underinsured motorist coverage or third-party liability policy.",
+        "@type": "Answer",
+        "description": "Directly suing Uber is complex due to their independent contractor model. Claims usually involve the at-fault driver's insurance and Uber's commercial insurance policy."
+      }
+    }
+  ],
+  "description": "Directly suing Uber is complex due to their independent contractor model. Claims usually involve the at-fault driver's insurance and Uber's commercial insurance"
 }

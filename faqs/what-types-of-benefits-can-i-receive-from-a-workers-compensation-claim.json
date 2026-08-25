@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of benefits can I receive from a workers' compensation claim?",
-  "description": "Benefits include medical care, temporary disability for lost wages, and permanent disability for lasting impairments. Vocational rehabilitation and death benefi",
   "url": "brettpetersonlaw.com/faq/what-types-of-benefits-can-i-receive-from-a-workers-compensation-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of benefits can I receive from a workers' compensation claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation benefits typically include medical care related to your injury, such as doctor visits, prescriptions, hospital stays, and physical therapy. You may also receive temporary disability benefits for lost wages if your injury prevents you from working. If your injury results in a permanent impairment, you could be eligible for permanent disability benefits. Additionally, some claims may include vocational rehabilitation services to help you return to work, or death benefits for dependents in tragic circumstances.",
-        "description": "Benefits include medical care, temporary disability for lost wages, and permanent disability for lasting impairments. Vocational rehabilitation and death benefits may also be available."
-      }
-    }
-  ],
+  "name": "What types of benefits can I receive from a workers' compensation claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of benefits can I receive from a workers' compensation claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation benefits typically include medical care related to your injury, such as doctor visits, prescriptions, hospital stays, and physical therapy. You may also receive temporary disability benefits for lost wages if your injury prevents you from working. If your injury results in a permanent impairment, you could be eligible for permanent disability benefits. Additionally, some claims may include vocational rehabilitation services to help you return to work, or death benefits for dependents in tragic circumstances.",
+        "@type": "Answer",
+        "description": "Benefits include medical care, temporary disability for lost wages, and permanent disability for lasting impairments. Vocational rehabilitation and death benefits may also be available."
+      }
+    }
+  ],
+  "description": "Benefits include medical care, temporary disability for lost wages, and permanent disability for lasting impairments. Vocational rehabilitation and death benefi"
 }

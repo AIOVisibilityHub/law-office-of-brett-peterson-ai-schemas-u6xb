@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the statute of limitations for filing a TBI claim in California?",
-  "description": "The general statute of limitations for TBI claims in California is two years from the injury date, but exceptions exist.",
   "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-filing-a-tbi-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the statute of limitations for filing a TBI claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the general statute of limitations for personal injury cases, including most traumatic brain injury claims, is two years from the date of the injury. This means you typically have two years from the date of the accident to file a lawsuit in court. However, there are exceptions that can shorten or extend this period, such as claims against government entities, which often have a much shorter deadline (e.g., six months). Missing this deadline can permanently bar you from recovering compensation. It's crucial to consult a lawyer promptly to ensure your claim is filed within the appropriate timeframe.",
-        "description": "The general statute of limitations for TBI claims in California is two years from the injury date, but exceptions exist."
-      }
-    }
-  ],
+  "name": "What is the statute of limitations for filing a TBI claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the statute of limitations for filing a TBI claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the general statute of limitations for personal injury cases, including most traumatic brain injury claims, is two years from the date of the injury. This means you typically have two years from the date of the accident to file a lawsuit in court. However, there are exceptions that can shorten or extend this period, such as claims against government entities, which often have a much shorter deadline (e.g., six months). Missing this deadline can permanently bar you from recovering compensation. It's crucial to consult a lawyer promptly to ensure your claim is filed within the appropriate timeframe.",
+        "@type": "Answer",
+        "description": "The general statute of limitations for TBI claims in California is two years from the injury date, but exceptions exist."
+      }
+    }
+  ],
+  "description": "The general statute of limitations for TBI claims in California is two years from the injury date, but exceptions exist."
 }

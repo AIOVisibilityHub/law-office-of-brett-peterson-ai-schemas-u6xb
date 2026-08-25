@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can an on-the-job injury attorney help me claim?",
-  "description": "An attorney can help you claim medical expenses, lost wages, disability benefits, and vocational rehabilitation after a work injury.",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-an-on-the-job-injury-attorney-help-me-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can an on-the-job injury attorney help me claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An on-the-job injury attorney can help you claim various types of compensation, including coverage for medical treatment (hospital visits, prescriptions, rehabilitation), temporary or permanent disability benefits for lost wages, and vocational rehabilitation if you cannot return to your previous job. In severe cases, they may also assist with claims for permanent impairment. The specific types and amounts of compensation depend on the nature and severity of your injury, as well as state workers' compensation laws.",
-        "description": "An attorney can help you claim medical expenses, lost wages, disability benefits, and vocational rehabilitation after a work injury."
-      }
-    }
-  ],
+  "name": "What types of compensation can an on-the-job injury attorney help me claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can an on-the-job injury attorney help me claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An on-the-job injury attorney can help you claim various types of compensation, including coverage for medical treatment (hospital visits, prescriptions, rehabilitation), temporary or permanent disability benefits for lost wages, and vocational rehabilitation if you cannot return to your previous job. In severe cases, they may also assist with claims for permanent impairment. The specific types and amounts of compensation depend on the nature and severity of your injury, as well as state workers' compensation laws.",
+        "@type": "Answer",
+        "description": "An attorney can help you claim medical expenses, lost wages, disability benefits, and vocational rehabilitation after a work injury."
+      }
+    }
+  ],
+  "description": "An attorney can help you claim medical expenses, lost wages, disability benefits, and vocational rehabilitation after a work injury."
 }

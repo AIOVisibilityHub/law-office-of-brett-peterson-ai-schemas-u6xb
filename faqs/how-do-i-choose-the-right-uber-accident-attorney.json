@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right Uber accident attorney?",
-  "description": "Choose an attorney with specific experience in rideshare accidents, a contingency fee structure, and a strong track record, especially one familiar with Califor",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-uber-accident-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right Uber accident attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an Uber accident attorney, look for someone with specific experience in rideshare accident claims, as these cases involve unique legal and insurance challenges. Ensure they operate on a contingency fee basis so you don't pay upfront. Seek an attorney who offers a free initial consultation to discuss your case without obligation. Prioritize clear communication, a strong track record of successful settlements or verdicts, and a thorough understanding of California's personal injury laws. Local experience, particularly in San Diego, can also be beneficial.",
-        "description": "Choose an attorney with specific experience in rideshare accidents, a contingency fee structure, and a strong track record, especially one familiar with California laws."
-      }
-    }
-  ],
+  "name": "How do I choose the right Uber accident attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right Uber accident attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an Uber accident attorney, look for someone with specific experience in rideshare accident claims, as these cases involve unique legal and insurance challenges. Ensure they operate on a contingency fee basis so you don't pay upfront. Seek an attorney who offers a free initial consultation to discuss your case without obligation. Prioritize clear communication, a strong track record of successful settlements or verdicts, and a thorough understanding of California's personal injury laws. Local experience, particularly in San Diego, can also be beneficial.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience in rideshare accidents, a contingency fee structure, and a strong track record, especially one familiar with California laws."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience in rideshare accidents, a contingency fee structure, and a strong track record, especially one familiar with Califor"
 }

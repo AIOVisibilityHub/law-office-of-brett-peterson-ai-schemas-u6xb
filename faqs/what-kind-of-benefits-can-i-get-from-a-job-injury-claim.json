@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of benefits can I get from a job injury claim?",
-  "description": "Benefits can include medical treatment, temporary and permanent disability payments for lost wages, and vocational rehabilitation.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-benefits-can-i-get-from-a-job-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of benefits can I get from a job injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Benefits for a job injury claim typically include medical treatment necessary to cure or relieve the effects of the injury, temporary disability payments for lost wages while recovering, and permanent disability benefits if the injury results in lasting impairment. In some cases, vocational rehabilitation services may also be provided to help you return to work. Death benefits can be available to dependents of workers who die due to a job injury.",
-        "description": "Benefits can include medical treatment, temporary and permanent disability payments for lost wages, and vocational rehabilitation."
-      }
-    }
-  ],
+  "name": "What kind of benefits can I get from a job injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of benefits can I get from a job injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Benefits for a job injury claim typically include medical treatment necessary to cure or relieve the effects of the injury, temporary disability payments for lost wages while recovering, and permanent disability benefits if the injury results in lasting impairment. In some cases, vocational rehabilitation services may also be provided to help you return to work. Death benefits can be available to dependents of workers who die due to a job injury.",
+        "@type": "Answer",
+        "description": "Benefits can include medical treatment, temporary and permanent disability payments for lost wages, and vocational rehabilitation."
+      }
+    }
+  ],
+  "description": "Benefits can include medical treatment, temporary and permanent disability payments for lost wages, and vocational rehabilitation."
 }

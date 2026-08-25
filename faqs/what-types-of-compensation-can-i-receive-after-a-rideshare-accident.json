@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I receive after a rideshare accident?",
-  "description": "Compensation can include economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering.",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-after-a-rideshare-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I receive after a rideshare accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a rideshare accident, you may be eligible for various types of compensation, often referred to as damages. These can include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and out-of-pocket expenses. Non-economic damages may also be recoverable, including pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. The specific types and amounts of compensation depend on the severity of your injuries and the circumstances of the accident.",
-        "description": "Compensation can include economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
-      }
-    }
-  ],
+  "name": "What types of compensation can I receive after a rideshare accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I receive after a rideshare accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a rideshare accident, you may be eligible for various types of compensation, often referred to as damages. These can include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and out-of-pocket expenses. Non-economic damages may also be recoverable, including pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. The specific types and amounts of compensation depend on the severity of your injuries and the circumstances of the accident.",
+        "@type": "Answer",
+        "description": "Compensation can include economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
+      }
+    }
+  ],
+  "description": "Compensation can include economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering."
 }

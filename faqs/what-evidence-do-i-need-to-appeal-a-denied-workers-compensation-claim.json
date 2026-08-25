@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence do I need to appeal a denied workers' compensation claim?",
-  "description": "You'll need medical records, doctor reports linking injury to work, accident reports, witness statements, and employment records to appeal a denial.",
   "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-appeal-a-denied-workers-compensation-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence do I need to appeal a denied workers' compensation claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "To appeal a denied workers' compensation claim, you will need strong evidence to support your case. This typically includes comprehensive medical records detailing your injury, diagnosis, and treatment, along with reports from treating physicians confirming the work-related nature of your injury. Other critical evidence can include accident reports, witness statements, employment records, and any documentation from your employer regarding the injury. Your attorney will help you identify and gather all necessary documentation to present a compelling case to the Workers' Compensation Appeals Board.",
-        "description": "You'll need medical records, doctor reports linking injury to work, accident reports, witness statements, and employment records to appeal a denial."
-      }
-    }
-  ],
+  "name": "What evidence do I need to appeal a denied workers' compensation claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence do I need to appeal a denied workers' compensation claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To appeal a denied workers' compensation claim, you will need strong evidence to support your case. This typically includes comprehensive medical records detailing your injury, diagnosis, and treatment, along with reports from treating physicians confirming the work-related nature of your injury. Other critical evidence can include accident reports, witness statements, employment records, and any documentation from your employer regarding the injury. Your attorney will help you identify and gather all necessary documentation to present a compelling case to the Workers' Compensation Appeals Board.",
+        "@type": "Answer",
+        "description": "You'll need medical records, doctor reports linking injury to work, accident reports, witness statements, and employment records to appeal a denial."
+      }
+    }
+  ],
+  "description": "You'll need medical records, doctor reports linking injury to work, accident reports, witness statements, and employment records to appeal a denial."
 }

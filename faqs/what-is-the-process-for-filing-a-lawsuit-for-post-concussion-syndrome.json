@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a lawsuit for post-concussion syndrome?",
-  "description": "Filing a PCS lawsuit involves case evaluation, investigation, evidence gathering, negotiation with insurers, and potentially litigation if a settlement isn't re",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-lawsuit-for-post-concussion-syndrome",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a lawsuit for post-concussion syndrome?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with a free consultation to evaluate your case. If accepted, the attorney will conduct a thorough investigation, gather medical records, accident reports, and witness statements. They will then notify the at-fault party's insurance company of your claim. Negotiations typically follow, aiming for a fair settlement. If negotiations are unsuccessful, a lawsuit may be filed, leading to discovery (information exchange), mediation, and potentially a trial. Your attorney guides you through each step.",
-        "description": "Filing a PCS lawsuit involves case evaluation, investigation, evidence gathering, negotiation with insurers, and potentially litigation if a settlement isn't reached."
-      }
-    }
-  ],
+  "name": "What is the process for filing a lawsuit for post-concussion syndrome?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a lawsuit for post-concussion syndrome?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a free consultation to evaluate your case. If accepted, the attorney will conduct a thorough investigation, gather medical records, accident reports, and witness statements. They will then notify the at-fault party's insurance company of your claim. Negotiations typically follow, aiming for a fair settlement. If negotiations are unsuccessful, a lawsuit may be filed, leading to discovery (information exchange), mediation, and potentially a trial. Your attorney guides you through each step.",
+        "@type": "Answer",
+        "description": "Filing a PCS lawsuit involves case evaluation, investigation, evidence gathering, negotiation with insurers, and potentially litigation if a settlement isn't reached."
+      }
+    }
+  ],
+  "description": "Filing a PCS lawsuit involves case evaluation, investigation, evidence gathering, negotiation with insurers, and potentially litigation if a settlement isn't re"
 }

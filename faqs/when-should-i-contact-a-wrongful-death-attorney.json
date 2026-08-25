@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a wrongful death attorney?",
-  "description": "Contact a wrongful death attorney as soon as possible after the loss to ensure timely evidence collection and adherence to filing deadlines.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-wrongful-death-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a wrongful death attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a wrongful death attorney as soon as possible after the loss of a loved one due to another's negligence. Early legal consultation allows for the timely collection of critical evidence, preservation of witness testimony, and adherence to strict filing deadlines. Prompt action can significantly strengthen your claim and ensure all legal options are explored effectively.",
-        "description": "Contact a wrongful death attorney as soon as possible after the loss to ensure timely evidence collection and adherence to filing deadlines."
-      }
-    }
-  ],
+  "name": "When should I contact a wrongful death attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a wrongful death attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a wrongful death attorney as soon as possible after the loss of a loved one due to another's negligence. Early legal consultation allows for the timely collection of critical evidence, preservation of witness testimony, and adherence to strict filing deadlines. Prompt action can significantly strengthen your claim and ensure all legal options are explored effectively.",
+        "@type": "Answer",
+        "description": "Contact a wrongful death attorney as soon as possible after the loss to ensure timely evidence collection and adherence to filing deadlines."
+      }
+    }
+  ],
+  "description": "Contact a wrongful death attorney as soon as possible after the loss to ensure timely evidence collection and adherence to filing deadlines."
 }

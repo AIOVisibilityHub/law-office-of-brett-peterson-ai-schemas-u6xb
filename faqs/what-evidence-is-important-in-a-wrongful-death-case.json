@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important in a wrongful death case?",
-  "description": "Important evidence includes police reports, medical records, witness statements, financial documents, and potentially expert testimony.",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-wrongful-death-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important in a wrongful death case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key evidence in a wrongful death case includes police reports, medical records (of the deceased and those related to the incident), autopsy reports, witness statements, photographs or videos of the scene, and any documentation of financial losses like pay stubs or tax returns. Expert testimony, such as from accident reconstructionists or economists, may also be crucial to establish liability and damages.",
-        "description": "Important evidence includes police reports, medical records, witness statements, financial documents, and potentially expert testimony."
-      }
-    }
-  ],
+  "name": "What evidence is important in a wrongful death case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important in a wrongful death case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key evidence in a wrongful death case includes police reports, medical records (of the deceased and those related to the incident), autopsy reports, witness statements, photographs or videos of the scene, and any documentation of financial losses like pay stubs or tax returns. Expert testimony, such as from accident reconstructionists or economists, may also be crucial to establish liability and damages.",
+        "@type": "Answer",
+        "description": "Important evidence includes police reports, medical records, witness statements, financial documents, and potentially expert testimony."
+      }
+    }
+  ],
+  "description": "Important evidence includes police reports, medical records, witness statements, financial documents, and potentially expert testimony."
 }

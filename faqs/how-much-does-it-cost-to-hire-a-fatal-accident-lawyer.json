@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a fatal accident lawyer?",
-  "description": "Fatal accident lawyers typically work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-fatal-accident-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a fatal accident lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most fatal accident lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered through a settlement or court award. If no recovery is made, you generally owe no attorney's fees. This arrangement allows families to pursue justice without immediate financial burden, as legal costs are deferred until the case is resolved successfully.",
-        "description": "Fatal accident lawyers typically work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a fatal accident lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a fatal accident lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most fatal accident lawyers, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered through a settlement or court award. If no recovery is made, you generally owe no attorney's fees. This arrangement allows families to pursue justice without immediate financial burden, as legal costs are deferred until the case is resolved successfully.",
+        "@type": "Answer",
+        "description": "Fatal accident lawyers typically work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered."
+      }
+    }
+  ],
+  "description": "Fatal accident lawyers typically work on a contingency fee basis, meaning you pay no upfront legal fees; they receive a percentage of any compensation recovered"
 }

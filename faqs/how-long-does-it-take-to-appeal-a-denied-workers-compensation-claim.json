@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to appeal a denied workers' compensation claim?",
-  "description": "Appealing a denied claim can take several months to over a year, depending on case complexity and the appeals board process.",
   "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-appeal-a-denied-workers-compensation-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to appeal a denied workers' compensation claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeframe for appealing a denied workers' compensation claim can vary widely depending on the complexity of the case, the amount of evidence, and the specific processes of the Workers' Compensation Appeals Board. Generally, an appeal can take several months to over a year to resolve, especially if it proceeds through multiple stages, such as discovery, settlement conferences, and a trial. An attorney can help expedite the process where possible and keep you informed about the expected timeline for your specific situation.",
-        "description": "Appealing a denied claim can take several months to over a year, depending on case complexity and the appeals board process."
-      }
-    }
-  ],
+  "name": "How long does it take to appeal a denied workers' compensation claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to appeal a denied workers' compensation claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for appealing a denied workers' compensation claim can vary widely depending on the complexity of the case, the amount of evidence, and the specific processes of the Workers' Compensation Appeals Board. Generally, an appeal can take several months to over a year to resolve, especially if it proceeds through multiple stages, such as discovery, settlement conferences, and a trial. An attorney can help expedite the process where possible and keep you informed about the expected timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Appealing a denied claim can take several months to over a year, depending on case complexity and the appeals board process."
+      }
+    }
+  ],
+  "description": "Appealing a denied claim can take several months to over a year, depending on case complexity and the appeals board process."
 }

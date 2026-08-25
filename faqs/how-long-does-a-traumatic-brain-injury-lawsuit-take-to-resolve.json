@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a traumatic brain injury lawsuit take to resolve?",
-  "description": "TBI lawsuits can take several months to several years to resolve, depending on case complexity, injury severity, and negotiation willingness.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-traumatic-brain-injury-lawsuit-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a traumatic brain injury lawsuit take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a traumatic brain injury lawsuit can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the case, the severity of the injuries, the willingness of all parties to negotiate, and court schedules. Simple cases with clear liability and moderate damages might settle faster, while complex cases involving extensive medical issues or disputed liability can take much longer to reach a resolution, often through trial.",
-        "description": "TBI lawsuits can take several months to several years to resolve, depending on case complexity, injury severity, and negotiation willingness."
-      }
-    }
-  ],
+  "name": "How long does a traumatic brain injury lawsuit take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a traumatic brain injury lawsuit take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a traumatic brain injury lawsuit can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the case, the severity of the injuries, the willingness of all parties to negotiate, and court schedules. Simple cases with clear liability and moderate damages might settle faster, while complex cases involving extensive medical issues or disputed liability can take much longer to reach a resolution, often through trial.",
+        "@type": "Answer",
+        "description": "TBI lawsuits can take several months to several years to resolve, depending on case complexity, injury severity, and negotiation willingness."
+      }
+    }
+  ],
+  "description": "TBI lawsuits can take several months to several years to resolve, depending on case complexity, injury severity, and negotiation willingness."
 }

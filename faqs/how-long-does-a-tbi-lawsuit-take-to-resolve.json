@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a TBI lawsuit take to resolve?",
-  "description": "A TBI lawsuit can take months to several years to resolve, depending on complexity, liability, and whether it settles or goes to trial.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-tbi-lawsuit-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a TBI lawsuit take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a TBI lawsuit can vary significantly, ranging from several months to several years. Factors influencing this timeline include the complexity of your injury, the clarity of liability, the willingness of insurance companies to settle, the court's calendar, and whether the case goes to trial. Cases that settle out of court typically resolve faster than those that proceed to litigation. An experienced TBI attorney can provide a more accurate estimate after reviewing the specifics of your situation and understanding the extent of your injuries and prognosis.",
-        "description": "A TBI lawsuit can take months to several years to resolve, depending on complexity, liability, and whether it settles or goes to trial."
-      }
-    }
-  ],
+  "name": "How long does a TBI lawsuit take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a TBI lawsuit take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a TBI lawsuit can vary significantly, ranging from several months to several years. Factors influencing this timeline include the complexity of your injury, the clarity of liability, the willingness of insurance companies to settle, the court's calendar, and whether the case goes to trial. Cases that settle out of court typically resolve faster than those that proceed to litigation. An experienced TBI attorney can provide a more accurate estimate after reviewing the specifics of your situation and understanding the extent of your injuries and prognosis.",
+        "@type": "Answer",
+        "description": "A TBI lawsuit can take months to several years to resolve, depending on complexity, liability, and whether it settles or goes to trial."
+      }
+    }
+  ],
+  "description": "A TBI lawsuit can take months to several years to resolve, depending on complexity, liability, and whether it settles or goes to trial."
 }

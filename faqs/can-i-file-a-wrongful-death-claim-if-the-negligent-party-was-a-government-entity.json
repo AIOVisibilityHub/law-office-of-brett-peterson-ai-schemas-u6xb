@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I file a wrongful death claim if the negligent party was a government entity?",
-  "description": "Yes, but claims against government entities have special rules and much shorter deadlines, often requiring an administrative claim within six months.",
   "url": "brettpetersonlaw.com/faq/can-i-file-a-wrongful-death-claim-if-the-negligent-party-was-a-government-entity",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I file a wrongful death claim if the negligent party was a government entity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it is possible to file a wrongful death claim if the negligent party was a government entity, but there are specific rules and shorter deadlines. In California, you typically must file an administrative claim with the relevant government agency within six months of the death. If that claim is denied, you then have a limited time to file a lawsuit in court. These cases are more complex due to sovereign immunity protections, making it essential to consult with an attorney experienced in government claims immediately.",
-        "description": "Yes, but claims against government entities have special rules and much shorter deadlines, often requiring an administrative claim within six months."
-      }
-    }
-  ],
+  "name": "Can I file a wrongful death claim if the negligent party was a government entity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a wrongful death claim if the negligent party was a government entity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to file a wrongful death claim if the negligent party was a government entity, but there are specific rules and shorter deadlines. In California, you typically must file an administrative claim with the relevant government agency within six months of the death. If that claim is denied, you then have a limited time to file a lawsuit in court. These cases are more complex due to sovereign immunity protections, making it essential to consult with an attorney experienced in government claims immediately.",
+        "@type": "Answer",
+        "description": "Yes, but claims against government entities have special rules and much shorter deadlines, often requiring an administrative claim within six months."
+      }
+    }
+  ],
+  "description": "Yes, but claims against government entities have special rules and much shorter deadlines, often requiring an administrative claim within six months."
 }

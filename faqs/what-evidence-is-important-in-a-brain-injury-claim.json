@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important in a brain injury claim?",
-  "description": "Important evidence for a brain injury claim includes medical records, accident reports, witness statements, and documentation of financial losses, often supplem",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-brain-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important in a brain injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence in a brain injury claim includes all medical records, such as emergency room reports, diagnostic imaging (MRIs, CT scans), neurological evaluations, and rehabilitation records. Other important evidence includes accident reports, witness statements, photographs or videos of the accident scene, and documentation of lost wages. Expert testimony from medical professionals and accident reconstructionists can also be vital to establish the cause and extent of the injury and its impact on your life.",
-        "description": "Important evidence for a brain injury claim includes medical records, accident reports, witness statements, and documentation of financial losses, often supplemented by expert testimony."
-      }
-    }
-  ],
+  "name": "What evidence is important in a brain injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important in a brain injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence in a brain injury claim includes all medical records, such as emergency room reports, diagnostic imaging (MRIs, CT scans), neurological evaluations, and rehabilitation records. Other important evidence includes accident reports, witness statements, photographs or videos of the accident scene, and documentation of lost wages. Expert testimony from medical professionals and accident reconstructionists can also be vital to establish the cause and extent of the injury and its impact on your life.",
+        "@type": "Answer",
+        "description": "Important evidence for a brain injury claim includes medical records, accident reports, witness statements, and documentation of financial losses, often supplemented by expert testimony."
+      }
+    }
+  ],
+  "description": "Important evidence for a brain injury claim includes medical records, accident reports, witness statements, and documentation of financial losses, often supplem"
 }

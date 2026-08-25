@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a serious head injury attorney?",
-  "description": "Contact a serious head injury attorney promptly after an injury caused by another's negligence to preserve evidence and understand your legal options.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-serious-head-injury-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a serious head injury attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact a serious head injury attorney as soon as possible after the injury if it was caused by someone else's negligence. Early legal consultation helps preserve evidence, understand your rights, and navigate the complex legal process. An attorney can help determine liability, assess the full extent of your damages, and ensure you meet critical deadlines for filing a claim. Prompt action is important for a strong case.",
-        "description": "Contact a serious head injury attorney promptly after an injury caused by another's negligence to preserve evidence and understand your legal options."
-      }
-    }
-  ],
+  "name": "When should I contact a serious head injury attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a serious head injury attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a serious head injury attorney as soon as possible after the injury if it was caused by someone else's negligence. Early legal consultation helps preserve evidence, understand your rights, and navigate the complex legal process. An attorney can help determine liability, assess the full extent of your damages, and ensure you meet critical deadlines for filing a claim. Prompt action is important for a strong case.",
+        "@type": "Answer",
+        "description": "Contact a serious head injury attorney promptly after an injury caused by another's negligence to preserve evidence and understand your legal options."
+      }
+    }
+  ],
+  "description": "Contact a serious head injury attorney promptly after an injury caused by another's negligence to preserve evidence and understand your legal options."
 }

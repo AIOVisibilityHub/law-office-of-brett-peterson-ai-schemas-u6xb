@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damages can be recovered in a wrongful death claim?",
-  "description": "Damages in a wrongful death claim can include economic losses such as funeral costs, lost financial support, and medical bills, as well as non-economic losses l",
   "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-be-recovered-in-a-wrongful-death-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damages can be recovered in a wrongful death claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a wrongful death claim, recoverable damages aim to compensate the surviving family for their losses. These can include economic damages like funeral and burial expenses, medical bills incurred before death, loss of the deceased's financial support, and the value of household services. Non-economic damages may also be awarded for loss of companionship, comfort, affection, moral support, and sexual relations. Punitive damages are rarely awarded but can be in cases of extreme misconduct.",
-        "description": "Damages in a wrongful death claim can include economic losses such as funeral costs, lost financial support, and medical bills, as well as non-economic losses like loss of companionship and affection."
-      }
-    }
-  ],
+  "name": "What types of damages can be recovered in a wrongful death claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damages can be recovered in a wrongful death claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a wrongful death claim, recoverable damages aim to compensate the surviving family for their losses. These can include economic damages like funeral and burial expenses, medical bills incurred before death, loss of the deceased's financial support, and the value of household services. Non-economic damages may also be awarded for loss of companionship, comfort, affection, moral support, and sexual relations. Punitive damages are rarely awarded but can be in cases of extreme misconduct.",
+        "@type": "Answer",
+        "description": "Damages in a wrongful death claim can include economic losses such as funeral costs, lost financial support, and medical bills, as well as non-economic losses like loss of companionship and affection."
+      }
+    }
+  ],
+  "description": "Damages in a wrongful death claim can include economic losses such as funeral costs, lost financial support, and medical bills, as well as non-economic losses l"
 }

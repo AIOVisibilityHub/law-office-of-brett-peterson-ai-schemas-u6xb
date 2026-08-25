@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a mild TBI and a severe TBI in a legal context?",
-  "description": "Legally, mild TBI involves temporary symptoms, while severe TBI results in permanent impairments. The compensation potential differs greatly based on this disti",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-mild-tbi-and-a-severe-tbi-in-a-legal-context",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a mild TBI and a severe TBI in a legal context?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a legal context, the difference between a mild Traumatic Brain Injury (TBI) and a severe TBI lies primarily in the extent of the brain damage and its long-term impact on the individual's life. Mild TBIs, often concussions, might involve temporary symptoms, while severe TBIs can lead to permanent cognitive, physical, or emotional impairments requiring extensive medical care and affecting a person's ability to work or live independently. The legal implications for compensation differ significantly based on this distinction.",
-        "description": "Legally, mild TBI involves temporary symptoms, while severe TBI results in permanent impairments. The compensation potential differs greatly based on this distinction."
-      }
-    }
-  ],
+  "name": "What is the difference between a mild TBI and a severe TBI in a legal context?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a mild TBI and a severe TBI in a legal context?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a legal context, the difference between a mild Traumatic Brain Injury (TBI) and a severe TBI lies primarily in the extent of the brain damage and its long-term impact on the individual's life. Mild TBIs, often concussions, might involve temporary symptoms, while severe TBIs can lead to permanent cognitive, physical, or emotional impairments requiring extensive medical care and affecting a person's ability to work or live independently. The legal implications for compensation differ significantly based on this distinction.",
+        "@type": "Answer",
+        "description": "Legally, mild TBI involves temporary symptoms, while severe TBI results in permanent impairments. The compensation potential differs greatly based on this distinction."
+      }
+    }
+  ],
+  "description": "Legally, mild TBI involves temporary symptoms, while severe TBI results in permanent impairments. The compensation potential differs greatly based on this disti"
 }

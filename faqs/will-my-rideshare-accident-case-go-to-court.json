@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my rideshare accident case go to court?",
-  "description": "Most rideshare accident cases settle out of court via negotiation, but going to court may be necessary if a fair settlement isn't reached.",
   "url": "brettpetersonlaw.com/faq/will-my-rideshare-accident-case-go-to-court",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my rideshare accident case go to court?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many rideshare accident cases are resolved through negotiation and settlement outside of court. Insurance companies often prefer to settle to avoid the unpredictable nature and costs of a trial. However, if a fair settlement cannot be reached through negotiation, filing a lawsuit and proceeding to court might be necessary to secure the compensation you deserve. Your attorney will advise you on the best course of action based on the specifics of your case and the offers made by the insurance company.",
-        "description": "Most rideshare accident cases settle out of court via negotiation, but going to court may be necessary if a fair settlement isn't reached."
-      }
-    }
-  ],
+  "name": "Will my rideshare accident case go to court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my rideshare accident case go to court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many rideshare accident cases are resolved through negotiation and settlement outside of court. Insurance companies often prefer to settle to avoid the unpredictable nature and costs of a trial. However, if a fair settlement cannot be reached through negotiation, filing a lawsuit and proceeding to court might be necessary to secure the compensation you deserve. Your attorney will advise you on the best course of action based on the specifics of your case and the offers made by the insurance company.",
+        "@type": "Answer",
+        "description": "Most rideshare accident cases settle out of court via negotiation, but going to court may be necessary if a fair settlement isn't reached."
+      }
+    }
+  ],
+  "description": "Most rideshare accident cases settle out of court via negotiation, but going to court may be necessary if a fair settlement isn't reached."
 }

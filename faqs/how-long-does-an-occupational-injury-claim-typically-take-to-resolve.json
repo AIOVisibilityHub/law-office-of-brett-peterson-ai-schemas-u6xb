@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does an occupational injury claim typically take to resolve?",
-  "description": "Claim resolution varies from a few months for simple cases to over a year for complex ones, depending on injury severity, disputes, and cooperation from parties",
   "url": "brettpetersonlaw.com/faq/how-long-does-an-occupational-injury-claim-typically-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does an occupational injury claim typically take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of an occupational injury claim can vary significantly depending on its complexity. Simple cases with clear liability and minor injuries might resolve in a few months. However, more complex claims involving severe injuries, extensive medical treatment, disputes over causality, or employer appeals can take a year or more. Factors like the cooperation of your employer, the responsiveness of medical providers, and the specific laws in California can also influence the timeline. An experienced lawyer can help expedite the process by efficiently gathering evidence and negotiating effectively.",
-        "description": "Claim resolution varies from a few months for simple cases to over a year for complex ones, depending on injury severity, disputes, and cooperation from parties."
-      }
-    }
-  ],
+  "name": "How long does an occupational injury claim typically take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an occupational injury claim typically take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an occupational injury claim can vary significantly depending on its complexity. Simple cases with clear liability and minor injuries might resolve in a few months. However, more complex claims involving severe injuries, extensive medical treatment, disputes over causality, or employer appeals can take a year or more. Factors like the cooperation of your employer, the responsiveness of medical providers, and the specific laws in California can also influence the timeline. An experienced lawyer can help expedite the process by efficiently gathering evidence and negotiating effectively.",
+        "@type": "Answer",
+        "description": "Claim resolution varies from a few months for simple cases to over a year for complex ones, depending on injury severity, disputes, and cooperation from parties."
+      }
+    }
+  ],
+  "description": "Claim resolution varies from a few months for simple cases to over a year for complex ones, depending on injury severity, disputes, and cooperation from parties"
 }

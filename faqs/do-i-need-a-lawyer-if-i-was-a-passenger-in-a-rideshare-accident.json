@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer if I was a passenger in a rideshare accident?",
-  "description": "Yes, a lawyer can help passengers navigate complex insurance policies (driver's, rideshare company's, other drivers') to secure fair compensation after an accid",
   "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-if-i-was-a-passenger-in-a-rideshare-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a lawyer if I was a passenger in a rideshare accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, even as a passenger, seeking legal counsel after a rideshare accident is highly advisable. While your fault in the accident is likely zero, securing fair compensation can still be complex. You might be entitled to compensation from the rideshare driver's insurance, the rideshare company's insurance, or even the insurance of another at-fault driver. A lawyer can navigate these different policies and ensure you receive the full compensation you deserve for your injuries and losses without being taken advantage of by insurance adjusters.",
-        "description": "Yes, a lawyer can help passengers navigate complex insurance policies (driver's, rideshare company's, other drivers') to secure fair compensation after an accident."
-      }
-    }
-  ],
+  "name": "Do I need a lawyer if I was a passenger in a rideshare accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a lawyer if I was a passenger in a rideshare accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even as a passenger, seeking legal counsel after a rideshare accident is highly advisable. While your fault in the accident is likely zero, securing fair compensation can still be complex. You might be entitled to compensation from the rideshare driver's insurance, the rideshare company's insurance, or even the insurance of another at-fault driver. A lawyer can navigate these different policies and ensure you receive the full compensation you deserve for your injuries and losses without being taken advantage of by insurance adjusters.",
+        "@type": "Answer",
+        "description": "Yes, a lawyer can help passengers navigate complex insurance policies (driver's, rideshare company's, other drivers') to secure fair compensation after an accident."
+      }
+    }
+  ],
+  "description": "Yes, a lawyer can help passengers navigate complex insurance policies (driver's, rideshare company's, other drivers') to secure fair compensation after an accid"
 }

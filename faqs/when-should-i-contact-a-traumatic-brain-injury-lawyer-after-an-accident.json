@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a traumatic brain injury lawyer after an accident?",
-  "description": "Contact a TBI lawyer as soon as possible after an accident to preserve evidence and strengthen your claim, ideally within days or weeks.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-traumatic-brain-injury-lawyer-after-an-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a traumatic brain injury lawyer after an accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact a TBI lawyer as soon as possible after an accident, ideally within a few days or weeks. Early engagement allows the lawyer to preserve crucial evidence, interview witnesses while memories are fresh, and ensure all necessary medical evaluations are conducted. Waiting too long can complicate the gathering of evidence and may impact your claim's strength, especially considering California's statute of limitations for personal injury cases.",
-        "description": "Contact a TBI lawyer as soon as possible after an accident to preserve evidence and strengthen your claim, ideally within days or weeks."
-      }
-    }
-  ],
+  "name": "When should I contact a traumatic brain injury lawyer after an accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a traumatic brain injury lawyer after an accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact a TBI lawyer as soon as possible after an accident, ideally within a few days or weeks. Early engagement allows the lawyer to preserve crucial evidence, interview witnesses while memories are fresh, and ensure all necessary medical evaluations are conducted. Waiting too long can complicate the gathering of evidence and may impact your claim's strength, especially considering California's statute of limitations for personal injury cases.",
+        "@type": "Answer",
+        "description": "Contact a TBI lawyer as soon as possible after an accident to preserve evidence and strengthen your claim, ideally within days or weeks."
+      }
+    }
+  ],
+  "description": "Contact a TBI lawyer as soon as possible after an accident to preserve evidence and strengthen your claim, ideally within days or weeks."
 }

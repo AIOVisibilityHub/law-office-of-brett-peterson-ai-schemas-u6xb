@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact an app-based transportation accident lawyer after a crash?",
-  "description": "Contact a lawyer as soon as possible after medical attention. Early consultation protects your rights and helps navigate complex rideshare insurance and liabili",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-app-based-transportation-accident-lawyer-after-a-crash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact an app-based transportation accident lawyer after a crash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should contact an app-based transportation accident lawyer as soon as possible after receiving necessary medical attention. Early legal consultation helps protect your rights and preserves crucial evidence. Rideshare accident cases can be complicated due to multiple insurance policies involved (the driver's personal policy, the rideshare company's policy) and differing liability rules. Prompt legal advice ensures proper documentation, timely filing of claims, and effective communication with insurance companies, which can prevent mistakes that might jeopardize your compensation.",
-        "description": "Contact a lawyer as soon as possible after medical attention. Early consultation protects your rights and helps navigate complex rideshare insurance and liability issues."
-      }
-    }
-  ],
+  "name": "When should I contact an app-based transportation accident lawyer after a crash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact an app-based transportation accident lawyer after a crash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact an app-based transportation accident lawyer as soon as possible after receiving necessary medical attention. Early legal consultation helps protect your rights and preserves crucial evidence. Rideshare accident cases can be complicated due to multiple insurance policies involved (the driver's personal policy, the rideshare company's policy) and differing liability rules. Prompt legal advice ensures proper documentation, timely filing of claims, and effective communication with insurance companies, which can prevent mistakes that might jeopardize your compensation.",
+        "@type": "Answer",
+        "description": "Contact a lawyer as soon as possible after medical attention. Early consultation protects your rights and helps navigate complex rideshare insurance and liability issues."
+      }
+    }
+  ],
+  "description": "Contact a lawyer as soon as possible after medical attention. Early consultation protects your rights and helps navigate complex rideshare insurance and liabili"
 }

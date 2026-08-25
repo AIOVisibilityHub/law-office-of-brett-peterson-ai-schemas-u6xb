@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does an app-based transportation accident claim take to resolve?",
-  "description": "Claim resolution time varies, from months to years, depending on accident complexity, injury severity, insurance company responsiveness, and if the case goes to",
   "url": "brettpetersonlaw.com/faq/how-long-does-an-app-based-transportation-accident-claim-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does an app-based transportation accident claim take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of an app-based transportation accident claim can vary widely, typically ranging from a few months to several years. Factors influencing this timeline include the complexity of the accident, the severity of your injuries, the responsiveness of insurance companies, and whether the case goes to litigation. Simpler cases with clear liability and minor injuries may settle quicker, while complex cases involving significant injuries, multiple parties, or disputes over fault will take longer. Your lawyer will keep you informed about the progress.",
-        "description": "Claim resolution time varies, from months to years, depending on accident complexity, injury severity, insurance company responsiveness, and if the case goes to court."
-      }
-    }
-  ],
+  "name": "How long does an app-based transportation accident claim take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an app-based transportation accident claim take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an app-based transportation accident claim can vary widely, typically ranging from a few months to several years. Factors influencing this timeline include the complexity of the accident, the severity of your injuries, the responsiveness of insurance companies, and whether the case goes to litigation. Simpler cases with clear liability and minor injuries may settle quicker, while complex cases involving significant injuries, multiple parties, or disputes over fault will take longer. Your lawyer will keep you informed about the progress.",
+        "@type": "Answer",
+        "description": "Claim resolution time varies, from months to years, depending on accident complexity, injury severity, insurance company responsiveness, and if the case goes to court."
+      }
+    }
+  ],
+  "description": "Claim resolution time varies, from months to years, depending on accident complexity, injury severity, insurance company responsiveness, and if the case goes to"
 }

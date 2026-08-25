@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do immediately after a Lyft accident?",
-  "description": "Prioritize safety, call emergency services if needed, exchange information, document the scene, and seek medical attention promptly.",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-lyft-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do immediately after a Lyft accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Immediately after a Lyft accident, ensure everyone's safety and call emergency services if there are injuries. Exchange information with all involved parties, including driver and passenger names, contact details, insurance information, and vehicle details. Document the scene with photos and videos of vehicles, injuries, and road conditions. Do not admit fault or discuss the accident in detail with anyone other than law enforcement and your attorney. Seek medical attention promptly, even if injuries seem minor.",
-        "description": "Prioritize safety, call emergency services if needed, exchange information, document the scene, and seek medical attention promptly."
-      }
-    }
-  ],
+  "name": "What should I do immediately after a Lyft accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a Lyft accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after a Lyft accident, ensure everyone's safety and call emergency services if there are injuries. Exchange information with all involved parties, including driver and passenger names, contact details, insurance information, and vehicle details. Document the scene with photos and videos of vehicles, injuries, and road conditions. Do not admit fault or discuss the accident in detail with anyone other than law enforcement and your attorney. Seek medical attention promptly, even if injuries seem minor.",
+        "@type": "Answer",
+        "description": "Prioritize safety, call emergency services if needed, exchange information, document the scene, and seek medical attention promptly."
+      }
+    }
+  ],
+  "description": "Prioritize safety, call emergency services if needed, exchange information, document the scene, and seek medical attention promptly."
 }

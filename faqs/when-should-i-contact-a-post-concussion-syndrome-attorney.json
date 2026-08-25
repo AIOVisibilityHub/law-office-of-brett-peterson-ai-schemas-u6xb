@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a post-concussion syndrome attorney?",
-  "description": "Contact an attorney soon after a PCS diagnosis, especially if your injury resulted from another's negligence and affects your life, to protect your rights and g",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-post-concussion-syndrome-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a post-concussion syndrome attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact an attorney as soon as possible after being diagnosed with post-concussion syndrome, especially if your symptoms are impacting your daily life or work, and you believe your injury was due to someone else's negligence. Early legal consultation allows for proper evidence collection, understanding of legal deadlines, and protection of your rights. Waiting too long can complicate the claim process and potentially limit your ability to recover full compensation for your injuries and losses.",
-        "description": "Contact an attorney soon after a PCS diagnosis, especially if your injury resulted from another's negligence and affects your life, to protect your rights and gather evidence effectively."
-      }
-    }
-  ],
+  "name": "When should I contact a post-concussion syndrome attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a post-concussion syndrome attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact an attorney as soon as possible after being diagnosed with post-concussion syndrome, especially if your symptoms are impacting your daily life or work, and you believe your injury was due to someone else's negligence. Early legal consultation allows for proper evidence collection, understanding of legal deadlines, and protection of your rights. Waiting too long can complicate the claim process and potentially limit your ability to recover full compensation for your injuries and losses.",
+        "@type": "Answer",
+        "description": "Contact an attorney soon after a PCS diagnosis, especially if your injury resulted from another's negligence and affects your life, to protect your rights and gather evidence effectively."
+      }
+    }
+  ],
+  "description": "Contact an attorney soon after a PCS diagnosis, especially if your injury resulted from another's negligence and affects your life, to protect your rights and g"
 }

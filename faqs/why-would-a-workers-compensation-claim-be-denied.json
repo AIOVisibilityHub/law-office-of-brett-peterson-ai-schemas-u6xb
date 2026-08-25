@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why would a workers' compensation claim be denied?",
-  "description": "Claims can be denied due to insufficient medical evidence, late reporting, pre-existing conditions, or disputes over injury severity or cause.",
   "url": "brettpetersonlaw.com/faq/why-would-a-workers-compensation-claim-be-denied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why would a workers' compensation claim be denied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation claims can be denied for several common reasons. These include insufficient medical evidence linking your injury to your work, pre-existing conditions that are not clearly exacerbated by work, or failure to report the injury to your employer within the required timeframe. Denials can also occur if the insurance company disputes the injury's severity or necessity of treatment, or if there are inconsistencies in your statements. Understanding the reason for denial is the first step in building an effective appeal.",
-        "description": "Claims can be denied due to insufficient medical evidence, late reporting, pre-existing conditions, or disputes over injury severity or cause."
-      }
-    }
-  ],
+  "name": "Why would a workers' compensation claim be denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why would a workers' compensation claim be denied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation claims can be denied for several common reasons. These include insufficient medical evidence linking your injury to your work, pre-existing conditions that are not clearly exacerbated by work, or failure to report the injury to your employer within the required timeframe. Denials can also occur if the insurance company disputes the injury's severity or necessity of treatment, or if there are inconsistencies in your statements. Understanding the reason for denial is the first step in building an effective appeal.",
+        "@type": "Answer",
+        "description": "Claims can be denied due to insufficient medical evidence, late reporting, pre-existing conditions, or disputes over injury severity or cause."
+      }
+    }
+  ],
+  "description": "Claims can be denied due to insufficient medical evidence, late reporting, pre-existing conditions, or disputes over injury severity or cause."
 }

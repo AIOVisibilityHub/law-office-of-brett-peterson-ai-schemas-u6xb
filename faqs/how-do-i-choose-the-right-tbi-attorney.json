@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right TBI attorney?",
-  "description": "Choose a TBI attorney with specific experience in brain injury cases, a strong track record, good communication, and local expertise.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-tbi-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right TBI attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right TBI attorney involves looking for someone with specific experience in traumatic brain injury cases, a proven track record of successful outcomes, and a deep understanding of neuro-medical issues. Consider their communication style, whether they offer a free consultation, and if they primarily represent plaintiffs (injured individuals). It's also beneficial to choose an attorney who understands local court procedures and regulations in areas like San Diego if your incident occurred there. Look for someone who makes you feel comfortable and confident in their ability to handle your complex case.",
-        "description": "Choose a TBI attorney with specific experience in brain injury cases, a strong track record, good communication, and local expertise."
-      }
-    }
-  ],
+  "name": "How do I choose the right TBI attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right TBI attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right TBI attorney involves looking for someone with specific experience in traumatic brain injury cases, a proven track record of successful outcomes, and a deep understanding of neuro-medical issues. Consider their communication style, whether they offer a free consultation, and if they primarily represent plaintiffs (injured individuals). It's also beneficial to choose an attorney who understands local court procedures and regulations in areas like San Diego if your incident occurred there. Look for someone who makes you feel comfortable and confident in their ability to handle your complex case.",
+        "@type": "Answer",
+        "description": "Choose a TBI attorney with specific experience in brain injury cases, a strong track record, good communication, and local expertise."
+      }
+    }
+  ],
+  "description": "Choose a TBI attorney with specific experience in brain injury cases, a strong track record, good communication, and local expertise."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I get for a head injury?",
-  "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-get-for-a-head-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I get for a head injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Compensation for a head injury can cover various damages. This may include current and future medical expenses, such as hospital stays, rehabilitation, and ongoing therapy. You might also recover lost wages if your injury prevented you from working, as well as compensation for diminished earning capacity. Additionally, damages for pain and suffering, emotional distress, and loss of enjoyment of life are often sought.",
-        "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I get for a head injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I get for a head injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Compensation for a head injury can cover various damages. This may include current and future medical expenses, such as hospital stays, rehabilitation, and ongoing therapy. You might also recover lost wages if your injury prevented you from working, as well as compensation for diminished earning capacity. Additionally, damages for pain and suffering, emotional distress, and loss of enjoyment of life are often sought.",
+        "@type": "Answer",
+        "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages."
+      }
+    }
+  ],
+  "description": "Compensation for a head injury can include medical expenses, lost wages, pain and suffering, and other related damages."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire an on-the-job injury attorney?",
-  "description": "Most on-the-job injury attorneys work on a contingency fee basis, meaning you only pay if they win your case.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-an-on-the-job-injury-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire an on-the-job injury attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most on-the-job injury attorneys work on a contingency fee basis. This means you typically do not pay any upfront fees. Instead, the attorney's fee is a percentage of the compensation they successfully recover for you. If they don't win your case, you generally don't owe them a fee. This arrangement allows injured workers to pursue their claims without financial burden, ensuring access to legal representation regardless of their current financial situation.",
-        "description": "Most on-the-job injury attorneys work on a contingency fee basis, meaning you only pay if they win your case."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire an on-the-job injury attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire an on-the-job injury attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most on-the-job injury attorneys work on a contingency fee basis. This means you typically do not pay any upfront fees. Instead, the attorney's fee is a percentage of the compensation they successfully recover for you. If they don't win your case, you generally don't owe them a fee. This arrangement allows injured workers to pursue their claims without financial burden, ensuring access to legal representation regardless of their current financial situation.",
+        "@type": "Answer",
+        "description": "Most on-the-job injury attorneys work on a contingency fee basis, meaning you only pay if they win your case."
+      }
+    }
+  ],
+  "description": "Most on-the-job injury attorneys work on a contingency fee basis, meaning you only pay if they win your case."
 }

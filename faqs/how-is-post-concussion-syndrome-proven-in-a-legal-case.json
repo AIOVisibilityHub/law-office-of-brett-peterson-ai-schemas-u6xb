@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is post-concussion syndrome proven in a legal case?",
-  "description": "PCS is proven in legal cases through detailed medical documentation, specialist reports, neuropsychological evaluations, and expert medical testimony linking sy",
   "url": "brettpetersonlaw.com/faq/how-is-post-concussion-syndrome-proven-in-a-legal-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is post-concussion syndrome proven in a legal case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Proving post-concussion syndrome in a legal case relies heavily on comprehensive medical documentation. This includes detailed reports from neurologists, neuropsychologists, and other specialists, outlining diagnosis, treatment, and prognosis. Objective tests like neuropsychological evaluations, along with imaging results (even if normal), can support subjective symptom reports. Expert testimony from medical professionals is often crucial to explain the extent of the injury and its impact on your life, establishing a direct link to the incident.",
-        "description": "PCS is proven in legal cases through detailed medical documentation, specialist reports, neuropsychological evaluations, and expert medical testimony linking symptoms to the incident."
-      }
-    }
-  ],
+  "name": "How is post-concussion syndrome proven in a legal case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is post-concussion syndrome proven in a legal case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proving post-concussion syndrome in a legal case relies heavily on comprehensive medical documentation. This includes detailed reports from neurologists, neuropsychologists, and other specialists, outlining diagnosis, treatment, and prognosis. Objective tests like neuropsychological evaluations, along with imaging results (even if normal), can support subjective symptom reports. Expert testimony from medical professionals is often crucial to explain the extent of the injury and its impact on your life, establishing a direct link to the incident.",
+        "@type": "Answer",
+        "description": "PCS is proven in legal cases through detailed medical documentation, specialist reports, neuropsychological evaluations, and expert medical testimony linking symptoms to the incident."
+      }
+    }
+  ],
+  "description": "PCS is proven in legal cases through detailed medical documentation, specialist reports, neuropsychological evaluations, and expert medical testimony linking sy"
 }

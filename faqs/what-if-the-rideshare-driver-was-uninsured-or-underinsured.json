@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the rideshare driver was uninsured or underinsured?",
-  "description": "Rideshare companies carry insurance that can cover accidents with uninsured or underinsured drivers, especially if the driver was on duty. A lawyer can help nav",
   "url": "brettpetersonlaw.com/faq/what-if-the-rideshare-driver-was-uninsured-or-underinsured",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the rideshare driver was uninsured or underinsured?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If a rideshare driver is uninsured or underinsured, the situation can be more complicated, but you may still have avenues for compensation. Rideshare companies like Uber and Lyft carry significant insurance policies that can provide coverage in such scenarios, especially if the driver was logged into the app or on an active trip. These policies often include uninsured/underinsured motorist coverage. A lawyer can help determine which policies apply and navigate the complexities of securing compensation from the rideshare company's insurance.",
-        "description": "Rideshare companies carry insurance that can cover accidents with uninsured or underinsured drivers, especially if the driver was on duty. A lawyer can help navigate these policies."
-      }
-    }
-  ],
+  "name": "What if the rideshare driver was uninsured or underinsured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the rideshare driver was uninsured or underinsured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a rideshare driver is uninsured or underinsured, the situation can be more complicated, but you may still have avenues for compensation. Rideshare companies like Uber and Lyft carry significant insurance policies that can provide coverage in such scenarios, especially if the driver was logged into the app or on an active trip. These policies often include uninsured/underinsured motorist coverage. A lawyer can help determine which policies apply and navigate the complexities of securing compensation from the rideshare company's insurance.",
+        "@type": "Answer",
+        "description": "Rideshare companies carry insurance that can cover accidents with uninsured or underinsured drivers, especially if the driver was on duty. A lawyer can help navigate these policies."
+      }
+    }
+  ],
+  "description": "Rideshare companies carry insurance that can cover accidents with uninsured or underinsured drivers, especially if the driver was on duty. A lawyer can help nav"
 }

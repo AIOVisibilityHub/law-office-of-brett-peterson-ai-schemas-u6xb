@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an occupational injury and when should I consider hiring a lawyer?",
-  "description": "An occupational injury is a work-related injury or illness. Consider hiring a lawyer if your claim is denied, disputed, or if you believe your settlement offer",
   "url": "brettpetersonlaw.com/faq/what-is-an-occupational-injury-and-when-should-i-consider-hiring-a-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an occupational injury and when should I consider hiring a lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An occupational injury is any injury or illness that arises out of and in the course of employment. This can include physical injuries from accidents, repetitive stress injuries, or illnesses caused by workplace conditions. You should consider hiring an occupational injury lawyer if your claim is denied, you have pre-existing conditions that are affecting your case, your employer is disputing the injury, or if the settlement offer seems too low. A lawyer can help navigate the complexities of workers' compensation law and ensure your rights are protected.",
-        "description": "An occupational injury is a work-related injury or illness. Consider hiring a lawyer if your claim is denied, disputed, or if you believe your settlement offer is unfair."
-      }
-    }
-  ],
+  "name": "What is an occupational injury and when should I consider hiring a lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an occupational injury and when should I consider hiring a lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An occupational injury is any injury or illness that arises out of and in the course of employment. This can include physical injuries from accidents, repetitive stress injuries, or illnesses caused by workplace conditions. You should consider hiring an occupational injury lawyer if your claim is denied, you have pre-existing conditions that are affecting your case, your employer is disputing the injury, or if the settlement offer seems too low. A lawyer can help navigate the complexities of workers' compensation law and ensure your rights are protected.",
+        "@type": "Answer",
+        "description": "An occupational injury is a work-related injury or illness. Consider hiring a lawyer if your claim is denied, disputed, or if you believe your settlement offer is unfair."
+      }
+    }
+  ],
+  "description": "An occupational injury is a work-related injury or illness. Consider hiring a lawyer if your claim is denied, disputed, or if you believe your settlement offer"
 }

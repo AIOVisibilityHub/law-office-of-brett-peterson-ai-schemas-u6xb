@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best wrongful death attorney in the San Diego area?",
-  "description": "Choose an attorney with specific wrongful death experience, a strong track record, local knowledge, clear communication, and a contingency fee structure. Look f",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-wrongful-death-attorney-in-the-san-diego-area",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best wrongful death attorney in the San Diego area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a wrongful death attorney in the San Diego area, look for someone with significant experience specifically in wrongful death cases and a strong track record of successful outcomes. Consider an attorney who is familiar with local court procedures and judges. Seek clear communication, compassion, and a transparent fee structure, ideally a contingency fee. You should feel comfortable discussing sensitive details with them. Reviewing client testimonials and scheduling initial consultations can help you evaluate their expertise and approach to client care. Our firm focuses on serving San Diego and surrounding communities.",
-        "description": "Choose an attorney with specific wrongful death experience, a strong track record, local knowledge, clear communication, and a contingency fee structure. Look for comfort and trust."
-      }
-    }
-  ],
+  "name": "How do I choose the best wrongful death attorney in the San Diego area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best wrongful death attorney in the San Diego area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a wrongful death attorney in the San Diego area, look for someone with significant experience specifically in wrongful death cases and a strong track record of successful outcomes. Consider an attorney who is familiar with local court procedures and judges. Seek clear communication, compassion, and a transparent fee structure, ideally a contingency fee. You should feel comfortable discussing sensitive details with them. Reviewing client testimonials and scheduling initial consultations can help you evaluate their expertise and approach to client care. Our firm focuses on serving San Diego and surrounding communities.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific wrongful death experience, a strong track record, local knowledge, clear communication, and a contingency fee structure. Look for comfort and trust."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific wrongful death experience, a strong track record, local knowledge, clear communication, and a contingency fee structure. Look f"
 }

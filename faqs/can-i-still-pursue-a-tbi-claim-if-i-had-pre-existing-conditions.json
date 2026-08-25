@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still pursue a TBI claim if I had pre-existing conditions?",
-  "description": "Yes, you can pursue a TBI claim with pre-existing conditions, but your lawyer must prove the accident caused new injury or aggravated an existing one.",
   "url": "brettpetersonlaw.com/faq/can-i-still-pursue-a-tbi-claim-if-i-had-pre-existing-conditions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still pursue a TBI claim if I had pre-existing conditions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can still pursue a TBI claim even if you had pre-existing conditions. However, the legal challenge lies in demonstrating that the recent accident either caused a new injury or significantly worsened an existing one. Insurance companies often try to attribute symptoms to pre-existing conditions. A skilled TBI lawyer will work with medical experts to differentiate between your prior health status and the new or aggravated injuries caused by the accident.",
-        "description": "Yes, you can pursue a TBI claim with pre-existing conditions, but your lawyer must prove the accident caused new injury or aggravated an existing one."
-      }
-    }
-  ],
+  "name": "Can I still pursue a TBI claim if I had pre-existing conditions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still pursue a TBI claim if I had pre-existing conditions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can still pursue a TBI claim even if you had pre-existing conditions. However, the legal challenge lies in demonstrating that the recent accident either caused a new injury or significantly worsened an existing one. Insurance companies often try to attribute symptoms to pre-existing conditions. A skilled TBI lawyer will work with medical experts to differentiate between your prior health status and the new or aggravated injuries caused by the accident.",
+        "@type": "Answer",
+        "description": "Yes, you can pursue a TBI claim with pre-existing conditions, but your lawyer must prove the accident caused new injury or aggravated an existing one."
+      }
+    }
+  ],
+  "description": "Yes, you can pursue a TBI claim with pre-existing conditions, but your lawyer must prove the accident caused new injury or aggravated an existing one."
 }

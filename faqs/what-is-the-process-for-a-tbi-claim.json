@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for a TBI claim?",
-  "description": "The TBI claim process involves consultation, investigation, evidence gathering, negotiation with insurers, and potentially litigation to secure compensation.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-a-tbi-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for a TBI claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process for a TBI claim typically begins with a free consultation to assess your case. If accepted, the attorney will investigate the accident, gather medical records and expert opinions, and handle communications with insurance companies. They will then attempt to negotiate a fair settlement. If a settlement cannot be reached, the case may proceed to litigation, involving filing a lawsuit, discovery (exchanging information), mediation, and potentially a trial. Throughout this, the attorney advocates for your best interests to secure maximum compensation.",
-        "description": "The TBI claim process involves consultation, investigation, evidence gathering, negotiation with insurers, and potentially litigation to secure compensation."
-      }
-    }
-  ],
+  "name": "What is the process for a TBI claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a TBI claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a TBI claim typically begins with a free consultation to assess your case. If accepted, the attorney will investigate the accident, gather medical records and expert opinions, and handle communications with insurance companies. They will then attempt to negotiate a fair settlement. If a settlement cannot be reached, the case may proceed to litigation, involving filing a lawsuit, discovery (exchanging information), mediation, and potentially a trial. Throughout this, the attorney advocates for your best interests to secure maximum compensation.",
+        "@type": "Answer",
+        "description": "The TBI claim process involves consultation, investigation, evidence gathering, negotiation with insurers, and potentially litigation to secure compensation."
+      }
+    }
+  ],
+  "description": "The TBI claim process involves consultation, investigation, evidence gathering, negotiation with insurers, and potentially litigation to secure compensation."
 }

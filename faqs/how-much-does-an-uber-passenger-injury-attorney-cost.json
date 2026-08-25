@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does an Uber passenger injury attorney cost?",
-  "description": "Uber passenger injury attorneys typically work on a contingency fee basis, meaning you pay no upfront costs and fees are a percentage of your settlement or awar",
   "url": "brettpetersonlaw.com/faq/how-much-does-an-uber-passenger-injury-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does an Uber passenger injury attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most Uber passenger injury attorneys work on a contingency fee basis. This means you won't pay any upfront fees or hourly charges. Instead, the attorney's fees are a percentage of the final settlement or court award you receive. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows injured individuals to pursue justice without worrying about immediate financial burdens. It's important to discuss the contingency fee percentage and any potential litigation costs (like court filing fees or expert witness fees) with your attorney during your initial consultation.",
-        "description": "Uber passenger injury attorneys typically work on a contingency fee basis, meaning you pay no upfront costs and fees are a percentage of your settlement or award. If you don't win, you don't pay attorney fees."
-      }
-    }
-  ],
+  "name": "How much does an Uber passenger injury attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an Uber passenger injury attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most Uber passenger injury attorneys work on a contingency fee basis. This means you won't pay any upfront fees or hourly charges. Instead, the attorney's fees are a percentage of the final settlement or court award you receive. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows injured individuals to pursue justice without worrying about immediate financial burdens. It's important to discuss the contingency fee percentage and any potential litigation costs (like court filing fees or expert witness fees) with your attorney during your initial consultation.",
+        "@type": "Answer",
+        "description": "Uber passenger injury attorneys typically work on a contingency fee basis, meaning you pay no upfront costs and fees are a percentage of your settlement or award. If you don't win, you don't pay attorney fees."
+      }
+    }
+  ],
+  "description": "Uber passenger injury attorneys typically work on a contingency fee basis, meaning you pay no upfront costs and fees are a percentage of your settlement or awar"
 }

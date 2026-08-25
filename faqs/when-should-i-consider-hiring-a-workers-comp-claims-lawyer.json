@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider hiring a workers' comp claims lawyer?",
-  "description": "Consider hiring a lawyer if your claim is denied, delayed, or if the insurance company disputes your injuries. A lawyer protects your rights and helps secure fa",
   "url": "brettpetersonlaw.com/faq/when-should-i-consider-hiring-a-workers-comp-claims-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider hiring a workers' comp claims lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring a workers' comp claims lawyer if your claim has been denied, if you're experiencing delays in receiving benefits, or if the insurance company disputes the extent of your injuries. A lawyer can also be beneficial if your employer retaliates against you for filing a claim, if you have a pre-existing condition that complicates your case, or if you're offered a settlement that seems too low. Legal representation ensures your rights are protected and you receive fair compensation.",
-        "description": "Consider hiring a lawyer if your claim is denied, delayed, or if the insurance company disputes your injuries. A lawyer protects your rights and helps secure fair compensation."
-      }
-    }
-  ],
+  "name": "When should I consider hiring a workers' comp claims lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider hiring a workers' comp claims lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a workers' comp claims lawyer if your claim has been denied, if you're experiencing delays in receiving benefits, or if the insurance company disputes the extent of your injuries. A lawyer can also be beneficial if your employer retaliates against you for filing a claim, if you have a pre-existing condition that complicates your case, or if you're offered a settlement that seems too low. Legal representation ensures your rights are protected and you receive fair compensation.",
+        "@type": "Answer",
+        "description": "Consider hiring a lawyer if your claim is denied, delayed, or if the insurance company disputes your injuries. A lawyer protects your rights and helps secure fair compensation."
+      }
+    }
+  ],
+  "description": "Consider hiring a lawyer if your claim is denied, delayed, or if the insurance company disputes your injuries. A lawyer protects your rights and helps secure fa"
 }

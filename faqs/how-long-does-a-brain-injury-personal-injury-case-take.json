@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a brain injury personal injury case take?",
-  "description": "Brain injury personal injury cases vary in length, from months to years, depending on injury complexity, liability, damages, and whether the case settles or goe",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-brain-injury-personal-injury-case-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a brain injury personal injury case take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a brain injury personal injury case can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the injury, the clarity of liability, the extent of damages, and the willingness of all parties to negotiate a settlement. Cases that go to trial generally take longer than those resolved through settlement. Your attorney can provide a more specific estimate based on your case's details.",
-        "description": "Brain injury personal injury cases vary in length, from months to years, depending on injury complexity, liability, damages, and whether the case settles or goes to trial."
-      }
-    }
-  ],
+  "name": "How long does a brain injury personal injury case take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a brain injury personal injury case take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a brain injury personal injury case can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the injury, the clarity of liability, the extent of damages, and the willingness of all parties to negotiate a settlement. Cases that go to trial generally take longer than those resolved through settlement. Your attorney can provide a more specific estimate based on your case's details.",
+        "@type": "Answer",
+        "description": "Brain injury personal injury cases vary in length, from months to years, depending on injury complexity, liability, damages, and whether the case settles or goes to trial."
+      }
+    }
+  ],
+  "description": "Brain injury personal injury cases vary in length, from months to years, depending on injury complexity, liability, damages, and whether the case settles or goe"
 }

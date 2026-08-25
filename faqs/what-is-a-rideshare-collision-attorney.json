@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a rideshare collision attorney?",
-  "description": "A rideshare collision attorney specializes in personal injury cases involving Uber or Lyft vehicles, helping victims navigate complex insurance and liability is",
   "url": "brettpetersonlaw.com/faq/what-is-a-rideshare-collision-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a rideshare collision attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A rideshare collision attorney specializes in personal injury cases involving vehicles from companies like Uber or Lyft. These cases can be complex due to the unique insurance structures and liabilities of rideshare companies, drivers, and other involved parties. An attorney helps victims navigate these complexities, determine fault, gather evidence, negotiate with insurance companies, and, if necessary, represent them in court to secure fair compensation for injuries, medical expenses, lost wages, and pain and suffering.",
-        "description": "A rideshare collision attorney specializes in personal injury cases involving Uber or Lyft vehicles, helping victims navigate complex insurance and liability issues to secure compensation."
-      }
-    }
-  ],
+  "name": "What is a rideshare collision attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a rideshare collision attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rideshare collision attorney specializes in personal injury cases involving vehicles from companies like Uber or Lyft. These cases can be complex due to the unique insurance structures and liabilities of rideshare companies, drivers, and other involved parties. An attorney helps victims navigate these complexities, determine fault, gather evidence, negotiate with insurance companies, and, if necessary, represent them in court to secure fair compensation for injuries, medical expenses, lost wages, and pain and suffering.",
+        "@type": "Answer",
+        "description": "A rideshare collision attorney specializes in personal injury cases involving Uber or Lyft vehicles, helping victims navigate complex insurance and liability issues to secure compensation."
+      }
+    }
+  ],
+  "description": "A rideshare collision attorney specializes in personal injury cases involving Uber or Lyft vehicles, helping victims navigate complex insurance and liability is"
 }

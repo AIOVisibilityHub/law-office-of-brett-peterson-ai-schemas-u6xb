@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a rideshare accident attorney and a general personal injury attorney?",
-  "description": "A rideshare accident attorney specializes in the unique insurance policies and liabilities of Uber/Lyft accidents, unlike a general personal injury attorney, wh",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-rideshare-accident-attorney-and-a-general-perso",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a rideshare accident attorney and a general personal injury attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While a general personal injury attorney handles various accident cases, a rideshare accident attorney possesses specialized knowledge of the unique legal landscape surrounding Uber and Lyft accidents. This includes understanding the specific insurance policies rideshare companies carry, how they integrate with personal insurance, and the varying liabilities depending on the driver's app status. Their expertise in these intricate regulations can be crucial for navigating complex claims and ensuring victims receive appropriate compensation, which general injury attorneys might not be as familiar with.",
-        "description": "A rideshare accident attorney specializes in the unique insurance policies and liabilities of Uber/Lyft accidents, unlike a general personal injury attorney, who handles broader accident types."
-      }
-    }
-  ],
+  "name": "What is the difference between a rideshare accident attorney and a general personal injury attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rideshare accident attorney and a general personal injury attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general personal injury attorney handles various accident cases, a rideshare accident attorney possesses specialized knowledge of the unique legal landscape surrounding Uber and Lyft accidents. This includes understanding the specific insurance policies rideshare companies carry, how they integrate with personal insurance, and the varying liabilities depending on the driver's app status. Their expertise in these intricate regulations can be crucial for navigating complex claims and ensuring victims receive appropriate compensation, which general injury attorneys might not be as familiar with.",
+        "@type": "Answer",
+        "description": "A rideshare accident attorney specializes in the unique insurance policies and liabilities of Uber/Lyft accidents, unlike a general personal injury attorney, who handles broader accident types."
+      }
+    }
+  ],
+  "description": "A rideshare accident attorney specializes in the unique insurance policies and liabilities of Uber/Lyft accidents, unlike a general personal injury attorney, wh"
 }

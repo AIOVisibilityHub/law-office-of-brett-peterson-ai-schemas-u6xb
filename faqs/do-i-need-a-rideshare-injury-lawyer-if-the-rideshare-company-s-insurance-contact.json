@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a rideshare injury lawyer if the rideshare company's insurance contacts me?",
-  "description": "Yes, consult a lawyer before speaking with any insurance company. They protect your rights, handle communications, and negotiate for fair compensation.",
   "url": "brettpetersonlaw.com/faq/do-i-need-a-rideshare-injury-lawyer-if-the-rideshare-company-s-insurance-contact",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a rideshare injury lawyer if the rideshare company's insurance contacts me?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is highly advisable to consult with a rideshare injury lawyer before speaking to any insurance company, including the rideshare company's insurer. Insurance adjusters are trained to minimize payouts, and anything you say can be used against you. A lawyer can protect your rights, handle all communications with insurance companies, ensure accurate information is conveyed, and negotiate on your behalf to achieve a fair settlement that fully covers your damages, including medical expenses, lost wages, and pain and suffering.",
-        "description": "Yes, consult a lawyer before speaking with any insurance company. They protect your rights, handle communications, and negotiate for fair compensation."
-      }
-    }
-  ],
+  "name": "Do I need a rideshare injury lawyer if the rideshare company's insurance contacts me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a rideshare injury lawyer if the rideshare company's insurance contacts me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly advisable to consult with a rideshare injury lawyer before speaking to any insurance company, including the rideshare company's insurer. Insurance adjusters are trained to minimize payouts, and anything you say can be used against you. A lawyer can protect your rights, handle all communications with insurance companies, ensure accurate information is conveyed, and negotiate on your behalf to achieve a fair settlement that fully covers your damages, including medical expenses, lost wages, and pain and suffering.",
+        "@type": "Answer",
+        "description": "Yes, consult a lawyer before speaking with any insurance company. They protect your rights, handle communications, and negotiate for fair compensation."
+      }
+    }
+  ],
+  "description": "Yes, consult a lawyer before speaking with any insurance company. They protect your rights, handle communications, and negotiate for fair compensation."
 }

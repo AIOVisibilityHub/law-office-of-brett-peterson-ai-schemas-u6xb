@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a traumatic brain injury lawyer do?",
-  "description": "A TBI lawyer represents individuals with brain injuries caused by negligence, helping them secure compensation for damages like medical bills and lost wages.",
   "url": "brettpetersonlaw.com/faq/what-does-a-traumatic-brain-injury-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a traumatic brain injury lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A traumatic brain injury (TBI) lawyer helps individuals who have sustained a brain injury due to someone else's negligence. They investigate the accident, gather evidence, consult with medical experts, and build a strong legal case. Their primary goal is to secure fair compensation for medical expenses, lost wages, pain and suffering, and future care needs. They handle all legal proceedings, from filing claims to negotiating settlements or representing clients in court.",
-        "description": "A TBI lawyer represents individuals with brain injuries caused by negligence, helping them secure compensation for damages like medical bills and lost wages."
-      }
-    }
-  ],
+  "name": "What does a traumatic brain injury lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a traumatic brain injury lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A traumatic brain injury (TBI) lawyer helps individuals who have sustained a brain injury due to someone else's negligence. They investigate the accident, gather evidence, consult with medical experts, and build a strong legal case. Their primary goal is to secure fair compensation for medical expenses, lost wages, pain and suffering, and future care needs. They handle all legal proceedings, from filing claims to negotiating settlements or representing clients in court.",
+        "@type": "Answer",
+        "description": "A TBI lawyer represents individuals with brain injuries caused by negligence, helping them secure compensation for damages like medical bills and lost wages."
+      }
+    }
+  ],
+  "description": "A TBI lawyer represents individuals with brain injuries caused by negligence, helping them secure compensation for damages like medical bills and lost wages."
 }

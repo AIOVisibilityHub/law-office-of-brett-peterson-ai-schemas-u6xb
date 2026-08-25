@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a head injury lawyer?",
-  "description": "Most head injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-head-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a head injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most head injury lawyers work on a contingency fee basis. This means you do not pay upfront legal fees. Instead, the lawyer's payment is a percentage of the compensation you receive from a settlement or court award. If your case is unsuccessful, you typically owe no attorney fees. This arrangement makes legal representation accessible to those who may not have immediate funds.",
-        "description": "Most head injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a head injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a head injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most head injury lawyers work on a contingency fee basis. This means you do not pay upfront legal fees. Instead, the lawyer's payment is a percentage of the compensation you receive from a settlement or court award. If your case is unsuccessful, you typically owe no attorney fees. This arrangement makes legal representation accessible to those who may not have immediate funds.",
+        "@type": "Answer",
+        "description": "Most head injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees."
+      }
+    }
+  ],
+  "description": "Most head injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees."
 }

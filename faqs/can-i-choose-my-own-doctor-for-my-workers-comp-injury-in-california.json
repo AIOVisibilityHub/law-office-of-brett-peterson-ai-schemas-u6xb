@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I choose my own doctor for my workers' comp injury in California?",
-  "description": "In California, you can choose your own doctor if you pre-designated one before your injury. Otherwise, your employer's chosen doctor treats you initially, then",
   "url": "brettpetersonlaw.com/faq/can-i-choose-my-own-doctor-for-my-workers-comp-injury-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I choose my own doctor for my workers' comp injury in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, your ability to choose your own doctor for a workers' compensation injury depends on whether you pre-designated a personal physician before your injury. If you pre-designated, you can see that doctor immediately. If not, your employer or their insurance company initially has the right to select the treating physician for a certain period, usually 30 days. After this period, you generally gain the right to change doctors. It is important to communicate your medical needs and preferences clearly.",
-        "description": "In California, you can choose your own doctor if you pre-designated one before your injury. Otherwise, your employer's chosen doctor treats you initially, then you may switch."
-      }
-    }
-  ],
+  "name": "Can I choose my own doctor for my workers' comp injury in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose my own doctor for my workers' comp injury in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, your ability to choose your own doctor for a workers' compensation injury depends on whether you pre-designated a personal physician before your injury. If you pre-designated, you can see that doctor immediately. If not, your employer or their insurance company initially has the right to select the treating physician for a certain period, usually 30 days. After this period, you generally gain the right to change doctors. It is important to communicate your medical needs and preferences clearly.",
+        "@type": "Answer",
+        "description": "In California, you can choose your own doctor if you pre-designated one before your injury. Otherwise, your employer's chosen doctor treats you initially, then you may switch."
+      }
+    }
+  ],
+  "description": "In California, you can choose your own doctor if you pre-designated one before your injury. Otherwise, your employer's chosen doctor treats you initially, then"
 }

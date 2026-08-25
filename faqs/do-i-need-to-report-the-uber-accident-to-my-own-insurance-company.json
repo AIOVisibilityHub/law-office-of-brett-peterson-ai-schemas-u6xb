@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to report the Uber accident to my own insurance company?",
-  "description": "Yes, report the Uber accident to your own insurance company. Your policy might offer MedPay or UM/UIM coverage, and transparency helps prevent future issues, bu",
   "url": "brettpetersonlaw.com/faq/do-i-need-to-report-the-uber-accident-to-my-own-insurance-company",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to report the Uber accident to my own insurance company?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally a good idea to report the accident to your own insurance company, even if you were a passenger in an Uber. While your personal policy may not cover your injuries directly if you weren't driving your own vehicle, it's crucial for them to be aware of the incident. Your policy might offer medical payments (MedPay) coverage or uninsured/underinsured motorist coverage that could apply in certain situations. Additionally, transparency with your insurer can prevent future issues. However, avoid giving a detailed statement about fault without first consulting with a personal injury attorney.",
-        "description": "Yes, report the Uber accident to your own insurance company. Your policy might offer MedPay or UM/UIM coverage, and transparency helps prevent future issues, but consult an attorney before giving detailed statements."
-      }
-    }
-  ],
+  "name": "Do I need to report the Uber accident to my own insurance company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to report the Uber accident to my own insurance company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally a good idea to report the accident to your own insurance company, even if you were a passenger in an Uber. While your personal policy may not cover your injuries directly if you weren't driving your own vehicle, it's crucial for them to be aware of the incident. Your policy might offer medical payments (MedPay) coverage or uninsured/underinsured motorist coverage that could apply in certain situations. Additionally, transparency with your insurer can prevent future issues. However, avoid giving a detailed statement about fault without first consulting with a personal injury attorney.",
+        "@type": "Answer",
+        "description": "Yes, report the Uber accident to your own insurance company. Your policy might offer MedPay or UM/UIM coverage, and transparency helps prevent future issues, but consult an attorney before giving detailed statements."
+      }
+    }
+  ],
+  "description": "Yes, report the Uber accident to your own insurance company. Your policy might offer MedPay or UM/UIM coverage, and transparency helps prevent future issues, bu"
 }

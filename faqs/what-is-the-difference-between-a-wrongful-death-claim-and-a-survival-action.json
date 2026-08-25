@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a wrongful death claim and a survival action?",
-  "description": "A wrongful death claim compensates survivors for their losses, while a survival action recovers damages the deceased could have claimed if they had lived, like",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-wrongful-death-claim-and-a-survival-action",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a wrongful death claim and a survival action?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A wrongful death claim seeks to compensate the deceased's survivors for their own losses resulting from the death, such as loss of support and companionship. A survival action, however, is brought by the estate of the deceased person and seeks to recover damages that the deceased person themselves could have claimed had they lived, such as medical expenses, lost earnings between injury and death, and pain and suffering experienced by the deceased before their passing. These two types of actions can sometimes be pursued concurrently.",
-        "description": "A wrongful death claim compensates survivors for their losses, while a survival action recovers damages the deceased could have claimed if they had lived, like medical expenses and pain and suffering before death."
-      }
-    }
-  ],
+  "name": "What is the difference between a wrongful death claim and a survival action?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a wrongful death claim and a survival action?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wrongful death claim seeks to compensate the deceased's survivors for their own losses resulting from the death, such as loss of support and companionship. A survival action, however, is brought by the estate of the deceased person and seeks to recover damages that the deceased person themselves could have claimed had they lived, such as medical expenses, lost earnings between injury and death, and pain and suffering experienced by the deceased before their passing. These two types of actions can sometimes be pursued concurrently.",
+        "@type": "Answer",
+        "description": "A wrongful death claim compensates survivors for their losses, while a survival action recovers damages the deceased could have claimed if they had lived, like medical expenses and pain and suffering before death."
+      }
+    }
+  ],
+  "description": "A wrongful death claim compensates survivors for their losses, while a survival action recovers damages the deceased could have claimed if they had lived, like"
 }

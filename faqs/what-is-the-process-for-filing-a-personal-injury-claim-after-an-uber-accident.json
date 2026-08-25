@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a personal injury claim after an Uber accident?",
-  "description": "The process involves investigation, notifying Uber's insurers, negotiating a settlement, and potentially filing a lawsuit if negotiations fail.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-personal-injury-claim-after-an-uber-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a personal injury claim after an Uber accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process for filing a personal injury claim after an Uber accident typically involves several steps. First, your attorney will conduct an investigation, gathering evidence such as police reports, medical records, witness statements, and accident reconstruction data. Next, they will notify Uber and their insurance providers of your intent to file a claim. Your lawyer will then negotiate with the insurance companies to reach a fair settlement. If a settlement cannot be reached, the case may proceed to litigation, which could involve filing a lawsuit and potentially going to trial.",
-        "description": "The process involves investigation, notifying Uber's insurers, negotiating a settlement, and potentially filing a lawsuit if negotiations fail."
-      }
-    }
-  ],
+  "name": "What is the process for filing a personal injury claim after an Uber accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a personal injury claim after an Uber accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for filing a personal injury claim after an Uber accident typically involves several steps. First, your attorney will conduct an investigation, gathering evidence such as police reports, medical records, witness statements, and accident reconstruction data. Next, they will notify Uber and their insurance providers of your intent to file a claim. Your lawyer will then negotiate with the insurance companies to reach a fair settlement. If a settlement cannot be reached, the case may proceed to litigation, which could involve filing a lawsuit and potentially going to trial.",
+        "@type": "Answer",
+        "description": "The process involves investigation, notifying Uber's insurers, negotiating a settlement, and potentially filing a lawsuit if negotiations fail."
+      }
+    }
+  ],
+  "description": "The process involves investigation, notifying Uber's insurers, negotiating a settlement, and potentially filing a lawsuit if negotiations fail."
 }

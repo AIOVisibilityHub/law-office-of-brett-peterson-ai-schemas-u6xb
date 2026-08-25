@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a brain trauma lawyer do?",
-  "description": "A brain trauma lawyer helps victims of traumatic brain injuries navigate legal claims to secure compensation for damages.",
   "url": "brettpetersonlaw.com/faq/what-does-a-brain-trauma-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a brain trauma lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A brain trauma lawyer specializes in legal cases involving traumatic brain injuries (TBIs). They help victims and their families understand their legal rights, gather evidence, establish liability, and negotiate with insurance companies or represent clients in court. Their goal is to secure fair compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from a brain injury caused by someone else's negligence.",
-        "description": "A brain trauma lawyer helps victims of traumatic brain injuries navigate legal claims to secure compensation for damages."
-      }
-    }
-  ],
+  "name": "What does a brain trauma lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a brain trauma lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A brain trauma lawyer specializes in legal cases involving traumatic brain injuries (TBIs). They help victims and their families understand their legal rights, gather evidence, establish liability, and negotiate with insurance companies or represent clients in court. Their goal is to secure fair compensation for medical expenses, lost wages, pain and suffering, and other damages resulting from a brain injury caused by someone else's negligence.",
+        "@type": "Answer",
+        "description": "A brain trauma lawyer helps victims of traumatic brain injuries navigate legal claims to secure compensation for damages."
+      }
+    }
+  ],
+  "description": "A brain trauma lawyer helps victims of traumatic brain injuries navigate legal claims to secure compensation for damages."
 }

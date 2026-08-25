@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I seek in an app-based transportation accident claim?",
-  "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage. Amounts depend on injury severity and specific accident det",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-seek-in-an-app-based-transportation-accident-cla",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I seek in an app-based transportation accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Victims of app-based transportation accidents can seek various types of compensation depending on the extent of their injuries and losses. This may include coverage for medical expenses (past and future), lost wages or earning capacity, pain and suffering, emotional distress, and property damage to your vehicle. The specific amount and types of compensation available will depend on the unique circumstances of your accident, the severity of your injuries, and the applicable insurance policies. A lawyer can help evaluate your potential damages.",
-        "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage. Amounts depend on injury severity and specific accident details."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I seek in an app-based transportation accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I seek in an app-based transportation accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victims of app-based transportation accidents can seek various types of compensation depending on the extent of their injuries and losses. This may include coverage for medical expenses (past and future), lost wages or earning capacity, pain and suffering, emotional distress, and property damage to your vehicle. The specific amount and types of compensation available will depend on the unique circumstances of your accident, the severity of your injuries, and the applicable insurance policies. A lawyer can help evaluate your potential damages.",
+        "@type": "Answer",
+        "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage. Amounts depend on injury severity and specific accident details."
+      }
+    }
+  ],
+  "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage. Amounts depend on injury severity and specific accident det"
 }

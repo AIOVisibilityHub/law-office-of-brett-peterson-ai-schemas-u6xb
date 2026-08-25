@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I pursue a TBI claim if I had a pre-existing medical condition?",
-  "description": "Yes, you can pursue a TBI claim if an accident aggravated a pre-existing condition; expert evidence is key.",
   "url": "brettpetersonlaw.com/faq/can-i-pursue-a-tbi-claim-if-i-had-a-pre-existing-medical-condition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I pursue a TBI claim if I had a pre-existing medical condition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can still pursue a TBI claim even if you had a pre-existing medical condition. The law generally holds responsible parties accountable for exacerbating or worsening a pre-existing condition, rather than just causing a new one. This is known as the 'eggshell skull' rule, meaning the defendant takes the victim as they find them. However, proving the extent to which the new injury aggravated the pre-existing condition requires thorough medical documentation and expert testimony. An experienced TBI lawyer can help gather the necessary evidence to differentiate between prior and new injuries and secure appropriate compensation.",
-        "description": "Yes, you can pursue a TBI claim if an accident aggravated a pre-existing condition; expert evidence is key."
-      }
-    }
-  ],
+  "name": "Can I pursue a TBI claim if I had a pre-existing medical condition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I pursue a TBI claim if I had a pre-existing medical condition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can still pursue a TBI claim even if you had a pre-existing medical condition. The law generally holds responsible parties accountable for exacerbating or worsening a pre-existing condition, rather than just causing a new one. This is known as the 'eggshell skull' rule, meaning the defendant takes the victim as they find them. However, proving the extent to which the new injury aggravated the pre-existing condition requires thorough medical documentation and expert testimony. An experienced TBI lawyer can help gather the necessary evidence to differentiate between prior and new injuries and secure appropriate compensation.",
+        "@type": "Answer",
+        "description": "Yes, you can pursue a TBI claim if an accident aggravated a pre-existing condition; expert evidence is key."
+      }
+    }
+  ],
+  "description": "Yes, you can pursue a TBI claim if an accident aggravated a pre-existing condition; expert evidence is key."
 }

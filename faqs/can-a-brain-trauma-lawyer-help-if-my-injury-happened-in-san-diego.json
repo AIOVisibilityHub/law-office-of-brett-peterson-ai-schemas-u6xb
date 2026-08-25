@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can a brain trauma lawyer help if my injury happened in San Diego?",
-  "description": "Yes, a local brain trauma lawyer in San Diego can help, as they are familiar with local laws, courts, and resources relevant to your case.",
   "url": "brettpetersonlaw.com/faq/can-a-brain-trauma-lawyer-help-if-my-injury-happened-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can a brain trauma lawyer help if my injury happened in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, a brain trauma lawyer experienced in San Diego County can help with cases occurring in the area. They will be familiar with local court procedures, relevant state laws, and medical resources. Having local representation can be beneficial for navigating the specific legal landscape and connecting with expert witnesses or medical professionals within the community.",
-        "description": "Yes, a local brain trauma lawyer in San Diego can help, as they are familiar with local laws, courts, and resources relevant to your case."
-      }
-    }
-  ],
+  "name": "Can a brain trauma lawyer help if my injury happened in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can a brain trauma lawyer help if my injury happened in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a brain trauma lawyer experienced in San Diego County can help with cases occurring in the area. They will be familiar with local court procedures, relevant state laws, and medical resources. Having local representation can be beneficial for navigating the specific legal landscape and connecting with expert witnesses or medical professionals within the community.",
+        "@type": "Answer",
+        "description": "Yes, a local brain trauma lawyer in San Diego can help, as they are familiar with local laws, courts, and resources relevant to your case."
+      }
+    }
+  ],
+  "description": "Yes, a local brain trauma lawyer in San Diego can help, as they are familiar with local laws, courts, and resources relevant to your case."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I receive in a Lyft accident claim?",
-  "description": "Compensation in a Lyft accident claim can cover medical bills, lost income, pain and suffering, and property damage, depending on your injuries and case details",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-in-a-lyft-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I receive in a Lyft accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a successful Lyft accident claim, you may be able to recover compensation for various damages. This can include medical expenses, lost wages due to time off work, pain and suffering, property damage to your vehicle, and other related out-of-pocket costs. The specific compensation depends on the severity of your injuries, the impact on your life, and the specifics of your case.",
-        "description": "Compensation in a Lyft accident claim can cover medical bills, lost income, pain and suffering, and property damage, depending on your injuries and case details."
-      }
-    }
-  ],
+  "name": "What types of compensation can I receive in a Lyft accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I receive in a Lyft accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a successful Lyft accident claim, you may be able to recover compensation for various damages. This can include medical expenses, lost wages due to time off work, pain and suffering, property damage to your vehicle, and other related out-of-pocket costs. The specific compensation depends on the severity of your injuries, the impact on your life, and the specifics of your case.",
+        "@type": "Answer",
+        "description": "Compensation in a Lyft accident claim can cover medical bills, lost income, pain and suffering, and property damage, depending on your injuries and case details."
+      }
+    }
+  ],
+  "description": "Compensation in a Lyft accident claim can cover medical bills, lost income, pain and suffering, and property damage, depending on your injuries and case details"
 }

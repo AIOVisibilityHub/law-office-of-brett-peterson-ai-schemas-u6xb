@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my employer retaliates against me for filing a workers' comp claim?",
-  "description": "Employer retaliation for filing a workers' comp claim is illegal. Document any adverse actions and consult a lawyer to protect your rights and pursue a claim fo",
   "url": "brettpetersonlaw.com/faq/what-if-my-employer-retaliates-against-me-for-filing-a-workers-comp-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if my employer retaliates against me for filing a workers' comp claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Employer retaliation for filing a workers' comp claim is illegal. If you experience adverse actions such as termination, demotion, reduction in hours, or harassment after filing a claim, you may have legal recourse. It's crucial to document all instances of alleged retaliation, including dates, times, and specific details. A workers' comp lawyer can help you understand your rights, gather evidence, and pursue a separate claim for wrongful termination or discrimination to protect your job and recover damages.",
-        "description": "Employer retaliation for filing a workers' comp claim is illegal. Document any adverse actions and consult a lawyer to protect your rights and pursue a claim for wrongful termination or discrimination."
-      }
-    }
-  ],
+  "name": "What if my employer retaliates against me for filing a workers' comp claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if my employer retaliates against me for filing a workers' comp claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Employer retaliation for filing a workers' comp claim is illegal. If you experience adverse actions such as termination, demotion, reduction in hours, or harassment after filing a claim, you may have legal recourse. It's crucial to document all instances of alleged retaliation, including dates, times, and specific details. A workers' comp lawyer can help you understand your rights, gather evidence, and pursue a separate claim for wrongful termination or discrimination to protect your job and recover damages.",
+        "@type": "Answer",
+        "description": "Employer retaliation for filing a workers' comp claim is illegal. Document any adverse actions and consult a lawyer to protect your rights and pursue a claim for wrongful termination or discrimination."
+      }
+    }
+  ],
+  "description": "Employer retaliation for filing a workers' comp claim is illegal. Document any adverse actions and consult a lawyer to protect your rights and pursue a claim fo"
 }

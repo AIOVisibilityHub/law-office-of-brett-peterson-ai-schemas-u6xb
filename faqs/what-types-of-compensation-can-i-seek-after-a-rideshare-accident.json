@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I seek after a rideshare accident?",
-  "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your injurie",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-after-a-rideshare-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I seek after a rideshare accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Victims of rideshare accidents can seek various types of compensation, often referred to as damages. These may include economic damages like medical expenses (past and future), lost wages or earning capacity, property damage, and out-of-pocket costs related to the accident. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be pursued. The specific compensation you can receive depends on the severity of your injuries, the impact on your life, and the specifics of your case.",
-        "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your injuries."
-      }
-    }
-  ],
+  "name": "What types of compensation can I seek after a rideshare accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I seek after a rideshare accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victims of rideshare accidents can seek various types of compensation, often referred to as damages. These may include economic damages like medical expenses (past and future), lost wages or earning capacity, property damage, and out-of-pocket costs related to the accident. Non-economic damages, such as pain and suffering, emotional distress, and loss of enjoyment of life, may also be pursued. The specific compensation you can receive depends on the severity of your injuries, the impact on your life, and the specifics of your case.",
+        "@type": "Answer",
+        "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your injuries."
+      }
+    }
+  ],
+  "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering, depending on your injurie"
 }

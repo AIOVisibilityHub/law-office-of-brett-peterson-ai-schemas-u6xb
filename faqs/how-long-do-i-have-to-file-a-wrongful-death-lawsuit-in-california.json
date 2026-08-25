@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a wrongful death lawsuit in California?",
-  "description": "In California, you generally have two years from the date of death to file a wrongful death lawsuit; missing this deadline can result in losing your right to co",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-wrongful-death-lawsuit-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a wrongful death lawsuit in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, there is a statute of limitations for filing a wrongful death lawsuit. Generally, you have two years from the date of your loved one's death to file the claim. If you miss this deadline, you may lose your right to seek compensation entirely, with very limited exceptions. It is important to contact a lawyer as soon as possible to ensure all deadlines are met and evidence is preserved.",
-        "description": "In California, you generally have two years from the date of death to file a wrongful death lawsuit; missing this deadline can result in losing your right to compensation."
-      }
-    }
-  ],
+  "name": "How long do I have to file a wrongful death lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a wrongful death lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, there is a statute of limitations for filing a wrongful death lawsuit. Generally, you have two years from the date of your loved one's death to file the claim. If you miss this deadline, you may lose your right to seek compensation entirely, with very limited exceptions. It is important to contact a lawyer as soon as possible to ensure all deadlines are met and evidence is preserved.",
+        "@type": "Answer",
+        "description": "In California, you generally have two years from the date of death to file a wrongful death lawsuit; missing this deadline can result in losing your right to compensation."
+      }
+    }
+  ],
+  "description": "In California, you generally have two years from the date of death to file a wrongful death lawsuit; missing this deadline can result in losing your right to co"
 }

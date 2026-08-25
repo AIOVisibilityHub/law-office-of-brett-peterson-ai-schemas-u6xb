@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if my post-concussion syndrome symptoms appeared weeks after my accident?",
-  "description": "Yes, you can file a claim even if PCS symptoms appear later. Seek immediate medical attention and document the link to the accident, as an attorney can help est",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-my-post-concussion-syndrome-symptoms-appeared-weeks",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if my post-concussion syndrome symptoms appeared weeks after my accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, you can often still file a claim even if your post-concussion syndrome symptoms developed days or weeks after the initial accident. It's common for concussion symptoms, especially PCS, to have a delayed onset. The key is to seek medical attention as soon as you notice symptoms and clearly document the connection to the original incident. An attorney can help establish this link through medical opinions and evidence, strengthening your claim despite the delayed appearance of symptoms.",
-        "description": "Yes, you can file a claim even if PCS symptoms appear later. Seek immediate medical attention and document the link to the accident, as an attorney can help establish this connection."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if my post-concussion syndrome symptoms appeared weeks after my accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if my post-concussion syndrome symptoms appeared weeks after my accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often still file a claim even if your post-concussion syndrome symptoms developed days or weeks after the initial accident. It's common for concussion symptoms, especially PCS, to have a delayed onset. The key is to seek medical attention as soon as you notice symptoms and clearly document the connection to the original incident. An attorney can help establish this link through medical opinions and evidence, strengthening your claim despite the delayed appearance of symptoms.",
+        "@type": "Answer",
+        "description": "Yes, you can file a claim even if PCS symptoms appear later. Seek immediate medical attention and document the link to the accident, as an attorney can help establish this connection."
+      }
+    }
+  ],
+  "description": "Yes, you can file a claim even if PCS symptoms appear later. Seek immediate medical attention and document the link to the accident, as an attorney can help est"
 }

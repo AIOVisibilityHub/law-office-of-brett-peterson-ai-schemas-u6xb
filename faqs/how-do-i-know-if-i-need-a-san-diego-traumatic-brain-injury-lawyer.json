@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I need a San Diego traumatic brain injury lawyer?",
-  "description": "Consult a TBI lawyer if your brain injury resulted from another's negligence to protect your rights and pursue fair compensation.",
   "url": "brettpetersonlaw.com/faq/how-do-i-know-if-i-need-a-san-diego-traumatic-brain-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I need a San Diego traumatic brain injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider consulting a TBI lawyer if you or a loved one has suffered a brain injury due to someone else's negligence, such as in a car accident, slip and fall, or other incident. These cases are complex, requiring expert medical and legal knowledge to prove fault, assess damages, and navigate insurance claims. A lawyer can help ensure your rights are protected, gather necessary evidence, and pursue fair compensation for medical bills, lost wages, pain and suffering, and long-term care needs. The sooner you seek legal advice, the better to preserve evidence and understand your options.",
-        "description": "Consult a TBI lawyer if your brain injury resulted from another's negligence to protect your rights and pursue fair compensation."
-      }
-    }
-  ],
+  "name": "How do I know if I need a San Diego traumatic brain injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a San Diego traumatic brain injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider consulting a TBI lawyer if you or a loved one has suffered a brain injury due to someone else's negligence, such as in a car accident, slip and fall, or other incident. These cases are complex, requiring expert medical and legal knowledge to prove fault, assess damages, and navigate insurance claims. A lawyer can help ensure your rights are protected, gather necessary evidence, and pursue fair compensation for medical bills, lost wages, pain and suffering, and long-term care needs. The sooner you seek legal advice, the better to preserve evidence and understand your options.",
+        "@type": "Answer",
+        "description": "Consult a TBI lawyer if your brain injury resulted from another's negligence to protect your rights and pursue fair compensation."
+      }
+    }
+  ],
+  "description": "Consult a TBI lawyer if your brain injury resulted from another's negligence to protect your rights and pursue fair compensation."
 }

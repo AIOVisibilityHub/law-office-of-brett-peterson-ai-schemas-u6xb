@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a brain injury claim?",
-  "description": "The process involves case assessment, investigation, filing a complaint, discovery, settlement negotiations, and potentially a trial.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-brain-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a brain injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an initial consultation to assess your case. If the lawyer takes your case, they will investigate the accident, gather evidence, and consult with medical experts. They will then file a formal complaint, engage in discovery (exchanging information with the opposing side), and attempt to negotiate a settlement. If a settlement isn't reached, the case may proceed to trial.",
-        "description": "The process involves case assessment, investigation, filing a complaint, discovery, settlement negotiations, and potentially a trial."
-      }
-    }
-  ],
+  "name": "What is the process for filing a brain injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a brain injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your case. If the lawyer takes your case, they will investigate the accident, gather evidence, and consult with medical experts. They will then file a formal complaint, engage in discovery (exchanging information with the opposing side), and attempt to negotiate a settlement. If a settlement isn't reached, the case may proceed to trial.",
+        "@type": "Answer",
+        "description": "The process involves case assessment, investigation, filing a complaint, discovery, settlement negotiations, and potentially a trial."
+      }
+    }
+  ],
+  "description": "The process involves case assessment, investigation, filing a complaint, discovery, settlement negotiations, and potentially a trial."
 }

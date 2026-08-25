@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact an on-the-job injury attorney after an accident?",
-  "description": "Contact an attorney as soon as possible after a work injury to protect your rights and ensure proper claim filing.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-on-the-job-injury-attorney-after-an-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact an on-the-job injury attorney after an accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact an on-the-job injury attorney as soon as possible after an accident, once you have received initial medical attention. Early involvement allows the attorney to advise you on reporting requirements, gather critical evidence, and protect your rights from the outset. Delays can complicate your claim and potentially jeopardize your eligibility for benefits. Prompt action helps build a stronger case and avoids common pitfalls that can arise from missteps in the initial stages.",
-        "description": "Contact an attorney as soon as possible after a work injury to protect your rights and ensure proper claim filing."
-      }
-    }
-  ],
+  "name": "When should I contact an on-the-job injury attorney after an accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact an on-the-job injury attorney after an accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact an on-the-job injury attorney as soon as possible after an accident, once you have received initial medical attention. Early involvement allows the attorney to advise you on reporting requirements, gather critical evidence, and protect your rights from the outset. Delays can complicate your claim and potentially jeopardize your eligibility for benefits. Prompt action helps build a stronger case and avoids common pitfalls that can arise from missteps in the initial stages.",
+        "@type": "Answer",
+        "description": "Contact an attorney as soon as possible after a work injury to protect your rights and ensure proper claim filing."
+      }
+    }
+  ],
+  "description": "Contact an attorney as soon as possible after a work injury to protect your rights and ensure proper claim filing."
 }

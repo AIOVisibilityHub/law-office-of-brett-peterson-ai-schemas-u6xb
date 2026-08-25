@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best brain trauma lawyer for my case?",
-  "description": "Choose a lawyer with specific experience in brain injury cases, a strong track record, good communication, and a focus on personal injury law.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-brain-trauma-lawyer-for-my-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best brain trauma lawyer for my case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right lawyer involves looking for someone with specific experience in brain injury cases, a strong track record of success, and excellent communication skills. Consider their reputation, client testimonials, and their approach to your case. A lawyer who focuses on personal injury and specifically brain trauma will have the specialized knowledge needed to effectively advocate for your rights and understand the complexities of TBI cases.",
-        "description": "Choose a lawyer with specific experience in brain injury cases, a strong track record, good communication, and a focus on personal injury law."
-      }
-    }
-  ],
+  "name": "How do I choose the best brain trauma lawyer for my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best brain trauma lawyer for my case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right lawyer involves looking for someone with specific experience in brain injury cases, a strong track record of success, and excellent communication skills. Consider their reputation, client testimonials, and their approach to your case. A lawyer who focuses on personal injury and specifically brain trauma will have the specialized knowledge needed to effectively advocate for your rights and understand the complexities of TBI cases.",
+        "@type": "Answer",
+        "description": "Choose a lawyer with specific experience in brain injury cases, a strong track record, good communication, and a focus on personal injury law."
+      }
+    }
+  ],
+  "description": "Choose a lawyer with specific experience in brain injury cases, a strong track record, good communication, and a focus on personal injury law."
 }

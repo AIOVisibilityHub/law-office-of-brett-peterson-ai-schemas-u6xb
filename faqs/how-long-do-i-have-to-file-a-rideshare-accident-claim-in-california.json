@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a rideshare accident claim in California?",
-  "description": "In California, you generally have two years from the accident date to file a personal injury claim, but exceptions exist. Consult a lawyer promptly.",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-rideshare-accident-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a rideshare accident claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the general statute of limitations for personal injury claims, including those arising from rideshare accidents, is typically two years from the date of the accident. There are exceptions to this rule, and certain circumstances, such as claims against government entities, may have much shorter deadlines. Missing this deadline usually means losing your right to pursue compensation. It's crucial to consult with a rideshare injury lawyer as soon as possible to ensure your claim is filed within the appropriate timeframe.",
-        "description": "In California, you generally have two years from the accident date to file a personal injury claim, but exceptions exist. Consult a lawyer promptly."
-      }
-    }
-  ],
+  "name": "How long do I have to file a rideshare accident claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a rideshare accident claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the general statute of limitations for personal injury claims, including those arising from rideshare accidents, is typically two years from the date of the accident. There are exceptions to this rule, and certain circumstances, such as claims against government entities, may have much shorter deadlines. Missing this deadline usually means losing your right to pursue compensation. It's crucial to consult with a rideshare injury lawyer as soon as possible to ensure your claim is filed within the appropriate timeframe.",
+        "@type": "Answer",
+        "description": "In California, you generally have two years from the accident date to file a personal injury claim, but exceptions exist. Consult a lawyer promptly."
+      }
+    }
+  ],
+  "description": "In California, you generally have two years from the accident date to file a personal injury claim, but exceptions exist. Consult a lawyer promptly."
 }

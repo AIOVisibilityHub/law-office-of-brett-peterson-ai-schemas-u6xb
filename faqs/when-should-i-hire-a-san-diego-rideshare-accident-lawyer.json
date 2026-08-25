@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a San Diego rideshare accident lawyer?",
-  "description": "Hire a lawyer immediately after a rideshare accident, particularly if injured, fault is disputed, or rideshare insurance is involved, to protect your rights and",
   "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-san-diego-rideshare-accident-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a San Diego rideshare accident lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring a rideshare accident lawyer as soon as possible after the incident, especially if you sustained injuries, if fault is disputed, or if the rideshare company's insurance is involved. An attorney can help investigate the accident, gather evidence, communicate with insurance companies, and ensure your rights are protected. Early legal intervention can prevent common mistakes that might jeopardize your claim and help you pursue fair compensation for medical expenses, lost wages, and pain and suffering.",
-        "description": "Hire a lawyer immediately after a rideshare accident, particularly if injured, fault is disputed, or rideshare insurance is involved, to protect your rights and claim."
-      }
-    }
-  ],
+  "name": "When should I hire a San Diego rideshare accident lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a San Diego rideshare accident lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a rideshare accident lawyer as soon as possible after the incident, especially if you sustained injuries, if fault is disputed, or if the rideshare company's insurance is involved. An attorney can help investigate the accident, gather evidence, communicate with insurance companies, and ensure your rights are protected. Early legal intervention can prevent common mistakes that might jeopardize your claim and help you pursue fair compensation for medical expenses, lost wages, and pain and suffering.",
+        "@type": "Answer",
+        "description": "Hire a lawyer immediately after a rideshare accident, particularly if injured, fault is disputed, or rideshare insurance is involved, to protect your rights and claim."
+      }
+    }
+  ],
+  "description": "Hire a lawyer immediately after a rideshare accident, particularly if injured, fault is disputed, or rideshare insurance is involved, to protect your rights and"
 }

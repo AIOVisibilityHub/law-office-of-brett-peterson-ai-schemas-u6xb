@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I file a wrongful death claim if my loved one died in a car accident?",
-  "description": "Yes, if a car accident caused by another driver's negligence resulted in your loved one's death, you can likely file a wrongful death claim.",
   "url": "brettpetersonlaw.com/faq/can-i-file-a-wrongful-death-claim-if-my-loved-one-died-in-a-car-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I file a wrongful death claim if my loved one died in a car accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if your loved one died in a car accident due to another driver's negligence or wrongdoing, you may have grounds to file a wrongful death claim. This applies to cases where the other driver was speeding, distracted, intoxicated, or otherwise violated traffic laws leading to the fatal collision. An attorney can help investigate the circumstances of the accident and determine if a valid claim exists.",
-        "description": "Yes, if a car accident caused by another driver's negligence resulted in your loved one's death, you can likely file a wrongful death claim."
-      }
-    }
-  ],
+  "name": "Can I file a wrongful death claim if my loved one died in a car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a wrongful death claim if my loved one died in a car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if your loved one died in a car accident due to another driver's negligence or wrongdoing, you may have grounds to file a wrongful death claim. This applies to cases where the other driver was speeding, distracted, intoxicated, or otherwise violated traffic laws leading to the fatal collision. An attorney can help investigate the circumstances of the accident and determine if a valid claim exists.",
+        "@type": "Answer",
+        "description": "Yes, if a car accident caused by another driver's negligence resulted in your loved one's death, you can likely file a wrongful death claim."
+      }
+    }
+  ],
+  "description": "Yes, if a car accident caused by another driver's negligence resulted in your loved one's death, you can likely file a wrongful death claim."
 }

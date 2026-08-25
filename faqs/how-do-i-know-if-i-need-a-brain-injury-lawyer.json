@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I need a brain injury lawyer?",
-  "description": "Consider a brain injury lawyer if your brain injury resulted from another's negligence, leading to medical expenses, lost wages, or long-term care. A lawyer can",
   "url": "brettpetersonlaw.com/faq/how-do-i-know-if-i-need-a-brain-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I need a brain injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider consulting a brain injury lawyer if you or a loved one has suffered a brain injury due to someone else's negligence. This is especially true if the injury resulted from an accident, medical malpractice, or any incident where liability is unclear, or if the injury has led to significant medical expenses, lost wages, or long-term care needs. A lawyer can assess your case, determine if you have grounds for a claim, and guide you through the complex legal process.",
-        "description": "Consider a brain injury lawyer if your brain injury resulted from another's negligence, leading to medical expenses, lost wages, or long-term care. A lawyer can assess your case and navigate the legal process."
-      }
-    }
-  ],
+  "name": "How do I know if I need a brain injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a brain injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider consulting a brain injury lawyer if you or a loved one has suffered a brain injury due to someone else's negligence. This is especially true if the injury resulted from an accident, medical malpractice, or any incident where liability is unclear, or if the injury has led to significant medical expenses, lost wages, or long-term care needs. A lawyer can assess your case, determine if you have grounds for a claim, and guide you through the complex legal process.",
+        "@type": "Answer",
+        "description": "Consider a brain injury lawyer if your brain injury resulted from another's negligence, leading to medical expenses, lost wages, or long-term care. A lawyer can assess your case and navigate the legal process."
+      }
+    }
+  ],
+  "description": "Consider a brain injury lawyer if your brain injury resulted from another's negligence, leading to medical expenses, lost wages, or long-term care. A lawyer can"
 }

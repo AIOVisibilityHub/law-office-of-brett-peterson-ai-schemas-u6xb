@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a concussion and a traumatic brain injury (TBI)?",
-  "description": "A concussion is a mild traumatic brain injury (TBI); TBI is a broader term for any brain injury that impairs function, ranging from mild to severe.",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-concussion-and-a-traumatic-brain-injury-tbi",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a concussion and a traumatic brain injury (TBI)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A concussion is a mild form of traumatic brain injury (TBI) caused by a bump, blow, or jolt to the head. While it is often considered less severe, its effects can still be significant and long-lasting. TBI is a broader term encompassing any injury that impairs brain function, ranging from mild concussions to severe injuries that cause permanent neurological damage. Both require careful medical evaluation and can be the basis for a personal injury claim.",
-        "description": "A concussion is a mild traumatic brain injury (TBI); TBI is a broader term for any brain injury that impairs function, ranging from mild to severe."
-      }
-    }
-  ],
+  "name": "What is the difference between a concussion and a traumatic brain injury (TBI)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a concussion and a traumatic brain injury (TBI)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A concussion is a mild form of traumatic brain injury (TBI) caused by a bump, blow, or jolt to the head. While it is often considered less severe, its effects can still be significant and long-lasting. TBI is a broader term encompassing any injury that impairs brain function, ranging from mild concussions to severe injuries that cause permanent neurological damage. Both require careful medical evaluation and can be the basis for a personal injury claim.",
+        "@type": "Answer",
+        "description": "A concussion is a mild traumatic brain injury (TBI); TBI is a broader term for any brain injury that impairs function, ranging from mild to severe."
+      }
+    }
+  ],
+  "description": "A concussion is a mild traumatic brain injury (TBI); TBI is a broader term for any brain injury that impairs function, ranging from mild to severe."
 }

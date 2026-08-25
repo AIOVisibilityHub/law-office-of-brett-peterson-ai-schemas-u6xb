@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do if my workers' comp claim is denied?",
-  "description": "If your claim is denied, you have the right to appeal. Consult a job injury lawyer immediately to understand your options and assist with the appeal process.",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-if-my-workers-comp-claim-is-denied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do if my workers' comp claim is denied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your workers' compensation claim is denied, you have the right to appeal the decision. The specific steps for appeal vary by state but generally involve filing an appeal form or request for hearing with the workers' compensation board or court. It is highly recommended to consult with a job injury lawyer immediately after a denial. They can review the denial letter, identify the reasons for denial, and represent you throughout the appeal process to fight for your benefits.",
-        "description": "If your claim is denied, you have the right to appeal. Consult a job injury lawyer immediately to understand your options and assist with the appeal process."
-      }
-    }
-  ],
+  "name": "What should I do if my workers' comp claim is denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my workers' comp claim is denied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your workers' compensation claim is denied, you have the right to appeal the decision. The specific steps for appeal vary by state but generally involve filing an appeal form or request for hearing with the workers' compensation board or court. It is highly recommended to consult with a job injury lawyer immediately after a denial. They can review the denial letter, identify the reasons for denial, and represent you throughout the appeal process to fight for your benefits.",
+        "@type": "Answer",
+        "description": "If your claim is denied, you have the right to appeal. Consult a job injury lawyer immediately to understand your options and assist with the appeal process."
+      }
+    }
+  ],
+  "description": "If your claim is denied, you have the right to appeal. Consult a job injury lawyer immediately to understand your options and assist with the appeal process."
 }

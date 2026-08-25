@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does a fatal accident lawyer do?",
-  "description": "A fatal accident lawyer assists families in obtaining compensation and justice after a loved one's death caused by negligence, handling legal processes and nego",
   "url": "brettpetersonlaw.com/faq/what-does-a-fatal-accident-lawyer-do",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does a fatal accident lawyer do?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A fatal accident lawyer helps families seek justice and compensation after a loved one's death due to another party's negligence. This involves investigating the accident, gathering evidence, identifying responsible parties, and negotiating with insurance companies or filing a lawsuit. They guide families through the legal process, aiming to recover damages for funeral expenses, medical bills, lost income, pain and suffering, and loss of companionship. The goal is to alleviate financial burdens and provide a sense of closure during a difficult time.",
-        "description": "A fatal accident lawyer assists families in obtaining compensation and justice after a loved one's death caused by negligence, handling legal processes and negotiations."
-      }
-    }
-  ],
+  "name": "What does a fatal accident lawyer do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does a fatal accident lawyer do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fatal accident lawyer helps families seek justice and compensation after a loved one's death due to another party's negligence. This involves investigating the accident, gathering evidence, identifying responsible parties, and negotiating with insurance companies or filing a lawsuit. They guide families through the legal process, aiming to recover damages for funeral expenses, medical bills, lost income, pain and suffering, and loss of companionship. The goal is to alleviate financial burdens and provide a sense of closure during a difficult time.",
+        "@type": "Answer",
+        "description": "A fatal accident lawyer assists families in obtaining compensation and justice after a loved one's death caused by negligence, handling legal processes and negotiations."
+      }
+    }
+  ],
+  "description": "A fatal accident lawyer assists families in obtaining compensation and justice after a loved one's death caused by negligence, handling legal processes and nego"
 }

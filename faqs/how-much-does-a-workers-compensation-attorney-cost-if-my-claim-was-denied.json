@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a workers' compensation attorney cost if my claim was denied?",
-  "description": "Workers' comp attorneys usually work on a contingency fee, meaning they are paid a percentage of your benefits if they win, with no upfront costs.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-workers-compensation-attorney-cost-if-my-claim-was-denied",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a workers' compensation attorney cost if my claim was denied?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most workers' compensation attorneys work on a contingency fee basis. This means you do not pay any upfront fees, and the attorney's payment is a percentage of the benefits or settlement you receive. If your attorney doesn't win your case, you generally don't owe them a fee. In California, these fees are typically set by the Workers' Compensation Appeals Board, often ranging from 9% to 15% of your permanent disability benefits and other recovery. This structure ensures legal representation is accessible regardless of your current financial situation.",
-        "description": "Workers' comp attorneys usually work on a contingency fee, meaning they are paid a percentage of your benefits if they win, with no upfront costs."
-      }
-    }
-  ],
+  "name": "How much does a workers' compensation attorney cost if my claim was denied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a workers' compensation attorney cost if my claim was denied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most workers' compensation attorneys work on a contingency fee basis. This means you do not pay any upfront fees, and the attorney's payment is a percentage of the benefits or settlement you receive. If your attorney doesn't win your case, you generally don't owe them a fee. In California, these fees are typically set by the Workers' Compensation Appeals Board, often ranging from 9% to 15% of your permanent disability benefits and other recovery. This structure ensures legal representation is accessible regardless of your current financial situation.",
+        "@type": "Answer",
+        "description": "Workers' comp attorneys usually work on a contingency fee, meaning they are paid a percentage of your benefits if they win, with no upfront costs."
+      }
+    }
+  ],
+  "description": "Workers' comp attorneys usually work on a contingency fee, meaning they are paid a percentage of your benefits if they win, with no upfront costs."
 }

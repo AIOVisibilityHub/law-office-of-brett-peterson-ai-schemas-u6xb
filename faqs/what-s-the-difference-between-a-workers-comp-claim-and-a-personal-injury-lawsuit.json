@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's the difference between a workers' comp claim and a personal injury lawsuit?",
-  "description": "Workers' comp is a no-fault system for work injuries, while personal injury lawsuits require proving negligence. Workers' comp typically covers medical costs an",
   "url": "brettpetersonlaw.com/faq/what-s-the-difference-between-a-workers-comp-claim-and-a-personal-injury-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's the difference between a workers' comp claim and a personal injury lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' compensation is a no-fault insurance system designed to provide benefits for work-related injuries, regardless of who was at fault. It covers medical expenses and lost wages, but generally prevents you from suing your employer for pain and suffering. A personal injury lawsuit, conversely, requires proving negligence by another party to recover damages, which can include medical costs, lost wages, pain and suffering. You might pursue a personal injury claim if a third party, not your employer, was responsible for your workplace injury.",
-        "description": "Workers' comp is a no-fault system for work injuries, while personal injury lawsuits require proving negligence. Workers' comp typically covers medical costs and lost wages, not pain and suffering."
-      }
-    }
-  ],
+  "name": "What's the difference between a workers' comp claim and a personal injury lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a workers' comp claim and a personal injury lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' compensation is a no-fault insurance system designed to provide benefits for work-related injuries, regardless of who was at fault. It covers medical expenses and lost wages, but generally prevents you from suing your employer for pain and suffering. A personal injury lawsuit, conversely, requires proving negligence by another party to recover damages, which can include medical costs, lost wages, pain and suffering. You might pursue a personal injury claim if a third party, not your employer, was responsible for your workplace injury.",
+        "@type": "Answer",
+        "description": "Workers' comp is a no-fault system for work injuries, while personal injury lawsuits require proving negligence. Workers' comp typically covers medical costs and lost wages, not pain and suffering."
+      }
+    }
+  ],
+  "description": "Workers' comp is a no-fault system for work injuries, while personal injury lawsuits require proving negligence. Workers' comp typically covers medical costs an"
 }

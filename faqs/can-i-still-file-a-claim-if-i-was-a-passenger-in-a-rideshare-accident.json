@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if I was a passenger in a rideshare accident?",
-  "description": "Yes, as an injured rideshare passenger, you can file a claim against the at-fault driver, rideshare driver's, or rideshare company's insurance, as you are typic",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-a-passenger-in-a-rideshare-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if I was a passenger in a rideshare accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if you were a passenger in a rideshare vehicle and were injured in an accident, you absolutely have the right to file a claim. As a passenger, you are generally considered a 'non-at-fault' party, making your claim against the at-fault driver's insurance, the rideshare driver's personal insurance, or the rideshare company's commercial insurance policy often more straightforward. Your primary focus should be on recovering from your injuries, and an attorney can manage the complexities of your claim on your behalf.",
-        "description": "Yes, as an injured rideshare passenger, you can file a claim against the at-fault driver, rideshare driver's, or rideshare company's insurance, as you are typically not at fault."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if I was a passenger in a rideshare accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if I was a passenger in a rideshare accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if you were a passenger in a rideshare vehicle and were injured in an accident, you absolutely have the right to file a claim. As a passenger, you are generally considered a 'non-at-fault' party, making your claim against the at-fault driver's insurance, the rideshare driver's personal insurance, or the rideshare company's commercial insurance policy often more straightforward. Your primary focus should be on recovering from your injuries, and an attorney can manage the complexities of your claim on your behalf.",
+        "@type": "Answer",
+        "description": "Yes, as an injured rideshare passenger, you can file a claim against the at-fault driver, rideshare driver's, or rideshare company's insurance, as you are typically not at fault."
+      }
+    }
+  ],
+  "description": "Yes, as an injured rideshare passenger, you can file a claim against the at-fault driver, rideshare driver's, or rideshare company's insurance, as you are typic"
 }

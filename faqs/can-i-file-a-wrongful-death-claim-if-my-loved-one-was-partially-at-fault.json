@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I file a wrongful death claim if my loved one was partially at fault?",
-  "description": "Yes, in California, you can still file a wrongful death claim even if your loved one was partially at fault, though compensation may be reduced by their percent",
   "url": "brettpetersonlaw.com/faq/can-i-file-a-wrongful-death-claim-if-my-loved-one-was-partially-at-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I file a wrongful death claim if my loved one was partially at fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California follows a pure comparative negligence rule, which means that even if your loved one was partially at fault for the accident leading to their death, you may still be able to file a wrongful death claim. Under this rule, the compensation awarded to the family would be reduced by the percentage of fault attributed to the deceased. For example, if the deceased was found to be 20% at fault, the total damages awarded would be reduced by 20%. An experienced attorney can assess the circumstances of the incident to determine the potential impact of comparative negligence on your claim.",
-        "description": "Yes, in California, you can still file a wrongful death claim even if your loved one was partially at fault, though compensation may be reduced by their percentage of fault."
-      }
-    }
-  ],
+  "name": "Can I file a wrongful death claim if my loved one was partially at fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a wrongful death claim if my loved one was partially at fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California follows a pure comparative negligence rule, which means that even if your loved one was partially at fault for the accident leading to their death, you may still be able to file a wrongful death claim. Under this rule, the compensation awarded to the family would be reduced by the percentage of fault attributed to the deceased. For example, if the deceased was found to be 20% at fault, the total damages awarded would be reduced by 20%. An experienced attorney can assess the circumstances of the incident to determine the potential impact of comparative negligence on your claim.",
+        "@type": "Answer",
+        "description": "Yes, in California, you can still file a wrongful death claim even if your loved one was partially at fault, though compensation may be reduced by their percentage of fault."
+      }
+    }
+  ],
+  "description": "Yes, in California, you can still file a wrongful death claim even if your loved one was partially at fault, though compensation may be reduced by their percent"
 }

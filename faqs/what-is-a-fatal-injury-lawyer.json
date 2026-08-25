@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a fatal injury lawyer?",
-  "description": "A fatal injury lawyer represents families seeking compensation after a death caused by negligence, handling wrongful death claims to recover losses and ensure j",
   "url": "brettpetersonlaw.com/faq/what-is-a-fatal-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a fatal injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A fatal injury lawyer specializes in legal cases where a death has occurred due to someone else's negligence or wrongful act. These cases, often referred to as wrongful death claims, aim to seek compensation for the surviving family members for losses such as funeral expenses, medical bills incurred before death, lost income, and emotional distress. The lawyer guides families through the legal process, investigates the incident, gathers evidence, negotiates with insurance companies, and represents the family in court if a settlement cannot be reached. Their role is to alleviate the legal burden during a difficult time and advocate for justice and fair compensation.",
-        "description": "A fatal injury lawyer represents families seeking compensation after a death caused by negligence, handling wrongful death claims to recover losses and ensure justice."
-      }
-    }
-  ],
+  "name": "What is a fatal injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a fatal injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fatal injury lawyer specializes in legal cases where a death has occurred due to someone else's negligence or wrongful act. These cases, often referred to as wrongful death claims, aim to seek compensation for the surviving family members for losses such as funeral expenses, medical bills incurred before death, lost income, and emotional distress. The lawyer guides families through the legal process, investigates the incident, gathers evidence, negotiates with insurance companies, and represents the family in court if a settlement cannot be reached. Their role is to alleviate the legal burden during a difficult time and advocate for justice and fair compensation.",
+        "@type": "Answer",
+        "description": "A fatal injury lawyer represents families seeking compensation after a death caused by negligence, handling wrongful death claims to recover losses and ensure justice."
+      }
+    }
+  ],
+  "description": "A fatal injury lawyer represents families seeking compensation after a death caused by negligence, handling wrongful death claims to recover losses and ensure j"
 }

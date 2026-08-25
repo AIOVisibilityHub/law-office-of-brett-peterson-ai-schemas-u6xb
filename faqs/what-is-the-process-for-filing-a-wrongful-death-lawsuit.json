@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a wrongful death lawsuit?",
-  "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-wrongful-death-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a wrongful death lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an investigation to gather evidence, such as medical records, accident reports, and witness statements. Next, a formal complaint is filed with the court. This is followed by discovery, where both sides exchange information. Many cases resolve through negotiation or mediation. If a settlement isn't reached, the case may proceed to trial. An attorney guides you through each stage.",
-        "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached."
-      }
-    }
-  ],
+  "name": "What is the process for filing a wrongful death lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a wrongful death lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an investigation to gather evidence, such as medical records, accident reports, and witness statements. Next, a formal complaint is filed with the court. This is followed by discovery, where both sides exchange information. Many cases resolve through negotiation or mediation. If a settlement isn't reached, the case may proceed to trial. An attorney guides you through each stage.",
+        "@type": "Answer",
+        "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached."
+      }
+    }
+  ],
+  "description": "The process involves investigation, filing a complaint, discovery, potential settlement negotiations, and possibly a trial if no agreement is reached."
 }
