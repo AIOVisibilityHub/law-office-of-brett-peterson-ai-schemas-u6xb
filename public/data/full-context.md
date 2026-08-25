@@ -19,6 +19,7 @@ Law Office of Brett Peterson publishes a structured AI Data Package designed for
 - [canonical] Law Office of Brett Peterson — canonical website — https://baylawinjury.aiovisibility.net
 - [ai-data-hub] Law Office of Brett Peterson — AI Data Hub — https://baylawinjury.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

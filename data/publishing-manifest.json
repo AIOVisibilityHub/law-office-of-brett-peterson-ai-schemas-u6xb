@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T00:36:11.095Z",
+  "generatedAt": "2026-08-25T00:36:28.158Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://baylawinjury.aiovisibility.net",
@@ -153,7 +153,7 @@
   },
   "package": {
     "totalFiles": 1289,
-    "totalBytes": 5481687,
+    "totalBytes": 5436878,
     "stats": {
       "faqs": 881,
       "helpArticles": 185,
@@ -6535,42 +6535,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19511,
+        "bytes": 13571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 28265,
+        "bytes": 22462,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 336511,
+        "bytes": 330441,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15636,
+        "bytes": 9931,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 736861,
+        "bytes": 731178,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 519354,
+        "bytes": 513713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 21275,
+        "bytes": 15616,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 454982,
+        "bytes": 449341,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6582,7 +6582,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4476,
+        "bytes": 4620,
         "purpose": "LLM hint"
       },
       {
@@ -6602,32 +6602,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1446,
+        "bytes": 1753,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 566181,
+        "bytes": 566487,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 155634,
+        "bytes": 155778,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 155634,
+        "bytes": 155778,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4478,
+        "bytes": 4622,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 195302,
+        "bytes": 195446,
         "purpose": "Repository README"
       },
       {
@@ -6645,7 +6645,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
     }
   }
