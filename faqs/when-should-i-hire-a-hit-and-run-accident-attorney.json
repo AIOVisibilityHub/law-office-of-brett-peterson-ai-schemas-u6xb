@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a hit-and-run accident attorney?",
+  "description": "Consider hiring an attorney immediately after a hit-and-run if you're injured, your vehicle is damaged, or the driver is unidentified.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-hit-and-run-accident-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a hit-and-run accident attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a hit-and-run accident attorney as soon as possible after the incident, especially if you or a loved one sustained injuries, your vehicle was significantly damaged, or the at-fault driver has not been identified. An attorney can help investigate the incident, identify potential responsible parties, navigate insurance claims, and pursue compensation for your damages. Early legal involvement can be critical in preserving evidence and protecting your rights.",
+        "description": "Consider hiring an attorney immediately after a hit-and-run if you're injured, your vehicle is damaged, or the driver is unidentified."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

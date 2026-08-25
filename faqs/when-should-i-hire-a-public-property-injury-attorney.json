@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a public property injury attorney?",
+  "description": "Hire an attorney for significant injuries on public property, especially given strict deadlines and complex rules for claims against government entities.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-public-property-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a public property injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a public property injury attorney if you have sustained a significant injury on government-owned property due to conditions like uneven sidewalks, poor maintenance, or inadequate warnings. Unlike private property claims, cases involving public entities have strict notice requirements and shorter deadlines, often requiring a formal claim to be filed within six months of the incident. An attorney can help navigate these complex procedural rules, investigate liability, gather evidence, and negotiate with government agencies to pursue fair compensation for medical expenses, lost wages, and other damages.",
+        "description": "Hire an attorney for significant injuries on public property, especially given strict deadlines and complex rules for claims against government entities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

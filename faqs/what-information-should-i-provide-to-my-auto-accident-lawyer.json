@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information should I provide to my auto accident lawyer?",
+  "description": "Provide your lawyer with accident details, contact information for parties and witnesses, police reports, photos, medical records, and insurance communications.",
+  "url": "brettpetersonlaw.com/faq/what-information-should-i-provide-to-my-auto-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information should I provide to my auto accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When meeting with your auto accident lawyer, you should provide as much information as possible. This includes details about the accident (date, time, location), contact information for all parties involved and witnesses, police report numbers, photographs of the scene and vehicle damage, and medical records related to your injuries. Also, share any communication you've had with insurance companies. Comprehensive information helps your lawyer build a strong and effective case on your behalf.",
+        "description": "Provide your lawyer with accident details, contact information for parties and witnesses, police reports, photos, medical records, and insurance communications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

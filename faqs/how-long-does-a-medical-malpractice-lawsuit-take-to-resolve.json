@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a medical malpractice lawsuit take to resolve?",
+  "description": "Resolution times vary, from one to two years for simpler cases to several years for complex ones. Factors like case complexity and expert testimony influence th",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-medical-malpractice-lawsuit-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a medical malpractice lawsuit take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a medical malpractice lawsuit can vary significantly, depending on the complexity of the case, the severity of the injury, and whether it settles or goes to trial. Simple cases might resolve within a year or two, while more complex cases, especially those involving extensive medical review or litigation, can take several years. Factors such as court backlogs, the willingness of parties to negotiate, and the need for expert testimony also influence the timeline. An attorney can provide a more specific estimate after reviewing the details of your situation.",
+        "description": "Resolution times vary, from one to two years for simpler cases to several years for complex ones. Factors like case complexity and expert testimony influence the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

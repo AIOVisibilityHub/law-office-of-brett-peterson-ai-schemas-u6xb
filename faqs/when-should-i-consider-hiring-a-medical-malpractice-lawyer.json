@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider hiring a medical malpractice lawyer?",
+  "description": "Consider hiring a lawyer if you believe you or a loved one has been significantly injured due to healthcare negligence and need to evaluate your legal options.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consider-hiring-a-medical-malpractice-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider hiring a medical malpractice lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a medical malpractice lawyer if you believe you or a loved one has been injured due to a healthcare provider's negligence. This is especially important if you've suffered significant harm, require ongoing medical care, or experience a substantial impact on your quality of life. An attorney can help evaluate the specifics of your case, determine if malpractice occurred, and guide you through the complex legal process to seek compensation for your injuries.",
+        "description": "Consider hiring a lawyer if you believe you or a loved one has been significantly injured due to healthcare negligence and need to evaluate your legal options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

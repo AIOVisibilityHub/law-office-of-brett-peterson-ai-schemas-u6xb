@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a private property accident claim typically take in California?",
+  "description": "The duration of a private property accident claim in California varies, from months to years, depending on complexity, injury severity, and whether it settles o",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-private-property-accident-claim-typically-take-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a private property accident claim typically take in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a private property accident claim in California can vary significantly, ranging from a few months to several years. Factors influencing this timeline include the complexity of the case, the severity of your injuries, the willingness of the at-fault party to negotiate, and the court's schedule if a lawsuit is filed. Cases that settle out of court are generally resolved faster than those that proceed to trial. An experienced lawyer can provide a more accurate estimate based on the specifics of your situation and help expedite the process where possible.",
+        "description": "The duration of a private property accident claim in California varies, from months to years, depending on complexity, injury severity, and whether it settles or goes to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

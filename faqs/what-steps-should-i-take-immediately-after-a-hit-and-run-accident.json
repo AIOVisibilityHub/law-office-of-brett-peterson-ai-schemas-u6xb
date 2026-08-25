@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps should I take immediately after a hit-and-run accident?",
+  "description": "Immediately after a hit-and-run, ensure safety, call 911, document the scene with photos, seek witnesses, note vehicle details, and get medical attention.",
+  "url": "brettpetersonlaw.com/faq/what-steps-should-i-take-immediately-after-a-hit-and-run-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps should I take immediately after a hit-and-run accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a hit-and-run, prioritize safety. If possible, move your vehicle to a safe location. Call 911 to report the incident to the police, even if damage seems minor. Document the scene by taking photos of vehicle damage, road conditions, and any debris. Look for witnesses and ask for their contact information. Note any details about the fleeing vehicle, such as color, make, model, or partial license plate numbers. Seek medical attention if you feel any pain or discomfort.",
+        "description": "Immediately after a hit-and-run, ensure safety, call 911, document the scene with photos, seek witnesses, note vehicle details, and get medical attention."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

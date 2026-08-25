@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a surgical error lawyer?",
+  "description": "Contact a surgical error lawyer as soon as you suspect a surgical mistake caused injury, due to legal deadlines and the need for early investigation.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-surgical-error-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a surgical error lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a surgical error lawyer as soon as you suspect that your injury or a loved one's injury resulted from a medical mistake during surgery. It's crucial to act promptly because there are legal deadlines, known as statutes of limitations, for filing medical malpractice claims. Early consultation allows the lawyer to investigate your case, gather evidence, and protect your legal rights before critical information is lost or deadlines pass. Even if you're unsure, a lawyer can assess the details of your situation to determine if you have a viable claim.",
+        "description": "Contact a surgical error lawyer as soon as you suspect a surgical mistake caused injury, due to legal deadlines and the need for early investigation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

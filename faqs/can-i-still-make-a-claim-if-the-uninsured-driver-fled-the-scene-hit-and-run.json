@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still make a claim if the uninsured driver fled the scene (hit and run)?",
+  "description": "Yes, hit-and-run accidents are usually covered by your uninsured motorist policy. Report it to police and your insurer, then consult a lawyer.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-make-a-claim-if-the-uninsured-driver-fled-the-scene-hit-and-run",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still make a claim if the uninsured driver fled the scene (hit and run)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can often still make a claim even if the uninsured driver fled the scene. This type of incident is typically covered under your uninsured motorist policy's 'hit and run' provision. It's crucial to report the incident to the police immediately and then to your insurance company. Your lawyer will help you navigate the process of proving the accident occurred and was caused by an unknown, uninsured driver, ensuring you pursue the compensation you are entitled to.",
+        "description": "Yes, hit-and-run accidents are usually covered by your uninsured motorist policy. Report it to police and your insurer, then consult a lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

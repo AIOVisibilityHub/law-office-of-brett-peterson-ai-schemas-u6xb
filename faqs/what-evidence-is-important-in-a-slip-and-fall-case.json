@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important in a slip and fall case?",
+  "description": "Important evidence includes photos, incident reports, witness statements, medical records, and surveillance footage.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-slip-and-fall-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important in a slip and fall case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence in a slip and fall case includes photos or videos of the hazardous condition and your injuries, incident reports, witness statements, medical records detailing your injuries and treatment, and surveillance footage of the accident. It's also important to preserve any clothing or shoes worn during the incident. A lawyer can help you identify and gather all relevant evidence to build a strong claim demonstrating the property owner's negligence.",
+        "description": "Important evidence includes photos, incident reports, witness statements, medical records, and surveillance footage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

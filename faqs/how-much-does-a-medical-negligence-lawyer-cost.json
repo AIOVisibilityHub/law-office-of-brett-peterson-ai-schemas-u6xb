@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a medical negligence lawyer cost?",
+  "description": "Medical negligence lawyers often work on a contingency fee basis, meaning their fees are a percentage of your successful compensation. You typically pay no upfr",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-medical-negligence-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a medical negligence lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most medical negligence lawyers work on a contingency fee basis. This means you typically do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation you receive if your case is successful, either through a settlement or a court award. If your case is not successful, you generally do not owe attorney fees. This arrangement allows individuals who might not otherwise afford legal representation to pursue justice. We will clearly explain our fee structure during your initial consultation.",
+        "description": "Medical negligence lawyers often work on a contingency fee basis, meaning their fees are a percentage of your successful compensation. You typically pay no upfront costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

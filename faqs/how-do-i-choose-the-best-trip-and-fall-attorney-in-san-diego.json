@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best trip and fall attorney in San Diego?",
+  "description": "Choose an attorney with specific personal injury experience, a strong track record, and a communication style you trust, ideally someone familiar with San Diego",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-trip-and-fall-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best trip and fall attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose the best trip and fall attorney in San Diego, look for someone with specific experience in personal injury and premises liability cases. Review their track record and client testimonials. Schedule consultations with a few attorneys to assess their communication style, how well they understand your situation, and their proposed strategy for your case. Ensure they operate on a contingency fee basis and that you feel comfortable and confident in their ability to represent your interests effectively within the local legal system.",
+        "description": "Choose an attorney with specific personal injury experience, a strong track record, and a communication style you trust, ideally someone familiar with San Diego courts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

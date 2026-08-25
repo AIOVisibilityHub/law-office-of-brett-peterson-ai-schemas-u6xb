@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a trip and fall attorney?",
+  "description": "Consider hiring an attorney if you have significant injuries, medical bills, or lost wages from a fall, especially if liability is disputed.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-trip-and-fall-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a trip and fall attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a trip and fall attorney if you've suffered significant injuries, incurred medical bills, or lost income due to a fall on someone else's property. It's especially important if the property owner or their insurance company disputes liability, offers a low settlement, or if the legal process seems overwhelming. An attorney can assess the strength of your case, handle communication with involved parties, and guide you through the complexities of personal injury law.",
+        "description": "Consider hiring an attorney if you have significant injuries, medical bills, or lost wages from a fall, especially if liability is disputed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

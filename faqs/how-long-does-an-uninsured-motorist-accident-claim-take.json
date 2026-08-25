@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an uninsured motorist accident claim take?",
+  "description": "Claim duration varies from a few months to over a year, depending on case complexity, injury severity, and insurer responsiveness.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-an-uninsured-motorist-accident-claim-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an uninsured motorist accident claim take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an uninsured motorist accident claim varies widely based on several factors, including the complexity of the case, the extent of your injuries, the responsiveness of your insurance company, and whether litigation becomes necessary. Simple cases might resolve in a few months, while more complex ones involving extensive medical treatment or liability disputes could take a year or more. A lawyer can provide a more accurate timeline after reviewing your specific situation.",
+        "description": "Claim duration varies from a few months to over a year, depending on case complexity, injury severity, and insurer responsiveness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a property injury?",
+  "description": "After a property injury, seek medical attention, report the incident, document the scene, gather witness info, and do not admit fault.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-property-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a property injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately after a property injury, prioritize your health by seeking medical attention, even if your injuries seem minor. Report the incident to the property owner or manager and obtain a copy of any incident report. If possible, take photos or videos of the accident scene, the hazard, and your injuries. Gather contact information from any witnesses. Do not admit fault or sign any documents without consulting a lawyer. These steps are vital for your health and potential legal claim.",
+        "description": "After a property injury, seek medical attention, report the incident, document the scene, gather witness info, and do not admit fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the statute of limitations for medical malpractice in California?",
+  "description": "In California, you generally have one year from discovery of injury or three years from the injury date, whichever is first, to file a medical malpractice claim",
+  "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-medical-malpractice-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the statute of limitations for medical malpractice in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for medical malpractice is generally one year from the date the injury was discovered, or three years from the date of the injury, whichever occurs first. There are limited exceptions to these rules, such as cases involving fraud or foreign bodies left in the patient. It is critical to consult with an attorney promptly to understand how these deadlines apply to your specific situation.",
+        "description": "In California, you generally have one year from discovery of injury or three years from the injury date, whichever is first, to file a medical malpractice claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

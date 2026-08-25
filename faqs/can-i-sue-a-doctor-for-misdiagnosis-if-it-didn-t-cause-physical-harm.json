@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue a doctor for misdiagnosis if it didn't cause physical harm?",
+  "description": "A successful misdiagnosis claim typically requires proof that the misdiagnosis caused you actual physical harm or injury.",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-a-doctor-for-misdiagnosis-if-it-didn-t-cause-physical-harm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue a doctor for misdiagnosis if it didn't cause physical harm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, to have a successful medical malpractice claim for misdiagnosis, you must demonstrate that the misdiagnosis or delayed diagnosis caused you actual harm or injury. This harm can include physical injury, worsening of a condition, prolonged suffering, or financial damages due to additional medical treatments or lost income. Emotional distress alone, without physical harm, is often not sufficient for a malpractice claim.",
+        "description": "A successful misdiagnosis claim typically requires proof that the misdiagnosis caused you actual physical harm or injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

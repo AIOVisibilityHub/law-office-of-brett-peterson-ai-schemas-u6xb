@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do public property injury claims differ from private property injury claims?",
+  "description": "Public property injury claims involve government entities, have shorter filing deadlines (often six months), and are governed by specific laws like the Californ",
+  "url": "brettpetersonlaw.com/faq/how-do-public-property-injury-claims-differ-from-private-property-injury-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do public property injury claims differ from private property injury claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Public property injury claims differ significantly from private property claims primarily due to the defendant being a governmental entity. These claims are governed by specific statutes, such as the California Government Claims Act, which impose stringent procedural requirements and shorter filing deadlines—often six months from the date of injury. There are also specific immunities that may protect public entities from liability in certain situations. In contrast, private property claims generally follow standard personal injury laws with longer statutes of limitations. An attorney experienced in public entity claims understands these unique challenges and timelines.",
+        "description": "Public property injury claims involve government entities, have shorter filing deadlines (often six months), and are governed by specific laws like the California Government Claims Act, unlike private property claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

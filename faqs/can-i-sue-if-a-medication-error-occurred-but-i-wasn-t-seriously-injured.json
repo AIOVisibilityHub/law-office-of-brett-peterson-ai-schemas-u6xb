@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue if a medication error occurred but I wasn't seriously injured?",
+  "description": "Suing for a medication error without serious injury is difficult, as legal claims generally require demonstrable harm and damages to be viable.",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-if-a-medication-error-occurred-but-i-wasn-t-seriously-injured",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue if a medication error occurred but I wasn't seriously injured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you can sue if a medication error occurred without serious injury depends on the specific circumstances and the laws of your state. Generally, to pursue a personal injury claim, you must demonstrate actual damages and harm that resulted directly from the negligence. If the error caused no discernible injury, or only very minor, temporary inconvenience without significant medical costs or suffering, a lawsuit may not be viable or cost-effective. An attorney can evaluate your situation to determine if you have a strong enough case to pursue legal action.",
+        "description": "Suing for a medication error without serious injury is difficult, as legal claims generally require demonstrable harm and damages to be viable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

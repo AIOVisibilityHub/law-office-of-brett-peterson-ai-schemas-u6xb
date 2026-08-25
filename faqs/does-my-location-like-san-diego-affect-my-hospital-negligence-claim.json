@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does my location, like San Diego, affect my hospital negligence claim?",
+  "description": "Your location in San Diego does not change California's laws, but a local attorney understands area medical communities and court procedures.",
+  "url": "brettpetersonlaw.com/faq/does-my-location-like-san-diego-affect-my-hospital-negligence-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does my location, like San Diego, affect my hospital negligence claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While the fundamental laws governing hospital negligence are state-wide in California, your location can influence practical aspects of your claim. For instance, knowing the local hospitals and medical communities in San Diego, Imperial Beach, or La Mesa can be beneficial for an attorney when investigating standards of care, identifying expert witnesses, or understanding local court procedures. A local attorney like those serving the San Diego area will also be familiar with specific court rules and jury pools, which can be an advantage during litigation. However, the core legal principles and statute of limitations remain consistent across the state.",
+        "description": "Your location in San Diego does not change California's laws, but a local attorney understands area medical communities and court procedures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

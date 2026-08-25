@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a car accident lawsuit in California?",
+  "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit for a car accident, though exceptions exist.",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-car-accident-lawsuit-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a car accident lawsuit in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for personal injury claims, including those arising from car accidents, is generally two years from the date of the accident. This means you typically have two years to file a lawsuit in court. However, there are exceptions that can shorten or extend this period, such as claims against a government entity. It's crucial not to delay seeking legal advice, as gathering evidence and building a strong case takes time. Missing the deadline can result in losing your right to pursue compensation.",
+        "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit for a car accident, though exceptions exist."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

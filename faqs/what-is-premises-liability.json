@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is premises liability?",
+  "description": "Premises liability holds property owners responsible for injuries occurring on their property due to unsafe conditions.",
+  "url": "brettpetersonlaw.com/faq/what-is-premises-liability",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is premises liability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premises liability holds property owners or occupiers responsible for injuries that occur on their property due to unsafe conditions. This can include slip and falls, dog bites, inadequate security leading to assault, or swimming pool accidents. For a claim to be successful, it generally needs to be shown that the property owner knew or should have known about the dangerous condition and failed to take reasonable steps to fix it or warn visitors.",
+        "description": "Premises liability holds property owners responsible for injuries occurring on their property due to unsafe conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

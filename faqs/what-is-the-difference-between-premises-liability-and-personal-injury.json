@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between premises liability and personal injury?",
+  "description": "Premises liability is a specific type of personal injury claim focused on injuries occurring due to unsafe conditions on someone else's property.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-premises-liability-and-personal-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between premises liability and personal injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premises liability is a specific type of personal injury claim. Personal injury is a broad legal term covering any injury caused by another's negligence, including car accidents, medical malpractice, and product defects. Premises liability specifically deals with injuries that occur on someone else's property due to unsafe conditions, making it a subset of the larger personal injury category. An attorney specializing in personal injury often handles premises liability cases.",
+        "description": "Premises liability is a specific type of personal injury claim focused on injuries occurring due to unsafe conditions on someone else's property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

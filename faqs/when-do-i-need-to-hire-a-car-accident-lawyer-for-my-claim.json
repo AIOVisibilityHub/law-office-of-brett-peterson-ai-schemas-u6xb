@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to hire a car accident lawyer for my claim?",
+  "description": "You should hire a car accident lawyer when injuries are serious, fault is disputed, or an insurance settlement offer is too low. A lawyer can help secure a fair",
+  "url": "brettpetersonlaw.com/faq/when-do-i-need-to-hire-a-car-accident-lawyer-for-my-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to hire a car accident lawyer for my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a car accident lawyer when your injuries are serious, there is a dispute about who was at fault, or if the insurance company offers a settlement that seems too low. A lawyer can help navigate complex legal procedures, negotiate with insurance companies, and represent your best interests. Even if you think your case is straightforward, a lawyer can often secure a more favorable outcome than you might achieve on your own. It's especially beneficial if you're dealing with medical bills, lost wages, or long-term care needs.",
+        "description": "You should hire a car accident lawyer when injuries are serious, fault is disputed, or an insurance settlement offer is too low. A lawyer can help secure a fair outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

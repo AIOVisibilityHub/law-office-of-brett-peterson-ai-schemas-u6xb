@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a medication error attorney?",
+  "description": "Contact an attorney if you or a loved one suffered harm from a suspected medication error, especially if injuries are significant or require further medical car",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-medication-error-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a medication error attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting a medication error attorney if you or a loved one has suffered harm or adverse effects due to a suspected medication mistake. It's especially important if the injury is significant, requires further medical treatment, or impacts your quality of life. An attorney can help determine if negligence occurred and assess the viability of a claim. Early consultation can preserve evidence and ensure all legal options are explored before critical deadlines pass.",
+        "description": "Contact an attorney if you or a loved one suffered harm from a suspected medication error, especially if injuries are significant or require further medical care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

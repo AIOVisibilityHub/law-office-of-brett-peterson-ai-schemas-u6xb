@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is needed to prove a failure-to-diagnose case?",
+  "description": "Evidence usually includes medical records, expert medical testimony, and documentation of your damages.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-to-prove-a-failure-to-diagnose-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is needed to prove a failure-to-diagnose case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving a failure-to-diagnose case requires significant evidence. This typically includes all relevant medical records, such as doctor's notes, test results, imaging scans, and prescriptions. Expert medical witness testimony is crucial to establish the standard of care, demonstrate that the doctor deviated from it, and confirm that this deviation caused your injury. Documentation of your damages, like medical bills and lost wages, is also important.",
+        "description": "Evidence usually includes medical records, expert medical testimony, and documentation of your damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a property injury lawyer after an accident?",
+  "description": "Contact a property injury lawyer as soon as possible after an accident to preserve evidence and protect your legal rights.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-property-injury-lawyer-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a property injury lawyer after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a property injury lawyer as soon as possible after an accident on someone else's property. Critical evidence, such as surveillance footage or witness testimonies, can be lost over time. Early engagement allows the attorney to investigate the incident thoroughly, preserve evidence, and ensure all legal deadlines are met. Delaying contact could complicate your claim or reduce your chances of a successful outcome, so prompt action is beneficial.",
+        "description": "Contact a property injury lawyer as soon as possible after an accident to preserve evidence and protect your legal rights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

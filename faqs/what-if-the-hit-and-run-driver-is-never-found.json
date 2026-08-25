@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the hit-and-run driver is never found?",
+  "description": "If the hit-and-run driver isn't found, your uninsured motorist (UM) or underinsured motorist (UIM) coverage may cover your damages.",
+  "url": "brettpetersonlaw.com/faq/what-if-the-hit-and-run-driver-is-never-found",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the hit-and-run driver is never found?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the hit-and-run driver is never found, your ability to recover damages typically depends on your own insurance policy. Uninsured Motorist (UM) or Underinsured Motorist (UIM) coverage often applies in these situations, covering medical expenses, lost wages, and other damages up to your policy limits. A skilled attorney can help you navigate this claim with your insurance company to ensure you receive the full benefits you are entitled to under your policy. Without UM/UIM coverage, recovery can be challenging.",
+        "description": "If the hit-and-run driver isn't found, your uninsured motorist (UM) or underinsured motorist (UIM) coverage may cover your damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a traffic collision attorney?",
+  "description": "You should hire a traffic collision attorney as soon as possible after an accident, especially if you have injuries, to protect your rights and gather evidence.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-traffic-collision-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a traffic collision attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to consult with a traffic collision attorney as soon as possible after an accident, especially if you've sustained injuries, even minor ones. Early involvement allows the attorney to gather crucial evidence, interview witnesses while memories are fresh, and navigate communications with insurance companies on your behalf. This helps protect your rights and ensures all damages are properly documented and pursued, preventing potential missteps that could harm your claim later on.",
+        "description": "You should hire a traffic collision attorney as soon as possible after an accident, especially if you have injuries, to protect your rights and gather evidence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

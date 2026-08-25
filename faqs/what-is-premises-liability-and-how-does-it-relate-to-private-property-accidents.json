@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is premises liability and how does it relate to private property accidents?",
+  "description": "Premises liability is the legal principle holding property owners responsible for injuries due to unsafe conditions, forming the basis of most private property",
+  "url": "brettpetersonlaw.com/faq/what-is-premises-liability-and-how-does-it-relate-to-private-property-accidents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is premises liability and how does it relate to private property accidents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premises liability is the legal principle that holds property owners and occupiers responsible for injuries that occur on their property due to unsafe conditions. It is the legal foundation for most private property accident claims. For a premises liability claim to be successful, you generally need to prove that the property owner knew or should have known about a dangerous condition, failed to fix it or warn about it, and this failure directly caused your injury. This area of law dictates the duties property owners owe to visitors.",
+        "description": "Premises liability is the legal principle holding property owners responsible for injuries due to unsafe conditions, forming the basis of most private property accident claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

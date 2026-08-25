@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a property injury lawyer?",
+  "description": "A property injury lawyer specializes in cases where someone is injured on another's property due to unsafe conditions, helping them seek compensation.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-property-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a property injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A property injury lawyer, often called a premises liability attorney, specializes in cases where someone is injured on another's property due to unsafe conditions. This can include slip and falls, dog bites, inadequate security, or hazards like broken stairs. Their role is to help the injured person seek compensation for medical bills, lost wages, pain and suffering, and other damages from the property owner or responsible party. They navigate legal complexities to prove negligence and establish liability.",
+        "description": "A property injury lawyer specializes in cases where someone is injured on another's property due to unsafe conditions, helping them seek compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

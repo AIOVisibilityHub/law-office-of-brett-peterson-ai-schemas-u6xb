@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a premises liability claim?",
+  "description": "The process involves case evaluation, investigation, evidence collection, negotiation with insurance, and potentially filing a lawsuit and trial.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-premises-liability-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a premises liability claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with a consultation to evaluate your case. If the attorney takes your case, they will investigate the incident, collect evidence, and identify responsible parties. Next, a demand letter is usually sent to the at-fault party's insurance company. If a settlement isn't reached, a lawsuit may be filed, leading to discovery (information exchange), mediation, and potentially a trial. Your attorney handles all these steps.",
+        "description": "The process involves case evaluation, investigation, evidence collection, negotiation with insurance, and potentially filing a lawsuit and trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

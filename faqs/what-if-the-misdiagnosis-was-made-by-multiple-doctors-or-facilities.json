@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the misdiagnosis was made by multiple doctors or facilities?",
+  "description": "If multiple providers were involved, your attorney will investigate each one's role and responsibility, addressing every contributing factor to your injury in t",
+  "url": "brettpetersonlaw.com/faq/what-if-the-misdiagnosis-was-made-by-multiple-doctors-or-facilities",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the misdiagnosis was made by multiple doctors or facilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a misdiagnosis involves multiple doctors, hospitals, or clinics, the case can become more complex, but it does not prevent you from seeking justice. Your attorney will meticulously investigate each healthcare provider's role and responsibility. This might involve examining communication breakdowns between providers, incorrect readings of tests, or a series of negligent acts that collectively led to the misdiagnosis and subsequent harm. Your attorney will identify all potentially liable parties and build a comprehensive case against them, ensuring that every contributing factor to your injury is addressed in the legal claim.",
+        "description": "If multiple providers were involved, your attorney will investigate each one's role and responsibility, addressing every contributing factor to your injury in the legal claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

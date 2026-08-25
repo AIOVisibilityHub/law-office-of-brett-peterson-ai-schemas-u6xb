@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between uninsured and underinsured motorist coverage?",
+  "description": "UM covers accidents with drivers who have no insurance, while UIM covers accidents where the at-fault driver's insurance is not enough to pay for your damages.",
+  "url": "brettpetersonlaw.com/faq/what-s-the-difference-between-uninsured-and-underinsured-motorist-coverage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between uninsured and underinsured motorist coverage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uninsured motorist (UM) coverage protects you if the at-fault driver has no liability insurance. Underinsured motorist (UIM) coverage, on the other hand, kicks in when the at-fault driver has some insurance, but their policy limits are insufficient to cover the full extent of your damages. Both types of coverage are designed to protect you, the policyholder, from financial hardship when the other party lacks adequate insurance to compensate you for your injuries and losses.",
+        "description": "UM covers accidents with drivers who have no insurance, while UIM covers accidents where the at-fault driver's insurance is not enough to pay for your damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

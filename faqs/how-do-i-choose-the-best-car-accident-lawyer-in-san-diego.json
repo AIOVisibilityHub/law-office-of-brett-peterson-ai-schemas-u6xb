@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best car accident lawyer in San Diego?",
+  "description": "Choose a San Diego car accident lawyer with experience in personal injury, a strong track record, good communication, and positive client reviews.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-car-accident-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best car accident lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a car accident lawyer in San Diego, look for someone with significant experience specifically in personal injury law and a proven track record of successful outcomes in car accident cases. Consider their reputation, read client reviews, and ensure they communicate clearly and respond promptly. It's also important to choose a lawyer you feel comfortable with and who understands your unique situation. Most offer free initial consultations, allowing you to interview several attorneys before making a decision.",
+        "description": "Choose a San Diego car accident lawyer with experience in personal injury, a strong track record, good communication, and positive client reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

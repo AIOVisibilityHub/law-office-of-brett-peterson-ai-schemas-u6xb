@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a time limit for filing a medical negligence claim in California?",
+  "description": "In California, you generally have one year from discovery or three years from the injury date to file a medical negligence claim, with some exceptions.",
+  "url": "brettpetersonlaw.com/faq/is-there-a-time-limit-for-filing-a-medical-negligence-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a time limit for filing a medical negligence claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in California, there are strict time limits, known as statutes of limitations, for filing medical negligence claims. Generally, you must file a lawsuit within one year from the date you discover, or through reasonable diligence should have discovered, the injury, or within three years from the date of the injury, whichever occurs first. There are some exceptions, such as for minors, but missing these deadlines can permanently bar your claim. It is critical to consult with an attorney promptly.",
+        "description": "In California, you generally have one year from discovery or three years from the injury date to file a medical negligence claim, with some exceptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after an accident with an uninsured driver?",
+  "description": "Immediately after an accident, ensure safety, collect information, take photos, report to your insurer, and contact an uninsured motorist accident lawyer.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-an-accident-with-an-uninsured-driver",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after an accident with an uninsured driver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After ensuring your safety and calling 911 if necessary, collect as much information as possible: the other driver's contact details, license plate, and any witnesses. Take photos of the scene, vehicles, and injuries. Report the accident to your own insurance company as soon as possible, even if you don't think you're hurt. Avoid discussing fault or signing anything without legal advice. Contact an uninsured motorist accident lawyer promptly to protect your rights.",
+        "description": "Immediately after an accident, ensure safety, collect information, take photos, report to your insurer, and contact an uninsured motorist accident lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

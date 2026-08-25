@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important for a trip and fall claim?",
+  "description": "Key evidence includes photos of the hazard, medical records, witness statements, incident reports, and documentation of all damages sustained.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-trip-and-fall-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important for a trip and fall claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence for a trip and fall claim includes photographs or videos of the hazardous condition that caused your fall, taken as soon as possible after the incident. Medical records detailing your injuries and treatment are also essential. Witness statements, incident reports from the property owner, and surveillance footage (if available) can further strengthen your case. Documentation of lost wages, pain and suffering, and other damages also plays a vital role in demonstrating the impact of your injury.",
+        "description": "Key evidence includes photos of the hazard, medical records, witness statements, incident reports, and documentation of all damages sustained."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

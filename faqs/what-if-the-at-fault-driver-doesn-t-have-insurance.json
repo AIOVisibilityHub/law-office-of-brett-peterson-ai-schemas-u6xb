@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the at-fault driver doesn't have insurance?",
+  "description": "If the at-fault driver is uninsured, you may rely on your own uninsured motorist coverage or pursue a lawsuit against them.",
+  "url": "brettpetersonlaw.com/faq/what-if-the-at-fault-driver-doesn-t-have-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the at-fault driver doesn't have insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the at-fault driver doesn't have insurance, your options for recovery can become more complex. You may need to rely on your own uninsured motorist (UM) coverage, if you have it. UM coverage is designed to protect you in situations where the at-fault driver is uninsured or underinsured. If you don't have UM coverage, you might need to pursue a personal lawsuit directly against the at-fault driver, though collecting damages from an uninsured individual can be challenging. A lawyer can help explore all available avenues for compensation.",
+        "description": "If the at-fault driver is uninsured, you may rely on your own uninsured motorist coverage or pursue a lawsuit against them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

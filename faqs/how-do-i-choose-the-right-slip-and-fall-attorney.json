@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right slip and fall attorney?",
+  "description": "Choose an attorney with experience in premises liability, a strong track record, good communication, and whom you trust after a consultation.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-slip-and-fall-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right slip and fall attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a slip and fall attorney, look for someone with specific experience in personal injury law, particularly in premises liability cases. Consider their track record, client testimonials, and their approach to communication. A good attorney will explain the legal process clearly, assess the merits of your case honestly, and aggressively advocate for your best interests. Schedule consultations with a few attorneys to find one you trust and feel comfortable working with.",
+        "description": "Choose an attorney with experience in premises liability, a strong track record, good communication, and whom you trust after a consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

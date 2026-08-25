@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a slip and fall lawyer cost in San Diego?",
+  "description": "Most San Diego slip and fall lawyers work on a contingency fee, meaning you pay no upfront costs and fees are a percentage of your award.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-slip-and-fall-lawyer-cost-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a slip and fall lawyer cost in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most slip and fall lawyers in San Diego, including our firm, work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. The attorney's fees are a percentage of the final settlement or court award you receive. If your case is unsuccessful, you typically owe no attorney fees. This arrangement ensures that legal representation is accessible to everyone, regardless of their current financial situation.",
+        "description": "Most San Diego slip and fall lawyers work on a contingency fee, meaning you pay no upfront costs and fees are a percentage of your award."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is medical malpractice in San Diego?",
+  "description": "Medical malpractice is when a healthcare professional's negligence causes patient injury due to a deviation from the accepted standard of care.",
+  "url": "brettpetersonlaw.com/faq/what-is-medical-malpractice-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is medical malpractice in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical malpractice occurs when a healthcare professional's negligence or omission causes injury or death to a patient. This can include errors in diagnosis, treatment, medication, or aftercare. To prove medical malpractice in San Diego, it must be shown that the healthcare provider deviated from the accepted standard of care, and this deviation directly led to your injury. Not all negative outcomes from medical care constitute malpractice; it requires a demonstrable failure to meet professional standards.",
+        "description": "Medical malpractice is when a healthcare professional's negligence causes patient injury due to a deviation from the accepted standard of care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I receive in a medical negligence case?",
+  "description": "Compensation covers economic damages like medical expenses and lost wages, and non-economic damages such as pain and suffering. The amount depends on case speci",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-receive-in-a-medical-negligence-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I receive in a medical negligence case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation in a medical negligence case is intended to cover losses resulting from the injury. This can include economic damages such as medical expenses (past and future), lost wages or earning capacity, and costs for rehabilitation or long-term care. Non-economic damages may also be awarded for pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. The specific types and amounts of compensation depend on the unique circumstances and impact of the negligence on the victim's life.",
+        "description": "Compensation covers economic damages like medical expenses and lost wages, and non-economic damages such as pain and suffering. The amount depends on case specifics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

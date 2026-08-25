@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose a local San Diego misdiagnosis attorney?",
+  "description": "A local San Diego misdiagnosis attorney understands California's laws, local court procedures, and has connections with regional medical experts. This local ins",
+  "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-local-san-diego-misdiagnosis-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose a local San Diego misdiagnosis attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a local San Diego misdiagnosis attorney, like those at the Law Office of Brett Peterson, offers distinct advantages. They possess an in-depth understanding of California's specific medical malpractice laws, including local court procedures and judicial preferences within San Diego County. A local attorney often has established relationships with local medical experts and a familiarity with regional healthcare systems, which can be crucial for gathering evidence and building a strong case. This local insight can significantly streamline the legal process and provide a more personalized, accessible experience for clients living in areas like San Diego, Imperial Beach, or La Mesa.",
+        "description": "A local San Diego misdiagnosis attorney understands California's laws, local court procedures, and has connections with regional medical experts. This local insight can benefit your case significantly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

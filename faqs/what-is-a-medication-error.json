@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a medication error?",
+  "description": "A medication error is a preventable mistake in medication use that can lead to patient harm, occurring during prescribing, dispensing, or administration.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-medication-error",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a medication error?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A medication error occurs when a patient receives the wrong medication, the incorrect dosage, or when proper administration procedures are not followed, leading to potential harm. This can happen at various stages, from prescription and dispensing to administration by healthcare professionals. Common examples include a doctor prescribing a drug a patient is allergic to, a pharmacist filling a prescription with the wrong medicine, or a nurse giving an incorrect dose. Such errors can result in serious health complications, prolonged recovery, or even death.",
+        "description": "A medication error is a preventable mistake in medication use that can lead to patient harm, occurring during prescribing, dispensing, or administration."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

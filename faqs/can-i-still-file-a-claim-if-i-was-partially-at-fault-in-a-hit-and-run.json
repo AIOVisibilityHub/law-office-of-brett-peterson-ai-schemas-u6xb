@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was partially at fault in a hit-and-run?",
+  "description": "Yes, under California's comparative negligence, you can still file a claim, but your compensation may be reduced by your percentage of fault.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-in-a-hit-and-run",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was partially at fault in a hit-and-run?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California operates under a pure comparative negligence system. This means that if you are found to be partially at fault for an accident, your compensation will be reduced by your percentage of fault. Even if you bear some responsibility, the fleeing driver committed a serious crime by leaving the scene. An attorney can help argue your case, establish the other driver's liability for fleeing, and work to minimize your attributed fault to maximize your potential compensation.",
+        "description": "Yes, under California's comparative negligence, you can still file a claim, but your compensation may be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

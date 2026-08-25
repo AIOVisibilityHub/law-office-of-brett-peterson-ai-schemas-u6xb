@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is medical negligence?",
+  "description": "Medical negligence is when a healthcare professional's deviation from the standard of care causes patient injury. It involves proving a breach of duty of care,",
+  "url": "brettpetersonlaw.com/faq/what-is-medical-negligence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is medical negligence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical negligence, also known as medical malpractice, occurs when a healthcare professional deviates from the accepted standard of care, resulting in injury or harm to a patient. This can include errors in diagnosis, treatment, medication, surgery, or aftercare. To prove medical negligence, it must be shown that a duty of care was owed, that duty was breached, the breach caused injury, and damages resulted from the injury. A medical negligence lawyer helps patients understand if their experience meets the criteria for a claim and guides them through the legal process to seek compensation.",
+        "description": "Medical negligence is when a healthcare professional's deviation from the standard of care causes patient injury. It involves proving a breach of duty of care, causation, and damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

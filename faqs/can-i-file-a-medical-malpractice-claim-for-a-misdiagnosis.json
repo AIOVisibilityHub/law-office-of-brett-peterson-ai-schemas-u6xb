@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file a medical malpractice claim for a misdiagnosis?",
+  "description": "Yes, misdiagnosis causing injury can be grounds for a claim. You must show a competent professional would have diagnosed it correctly and the error caused harm.",
+  "url": "brettpetersonlaw.com/faq/can-i-file-a-medical-malpractice-claim-for-a-misdiagnosis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file a medical malpractice claim for a misdiagnosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a misdiagnosis or delayed diagnosis can be grounds for a medical malpractice claim if it leads to patient injury. To pursue such a claim, you generally need to demonstrate that a competent medical professional would have accurately diagnosed your condition under similar circumstances, that the misdiagnosis led to inappropriate or delayed treatment, and that this failure caused you harm. This often requires expert medical testimony to establish the standard of care and how it was breached. An attorney can help evaluate the merits of your specific misdiagnosis case.",
+        "description": "Yes, misdiagnosis causing injury can be grounds for a claim. You must show a competent professional would have diagnosed it correctly and the error caused harm."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

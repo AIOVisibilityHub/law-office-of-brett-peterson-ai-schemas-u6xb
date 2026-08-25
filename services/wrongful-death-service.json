@@ -1,0 +1,33 @@
+{
+  "url": "brettpetersonlaw.com",
+  "name": "Wrongful Death Legal Help",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Diego"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "LegalService",
+    "telephone": "619.702.8412"
+  },
+  "telephone": "619.702.8412",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "CA",
+      "@type": "City"
+    }
+  ],
+  "description": "If you are facing a Wrongful Death issue in San Diego, San Diego, CA, Law Office of Brett Peterson can explain how the process works related to Personal Injury, what to expect at each stage, and the options that may apply to your circumstances.",
+  "serviceType": "Personal Injury — Wrongful Death"
+}

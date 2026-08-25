@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an uninsured motorist accident lawyer?",
+  "description": "An uninsured motorist accident lawyer helps people injured by drivers without insurance to recover compensation from their own insurance policy.",
+  "url": "brettpetersonlaw.com/faq/what-is-an-uninsured-motorist-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an uninsured motorist accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An uninsured motorist accident lawyer helps individuals who have been injured in a car accident by a driver without car insurance or with insufficient insurance coverage. These lawyers navigate the complexities of filing a claim against your own insurance policy's uninsured/underinsured motorist (UM/UIM) coverage, or pursuing other avenues for compensation. They ensure your rights are protected and work to maximize your recovery for medical expenses, lost wages, and pain and suffering.",
+        "description": "An uninsured motorist accident lawyer helps people injured by drivers without insurance to recover compensation from their own insurance policy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

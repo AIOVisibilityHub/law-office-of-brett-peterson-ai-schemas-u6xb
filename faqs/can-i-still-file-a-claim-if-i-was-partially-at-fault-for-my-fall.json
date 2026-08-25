@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was partially at fault for my fall?",
+  "description": "Yes, in California's comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced proportionally.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-my-fall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was partially at fault for my fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, you can generally still file a claim even if you were partially at fault for your fall due to the state's comparative negligence laws. This means that your compensation may be reduced by the percentage of fault attributed to you. For example, if you are found 20% responsible, your award would be reduced by 20%. An experienced attorney can help determine the extent of fault and protect your right to recover damages.",
+        "description": "Yes, in California's comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced proportionally."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

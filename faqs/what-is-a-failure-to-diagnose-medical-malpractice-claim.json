@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a failure-to-diagnose medical malpractice claim?",
+  "description": "A failure-to-diagnose claim involves harm caused by a healthcare professional's negligent delay or error in diagnosis.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-failure-to-diagnose-medical-malpractice-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a failure-to-diagnose medical malpractice claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A failure-to-diagnose medical malpractice claim arises when a healthcare professional's negligence leads to a delayed or incorrect diagnosis, causing harm to the patient. This can occur if a doctor fails to order appropriate tests, misinterprets test results, overlooks obvious symptoms, or does not refer the patient to a specialist when necessary. The key is proving that another competent medical professional, acting under similar circumstances, would have made the correct diagnosis in a timely manner.",
+        "description": "A failure-to-diagnose claim involves harm caused by a healthcare professional's negligent delay or error in diagnosis."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

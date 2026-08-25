@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was partially at fault in a rear-end collision?",
+  "description": "In California, your compensation in a rear-end collision is reduced by your percentage of fault under pure comparative negligence. You may still be able to reco",
+  "url": "brettpetersonlaw.com/faq/what-if-i-was-partially-at-fault-in-a-rear-end-collision",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was partially at fault in a rear-end collision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California follows a pure comparative negligence rule. This means that if you are found partially at fault for a rear-end collision, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your damages award will be reduced by 20%. Even if you believe you were partially at fault, you may still be entitled to recover compensation. A lawyer can assess your case and help protect your right to fair compensation.",
+        "description": "In California, your compensation in a rear-end collision is reduced by your percentage of fault under pure comparative negligence. You may still be able to recover damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

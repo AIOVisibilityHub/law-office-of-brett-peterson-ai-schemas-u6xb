@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a rear-end collision case take to resolve?",
+  "description": "Case duration varies by injury severity, insurance cooperation, and need for a lawsuit. Minor cases might resolve in months, while complex ones can take over a",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-rear-end-collision-case-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a rear-end collision case take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a rear-end collision case varies greatly depending on factors such as the complexity of the injuries, the willingness of insurance companies to settle, and whether a lawsuit becomes necessary. Minor cases with clear liability and minimal injuries might resolve in a few months. More complex cases involving severe injuries or disputes over fault can take a year or more. An attorney can provide a more accurate timeline after reviewing the specifics of your situation.",
+        "description": "Case duration varies by injury severity, insurance cooperation, and need for a lawsuit. Minor cases might resolve in months, while complex ones can take over a year."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

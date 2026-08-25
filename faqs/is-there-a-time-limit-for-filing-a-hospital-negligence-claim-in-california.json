@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is there a time limit for filing a hospital negligence claim in California?",
+  "description": "In California, you generally have one year from discovery of injury or three years from the injury date, whichever is first, to file.",
+  "url": "brettpetersonlaw.com/faq/is-there-a-time-limit-for-filing-a-hospital-negligence-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there a time limit for filing a hospital negligence claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there is a strict time limit, known as the statute of limitations, for filing hospital negligence claims in California. Generally, you have one year from the date you discover, or reasonably should have discovered, the injury, or three years from the date of the injury itself, whichever occurs first. There are limited exceptions to this rule, particularly for minors. Missing this deadline can result in losing your right to file a lawsuit entirely. Because these deadlines are complex and critical, it is vital to contact an attorney as soon as possible after you suspect hospital negligence.",
+        "description": "In California, you generally have one year from discovery of injury or three years from the injury date, whichever is first, to file."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

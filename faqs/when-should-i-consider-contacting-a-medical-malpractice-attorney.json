@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider contacting a medical malpractice attorney?",
+  "description": "Contact an attorney if you suspect a significant injury resulted from medical error or negligence. Time limits for filing claims exist, so early consultation is",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consider-contacting-a-medical-malpractice-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider contacting a medical malpractice attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting an attorney if you suspect an injury or adverse outcome was caused by a medical error or negligence, rather than a known complication or pre-existing condition. This is especially true if the injury resulted in significant harm, prolonged recovery, additional medical expenses, or lost income. It's often beneficial to seek legal advice sooner rather than later, as there are time limits (statutes of limitations) for filing medical malpractice claims, which vary by state. An attorney can help determine if you have a valid case.",
+        "description": "Contact an attorney if you suspect a significant injury resulted from medical error or negligence. Time limits for filing claims exist, so early consultation is advised."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

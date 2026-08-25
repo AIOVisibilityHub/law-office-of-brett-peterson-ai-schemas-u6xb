@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue a hospital for medical malpractice?",
+  "description": "Yes, you can sue a hospital for negligence by its employees or for corporate negligence, though doctor liability can vary based on their employment status.",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-a-hospital-for-medical-malpractice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue a hospital for medical malpractice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is possible to sue a hospital for medical malpractice. Hospitals can be held liable for the negligence of their employees, such as nurses or residents, or for corporate negligence, like failing to properly credential a doctor or maintain safe premises. However, many doctors who practice in hospitals are independent contractors, which can complicate liability. A skilled medical malpractice attorney can investigate the facts to determine who is responsible for the negligence.",
+        "description": "Yes, you can sue a hospital for negligence by its employees or for corporate negligence, though doctor liability can vary based on their employment status."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

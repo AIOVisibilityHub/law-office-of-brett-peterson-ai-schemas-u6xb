@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of damages can I recover in an uninsured motorist claim?",
+  "description": "You can recover damages for medical expenses, lost wages, pain and suffering, and property damage, depending on your policy and injury severity.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-recover-in-an-uninsured-motorist-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of damages can I recover in an uninsured motorist claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In an uninsured motorist claim, you can typically seek compensation for various damages resulting from your injuries. This includes medical expenses (past and future), lost wages or earning capacity, pain and suffering, and property damage to your vehicle. The specific types and amounts of damages recoverable depend on your insurance policy's terms and the severity of your injuries and losses. Your lawyer will help identify all potential damages.",
+        "description": "You can recover damages for medical expenses, lost wages, pain and suffering, and property damage, depending on your policy and injury severity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

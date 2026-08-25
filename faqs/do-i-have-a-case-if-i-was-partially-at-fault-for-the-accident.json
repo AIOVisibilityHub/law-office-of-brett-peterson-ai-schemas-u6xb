@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have a case if I was partially at fault for the accident?",
+  "description": "Yes, in California, you may still have a case even if partially at fault, though your compensation may be reduced by your percentage of fault under comparative",
+  "url": "brettpetersonlaw.com/faq/do-i-have-a-case-if-i-was-partially-at-fault-for-the-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have a case if I was partially at fault for the accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, you may still have a case even if you were partially at fault for an accident on private property. California follows a system of pure comparative negligence. This means that your compensation may be reduced by your percentage of fault. For example, if you are found to be 20% at fault for an accident, your total damages awarded would be reduced by 20%. An attorney can help evaluate the circumstances of your accident and determine the potential impact of comparative negligence on your claim.",
+        "description": "Yes, in California, you may still have a case even if partially at fault, though your compensation may be reduced by your percentage of fault under comparative negligence laws."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

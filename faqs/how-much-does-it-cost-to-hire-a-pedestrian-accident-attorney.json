@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a pedestrian accident attorney?",
+  "description": "Most pedestrian accident attorneys work on a contingency fee basis, meaning you pay no upfront fees and the attorney's payment is a percentage of your settlemen",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-pedestrian-accident-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a pedestrian accident attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most pedestrian accident attorneys, including our firm, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the final settlement or court award you receive. If your case is not successful, you generally don't owe any attorney fees. This arrangement allows individuals who might not have immediate funds to still access legal representation. We cover litigation costs and are reimbursed from the settlement, ensuring you can pursue justice without financial burden.",
+        "description": "Most pedestrian accident attorneys work on a contingency fee basis, meaning you pay no upfront fees and the attorney's payment is a percentage of your settlement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

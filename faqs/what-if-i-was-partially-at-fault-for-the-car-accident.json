@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if I was partially at fault for the car accident?",
+  "description": "In California, if partially at fault, you can still recover compensation, but it will be reduced by your percentage of fault under pure comparative negligence.",
+  "url": "brettpetersonlaw.com/faq/what-if-i-was-partially-at-fault-for-the-car-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I was partially at fault for the car accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you were partially at fault for a car accident in California, you might still be able to recover compensation due to the state's pure comparative negligence rule. This rule means your compensation would be reduced by your percentage of fault. For example, if you are found 20% at fault, your damages would be reduced by 20%. An auto accident lawyer can help assess your level of fault, protect your rights, and work to minimize your attributed responsibility, maximizing your potential recovery.",
+        "description": "In California, if partially at fault, you can still recover compensation, but it will be reduced by your percentage of fault under pure comparative negligence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

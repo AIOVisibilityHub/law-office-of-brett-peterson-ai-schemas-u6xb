@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process of filing a car accident claim?",
+  "description": "The process involves reporting the accident, gathering evidence, negotiating with insurers, and potentially filing a lawsuit if a settlement isn't reached.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-car-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process of filing a car accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with reporting the accident to your insurance company and seeking medical attention. Next, you'll gather evidence like police reports, medical records, and witness statements. Your lawyer will then send a demand letter to the at-fault driver's insurance company. This usually leads to settlement negotiations. If a fair settlement cannot be reached, a lawsuit may be filed, moving into the discovery phase where information is exchanged. Most cases settle before trial, but some proceed to court for a jury verdict.",
+        "description": "The process involves reporting the accident, gathering evidence, negotiating with insurers, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

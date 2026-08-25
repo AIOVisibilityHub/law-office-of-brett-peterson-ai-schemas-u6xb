@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a car accident attorney if the other driver's insurance company has already offered a settlement?",
+  "description": "Yes, consult an attorney even with an offer; insurance companies may offer less than your claim is worth, and an attorney can negotiate for fair compensation.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-car-accident-attorney-if-the-other-driver-s-insurance-company-has-al",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a car accident attorney if the other driver's insurance company has already offered a settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is highly recommended to consult with an attorney even if a settlement offer has been made. Insurance companies often offer a lower amount initially, which may not fully cover your long-term medical expenses, lost wages, or pain and suffering. An attorney can evaluate the offer's fairness, negotiate on your behalf, and ensure you receive appropriate compensation.",
+        "description": "Yes, consult an attorney even with an offer; insurance companies may offer less than your claim is worth, and an attorney can negotiate for fair compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

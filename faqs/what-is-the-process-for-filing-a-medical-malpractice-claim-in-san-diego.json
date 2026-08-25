@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a medical malpractice claim in San Diego?",
+  "description": "The process involves an initial consultation, gathering evidence, consulting experts, filing a complaint, and potentially negotiating a settlement or going to t",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-medical-malpractice-claim-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a medical malpractice claim in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an initial consultation where an attorney reviews your medical records and the details of your injury. If the case has merit, the attorney will gather more evidence, consult with medical experts, and prepare a formal complaint. In California, there are specific procedural requirements, including providing notice to the healthcare provider. Many cases are resolved through negotiation or mediation, but some may proceed to trial. Your attorney manages these steps on your behalf.",
+        "description": "The process involves an initial consultation, gathering evidence, consulting experts, filing a complaint, and potentially negotiating a settlement or going to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

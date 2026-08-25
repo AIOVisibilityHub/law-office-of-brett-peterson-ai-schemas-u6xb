@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to settle a motor vehicle accident case?",
+  "description": "Case duration varies widely, from a few months to several years, depending on injury severity, liability, and negotiation complexity.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-settle-a-motor-vehicle-accident-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to settle a motor vehicle accident case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a motor vehicle accident case varies greatly depending on its complexity. Factors such as the severity of injuries, the clarity of liability, the number of parties involved, and the willingness of insurance companies to negotiate all play a role. Some cases settle in a few months, while more complex cases, especially those requiring litigation, can take one to several years to resolve.",
+        "description": "Case duration varies widely, from a few months to several years, depending on injury severity, liability, and negotiation complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

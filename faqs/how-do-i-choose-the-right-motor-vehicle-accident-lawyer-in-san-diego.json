@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right motor vehicle accident lawyer in San Diego?",
+  "description": "Choose a lawyer with specific personal injury experience, a strong track record, good client communication, and transparent fees. Consult multiple options.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-motor-vehicle-accident-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right motor vehicle accident lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a motor vehicle accident lawyer in San Diego, look for someone with specific experience in personal injury law and a strong track record. Consider their reputation, client testimonials, and their approach to communication. A good lawyer will be transparent about their fees and explain the legal process clearly. Schedule consultations with a few attorneys to find one who fits your needs and makes you feel confident in their representation.",
+        "description": "Choose a lawyer with specific personal injury experience, a strong track record, good client communication, and transparent fees. Consult multiple options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

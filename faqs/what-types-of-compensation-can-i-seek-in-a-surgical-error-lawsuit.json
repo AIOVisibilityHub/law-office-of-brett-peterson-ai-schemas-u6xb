@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I seek in a surgical error lawsuit?",
+  "description": "Compensation in a surgical error lawsuit can cover medical expenses, lost wages, pain and suffering, and other related damages.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-in-a-surgical-error-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I seek in a surgical error lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a successful surgical error lawsuit, you may be able to recover various types of compensation, often referred to as damages. These can include economic damages such as medical expenses (past and future), lost wages, and loss of earning capacity. Non-economic damages may also be sought for pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. In some rare cases, punitive damages might be awarded if the medical professional's conduct was exceptionally reckless. A lawyer will evaluate your specific losses to determine the full scope of potential compensation.",
+        "description": "Compensation in a surgical error lawsuit can cover medical expenses, lost wages, pain and suffering, and other related damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

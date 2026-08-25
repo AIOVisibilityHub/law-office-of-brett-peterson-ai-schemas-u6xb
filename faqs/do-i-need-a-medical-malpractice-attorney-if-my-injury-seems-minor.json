@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a medical malpractice attorney if my injury seems minor?",
+  "description": "Consult an attorney even for minor injuries, as they can worsen or have hidden long-term impacts. An attorney can assess the full scope of damages and advise on",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-medical-malpractice-attorney-if-my-injury-seems-minor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a medical malpractice attorney if my injury seems minor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if an injury initially appears minor, it's wise to consult with a medical malpractice attorney. Sometimes, seemingly minor injuries can develop into more serious conditions or have long-term consequences that aren't immediately apparent. An attorney can help you understand the full scope of potential damages, including future medical costs and lost earning potential. They can also advise you on whether pursuing a claim is worthwhile, considering the time and resources involved, and ensure your rights are protected against any potential statute of limitations.",
+        "description": "Consult an attorney even for minor injuries, as they can worsen or have hidden long-term impacts. An attorney can assess the full scope of damages and advise on pursuing a claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

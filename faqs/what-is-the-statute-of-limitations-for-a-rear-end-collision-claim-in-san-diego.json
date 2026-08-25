@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the statute of limitations for a rear-end collision claim in San Diego?",
+  "description": "In San Diego, the general statute of limitations for rear-end collision personal injury claims is two years from the accident date. Consult an attorney to confi",
+  "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-a-rear-end-collision-claim-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the statute of limitations for a rear-end collision claim in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, including San Diego, the general statute of limitations for personal injury claims arising from a rear-end collision is two years from the date of the accident. This means you typically have two years to file a lawsuit in court. However, there are exceptions that can shorten or extend this period. It is crucial to consult with a personal injury attorney as soon as possible to ensure your claim is filed within the appropriate timeframe and to avoid missing deadlines.",
+        "description": "In San Diego, the general statute of limitations for rear-end collision personal injury claims is two years from the accident date. Consult an attorney to confirm your specific deadline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

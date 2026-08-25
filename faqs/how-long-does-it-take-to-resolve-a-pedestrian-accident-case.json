@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to resolve a pedestrian accident case?",
+  "description": "Resolution times vary; minor cases can settle in months, while complex ones with serious injuries may take a year or more.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-resolve-a-pedestrian-accident-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to resolve a pedestrian accident case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for resolving a pedestrian accident case varies significantly depending on several factors, such as the complexity of the accident, the severity of injuries, the cooperation of insurance companies, and court schedules if a lawsuit is filed. Minor cases might settle in a few months, while more complex cases involving serious injuries or extensive negotiations can take a year or more. Your attorney will provide a more precise estimate after evaluating your specific situation and keeping you informed throughout the process.",
+        "description": "Resolution times vary; minor cases can settle in months, while complex ones with serious injuries may take a year or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between settling a case and going to trial?",
+  "description": "Settling a case is an out-of-court agreement, faster and less risky; going to trial involves a judge or jury verdict, which is slower, costlier, and less predic",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-settling-a-case-and-going-to-trial",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between settling a case and going to trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Settling a case involves reaching a mutual agreement with the at-fault party or their insurance company outside of court. This typically results in a faster resolution and avoids the uncertainties of a jury verdict. Going to trial means presenting your case before a judge or jury, who then decide the outcome. While a trial can potentially lead to a higher award, it is riskier, more expensive, and significantly more time-consuming. Most car accident cases settle before going to trial.",
+        "description": "Settling a case is an out-of-court agreement, faster and less risky; going to trial involves a judge or jury verdict, which is slower, costlier, and less predictable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

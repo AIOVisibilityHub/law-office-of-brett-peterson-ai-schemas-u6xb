@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between hospital negligence and medical malpractice?",
+  "description": "Medical malpractice is individual provider error; hospital negligence relates to the hospital entity, staff, or system failures.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-hospital-negligence-and-medical-malpractice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between hospital negligence and medical malpractice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, hospital negligence and medical malpractice have distinct differences. Medical malpractice generally refers to negligence committed by a specific healthcare provider, such as a doctor or nurse, in their professional capacity. Hospital negligence, on the other hand, involves the actions or inactions of the hospital entity itself, its administration, or its non-physician staff. This could include issues like inadequate staffing, faulty equipment, unsanitary conditions, errors in hospital procedures, or improper credentialing of physicians. A single incident can sometimes involve both medical malpractice by an individual and negligence by the hospital.",
+        "description": "Medical malpractice is individual provider error; hospital negligence relates to the hospital entity, staff, or system failures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

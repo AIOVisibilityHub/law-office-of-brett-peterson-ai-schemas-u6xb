@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a trip and fall accident?",
+  "description": "Immediately after a fall, seek medical attention, document the scene with photos, gather witness information, and report the incident to the property owner.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-trip-and-fall-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a trip and fall accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Immediately after a trip and fall, prioritize your safety and seek medical attention for any injuries. Document the scene by taking photos or videos of what caused your fall and the surrounding area before anything changes. Get contact information from any witnesses. If possible, report the incident to the property owner or manager and obtain a copy of their accident report. Avoid discussing fault or giving recorded statements to insurance companies without consulting an attorney.",
+        "description": "Immediately after a fall, seek medical attention, document the scene with photos, gather witness information, and report the incident to the property owner."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a lawyer for a missed diagnosis?",
+  "description": "Contact a lawyer for a missed diagnosis as soon as you suspect harm, due to strict legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-lawyer-for-a-missed-diagnosis",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a lawyer for a missed diagnosis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a lawyer as soon as you suspect that a delayed or missed diagnosis has caused you harm. Medical malpractice claims have strict deadlines, known as statutes of limitations, which vary by state. Consulting an attorney early allows them to investigate your case, gather evidence, and determine the viability of a claim before crucial deadlines pass. Prompt action can be vital for preserving your legal rights.",
+        "description": "Contact a lawyer for a missed diagnosis as soon as you suspect harm, due to strict legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

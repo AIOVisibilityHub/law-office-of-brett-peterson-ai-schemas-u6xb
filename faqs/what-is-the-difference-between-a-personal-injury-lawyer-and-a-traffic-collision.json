@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a personal injury lawyer and a traffic collision attorney?",
+  "description": "A traffic collision attorney specializes in vehicle accidents, while a personal injury lawyer has a broader practice. Specializing ensures focused expertise.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-personal-injury-lawyer-and-a-traffic-collision",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a personal injury lawyer and a traffic collision attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A traffic collision attorney is a type of personal injury lawyer who specializes specifically in cases involving vehicle accidents, such as car, truck, motorcycle, or pedestrian collisions. While all traffic collision attorneys are personal injury lawyers, not all personal injury lawyers specialize in traffic accidents. Choosing an attorney with specific expertise in traffic collisions ensures they have in-depth knowledge of relevant laws, accident reconstruction, and typical injuries and damages associated with these types of incidents.",
+        "description": "A traffic collision attorney specializes in vehicle accidents, while a personal injury lawyer has a broader practice. Specializing ensures focused expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

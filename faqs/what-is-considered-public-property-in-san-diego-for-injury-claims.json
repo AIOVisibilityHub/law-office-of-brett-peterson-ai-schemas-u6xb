@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered public property in San Diego for injury claims?",
+  "description": "Public property in San Diego includes areas like city parks, sidewalks, and public buildings maintained by government entities. Injuries on these properties due",
+  "url": "brettpetersonlaw.com/faq/what-is-considered-public-property-in-san-diego-for-injury-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered public property in San Diego for injury claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, public property includes spaces maintained by government entities, such as city parks, sidewalks, public buildings, and state highways. When an injury occurs due to negligence on these properties, it may lead to a public property injury claim. The specific entity responsible for maintenance, whether it's the City of San Diego, the State of California, or another local agency, determines who would be named in a claim. It's crucial to identify the responsible party accurately to ensure the claim is filed against the correct entity.",
+        "description": "Public property in San Diego includes areas like city parks, sidewalks, and public buildings maintained by government entities. Injuries on these properties due to negligence may lead to a claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

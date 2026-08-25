@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a motor vehicle accident lawyer cost?",
+  "description": "Most motor vehicle accident lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-motor-vehicle-accident-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a motor vehicle accident lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most motor vehicle accident lawyers work on a contingency fee basis. This means you do not pay upfront fees, and the attorney's payment is a percentage of the final settlement or court award. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows individuals to pursue their claims without immediate financial burden. Initial consultations are often free.",
+        "description": "Most motor vehicle accident lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement or award, with no upfront fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

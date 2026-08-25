@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is needed to prove medical negligence?",
+  "description": "Proving medical negligence requires medical records, expert witness testimony to establish breach of care and causation, and other documentation of injuries and",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-to-prove-medical-negligence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is needed to prove medical negligence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prove medical negligence, significant evidence is typically required. This includes comprehensive medical records from all relevant healthcare providers, which detail your treatment, diagnosis, and medical history. Expert witness testimony from qualified medical professionals is often critical to establish the standard of care, how it was breached, and that this breach directly caused your injury. Additional evidence can include witness statements, diagnostic images, prescriptions, and any documentation of your injuries and their impact on your life. Your lawyer will help you gather and organize all necessary evidence.",
+        "description": "Proving medical negligence requires medical records, expert witness testimony to establish breach of care and causation, and other documentation of injuries and impact."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

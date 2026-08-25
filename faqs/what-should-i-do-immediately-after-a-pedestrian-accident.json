@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a pedestrian accident?",
+  "description": "Seek medical attention, gather information at the scene, file a police report, and avoid discussing fault until you've spoken with an attorney.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-pedestrian-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a pedestrian accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a pedestrian accident, your immediate safety and well-being are paramount. First, seek medical attention for any injuries, even if they seem minor. Next, if possible, gather information at the scene: exchange contact and insurance details with the driver, take photos of the vehicles, accident scene, and your injuries. If there were witnesses, get their contact information. File a police report as soon as possible. Avoid discussing fault or giving recorded statements to insurance companies until you've consulted with an attorney. This ensures your rights and potential claim are protected from the outset.",
+        "description": "Seek medical attention, gather information at the scene, file a police report, and avoid discussing fault until you've spoken with an attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prove negligence in a property injury claim?",
+  "description": "Proving negligence requires showing the property owner owed a duty of care, breached it, which caused your injury, resulting in damages.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-prove-negligence-in-a-property-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prove negligence in a property injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving negligence in a property injury claim involves demonstrating four key elements: the property owner owed you a duty of care, they breached that duty by failing to maintain a safe property or warn of dangers, this breach directly caused your injury, and you suffered actual damages. Evidence such as accident reports, photos of the hazard, witness statements, medical records, and expert testimony can be crucial in establishing negligence. A lawyer can help gather and present this evidence effectively.",
+        "description": "Proving negligence requires showing the property owner owed a duty of care, breached it, which caused your injury, resulting in damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

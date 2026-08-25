@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an uninsured motorist accident lawyer cost?",
+  "description": "Most uninsured motorist accident lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement, and you pay nothing upfront.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-an-uninsured-motorist-accident-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an uninsured motorist accident lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most uninsured motorist accident lawyers work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation they secure for you. If they don't win your case, you typically don't owe them attorney fees. This arrangement allows individuals to pursue their claims without financial burden, ensuring access to legal representation regardless of their current financial situation.",
+        "description": "Most uninsured motorist accident lawyers work on a contingency fee basis, meaning their fees are a percentage of your settlement, and you pay nothing upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

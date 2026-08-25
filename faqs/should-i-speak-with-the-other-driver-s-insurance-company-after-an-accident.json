@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I speak with the other driver's insurance company after an accident?",
+  "description": "It's best to avoid speaking directly with the other driver's insurance company; let your car accident lawyer handle those communications.",
+  "url": "brettpetersonlaw.com/faq/should-i-speak-with-the-other-driver-s-insurance-company-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I speak with the other driver's insurance company after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is generally advisable to be cautious when speaking with the other driver's insurance company. While you must cooperate with your own insurance provider, anything you say to the other party's insurer could be used against you or interpreted to minimize your claim. It's best to direct all communications through your car accident lawyer. Your lawyer can handle all negotiations and ensure that your rights are protected, preventing you from inadvertently harming your case by providing too much information or making statements that could be misconstrued.",
+        "description": "It's best to avoid speaking directly with the other driver's insurance company; let your car accident lawyer handle those communications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

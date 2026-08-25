@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to pay upfront fees to hire a medication error attorney in Bonita?",
+  "description": "Many medication error attorneys, including those in Bonita, work on a contingency fee basis, meaning you pay no upfront fees; they are paid a percentage of your",
+  "url": "brettpetersonlaw.com/faq/do-i-have-to-pay-upfront-fees-to-hire-a-medication-error-attorney-in-bonita",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to pay upfront fees to hire a medication error attorney in Bonita?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many medication error attorneys, including those serving clients in Bonita, work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the attorney's payment is a percentage of the compensation they secure for you, whether through a settlement or a court award. If they don't win your case, you generally don't owe them attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden. Be sure to discuss fee structures during your initial consultation.",
+        "description": "Many medication error attorneys, including those in Bonita, work on a contingency fee basis, meaning you pay no upfront fees; they are paid a percentage of your award."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

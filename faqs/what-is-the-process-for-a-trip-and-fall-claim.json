@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a trip and fall claim?",
+  "description": "The process involves a consultation, investigation, gathering evidence, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reach",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-a-trip-and-fall-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a trip and fall claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with a free consultation to discuss your incident and injuries. If you decide to proceed, your attorney will investigate the scene, gather evidence like photos, witness statements, and medical records, and identify the responsible parties. They will then notify the at-fault party and their insurance company of your claim. Negotiations for a settlement usually follow. If a fair settlement cannot be reached, a lawsuit may be filed, potentially leading to mediation, arbitration, or a trial.",
+        "description": "The process involves a consultation, investigation, gathering evidence, negotiation with insurance, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

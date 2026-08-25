@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a rear-end collision lawyer help with property damage claims?",
+  "description": "Yes, a rear-end collision lawyer can help with property damage claims, negotiating with insurers for fair repair costs, diminished value, or total loss compensa",
+  "url": "brettpetersonlaw.com/faq/can-a-rear-end-collision-lawyer-help-with-property-damage-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a rear-end collision lawyer help with property damage claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a rear-end collision lawyer can assist with property damage claims in addition to personal injury claims. While property damage often seems straightforward, disputes can arise regarding the extent of damage, repair costs, diminished value of the vehicle, or total loss valuation. An attorney can help negotiate with insurance adjusters, ensure fair appraisal of your vehicle's damage, and help recover costs for rental cars or other related expenses, streamlining the entire claim process for you.",
+        "description": "Yes, a rear-end collision lawyer can help with property damage claims, negotiating with insurers for fair repair costs, diminished value, or total loss compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

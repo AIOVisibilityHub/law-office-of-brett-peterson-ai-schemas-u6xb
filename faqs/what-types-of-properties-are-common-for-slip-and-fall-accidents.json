@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of properties are common for slip and fall accidents?",
+  "description": "Slip and falls commonly occur in supermarkets, retail stores, restaurants, private homes, and public spaces due to unsafe conditions.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-properties-are-common-for-slip-and-fall-accidents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of properties are common for slip and fall accidents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Slip and fall accidents can occur on various types of properties where owners fail to maintain safe conditions. Common locations include supermarkets, retail stores, restaurants, private residences, sidewalks, and public buildings. These incidents often result from hazards such as spilled liquids, broken flooring, inadequate lighting, icy patches, or poorly maintained stairwells. Any property owner, whether commercial or private, has a duty to ensure their premises are reasonably safe for visitors.",
+        "description": "Slip and falls commonly occur in supermarkets, retail stores, restaurants, private homes, and public spaces due to unsafe conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

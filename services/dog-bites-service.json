@@ -1,0 +1,33 @@
+{
+  "url": "brettpetersonlaw.com",
+  "name": "Dog Bites Lawyer",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Diego"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "LegalService",
+    "telephone": "619.702.8412"
+  },
+  "telephone": "619.702.8412",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "CA",
+      "@type": "City"
+    }
+  ],
+  "description": "Law Office of Brett Peterson represents clients dealing with Dog Bites related to Personal Injury in San Diego, San Diego, CA. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
+  "serviceType": "Personal Injury — Dog Bites"
+}

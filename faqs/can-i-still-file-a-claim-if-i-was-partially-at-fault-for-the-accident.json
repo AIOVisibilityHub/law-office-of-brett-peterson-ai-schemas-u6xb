@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was partially at fault for the accident?",
+  "description": "In California, you can typically still claim damages even if partially at fault, but your compensation will be reduced by your percentage of fault.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-the-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was partially at fault for the accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, you can generally still file a claim even if you were partially at fault for an accident due to the state's pure comparative negligence rule. This rule means that your compensation may be reduced by your percentage of fault. For example, if you are found 20% at fault, your recoverable damages would be reduced by 20%. An attorney can help assess your potential claim under this rule.",
+        "description": "In California, you can typically still claim damages even if partially at fault, but your compensation will be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

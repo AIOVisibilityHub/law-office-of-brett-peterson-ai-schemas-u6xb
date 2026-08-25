@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a rear-end collision lawyer cost?",
+  "description": "Rear-end collision lawyers usually work on a contingency fee, meaning you pay a percentage of the settlement only if they win. Initial consultations are often f",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-rear-end-collision-lawyer-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a rear-end collision lawyer cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most rear-end collision lawyers work on a contingency fee basis. This means you typically don't pay any upfront legal fees. Instead, the lawyer's fee is a percentage of the final settlement or court award. If you don't recover compensation, you generally don't owe attorney fees. This arrangement allows individuals to pursue their claims without financial burden. Initial consultations are often free, providing an opportunity to discuss your case and understand potential costs.",
+        "description": "Rear-end collision lawyers usually work on a contingency fee, meaning you pay a percentage of the settlement only if they win. Initial consultations are often free."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a trip and fall attorney?",
+  "description": "A trip and fall attorney specializes in personal injury cases resulting from unsafe property conditions, helping victims seek compensation.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-trip-and-fall-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a trip and fall attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A trip and fall attorney, also known as a slip and fall lawyer, specializes in personal injury cases where individuals are harmed due to unsafe conditions on someone else's property. They help victims seek compensation for medical expenses, lost wages, pain, and suffering. These cases often involve proving negligence on the part of the property owner or manager. An attorney can investigate the incident, gather evidence, negotiate with insurance companies, and represent you in court if necessary to ensure your rights are protected.",
+        "description": "A trip and fall attorney specializes in personal injury cases resulting from unsafe property conditions, helping victims seek compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

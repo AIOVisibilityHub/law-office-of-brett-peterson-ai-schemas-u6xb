@@ -1,0 +1,36 @@
+{
+  "name": "Brett Peterson",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
+  "telephone": "619.702.8412",
+  "areaServed": {
+    "name": "San Diego",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Personal Injury",
+    "Workers' Compensation",
+    "Medical Malpractice",
+    "Civil Litigation",
+    "Car/Vehicle Accidents",
+    "Dog Bites / Animal Attacks",
+    "Wrongful Death",
+    "Premises Liability",
+    "Employment Discrimination",
+    "Brain Injury",
+    "Truck Accident"
+  ],
+  "description": "Brett Peterson is the founder of the Law Office of Brett Peterson, a San Diego personal injury firm focused on providing injured individuals with direct, personalized legal representation. With nearly three decades of experience in personal injury, workers’ compensation, medical malpractice, and civil litigation, he has developed a hands-on approach that sets his practice apart from larger firms.\n\nRather than handing clients off to junior attorneys, case managers, or staff, Brett personally handles every case from the initial consultation through investigation, negotiation, litigation, and resolution. Clients communicate directly with the attorney responsible for their representation, allowing Brett to understand their circumstances, answer their questions, and develop a legal strategy tailored to their needs.\n\nBrett earned his Bachelor of Arts in Quantitative Economics and Decision Science from the University of California, San Diego, in 1995 and his law degree from the University of San Diego School of Law in 1998. After gaining experience with a leading plaintiff-side personal injury firm and two civil defense firms, he founded his own practice in 2008 to advocate for injured individuals and their families.\n\nHis practice includes car and motor vehicle accidents, truck accidents, dog bites and animal attacks, wrongful death, workers’ compensation, premises liability, employment discrimination, brain injuries, and other serious injury claims. Brett is committed to protecting his clients’ rights, maintaining transparent communication, and pursuing fair compensation while providing the personal attention, accessibility, and accountability that clients often do not receive at larger law firms.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #California Bar number\t199183"
+    }
+  ]
+}

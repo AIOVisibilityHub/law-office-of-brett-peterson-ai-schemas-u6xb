@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between medical malpractice and general negligence?",
+  "description": "Medical malpractice is professional negligence by a healthcare provider, breaching the standard of care and causing patient injury. General negligence is a broa",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-medical-malpractice-and-general-negligence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between medical malpractice and general negligence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "General negligence refers to a failure to exercise reasonable care, which results in harm to another. Medical malpractice is a specific type of professional negligence that occurs within the healthcare context. It involves a healthcare professional's breach of the accepted 'standard of care' for their profession, directly causing patient injury. The key distinction is the 'standard of care' which for medical malpractice is determined by what a reasonably prudent medical professional would do under similar circumstances, whereas general negligence relies on what a reasonably prudent person would do.",
+        "description": "Medical malpractice is professional negligence by a healthcare provider, breaching the standard of care and causing patient injury. General negligence is a broader failure to exercise reasonable care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

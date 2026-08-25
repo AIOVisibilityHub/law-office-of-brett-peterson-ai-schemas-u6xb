@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need an uninsured motorist accident lawyer?",
+  "description": "Consider hiring a lawyer if you're hit by an uninsured driver, suffered significant injuries, or your insurance company is not cooperating with your UM/UIM clai",
+  "url": "brettpetersonlaw.com/faq/when-do-i-need-an-uninsured-motorist-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need an uninsured motorist accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring an uninsured motorist accident lawyer if you've been hit by a driver who fled the scene, has no insurance, or whose insurance coverage is insufficient to cover your damages. This is especially true if you've suffered significant injuries, lost wages, or if your own insurance company is delaying or denying your UM/UIM claim. A lawyer can help you understand your policy, negotiate with your insurer, and pursue fair compensation.",
+        "description": "Consider hiring a lawyer if you're hit by an uninsured driver, suffered significant injuries, or your insurance company is not cooperating with your UM/UIM claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

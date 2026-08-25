@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why hire a local failure-to-diagnose lawyer in San Diego?",
+  "description": "A local San Diego lawyer knows the local courts and legal landscape, which can be beneficial for your case.",
+  "url": "brettpetersonlaw.com/faq/why-hire-a-local-failure-to-diagnose-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why hire a local failure-to-diagnose lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a local failure-to-diagnose lawyer in San Diego means they will be familiar with the local court systems, judges, and potentially local medical experts and defense attorneys. This local knowledge can be an advantage in navigating the legal process efficiently. Additionally, a local lawyer is more accessible for meetings and can better understand the specific community context of your case.",
+        "description": "A local San Diego lawyer knows the local courts and legal landscape, which can be beneficial for your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

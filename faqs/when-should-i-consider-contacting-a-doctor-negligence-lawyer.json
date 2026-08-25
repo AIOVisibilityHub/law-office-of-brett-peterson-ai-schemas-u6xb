@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider contacting a doctor negligence lawyer?",
+  "description": "Contact a lawyer if you suspect medical error caused significant harm or injury. They can assess your case and explain options.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consider-contacting-a-doctor-negligence-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider contacting a doctor negligence lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting a doctor negligence lawyer if you believe you or a loved one has suffered harm due to a medical error. This is especially important if you experienced a significant injury, a worsened condition, or a delayed diagnosis that led to adverse outcomes. An attorney can help evaluate the specifics of your case, determine if there are grounds for a claim, and explain the legal process. Early consultation can preserve critical evidence and ensure timely action within legal deadlines.",
+        "description": "Contact a lawyer if you suspect medical error caused significant harm or injury. They can assess your case and explain options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

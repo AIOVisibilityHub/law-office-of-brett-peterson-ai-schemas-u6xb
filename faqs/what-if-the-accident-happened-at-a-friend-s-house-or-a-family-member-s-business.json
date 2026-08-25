@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the accident happened at a friend's house or a family member's business?",
+  "description": "Accidents at a friend's or family member's property typically involve filing a claim against their insurance, not directly against them. A lawyer can help manag",
+  "url": "brettpetersonlaw.com/faq/what-if-the-accident-happened-at-a-friend-s-house-or-a-family-member-s-business",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the accident happened at a friend's house or a family member's business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If an accident occurs at a friend's house or a family member's business, it can be a sensitive situation. However, premises liability claims are typically filed against the property owner's insurance policy, not directly against your friend or family member's personal assets. Their insurance coverage is designed to handle such incidents. Pursuing a claim often involves communicating with the insurance company to cover your medical bills and other damages. A lawyer can navigate these delicate situations, ensuring your rights are protected while minimizing strain on personal relationships.",
+        "description": "Accidents at a friend's or family member's property typically involve filing a claim against their insurance, not directly against them. A lawyer can help manage the process sensitively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

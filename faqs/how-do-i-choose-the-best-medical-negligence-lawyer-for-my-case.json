@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best medical negligence lawyer for my case?",
+  "description": "Choose a lawyer with specific experience in medical malpractice, a proven track record, and a good communication style. Use free consultations to assess fit.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-medical-negligence-lawyer-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best medical negligence lawyer for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the best medical negligence lawyer involves looking for experience specifically in medical malpractice cases, not just general personal injury law. Seek attorneys with a proven track record of successful outcomes and a deep understanding of both legal and medical complexities. Consider their communication style, as you'll be working closely with them. Many firms offer free initial consultations, which is a good opportunity to assess their expertise and ensure they are a good fit for your specific needs.",
+        "description": "Choose a lawyer with specific experience in medical malpractice, a proven track record, and a good communication style. Use free consultations to assess fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

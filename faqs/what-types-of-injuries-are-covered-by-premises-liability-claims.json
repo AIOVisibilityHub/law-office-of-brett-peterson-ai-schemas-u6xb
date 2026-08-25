@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of injuries are covered by premises liability claims?",
+  "description": "Premises liability covers various injuries like broken bones, head injuries, and back injuries resulting from dangerous property conditions.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-injuries-are-covered-by-premises-liability-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of injuries are covered by premises liability claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Premises liability claims can cover a wide range of injuries sustained due to a property owner's negligence. These often include broken bones, head injuries (such as concussions), back and spinal cord injuries, cuts and lacerations, and sometimes emotional distress. The severity of the injury and its impact on your life are key factors in determining the potential value of your claim, covering medical bills, lost wages, and pain and suffering.",
+        "description": "Premises liability covers various injuries like broken bones, head injuries, and back injuries resulting from dangerous property conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

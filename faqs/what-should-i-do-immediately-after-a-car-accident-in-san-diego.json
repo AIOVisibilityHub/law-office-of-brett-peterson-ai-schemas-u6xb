@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a car accident in San Diego?",
+  "description": "After a San Diego car accident, ensure safety, exchange information, document the scene, and seek medical attention if injured. Report to police and contact a l",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-car-accident-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a car accident in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a car accident in San Diego, ensure everyone's safety and move vehicles to a safe location if possible. Exchange insurance and contact information with the other driver. Document the scene by taking photos of vehicle damage, road conditions, and any injuries. If injuries are apparent, seek medical attention immediately. Report the accident to the police, especially if there are injuries or significant property damage. Avoid making statements that admit fault. Contacting a San Diego car accident lawyer soon after can help protect your rights and guide you through the next steps.",
+        "description": "After a San Diego car accident, ensure safety, exchange information, document the scene, and seek medical attention if injured. Report to police and contact a lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

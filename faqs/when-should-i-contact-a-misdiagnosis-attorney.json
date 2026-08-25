@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a misdiagnosis attorney?",
+  "description": "Contact an attorney as soon as you suspect a misdiagnosis caused harm. Strict time limits apply, so early consultation is important to understand your legal opt",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-misdiagnosis-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a misdiagnosis attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting a misdiagnosis attorney as soon as you suspect that a misdiagnosis or delayed diagnosis has negatively impacted your health or the health of a loved one. It's crucial to act promptly because there are strict time limits, known as statutes of limitations, for filing medical malpractice claims. Even if you're unsure if negligence occurred, a consultation with an attorney can help you understand your legal options. They can evaluate your case, explain the legal process, and advise you on the best course of action without obligation.",
+        "description": "Contact an attorney as soon as you suspect a misdiagnosis caused harm. Strict time limits apply, so early consultation is important to understand your legal options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

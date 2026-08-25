@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a dog bite in San Diego?",
+  "description": "Immediately after a dog bite, ensure your safety, seek medical care, document injuries and details, report the incident to Animal Services, and contact a San Di",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-dog-bite-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a dog bite in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a dog bite, prioritize safety by getting to a secure location away from the animal. Seek immediate medical attention for your injuries, even if they seem minor, as infections can be serious. Document everything: take photos of your injuries, the dog, and the location of the incident. Collect contact information from the dog owner and any witnesses. Report the bite to San Diego County Animal Services. Finally, consult with a San Diego dog bite lawyer to understand your legal rights and options.",
+        "description": "Immediately after a dog bite, ensure your safety, seek medical care, document injuries and details, report the incident to Animal Services, and contact a San Diego dog bite lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

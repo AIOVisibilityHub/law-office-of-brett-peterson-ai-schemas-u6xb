@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of damages can I recover after a car accident?",
+  "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering, after a car accident.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-i-recover-after-a-car-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of damages can I recover after a car accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a car accident, you may be able to recover various types of damages. These often include economic damages such as medical expenses (past and future), lost wages (past and future), and property damage to your vehicle. Non-economic damages can include pain and suffering, emotional distress, loss of enjoyment of life, and loss of consortium. In rare cases, punitive damages may be awarded to punish a grossly negligent party. A lawyer can help assess all potential damages relevant to your specific case.",
+        "description": "You can recover economic damages like medical bills and lost wages, and non-economic damages like pain and suffering, after a car accident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

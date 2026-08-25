@@ -1,0 +1,14 @@
+{
+  "url": "brettpetersonlaw.com",
+  "name": "Law Office of Brett Peterson - Main Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "92101",
+    "addressRegion": "CA",
+    "streetAddress": "605 C Street 3rd Floor",
+    "addressLocality": "San Diego"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(619) 702-8412"
+}

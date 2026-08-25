@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of damages can I recover in a misdiagnosis lawsuit?",
+  "description": "You may recover economic damages for financial losses like medical bills and lost wages, and non-economic damages for pain and suffering. Punitive damages are p",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-recover-in-a-misdiagnosis-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of damages can I recover in a misdiagnosis lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a successful misdiagnosis lawsuit, you may be able to recover various types of damages, which typically fall into two categories: economic and non-economic. Economic damages cover quantifiable financial losses such as past and future medical expenses, lost wages, loss of earning capacity, and rehabilitation costs. Non-economic damages compensate for less tangible losses like pain and suffering, emotional distress, loss of enjoyment of life, and disfigurement. In some rare cases involving extreme negligence, punitive damages may also be awarded to punish the at-fault party and deter similar conduct in the future.",
+        "description": "You may recover economic damages for financial losses like medical bills and lost wages, and non-economic damages for pain and suffering. Punitive damages are possible in extreme negligence cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

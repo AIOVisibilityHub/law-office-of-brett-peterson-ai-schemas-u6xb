@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a public property injury claim in California?",
+  "description": "The process involves filing a government claim within six months, awaiting the entity's 45-day response, and then potentially filing a lawsuit within six months",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-public-property-injury-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a public property injury claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for filing a public property injury claim in California begins with filing a formal government claim (Form 95) with the responsible public entity within six months of the injury. This claim must include specific details about the incident, injuries, and damages. The public entity then has 45 days to respond by either accepting or rejecting the claim. If the claim is denied, or if no response is received, you typically have six months from the date of denial (or the end of the 45-day review period) to file a lawsuit in court. Missing any of these deadlines can result in a permanent bar to your claim.",
+        "description": "The process involves filing a government claim within six months, awaiting the entity's 45-day response, and then potentially filing a lawsuit within six months of denial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

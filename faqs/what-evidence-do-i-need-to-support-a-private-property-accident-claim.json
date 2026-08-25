@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to support a private property accident claim?",
+  "description": "Key evidence for a private property accident claim includes photos of the scene and injuries, eyewitness details, medical records, and incident reports. A lawye",
+  "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-support-a-private-property-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to support a private property accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To support a private property accident claim, critical evidence includes photos or videos of the accident scene and your injuries, eyewitness contact information, medical records detailing your treatment, and any incident reports filed with the property owner. It's also helpful to document lost wages, property damage, and any other expenses incurred due to the accident. A lawyer can assist in collecting and organizing this evidence, and may also use expert testimony, such as from an accident reconstructionist or medical professional, to strengthen your case.",
+        "description": "Key evidence for a private property accident claim includes photos of the scene and injuries, eyewitness details, medical records, and incident reports. A lawyer can help gather and organize this information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

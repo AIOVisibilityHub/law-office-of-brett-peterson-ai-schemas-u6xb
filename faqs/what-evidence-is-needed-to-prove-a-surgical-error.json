@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is needed to prove a surgical error?",
+  "description": "Evidence for a surgical error includes medical records, expert witness testimony, and other documentation proving negligence and causation of injury.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-needed-to-prove-a-surgical-error",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is needed to prove a surgical error?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proving a surgical error typically requires comprehensive evidence demonstrating that the medical professional acted negligently and that this negligence directly caused your injury. Key evidence includes medical records, such as operative reports, nursing notes, and imaging results. Expert witness testimony from other medical professionals is often crucial to establish the standard of care and how it was breached. Other evidence might include eyewitness accounts, internal hospital policies, and before-and-after photographic evidence of your condition. Your lawyer will meticulously collect and analyze this evidence.",
+        "description": "Evidence for a surgical error includes medical records, expert witness testimony, and other documentation proving negligence and causation of injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

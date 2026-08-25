@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of damages can I claim in a public property injury lawsuit?",
+  "description": "You can claim economic damages (medical bills, lost wages) and non-economic damages (pain and suffering, emotional distress) in a public property injury lawsuit",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-damages-can-i-claim-in-a-public-property-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of damages can I claim in a public property injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a public property injury lawsuit, you can typically claim both economic and non-economic damages. Economic damages cover calculable financial losses such as past and future medical expenses, lost wages, loss of earning capacity, and property damage. Non-economic damages compensate for intangible losses like pain and suffering, emotional distress, disfigurement, and loss of enjoyment of life. The specific amount recoverable depends on the severity of your injuries and the impact on your life, and California law does not impose caps on non-economic damages for personal injury cases against public entities, unlike in medical malpractice cases.",
+        "description": "You can claim economic damages (medical bills, lost wages) and non-economic damages (pain and suffering, emotional distress) in a public property injury lawsuit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "url": "brettpetersonlaw.com",
+  "name": "Law Office of Brett Peterson",
+  "@type": "Organization",
+  "email": "brett@brettpetersonlaw.com",
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Brett Peterson",
+      "@type": "Person",
+      "jobTitle": "Attorney at Law"
+    },
+    {
+      "name": "Brett Peterson",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "telephone": "619.702.8412",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    }
+  ],
+  "description": "The Law Office of Brett Peterson is a San Diego personal injury law firm built around direct, hands-on legal representation. Unlike larger firms where clients may be passed from an intake team to junior attorneys or staff members, Brett Peterson personally handles each case from the initial consultation through investigation, negotiation, litigation, and resolution.\n\nWith more than two decades of experience in personal injury, workers’ compensation, and civil litigation, Brett provides individualized guidance, clear communication, and dedicated advocacy throughout the legal process. Clients work directly with the attorney responsible for their case—not through layers of representatives—helping ensure that their concerns are heard, their questions are answered, and their legal strategy is tailored to their circumstances. The firm is committed to pursuing fair compensation while providing the personal attention and accountability that injured individuals and their families deserve.",
+  "hasOfferCatalog": {
+    "name": "Law Office of Brett Peterson Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Car Accidents",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Dog Bites",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Wrongful Death",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers’ Compensation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Premises Liability",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Employment Discrimination",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Brain Injury resultant from vehicle accidents",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}
