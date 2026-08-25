@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a paralysis injury attorney?",
-  "description": "Most paralysis injury attorneys work on a contingency fee basis, meaning their payment is a percentage of your settlement or award, and you pay no upfront fees.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-paralysis-injury-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a paralysis injury attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most paralysis injury attorneys work on a contingency fee basis. This means you do not pay any upfront fees or hourly charges. Instead, the attorney's fee is a percentage of the compensation they recover for you. If they don't win your case, you generally don't owe attorney fees. This arrangement allows individuals with limited financial resources to pursue justice without added financial burden during a difficult time.",
-        "description": "Most paralysis injury attorneys work on a contingency fee basis, meaning their payment is a percentage of your settlement or award, and you pay no upfront fees."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a paralysis injury attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a paralysis injury attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most paralysis injury attorneys work on a contingency fee basis. This means you do not pay any upfront fees or hourly charges. Instead, the attorney's fee is a percentage of the compensation they recover for you. If they don't win your case, you generally don't owe attorney fees. This arrangement allows individuals with limited financial resources to pursue justice without added financial burden during a difficult time.",
+        "@type": "Answer",
+        "description": "Most paralysis injury attorneys work on a contingency fee basis, meaning their payment is a percentage of your settlement or award, and you pay no upfront fees."
+      }
+    }
+  ],
+  "description": "Most paralysis injury attorneys work on a contingency fee basis, meaning their payment is a percentage of your settlement or award, and you pay no upfront fees."
 }

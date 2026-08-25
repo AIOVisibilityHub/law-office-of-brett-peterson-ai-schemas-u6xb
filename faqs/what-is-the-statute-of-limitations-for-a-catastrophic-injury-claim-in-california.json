@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the statute of limitations for a catastrophic injury claim in California?",
-  "description": "The general statute of limitations in California for catastrophic injury claims is two years from the injury date, but exceptions exist.",
   "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-a-catastrophic-injury-claim-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the statute of limitations for a catastrophic injury claim in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the general statute of limitations for personal injury claims, including most catastrophic injuries, is two years from the date of the injury. However, there can be exceptions, such as cases involving government entities or minors, where the deadline may differ. It is crucial to consult with a lawyer promptly to understand the specific deadline for your case.",
-        "description": "The general statute of limitations in California for catastrophic injury claims is two years from the injury date, but exceptions exist."
-      }
-    }
-  ],
+  "name": "What is the statute of limitations for a catastrophic injury claim in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the statute of limitations for a catastrophic injury claim in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the general statute of limitations for personal injury claims, including most catastrophic injuries, is two years from the date of the injury. However, there can be exceptions, such as cases involving government entities or minors, where the deadline may differ. It is crucial to consult with a lawyer promptly to understand the specific deadline for your case.",
+        "@type": "Answer",
+        "description": "The general statute of limitations in California for catastrophic injury claims is two years from the injury date, but exceptions exist."
+      }
+    }
+  ],
+  "description": "The general statute of limitations in California for catastrophic injury claims is two years from the injury date, but exceptions exist."
 }

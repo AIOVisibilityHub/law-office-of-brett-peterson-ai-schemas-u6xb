@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still pursue a claim if my loved one was partially at fault for the accident?",
-  "description": "Yes, under California's pure comparative negligence, you can still pursue a claim, but compensation may be reduced by the deceased's percentage of fault.",
   "url": "brettpetersonlaw.com/faq/can-i-still-pursue-a-claim-if-my-loved-one-was-partially-at-fault-for-the-accide",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still pursue a claim if my loved one was partially at fault for the accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California operates under a legal principle called 'pure comparative negligence.' This means that even if your loved one was partially at fault for the fatal car accident, you may still be able to recover compensation. The total amount of damages awarded would simply be reduced by the percentage of fault attributed to the deceased. An attorney can assess the circumstances of the accident, gather evidence to determine fault, and argue for a fair apportionment of responsibility to maximize the potential recovery for your family.",
-        "description": "Yes, under California's pure comparative negligence, you can still pursue a claim, but compensation may be reduced by the deceased's percentage of fault."
-      }
-    }
-  ],
+  "name": "Can I still pursue a claim if my loved one was partially at fault for the accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still pursue a claim if my loved one was partially at fault for the accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California operates under a legal principle called 'pure comparative negligence.' This means that even if your loved one was partially at fault for the fatal car accident, you may still be able to recover compensation. The total amount of damages awarded would simply be reduced by the percentage of fault attributed to the deceased. An attorney can assess the circumstances of the accident, gather evidence to determine fault, and argue for a fair apportionment of responsibility to maximize the potential recovery for your family.",
+        "@type": "Answer",
+        "description": "Yes, under California's pure comparative negligence, you can still pursue a claim, but compensation may be reduced by the deceased's percentage of fault."
+      }
+    }
+  ],
+  "description": "Yes, under California's pure comparative negligence, you can still pursue a claim, but compensation may be reduced by the deceased's percentage of fault."
 }

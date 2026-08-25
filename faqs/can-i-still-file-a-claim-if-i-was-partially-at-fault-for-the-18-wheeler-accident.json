@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if I was partially at fault for the 18-wheeler accident?",
-  "description": "Yes, in California's 'pure comparative negligence' system, you can file a claim even if partially at fault, though your compensation may be reduced by your faul",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-the-18-wheeler-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if I was partially at fault for the 18-wheeler accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, even if you were partially at fault for an 18-wheeler accident, you can still file a claim in California. California operates under a 'pure comparative negligence' rule. This means that your compensation may be reduced by your percentage of fault. For example, if you are found 20% at fault, your total awarded damages would be reduced by 20%. An attorney can help determine fault, gather evidence to minimize your responsibility, and ensure you receive the maximum possible compensation under this rule.",
-        "description": "Yes, in California's 'pure comparative negligence' system, you can file a claim even if partially at fault, though your compensation may be reduced by your fault percentage."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if I was partially at fault for the 18-wheeler accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if I was partially at fault for the 18-wheeler accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even if you were partially at fault for an 18-wheeler accident, you can still file a claim in California. California operates under a 'pure comparative negligence' rule. This means that your compensation may be reduced by your percentage of fault. For example, if you are found 20% at fault, your total awarded damages would be reduced by 20%. An attorney can help determine fault, gather evidence to minimize your responsibility, and ensure you receive the maximum possible compensation under this rule.",
+        "@type": "Answer",
+        "description": "Yes, in California's 'pure comparative negligence' system, you can file a claim even if partially at fault, though your compensation may be reduced by your fault percentage."
+      }
+    }
+  ],
+  "description": "Yes, in California's 'pure comparative negligence' system, you can file a claim even if partially at fault, though your compensation may be reduced by your faul"
 }

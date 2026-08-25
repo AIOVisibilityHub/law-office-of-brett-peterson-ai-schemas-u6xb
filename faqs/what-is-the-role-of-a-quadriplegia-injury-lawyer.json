@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the role of a quadriplegia injury lawyer?",
-  "description": "A quadriplegia injury lawyer helps clients pursue compensation for injuries resulting in paralysis, covering medical costs, lost wages, and other damages.",
   "url": "brettpetersonlaw.com/faq/what-is-the-role-of-a-quadriplegia-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the role of a quadriplegia injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A quadriplegia injury lawyer represents individuals who have sustained severe spinal cord injuries resulting in paralysis of all four limbs. Their primary role is to help clients pursue compensation for medical expenses, lost wages, pain and suffering, assistive care, and modifications needed for daily living. This involves investigating the incident, gathering evidence, negotiating with insurance companies, and if necessary, litigating the case in court to secure a fair settlement or verdict.",
-        "description": "A quadriplegia injury lawyer helps clients pursue compensation for injuries resulting in paralysis, covering medical costs, lost wages, and other damages."
-      }
-    }
-  ],
+  "name": "What is the role of a quadriplegia injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a quadriplegia injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A quadriplegia injury lawyer represents individuals who have sustained severe spinal cord injuries resulting in paralysis of all four limbs. Their primary role is to help clients pursue compensation for medical expenses, lost wages, pain and suffering, assistive care, and modifications needed for daily living. This involves investigating the incident, gathering evidence, negotiating with insurance companies, and if necessary, litigating the case in court to secure a fair settlement or verdict.",
+        "@type": "Answer",
+        "description": "A quadriplegia injury lawyer helps clients pursue compensation for injuries resulting in paralysis, covering medical costs, lost wages, and other damages."
+      }
+    }
+  ],
+  "description": "A quadriplegia injury lawyer helps clients pursue compensation for injuries resulting in paralysis, covering medical costs, lost wages, and other damages."
 }

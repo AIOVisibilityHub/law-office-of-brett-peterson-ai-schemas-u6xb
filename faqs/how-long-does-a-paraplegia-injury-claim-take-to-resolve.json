@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a paraplegia injury claim take to resolve?",
-  "description": "The duration of a paraplegia injury claim varies, from months to several years, depending on complexity and negotiation.",
   "url": "brettpetersonlaw.com/faq/how-long-does-a-paraplegia-injury-claim-take-to-resolve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a paraplegia injury claim take to resolve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a paraplegia injury claim can vary significantly depending on its complexity, the severity of the injuries, the number of parties involved, and the willingness of insurance companies to settle. Some cases may resolve within months through negotiation, while others, particularly those requiring extensive discovery or litigation, can take several years. Your attorney will provide an estimate based on the specific details of your case and keep you informed throughout the process.",
-        "description": "The duration of a paraplegia injury claim varies, from months to several years, depending on complexity and negotiation."
-      }
-    }
-  ],
+  "name": "How long does a paraplegia injury claim take to resolve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a paraplegia injury claim take to resolve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paraplegia injury claim can vary significantly depending on its complexity, the severity of the injuries, the number of parties involved, and the willingness of insurance companies to settle. Some cases may resolve within months through negotiation, while others, particularly those requiring extensive discovery or litigation, can take several years. Your attorney will provide an estimate based on the specific details of your case and keep you informed throughout the process.",
+        "@type": "Answer",
+        "description": "The duration of a paraplegia injury claim varies, from months to several years, depending on complexity and negotiation."
+      }
+    }
+  ],
+  "description": "The duration of a paraplegia injury claim varies, from months to several years, depending on complexity and negotiation."
 }

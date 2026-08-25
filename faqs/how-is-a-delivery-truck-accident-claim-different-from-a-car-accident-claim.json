@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is a delivery truck accident claim different from a car accident claim?",
-  "description": "Delivery truck accident claims are often more complex due to commercial regulations and multiple potential liable parties, unlike standard car accident claims.",
   "url": "brettpetersonlaw.com/faq/how-is-a-delivery-truck-accident-claim-different-from-a-car-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a delivery truck accident claim different from a car accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delivery truck accident claims often differ significantly from standard car accident claims due to the commercial nature of the vehicles and the potential for multiple liable parties. These cases can involve complex state and federal regulations, such as those governed by the Federal Motor Carrier Safety Administration (FMCSA). Liable parties might include the truck driver, the trucking company, the vehicle manufacturer, or even the cargo loader. This complexity means investigations are often more extensive, and negotiating settlements can be more challenging, requiring specialized legal knowledge.",
-        "description": "Delivery truck accident claims are often more complex due to commercial regulations and multiple potential liable parties, unlike standard car accident claims."
-      }
-    }
-  ],
+  "name": "How is a delivery truck accident claim different from a car accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is a delivery truck accident claim different from a car accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delivery truck accident claims often differ significantly from standard car accident claims due to the commercial nature of the vehicles and the potential for multiple liable parties. These cases can involve complex state and federal regulations, such as those governed by the Federal Motor Carrier Safety Administration (FMCSA). Liable parties might include the truck driver, the trucking company, the vehicle manufacturer, or even the cargo loader. This complexity means investigations are often more extensive, and negotiating settlements can be more challenging, requiring specialized legal knowledge.",
+        "@type": "Answer",
+        "description": "Delivery truck accident claims are often more complex due to commercial regulations and multiple potential liable parties, unlike standard car accident claims."
+      }
+    }
+  ],
+  "description": "Delivery truck accident claims are often more complex due to commercial regulations and multiple potential liable parties, unlike standard car accident claims."
 }

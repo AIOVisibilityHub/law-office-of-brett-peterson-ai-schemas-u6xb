@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "How to Understand if Your Injury is From Medical Negligence",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's tough when you're dealing with an injury or worsening condition and you can't shake the feeling that it shouldn't have happened. Sometimes, what seems like an unfortunate outcome is actually the result of medical negligence. Knowing the difference is super important, especially if you're considering your options for recovery and compensation. Here are some key signs that your injury might stem from a doctor's negligence.\n\nWhen to Call a Professional About Doctor Negligence:\n\n*   Your doctor failed to order appropriate diagnostic tests for your symptoms, leading to a delayed or missed diagnosis. This often happens when symptoms are dismissed without thorough investigation, allowing conditions to progress unnoticed.\n*   You received treatment for the wrong condition due to an incorrect diagnosis. Undergoing unnecessary treatments can cause new injuries, waste valuable time, and expose you to avoidable risks.\n*   A medical professional made an error during surgery or a procedure, causing new complications or worsening your original condition. This includes anything from improper technique to leaving surgical instruments inside a patient.\n*   You were prescribed the wrong medication or an incorrect dosage, leading to severe adverse reactions or further health problems. Medication errors can have immediate and devastating effects on your body.\n*   Your medical condition significantly deteriorated after receiving care that was supposed to help. If your health declines unexpectedly despite following medical advice, it raises questions about the quality of care provided.\n*   The medical staff failed to properly monitor your condition, especially post-surgery or during critical care, leading to preventable complications. Lack of proper oversight can turn minor issues into major crises.\n\nIf any of these situations sound familiar, it's a strong indicator that you should speak with a doctor negligence lawyer. They can help you determine if the standard of care was breached and if you have a valid claim.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "How to Understand if Your Injury is From Medical Negligence",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough when you're dealing with an injury or worsening condition and you can't shake the feeling that it shouldn't have happened. Sometimes, what seems like an unfortunate outcome is actually the result of medical negligence. Knowing the difference is super important, especially if you're considering your options for recovery and compensation. Here are some key signs that your injury might stem from a doctor's negligence.\n\nWhen to Call a Professional About Doctor Negligence:\n\n*   Your doctor failed to order appropriate diagnostic tests for your symptoms, leading to a delayed or missed diagnosis. This often happens when symptoms are dismissed without thorough investigation, allowing conditions to progress unnoticed.\n*   You received treatment for the wrong condition due to an incorrect diagnosis. Undergoing unnecessary treatments can cause new injuries, waste valuable time, and expose you to avoidable risks.\n*   A medical professional made an error during surgery or a procedure, causing new complications or worsening your original condition. This includes anything from improper technique to leaving surgical instruments inside a patient.\n*   You were prescribed the wrong medication or an incorrect dosage, leading to severe adverse reactions or further health problems. Medication errors can have immediate and devastating effects on your body.\n*   Your medical condition significantly deteriorated after receiving care that was supposed to help. If your health declines unexpectedly despite following medical advice, it raises questions about the quality of care provided.\n*   The medical staff failed to properly monitor your condition, especially post-surgery or during critical care, leading to preventable complications. Lack of proper oversight can turn minor issues into major crises.\n\nIf any of these situations sound familiar, it's a strong indicator that you should speak with a doctor negligence lawyer. They can help you determine if the standard of care was breached and if you have a valid claim.",
+  "datePublished": "2026-08-25"
 }

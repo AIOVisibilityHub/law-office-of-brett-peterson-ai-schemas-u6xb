@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is fault determined in a San Diego truck accident?",
-  "description": "Fault is determined by investigating police reports, truck data, witness statements, and more. Multiple parties can be at fault, and California uses pure compar",
   "url": "brettpetersonlaw.com/faq/how-is-fault-determined-in-a-san-diego-truck-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is fault determined in a San Diego truck accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Determining fault in a San Diego truck accident involves a thorough investigation of various factors. This can include reviewing police reports, eyewitness statements, traffic camera footage, black box data from the truck, driver logs, maintenance records, and expert accident reconstruction. Fault might lie with the truck driver (e.g., fatigue, distraction, speeding), the trucking company (e.g., negligent hiring, poor maintenance), the cargo loader, or even a vehicle manufacturer. California's pure comparative negligence rule means you can still recover damages even if partially at fault.",
-        "description": "Fault is determined by investigating police reports, truck data, witness statements, and more. Multiple parties can be at fault, and California uses pure comparative negligence."
-      }
-    }
-  ],
+  "name": "How is fault determined in a San Diego truck accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is fault determined in a San Diego truck accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining fault in a San Diego truck accident involves a thorough investigation of various factors. This can include reviewing police reports, eyewitness statements, traffic camera footage, black box data from the truck, driver logs, maintenance records, and expert accident reconstruction. Fault might lie with the truck driver (e.g., fatigue, distraction, speeding), the trucking company (e.g., negligent hiring, poor maintenance), the cargo loader, or even a vehicle manufacturer. California's pure comparative negligence rule means you can still recover damages even if partially at fault.",
+        "@type": "Answer",
+        "description": "Fault is determined by investigating police reports, truck data, witness statements, and more. Multiple parties can be at fault, and California uses pure comparative negligence."
+      }
+    }
+  ],
+  "description": "Fault is determined by investigating police reports, truck data, witness statements, and more. Multiple parties can be at fault, and California uses pure compar"
 }

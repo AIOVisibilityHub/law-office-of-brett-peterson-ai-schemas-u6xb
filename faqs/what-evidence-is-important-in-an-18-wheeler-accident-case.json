@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important in an 18-wheeler accident case?",
-  "description": "Important evidence includes police reports, scene photos, witness statements, medical records, and specific truck data like black box records, driver logs, and",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-an-18-wheeler-accident-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important in an 18-wheeler accident case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key evidence in an 18-wheeler accident case includes the police report, accident scene photos and videos, witness statements, and your medical records documenting injuries and treatment. Crucially, evidence specific to commercial trucks includes the truck's black box data (Electronic Logging Device), driver's logs, vehicle maintenance records, and the trucking company's hiring and training policies. Gathering and preserving this evidence quickly is vital, as some data can be overwritten or lost over time, making an attorney's swift action critical.",
-        "description": "Important evidence includes police reports, scene photos, witness statements, medical records, and specific truck data like black box records, driver logs, and maintenance reports."
-      }
-    }
-  ],
+  "name": "What evidence is important in an 18-wheeler accident case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important in an 18-wheeler accident case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key evidence in an 18-wheeler accident case includes the police report, accident scene photos and videos, witness statements, and your medical records documenting injuries and treatment. Crucially, evidence specific to commercial trucks includes the truck's black box data (Electronic Logging Device), driver's logs, vehicle maintenance records, and the trucking company's hiring and training policies. Gathering and preserving this evidence quickly is vital, as some data can be overwritten or lost over time, making an attorney's swift action critical.",
+        "@type": "Answer",
+        "description": "Important evidence includes police reports, scene photos, witness statements, medical records, and specific truck data like black box records, driver logs, and maintenance reports."
+      }
+    }
+  ],
+  "description": "Important evidence includes police reports, scene photos, witness statements, medical records, and specific truck data like black box records, driver logs, and"
 }

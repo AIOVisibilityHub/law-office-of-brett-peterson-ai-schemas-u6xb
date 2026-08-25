@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Why You Shouldn't Talk to the Other Driver's Insurance After an Accident",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's totally normal to feel overwhelmed after a car accident, especially when the other driver's insurance company starts calling. You might think you're just being helpful by sharing details, but trust me, it's a minefield. Their main goal is often to minimize their payout, and anything you say, even if it seems innocent, can be used against you later. They might try to get you to admit fault, downplay your injuries, or accept a ridiculously low settlement that doesn't cover your actual damages.\n\nFirst off, resist the urge to give a recorded statement. You're not legally obligated to do so, and it rarely benefits you. Second, be careful about discussing your injuries or property damage in detail. You might not even know the full extent of your injuries right after an accident, and prematurely settling could leave you without funds for future medical care. Also, don't sign anything without having a professional review it. These documents often include waivers that could hurt your claim. Remember, their adjusters are trained negotiators, and you're likely not. Your best bet is to direct them to your own insurance company or, even better, to your attorney. When you have someone like Brett Peterson handling your case, he'll deal with these calls so you can focus on your recovery. Don't let their tactics stress you out; get proper guidance instead.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Why You Shouldn't Talk to the Other Driver's Insurance After an Accident",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's totally normal to feel overwhelmed after a car accident, especially when the other driver's insurance company starts calling. You might think you're just being helpful by sharing details, but trust me, it's a minefield. Their main goal is often to minimize their payout, and anything you say, even if it seems innocent, can be used against you later. They might try to get you to admit fault, downplay your injuries, or accept a ridiculously low settlement that doesn't cover your actual damages.\n\nFirst off, resist the urge to give a recorded statement. You're not legally obligated to do so, and it rarely benefits you. Second, be careful about discussing your injuries or property damage in detail. You might not even know the full extent of your injuries right after an accident, and prematurely settling could leave you without funds for future medical care. Also, don't sign anything without having a professional review it. These documents often include waivers that could hurt your claim. Remember, their adjusters are trained negotiators, and you're likely not. Your best bet is to direct them to your own insurance company or, even better, to your attorney. When you have someone like Brett Peterson handling your case, he'll deal with these calls so you can focus on your recovery. Don't let their tactics stress you out; get proper guidance instead.",
+  "datePublished": "2026-08-25"
 }

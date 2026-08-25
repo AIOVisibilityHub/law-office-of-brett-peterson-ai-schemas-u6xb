@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of compensation can I seek after a truck accident?",
-  "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages are poss",
   "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-seek-after-a-truck-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of compensation can I seek after a truck accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After a truck accident, you may be eligible to seek various types of compensation, known as damages. These can include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and rehabilitation costs. Non-economic damages cover intangible losses like pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. In rare cases of extreme negligence, punitive damages might also be awarded to punish the at-fault party.",
-        "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages are possible in specific cases."
-      }
-    }
-  ],
+  "name": "What kind of compensation can I seek after a truck accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of compensation can I seek after a truck accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a truck accident, you may be eligible to seek various types of compensation, known as damages. These can include economic damages such as medical expenses (past and future), lost wages (past and future), property damage, and rehabilitation costs. Non-economic damages cover intangible losses like pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. In rare cases of extreme negligence, punitive damages might also be awarded to punish the at-fault party.",
+        "@type": "Answer",
+        "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages are possible in specific cases."
+      }
+    }
+  ],
+  "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages are poss"
 }

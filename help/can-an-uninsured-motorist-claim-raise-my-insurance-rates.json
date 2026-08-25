@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Can an Uninsured Motorist Claim Raise My Insurance Rates?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's a common worry: if you're hit by an uninsured driver and make a claim with your own insurance, will your premiums go up? Many people hold back from making these claims because they mistakenly believe it will cost them more in the long run. But here in California, that's generally not the case! The Insurance Code has specific rules about how insurance rates are set. Factors like your driving safety record, how many miles you drive annually, and your years of driving experience are considered, in that order of importance. The key is that if the accident wasn't your fault, your insurer typically can't raise your rates just because you filed an uninsured motorist claim. California's Proposition 103 specifically protects consumers from unfair discrimination, meaning your rates shouldn't increase simply because you're using your uninsured motorist coverage after an accident that wasn't your fault. So, if you've been injured by an uninsured driver, don't let this worry stop you from seeking the compensation you deserve. It’s worth checking with a local professional who understands these nuances to make sure you’re protected.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Can an Uninsured Motorist Claim Raise My Insurance Rates?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common worry: if you're hit by an uninsured driver and make a claim with your own insurance, will your premiums go up? Many people hold back from making these claims because they mistakenly believe it will cost them more in the long run. But here in California, that's generally not the case! The Insurance Code has specific rules about how insurance rates are set. Factors like your driving safety record, how many miles you drive annually, and your years of driving experience are considered, in that order of importance. The key is that if the accident wasn't your fault, your insurer typically can't raise your rates just because you filed an uninsured motorist claim. California's Proposition 103 specifically protects consumers from unfair discrimination, meaning your rates shouldn't increase simply because you're using your uninsured motorist coverage after an accident that wasn't your fault. So, if you've been injured by an uninsured driver, don't let this worry stop you from seeking the compensation you deserve. It’s worth checking with a local professional who understands these nuances to make sure you’re protected.",
+  "datePublished": "2026-08-25"
 }

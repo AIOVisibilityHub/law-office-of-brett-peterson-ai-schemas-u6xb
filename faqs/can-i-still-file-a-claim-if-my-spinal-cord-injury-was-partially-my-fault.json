@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if my spinal cord injury was partially my fault?",
-  "description": "Yes, in California's pure comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced accordingly.",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-my-spinal-cord-injury-was-partially-my-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if my spinal cord injury was partially my fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, you can generally still pursue a claim even if you were partially at fault for the incident that caused your spinal cord injury. California follows a system of 'pure comparative negligence,' meaning your compensation may be reduced by your percentage of fault. For example, if you are found 20% responsible, your award would be reduced by 20%. An experienced San Diego spinal cord injury lawyer can assess your specific situation and advise on how your partial fault might impact your claim.",
-        "description": "Yes, in California's pure comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced accordingly."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if my spinal cord injury was partially my fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if my spinal cord injury was partially my fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, you can generally still pursue a claim even if you were partially at fault for the incident that caused your spinal cord injury. California follows a system of 'pure comparative negligence,' meaning your compensation may be reduced by your percentage of fault. For example, if you are found 20% responsible, your award would be reduced by 20%. An experienced San Diego spinal cord injury lawyer can assess your specific situation and advise on how your partial fault might impact your claim.",
+        "@type": "Answer",
+        "description": "Yes, in California's pure comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced accordingly."
+      }
+    }
+  ],
+  "description": "Yes, in California's pure comparative negligence system, you can file a claim even if partially at fault, though your compensation may be reduced accordingly."
 }

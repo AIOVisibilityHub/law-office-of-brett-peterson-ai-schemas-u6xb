@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Signs You Might Be Dealing with a Surgical Error",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It’s a tough reality, but sometimes a surgical procedure, intended to heal, can unfortunately lead to new problems or worsen existing ones due to an error. If you're experiencing unexpected complications after surgery, you might be wondering if what happened was a normal risk or if something went wrong due to negligence. Spotting these signs early can be really important for your health and your legal options.\n\nHere are some common indicators that you might be dealing with a surgical error:\n\n*   **Unexpected Pain or Symptoms:** If you're experiencing severe or unusual pain, persistent fever, unexpected numbness, or other symptoms that your medical team can't adequately explain or that weren't discussed as normal post-operative expectations, it's a significant warning sign.\n*   **Return to Surgery:** Needing to undergo another surgery shortly after the first, especially if it's to correct an issue that arose directly from the initial procedure (like to remove a surgical instrument left inside or repair an accidental puncture), is a strong indicator of an error.\n*   **New, Unexplained Medical Conditions:** Developing a new infection, organ damage, nerve damage, or other unrelated conditions that were not pre-existing and occurred during or immediately after the surgery suggests a potential mistake.\n*   **Incomplete or Incorrect Procedure:** Cases where the wrong surgery was performed, surgery was performed on the wrong body part, or the procedure was left unfinished are clear errors.\n*   **Significant Delay in Diagnosis of Complications:** If a severe post-surgical complication, like an internal bleed or infection, was not diagnosed or treated promptly, leading to worse outcomes, this could point to negligence.\n*   **Permanent Disability or Loss of Function:** Experiencing a new, unexpected permanent disability, loss of sensation, or loss of organ function directly attributable to the surgery can indicate a serious error.\n\nIf you're noticing any of these signs, it's really important to seek professional help. Consulting with an experienced San Diego surgical error lawyer, such as Brett Peterson, can provide clarity. He can review your medical records, assess the specifics of your case, and advise you on the best course of action to pursue fair compensation for your injuries.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Signs You Might Be Dealing with a Surgical Error",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a tough reality, but sometimes a surgical procedure, intended to heal, can unfortunately lead to new problems or worsen existing ones due to an error. If you're experiencing unexpected complications after surgery, you might be wondering if what happened was a normal risk or if something went wrong due to negligence. Spotting these signs early can be really important for your health and your legal options.\n\nHere are some common indicators that you might be dealing with a surgical error:\n\n*   **Unexpected Pain or Symptoms:** If you're experiencing severe or unusual pain, persistent fever, unexpected numbness, or other symptoms that your medical team can't adequately explain or that weren't discussed as normal post-operative expectations, it's a significant warning sign.\n*   **Return to Surgery:** Needing to undergo another surgery shortly after the first, especially if it's to correct an issue that arose directly from the initial procedure (like to remove a surgical instrument left inside or repair an accidental puncture), is a strong indicator of an error.\n*   **New, Unexplained Medical Conditions:** Developing a new infection, organ damage, nerve damage, or other unrelated conditions that were not pre-existing and occurred during or immediately after the surgery suggests a potential mistake.\n*   **Incomplete or Incorrect Procedure:** Cases where the wrong surgery was performed, surgery was performed on the wrong body part, or the procedure was left unfinished are clear errors.\n*   **Significant Delay in Diagnosis of Complications:** If a severe post-surgical complication, like an internal bleed or infection, was not diagnosed or treated promptly, leading to worse outcomes, this could point to negligence.\n*   **Permanent Disability or Loss of Function:** Experiencing a new, unexpected permanent disability, loss of sensation, or loss of organ function directly attributable to the surgery can indicate a serious error.\n\nIf you're noticing any of these signs, it's really important to seek professional help. Consulting with an experienced San Diego surgical error lawyer, such as Brett Peterson, can provide clarity. He can review your medical records, assess the specifics of your case, and advise you on the best course of action to pursue fair compensation for your injuries.",
+  "datePublished": "2026-08-25"
 }

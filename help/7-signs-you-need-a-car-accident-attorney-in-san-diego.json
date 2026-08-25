@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "7 Signs You Need a Car Accident Attorney in San Diego",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "After a car accident, it’s not always clear if you need to bring in legal help. Sometimes, though, the situation screams for a professional, especially when dealing with injuries and insurance companies. If you're nodding along to any of these, it might be time to pick up the phone.\n\n1. You've suffered significant injuries. If your injuries are more than just minor bumps and bruises, especially if they require ongoing medical care or affect your ability to work, you absolutely need an attorney.\n\n2. The other driver's insurance company is contacting you. They're not on your side; they want to pay as little as possible. Let an experienced lawyer handle them.\n\n3. The police report doesn't accurately reflect what happened. Errors in the report can seriously hurt your claim, and a lawyer can help correct them.\n\n4. You're being pressured to accept a quick settlement. Initial offers are almost always lowball. Don't leave money on the table that you deserve for your recovery.\n\n5. The accident involved a commercial vehicle (truck, Uber/Lyft). These cases are much more complex due to multiple parties and specific regulations, requiring specialized legal knowledge.\n\n6. You're unsure about the true value of your claim. Most victims don't know what fair compensation looks like for their injuries, lost wages, and pain and suffering.\n\n7. Liability is disputed or unclear. If multiple parties are involved or there's a disagreement about who's at fault, navigating it alone is extremely difficult. In any of these situations, reaching out for a free consultation can give you peace of mind and ensure you're not taken advantage of.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "7 Signs You Need a Car Accident Attorney in San Diego",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "After a car accident, it’s not always clear if you need to bring in legal help. Sometimes, though, the situation screams for a professional, especially when dealing with injuries and insurance companies. If you're nodding along to any of these, it might be time to pick up the phone.\n\n1. You've suffered significant injuries. If your injuries are more than just minor bumps and bruises, especially if they require ongoing medical care or affect your ability to work, you absolutely need an attorney.\n\n2. The other driver's insurance company is contacting you. They're not on your side; they want to pay as little as possible. Let an experienced lawyer handle them.\n\n3. The police report doesn't accurately reflect what happened. Errors in the report can seriously hurt your claim, and a lawyer can help correct them.\n\n4. You're being pressured to accept a quick settlement. Initial offers are almost always lowball. Don't leave money on the table that you deserve for your recovery.\n\n5. The accident involved a commercial vehicle (truck, Uber/Lyft). These cases are much more complex due to multiple parties and specific regulations, requiring specialized legal knowledge.\n\n6. You're unsure about the true value of your claim. Most victims don't know what fair compensation looks like for their injuries, lost wages, and pain and suffering.\n\n7. Liability is disputed or unclear. If multiple parties are involved or there's a disagreement about who's at fault, navigating it alone is extremely difficult. In any of these situations, reaching out for a free consultation can give you peace of mind and ensure you're not taken advantage of.",
+  "datePublished": "2026-08-25"
 }

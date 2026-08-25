@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a commercial truck accident attorney?",
-  "description": "Hire an attorney quickly after a commercial truck accident to protect evidence, manage insurance communications, and ensure legal deadlines are met.",
   "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-commercial-truck-accident-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a commercial truck accident attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring a commercial truck accident attorney as soon as possible after the incident. Trucking companies and their insurers act quickly to investigate and minimize their liability. An attorney can help preserve critical evidence, navigate communication with insurance companies, and ensure all legal deadlines are met. Early engagement protects your rights and strengthens your potential claim, especially given the complex nature of these cases.",
-        "description": "Hire an attorney quickly after a commercial truck accident to protect evidence, manage insurance communications, and ensure legal deadlines are met."
-      }
-    }
-  ],
+  "name": "When should I hire a commercial truck accident attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a commercial truck accident attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a commercial truck accident attorney as soon as possible after the incident. Trucking companies and their insurers act quickly to investigate and minimize their liability. An attorney can help preserve critical evidence, navigate communication with insurance companies, and ensure all legal deadlines are met. Early engagement protects your rights and strengthens your potential claim, especially given the complex nature of these cases.",
+        "@type": "Answer",
+        "description": "Hire an attorney quickly after a commercial truck accident to protect evidence, manage insurance communications, and ensure legal deadlines are met."
+      }
+    }
+  ],
+  "description": "Hire an attorney quickly after a commercial truck accident to protect evidence, manage insurance communications, and ensure legal deadlines are met."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What evidence is important in a semi-truck accident claim?",
-  "description": "Important evidence includes police reports, photos, witness statements, medical records, and unique truck-specific data like driver logbooks and black box recor",
   "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-semi-truck-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What evidence is important in a semi-truck accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key evidence includes police reports, accident scene photos and videos, witness statements, medical records detailing injuries, and vehicle damage reports. Additionally, evidence unique to commercial trucks like driver logbooks, black box data (Electronic Logging Devices), truck maintenance records, drug and alcohol test results for the driver, and the trucking company's hiring and training records are crucial for establishing liability.",
-        "description": "Important evidence includes police reports, photos, witness statements, medical records, and unique truck-specific data like driver logbooks and black box recordings."
-      }
-    }
-  ],
+  "name": "What evidence is important in a semi-truck accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence is important in a semi-truck accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key evidence includes police reports, accident scene photos and videos, witness statements, medical records detailing injuries, and vehicle damage reports. Additionally, evidence unique to commercial trucks like driver logbooks, black box data (Electronic Logging Devices), truck maintenance records, drug and alcohol test results for the driver, and the trucking company's hiring and training records are crucial for establishing liability.",
+        "@type": "Answer",
+        "description": "Important evidence includes police reports, photos, witness statements, medical records, and unique truck-specific data like driver logbooks and black box recordings."
+      }
+    }
+  ],
+  "description": "Important evidence includes police reports, photos, witness statements, medical records, and unique truck-specific data like driver logbooks and black box recor"
 }

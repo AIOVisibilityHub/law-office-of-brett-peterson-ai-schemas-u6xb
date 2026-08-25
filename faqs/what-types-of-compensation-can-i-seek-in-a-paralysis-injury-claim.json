@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of compensation can I seek in a paralysis injury claim?",
-  "description": "You can seek compensation for medical bills, lost wages, rehabilitation costs, and pain and suffering in a paralysis injury claim.",
   "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-in-a-paralysis-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of compensation can I seek in a paralysis injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In a paralysis injury claim, you can seek various types of compensation, including economic and non-economic damages. Economic damages cover tangible losses such as past and future medical bills, rehabilitation costs, lost wages, loss of earning capacity, and assistive devices. Non-economic damages include compensation for pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. The specific compensation depends on the unique details and impact of your injury.",
-        "description": "You can seek compensation for medical bills, lost wages, rehabilitation costs, and pain and suffering in a paralysis injury claim."
-      }
-    }
-  ],
+  "name": "What types of compensation can I seek in a paralysis injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of compensation can I seek in a paralysis injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a paralysis injury claim, you can seek various types of compensation, including economic and non-economic damages. Economic damages cover tangible losses such as past and future medical bills, rehabilitation costs, lost wages, loss of earning capacity, and assistive devices. Non-economic damages include compensation for pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. The specific compensation depends on the unique details and impact of your injury.",
+        "@type": "Answer",
+        "description": "You can seek compensation for medical bills, lost wages, rehabilitation costs, and pain and suffering in a paralysis injury claim."
+      }
+    }
+  ],
+  "description": "You can seek compensation for medical bills, lost wages, rehabilitation costs, and pain and suffering in a paralysis injury claim."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between a general personal injury lawyer and a quadriplegia injury lawyer?",
-  "description": "A quadriplegia injury lawyer specializes in severe spinal cord injuries, possessing specific expertise in the unique medical, financial, and legal aspects of th",
   "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-general-personal-injury-lawyer-and-a-quadripleg",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between a general personal injury lawyer and a quadriplegia injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While a general personal injury lawyer handles various injury cases, a quadriplegia injury lawyer specializes specifically in severe spinal cord injuries resulting in paralysis. This specialization means they have in-depth knowledge of the complex medical aspects, long-term care needs, and significant financial impacts unique to quadriplegia. They are better equipped to accurately calculate lifetime damages and navigate the specific legal challenges involved in these high-stakes cases.",
-        "description": "A quadriplegia injury lawyer specializes in severe spinal cord injuries, possessing specific expertise in the unique medical, financial, and legal aspects of these complex cases."
-      }
-    }
-  ],
+  "name": "What is the difference between a general personal injury lawyer and a quadriplegia injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general personal injury lawyer and a quadriplegia injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general personal injury lawyer handles various injury cases, a quadriplegia injury lawyer specializes specifically in severe spinal cord injuries resulting in paralysis. This specialization means they have in-depth knowledge of the complex medical aspects, long-term care needs, and significant financial impacts unique to quadriplegia. They are better equipped to accurately calculate lifetime damages and navigate the specific legal challenges involved in these high-stakes cases.",
+        "@type": "Answer",
+        "description": "A quadriplegia injury lawyer specializes in severe spinal cord injuries, possessing specific expertise in the unique medical, financial, and legal aspects of these complex cases."
+      }
+    }
+  ],
+  "description": "A quadriplegia injury lawyer specializes in severe spinal cord injuries, possessing specific expertise in the unique medical, financial, and legal aspects of th"
 }

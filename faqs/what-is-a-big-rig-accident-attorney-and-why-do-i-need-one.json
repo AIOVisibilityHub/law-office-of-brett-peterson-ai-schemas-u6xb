@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a big-rig accident attorney and why do I need one?",
-  "description": "A big-rig accident attorney specializes in cases involving commercial trucks and helps victims navigate complex regulations and secure fair compensation.",
   "url": "brettpetersonlaw.com/faq/what-is-a-big-rig-accident-attorney-and-why-do-i-need-one",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a big-rig accident attorney and why do I need one?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A big-rig accident attorney specializes in legal cases involving commercial trucks, such as 18-wheelers, tractor-trailers, or semi-trucks. These accidents often involve complex regulations, multiple liable parties, and significant injuries. An attorney understands federal and state trucking laws, can investigate the accident thoroughly, negotiate with insurance companies, and represent your interests in court. Their expertise is crucial for navigating the complexities of these cases to help ensure you receive fair compensation for medical bills, lost wages, and other damages.",
-        "description": "A big-rig accident attorney specializes in cases involving commercial trucks and helps victims navigate complex regulations and secure fair compensation."
-      }
-    }
-  ],
+  "name": "What is a big-rig accident attorney and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a big-rig accident attorney and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A big-rig accident attorney specializes in legal cases involving commercial trucks, such as 18-wheelers, tractor-trailers, or semi-trucks. These accidents often involve complex regulations, multiple liable parties, and significant injuries. An attorney understands federal and state trucking laws, can investigate the accident thoroughly, negotiate with insurance companies, and represent your interests in court. Their expertise is crucial for navigating the complexities of these cases to help ensure you receive fair compensation for medical bills, lost wages, and other damages.",
+        "@type": "Answer",
+        "description": "A big-rig accident attorney specializes in cases involving commercial trucks and helps victims navigate complex regulations and secure fair compensation."
+      }
+    }
+  ],
+  "description": "A big-rig accident attorney specializes in cases involving commercial trucks and helps victims navigate complex regulations and secure fair compensation."
 }

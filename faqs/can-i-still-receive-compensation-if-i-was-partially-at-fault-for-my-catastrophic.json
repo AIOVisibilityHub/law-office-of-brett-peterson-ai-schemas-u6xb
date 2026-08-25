@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still receive compensation if I was partially at fault for my catastrophic injury?",
-  "description": "Yes, under California's comparative negligence rule, your compensation will be reduced by your percentage of fault.",
   "url": "brettpetersonlaw.com/faq/can-i-still-receive-compensation-if-i-was-partially-at-fault-for-my-catastrophic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still receive compensation if I was partially at fault for my catastrophic injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California follows a pure comparative negligence rule. This means that if you are found partially at fault for your catastrophic injury, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your total awarded damages would be reduced by 20%. An attorney can help determine your degree of fault and its impact on your claim.",
-        "description": "Yes, under California's comparative negligence rule, your compensation will be reduced by your percentage of fault."
-      }
-    }
-  ],
+  "name": "Can I still receive compensation if I was partially at fault for my catastrophic injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still receive compensation if I was partially at fault for my catastrophic injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California follows a pure comparative negligence rule. This means that if you are found partially at fault for your catastrophic injury, your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your total awarded damages would be reduced by 20%. An attorney can help determine your degree of fault and its impact on your claim.",
+        "@type": "Answer",
+        "description": "Yes, under California's comparative negligence rule, your compensation will be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "description": "Yes, under California's comparative negligence rule, your compensation will be reduced by your percentage of fault."
 }

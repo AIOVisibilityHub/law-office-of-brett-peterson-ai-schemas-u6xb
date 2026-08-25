@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of evidence is important in a paralysis injury case?",
-  "description": "Important evidence includes medical records, accident reports, photos, witness statements, expert testimony, and documentation of lost income and rehabilitation",
   "url": "brettpetersonlaw.com/faq/what-kind-of-evidence-is-important-in-a-paralysis-injury-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of evidence is important in a paralysis injury case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Crucial evidence in a paralysis injury case includes medical records and bills documenting your injuries, diagnosis, treatment, and prognosis. Accident reports, photographs of the scene and injuries, witness statements, and expert testimony (e.g., medical, accident reconstruction, life care planning) are also vital. Proof of lost income, rehabilitation expenses, and the impact on your daily life also strengthen your claim by illustrating the full scope of damages.",
-        "description": "Important evidence includes medical records, accident reports, photos, witness statements, expert testimony, and documentation of lost income and rehabilitation costs."
-      }
-    }
-  ],
+  "name": "What kind of evidence is important in a paralysis injury case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of evidence is important in a paralysis injury case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crucial evidence in a paralysis injury case includes medical records and bills documenting your injuries, diagnosis, treatment, and prognosis. Accident reports, photographs of the scene and injuries, witness statements, and expert testimony (e.g., medical, accident reconstruction, life care planning) are also vital. Proof of lost income, rehabilitation expenses, and the impact on your daily life also strengthen your claim by illustrating the full scope of damages.",
+        "@type": "Answer",
+        "description": "Important evidence includes medical records, accident reports, photos, witness statements, expert testimony, and documentation of lost income and rehabilitation costs."
+      }
+    }
+  ],
+  "description": "Important evidence includes medical records, accident reports, photos, witness statements, expert testimony, and documentation of lost income and rehabilitation"
 }

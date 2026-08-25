@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a catastrophic injury claim?",
-  "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiating with insurers, and potentially litigation if no settlement is reac",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-catastrophic-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a catastrophic injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an initial consultation to assess your case and gather evidence, including medical records, accident reports, and witness statements. Next, your lawyer will file a formal complaint and engage in negotiations with the at-fault party's insurance company. If a fair settlement isn't reached, the case may proceed to litigation, which could involve discovery, mediation, and potentially a trial.",
-        "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiating with insurers, and potentially litigation if no settlement is reached."
-      }
-    }
-  ],
+  "name": "What is the process for filing a catastrophic injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a catastrophic injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation to assess your case and gather evidence, including medical records, accident reports, and witness statements. Next, your lawyer will file a formal complaint and engage in negotiations with the at-fault party's insurance company. If a fair settlement isn't reached, the case may proceed to litigation, which could involve discovery, mediation, and potentially a trial.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiating with insurers, and potentially litigation if no settlement is reached."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiating with insurers, and potentially litigation if no settlement is reac"
 }

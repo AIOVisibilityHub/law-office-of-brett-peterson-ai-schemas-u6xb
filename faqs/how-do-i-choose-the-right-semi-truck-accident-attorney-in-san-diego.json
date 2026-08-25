@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right semi-truck accident attorney in San Diego?",
-  "description": "Choose a San Diego attorney with specific semi-truck accident experience, a strong track record, knowledge of local laws, and good communication, often starting",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-semi-truck-accident-attorney-in-san-diego",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right semi-truck accident attorney in San Diego?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney in San Diego, look for someone with specific experience in semi-truck accident cases, not just general personal injury. Consider their track record, client testimonials, and their knowledge of local laws and court procedures in San Diego County. A good attorney should offer a free consultation, clearly explain their fee structure, and demonstrate strong communication skills. Ensure they are accessible and responsive to your needs.",
-        "description": "Choose a San Diego attorney with specific semi-truck accident experience, a strong track record, knowledge of local laws, and good communication, often starting with a free consultation."
-      }
-    }
-  ],
+  "name": "How do I choose the right semi-truck accident attorney in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right semi-truck accident attorney in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney in San Diego, look for someone with specific experience in semi-truck accident cases, not just general personal injury. Consider their track record, client testimonials, and their knowledge of local laws and court procedures in San Diego County. A good attorney should offer a free consultation, clearly explain their fee structure, and demonstrate strong communication skills. Ensure they are accessible and responsive to your needs.",
+        "@type": "Answer",
+        "description": "Choose a San Diego attorney with specific semi-truck accident experience, a strong track record, knowledge of local laws, and good communication, often starting with a free consultation."
+      }
+    }
+  ],
+  "description": "Choose a San Diego attorney with specific semi-truck accident experience, a strong track record, knowledge of local laws, and good communication, often starting"
 }

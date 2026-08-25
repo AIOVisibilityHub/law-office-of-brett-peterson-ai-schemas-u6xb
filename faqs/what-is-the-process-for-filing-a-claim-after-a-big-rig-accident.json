@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a claim after a big-rig accident?",
-  "description": "The process involves an initial consultation, investigation, notifying relevant parties, negotiating a settlement, and potentially filing a lawsuit if needed.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-claim-after-a-big-rig-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a claim after a big-rig accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with an initial consultation with an attorney, who will assess your case and advise on the next steps. This is followed by a thorough investigation, including gathering evidence like police reports, medical records, witness statements, and truck logs. Your attorney will then formally notify the trucking company and their insurers of your intent to pursue a claim. Negotiations for a settlement will typically occur, and if a fair settlement cannot be reached, a lawsuit may be filed, potentially leading to mediation or trial.",
-        "description": "The process involves an initial consultation, investigation, notifying relevant parties, negotiating a settlement, and potentially filing a lawsuit if needed."
-      }
-    }
-  ],
+  "name": "What is the process for filing a claim after a big-rig accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a claim after a big-rig accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation with an attorney, who will assess your case and advise on the next steps. This is followed by a thorough investigation, including gathering evidence like police reports, medical records, witness statements, and truck logs. Your attorney will then formally notify the trucking company and their insurers of your intent to pursue a claim. Negotiations for a settlement will typically occur, and if a fair settlement cannot be reached, a lawsuit may be filed, potentially leading to mediation or trial.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, investigation, notifying relevant parties, negotiating a settlement, and potentially filing a lawsuit if needed."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, investigation, notifying relevant parties, negotiating a settlement, and potentially filing a lawsuit if needed."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of damages can a quadriplegia injury claim cover?",
-  "description": "Damages can cover medical expenses, lost wages, rehabilitation, adaptive equipment, pain and suffering, and loss of enjoyment of life.",
   "url": "brettpetersonlaw.com/faq/what-types-of-damages-can-a-quadriplegia-injury-claim-cover",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of damages can a quadriplegia injury claim cover?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A quadriplegia injury claim can seek compensation for a wide range of damages. This includes economic damages like past and future medical expenses, rehabilitation costs, lost income and earning capacity, and the cost of adaptive equipment or home modifications. Non-economic damages cover pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. The goal is to ensure comprehensive financial support for the lifelong impact of the injury.",
-        "description": "Damages can cover medical expenses, lost wages, rehabilitation, adaptive equipment, pain and suffering, and loss of enjoyment of life."
-      }
-    }
-  ],
+  "name": "What types of damages can a quadriplegia injury claim cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damages can a quadriplegia injury claim cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A quadriplegia injury claim can seek compensation for a wide range of damages. This includes economic damages like past and future medical expenses, rehabilitation costs, lost income and earning capacity, and the cost of adaptive equipment or home modifications. Non-economic damages cover pain and suffering, emotional distress, loss of enjoyment of life, and loss of companionship. The goal is to ensure comprehensive financial support for the lifelong impact of the injury.",
+        "@type": "Answer",
+        "description": "Damages can cover medical expenses, lost wages, rehabilitation, adaptive equipment, pain and suffering, and loss of enjoyment of life."
+      }
+    }
+  ],
+  "description": "Damages can cover medical expenses, lost wages, rehabilitation, adaptive equipment, pain and suffering, and loss of enjoyment of life."
 }

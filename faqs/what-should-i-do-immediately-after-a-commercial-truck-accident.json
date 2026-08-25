@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I do immediately after a commercial truck accident?",
-  "description": "Prioritize safety, seek medical attention, gather information at the scene, and contact an attorney before speaking with insurance.",
   "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-commercial-truck-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I do immediately after a commercial truck accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "After ensuring safety and seeking medical attention, gather as much information as possible at the scene. This includes taking photos of vehicle damage, road conditions, and any visible injuries. Exchange insurance and contact information with all parties involved, but avoid discussing fault. Report the accident to the police and your insurance company. It's also advisable to contact a commercial truck accident attorney early to understand your rights and options before speaking with insurance adjusters.",
-        "description": "Prioritize safety, seek medical attention, gather information at the scene, and contact an attorney before speaking with insurance."
-      }
-    }
-  ],
+  "name": "What should I do immediately after a commercial truck accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a commercial truck accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring safety and seeking medical attention, gather as much information as possible at the scene. This includes taking photos of vehicle damage, road conditions, and any visible injuries. Exchange insurance and contact information with all parties involved, but avoid discussing fault. Report the accident to the police and your insurance company. It's also advisable to contact a commercial truck accident attorney early to understand your rights and options before speaking with insurance adjusters.",
+        "@type": "Answer",
+        "description": "Prioritize safety, seek medical attention, gather information at the scene, and contact an attorney before speaking with insurance."
+      }
+    }
+  ],
+  "description": "Prioritize safety, seek medical attention, gather information at the scene, and contact an attorney before speaking with insurance."
 }

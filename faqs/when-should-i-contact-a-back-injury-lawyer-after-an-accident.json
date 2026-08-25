@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact a back injury lawyer after an accident?",
-  "description": "Contact a back injury lawyer as soon as possible after an accident to preserve evidence and properly initiate your claim.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-back-injury-lawyer-after-an-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact a back injury lawyer after an accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally advisable to contact a back injury lawyer as soon as possible after an accident, once your immediate medical needs are addressed. Early engagement allows your lawyer to investigate thoroughly, preserve crucial evidence, and ensure all necessary paperwork is filed correctly and on time. Delaying may complicate your claim and make it harder to gather accurate information.",
-        "description": "Contact a back injury lawyer as soon as possible after an accident to preserve evidence and properly initiate your claim."
-      }
-    }
-  ],
+  "name": "When should I contact a back injury lawyer after an accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a back injury lawyer after an accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally advisable to contact a back injury lawyer as soon as possible after an accident, once your immediate medical needs are addressed. Early engagement allows your lawyer to investigate thoroughly, preserve crucial evidence, and ensure all necessary paperwork is filed correctly and on time. Delaying may complicate your claim and make it harder to gather accurate information.",
+        "@type": "Answer",
+        "description": "Contact a back injury lawyer as soon as possible after an accident to preserve evidence and properly initiate your claim."
+      }
+    }
+  ],
+  "description": "Contact a back injury lawyer as soon as possible after an accident to preserve evidence and properly initiate your claim."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a San Diego truck accident lawyer cost?",
-  "description": "Most San Diego truck accident lawyers work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your compensation if th",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-san-diego-truck-accident-lawyer-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a San Diego truck accident lawyer cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most San Diego truck accident lawyers work on a contingency fee basis. This means you don't pay any upfront legal fees. Instead, the lawyer's fee is a percentage of the compensation they recover for you, either through a settlement or a court verdict. If no recovery is made, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without financial burden. Be sure to discuss the specific percentage and any potential litigation costs with your attorney during your initial consultation.",
-        "description": "Most San Diego truck accident lawyers work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your compensation if they win your case."
-      }
-    }
-  ],
+  "name": "How much does a San Diego truck accident lawyer cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a San Diego truck accident lawyer cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most San Diego truck accident lawyers work on a contingency fee basis. This means you don't pay any upfront legal fees. Instead, the lawyer's fee is a percentage of the compensation they recover for you, either through a settlement or a court verdict. If no recovery is made, you generally owe no attorney fees. This arrangement allows individuals to pursue justice without financial burden. Be sure to discuss the specific percentage and any potential litigation costs with your attorney during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most San Diego truck accident lawyers work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your compensation if they win your case."
+      }
+    }
+  ],
+  "description": "Most San Diego truck accident lawyers work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your compensation if th"
 }

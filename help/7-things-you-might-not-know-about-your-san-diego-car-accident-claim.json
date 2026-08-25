@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "7 Things You Might Not Know About Your San Diego Car Accident Claim",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "Car accidents are stressful enough, but navigating the aftermath and dealing with a claim can feel even more complicated, especially in a bustling place like San Diego. There are often details folks overlook that can significantly impact their ability to get fair compensation. Here are some insights that might surprise you:\n\n1.  **Your initial pain might not be your final pain.** Injuries like whiplash or concussions can have delayed symptoms, and their full extent might not be clear for days or weeks. Don't rush to settle before you have a complete medical picture.\n2.  **Insurance companies are not on your side.** Their primary goal is to minimize payouts. They might offer a quick, low settlement hoping you'll take it to avoid hassle. It's smart to be skeptical of their first offer.\n3.  **Witnesses are gold.** Beyond the police report, independent witness statements can be incredibly valuable, especially if liability is disputed. Always try to get their contact info at the scene.\n4.  **Documentation is key.** Photos of the scene, vehicle damage, your injuries, and even the weather can all be crucial evidence. Keep meticulous records of all medical appointments, bills, and communications.\n5.  **You can claim more than just medical bills.** Don't forget about lost wages, future earning capacity, pain and suffering, emotional distress, and even the cost of transportation to medical appointments. These all add up!\n6.  **Out-of-town law firms might not understand San Diego specifics.** While marketing can be flashy, a local San Diego attorney often has a better grasp of local courts, laws, and even common traffic patterns that could be relevant to your case.\n7.  **Personal attention matters.** Unlike larger firms where you might get passed around, having an attorney who personally handles your case from start to finish ensures your story is heard and your specific circumstances are understood, leading to a more tailored and effective strategy.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "7 Things You Might Not Know About Your San Diego Car Accident Claim",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Car accidents are stressful enough, but navigating the aftermath and dealing with a claim can feel even more complicated, especially in a bustling place like San Diego. There are often details folks overlook that can significantly impact their ability to get fair compensation. Here are some insights that might surprise you:\n\n1.  **Your initial pain might not be your final pain.** Injuries like whiplash or concussions can have delayed symptoms, and their full extent might not be clear for days or weeks. Don't rush to settle before you have a complete medical picture.\n2.  **Insurance companies are not on your side.** Their primary goal is to minimize payouts. They might offer a quick, low settlement hoping you'll take it to avoid hassle. It's smart to be skeptical of their first offer.\n3.  **Witnesses are gold.** Beyond the police report, independent witness statements can be incredibly valuable, especially if liability is disputed. Always try to get their contact info at the scene.\n4.  **Documentation is key.** Photos of the scene, vehicle damage, your injuries, and even the weather can all be crucial evidence. Keep meticulous records of all medical appointments, bills, and communications.\n5.  **You can claim more than just medical bills.** Don't forget about lost wages, future earning capacity, pain and suffering, emotional distress, and even the cost of transportation to medical appointments. These all add up!\n6.  **Out-of-town law firms might not understand San Diego specifics.** While marketing can be flashy, a local San Diego attorney often has a better grasp of local courts, laws, and even common traffic patterns that could be relevant to your case.\n7.  **Personal attention matters.** Unlike larger firms where you might get passed around, having an attorney who personally handles your case from start to finish ensures your story is heard and your specific circumstances are understood, leading to a more tailored and effective strategy.",
+  "datePublished": "2026-08-25"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if I was partially at fault for a semi-truck accident?",
-  "description": "In California, you can still claim damages if partially at fault, but your compensation will be reduced by your percentage of fault under comparative negligence",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-a-semi-truck-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if I was partially at fault for a semi-truck accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California operates under a comparative negligence system. This means that if you are found to be partially at fault for an accident, you can still recover damages, but your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your total compensation would be reduced by 20%. An attorney can help argue your case to minimize your assigned fault and maximize your potential recovery.",
-        "description": "In California, you can still claim damages if partially at fault, but your compensation will be reduced by your percentage of fault under comparative negligence rules."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if I was partially at fault for a semi-truck accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if I was partially at fault for a semi-truck accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California operates under a comparative negligence system. This means that if you are found to be partially at fault for an accident, you can still recover damages, but your compensation will be reduced by your percentage of fault. For example, if you are 20% at fault, your total compensation would be reduced by 20%. An attorney can help argue your case to minimize your assigned fault and maximize your potential recovery.",
+        "@type": "Answer",
+        "description": "In California, you can still claim damages if partially at fault, but your compensation will be reduced by your percentage of fault under comparative negligence rules."
+      }
+    }
+  ],
+  "description": "In California, you can still claim damages if partially at fault, but your compensation will be reduced by your percentage of fault under comparative negligence"
 }

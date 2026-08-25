@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a catastrophic injury?",
-  "description": "A catastrophic injury is a severe injury causing long-term disability, permanent impairment, or disfigurement, such as spinal cord or brain injuries.",
   "url": "brettpetersonlaw.com/faq/what-is-considered-a-catastrophic-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a catastrophic injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A catastrophic injury is a severe injury that often results in long-term disability, permanent impairment, or disfigurement. These injuries can include spinal cord damage, traumatic brain injuries, severe burns, loss of limb, or paralysis. They often require extensive medical treatment, rehabilitation, and can significantly impact a person's ability to work or perform daily activities.",
-        "description": "A catastrophic injury is a severe injury causing long-term disability, permanent impairment, or disfigurement, such as spinal cord or brain injuries."
-      }
-    }
-  ],
+  "name": "What is considered a catastrophic injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a catastrophic injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A catastrophic injury is a severe injury that often results in long-term disability, permanent impairment, or disfigurement. These injuries can include spinal cord damage, traumatic brain injuries, severe burns, loss of limb, or paralysis. They often require extensive medical treatment, rehabilitation, and can significantly impact a person's ability to work or perform daily activities.",
+        "@type": "Answer",
+        "description": "A catastrophic injury is a severe injury causing long-term disability, permanent impairment, or disfigurement, such as spinal cord or brain injuries."
+      }
+    }
+  ],
+  "description": "A catastrophic injury is a severe injury causing long-term disability, permanent impairment, or disfigurement, such as spinal cord or brain injuries."
 }

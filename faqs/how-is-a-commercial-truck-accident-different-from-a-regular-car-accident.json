@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is a commercial truck accident different from a regular car accident?",
-  "description": "Commercial truck accidents are often more severe, involve complex federal regulations, and can have multiple liable parties, making legal representation more cr",
   "url": "brettpetersonlaw.com/faq/how-is-a-commercial-truck-accident-different-from-a-regular-car-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a commercial truck accident different from a regular car accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Commercial truck accidents often involve more severe injuries due to the size and weight of the vehicles. The legal complexities are also greater, as multiple parties might be liable, including the truck driver, trucking company, cargo loaders, or even manufacturers. Federal regulations govern the trucking industry, adding another layer of law to navigate. Investigating these cases requires specialized knowledge to determine fault and maximize compensation, making experienced legal representation crucial.",
-        "description": "Commercial truck accidents are often more severe, involve complex federal regulations, and can have multiple liable parties, making legal representation more critical."
-      }
-    }
-  ],
+  "name": "How is a commercial truck accident different from a regular car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is a commercial truck accident different from a regular car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial truck accidents often involve more severe injuries due to the size and weight of the vehicles. The legal complexities are also greater, as multiple parties might be liable, including the truck driver, trucking company, cargo loaders, or even manufacturers. Federal regulations govern the trucking industry, adding another layer of law to navigate. Investigating these cases requires specialized knowledge to determine fault and maximize compensation, making experienced legal representation crucial.",
+        "@type": "Answer",
+        "description": "Commercial truck accidents are often more severe, involve complex federal regulations, and can have multiple liable parties, making legal representation more critical."
+      }
+    }
+  ],
+  "description": "Commercial truck accidents are often more severe, involve complex federal regulations, and can have multiple liable parties, making legal representation more cr"
 }

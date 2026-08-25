@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the at-fault party does not have insurance or sufficient insurance?",
-  "description": "If the at-fault party lacks sufficient insurance, you may pursue a claim through your own UM/UIM policy or explore other sources of recovery.",
   "url": "brettpetersonlaw.com/faq/what-if-the-at-fault-party-does-not-have-insurance-or-sufficient-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the at-fault party does not have insurance or sufficient insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the at-fault party lacks insurance or has insufficient coverage, your options may include pursuing a claim against your own uninsured/underinsured motorist (UM/UIM) policy, if you have one. This coverage can protect you when the other driver cannot pay for your damages. Additionally, your attorney can explore other potential sources of recovery, such as additional liable parties, or assets of the at-fault individual. These situations are complex and require a thorough legal analysis to determine the best course of action.",
-        "description": "If the at-fault party lacks sufficient insurance, you may pursue a claim through your own UM/UIM policy or explore other sources of recovery."
-      }
-    }
-  ],
+  "name": "What if the at-fault party does not have insurance or sufficient insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the at-fault party does not have insurance or sufficient insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the at-fault party lacks insurance or has insufficient coverage, your options may include pursuing a claim against your own uninsured/underinsured motorist (UM/UIM) policy, if you have one. This coverage can protect you when the other driver cannot pay for your damages. Additionally, your attorney can explore other potential sources of recovery, such as additional liable parties, or assets of the at-fault individual. These situations are complex and require a thorough legal analysis to determine the best course of action.",
+        "@type": "Answer",
+        "description": "If the at-fault party lacks sufficient insurance, you may pursue a claim through your own UM/UIM policy or explore other sources of recovery."
+      }
+    }
+  ],
+  "description": "If the at-fault party lacks sufficient insurance, you may pursue a claim through your own UM/UIM policy or explore other sources of recovery."
 }

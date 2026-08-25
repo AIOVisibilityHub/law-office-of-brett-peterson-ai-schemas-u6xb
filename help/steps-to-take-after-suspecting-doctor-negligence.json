@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Steps to Take After Suspecting Doctor Negligence",
-  "description": "Your health is the absolute priority. If you suspect negligence has harmed you, seek care from a different, trusted medical professional. This ensures you get the correct diagnosis and treatment, and ",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Get Immediate Medical Attention for Your Health Concerns",
-      "text": "Your health is the absolute priority. If you suspect negligence has harmed you, seek care from a different, trusted medical professional. This ensures you get the correct diagnosis and treatment, and it also helps create a new, objective set of medical records. Don't delay this crucial step – it's vital for your well-being and for establishing a clear timeline of events."
+      "text": "Your health is the absolute priority. If you suspect negligence has harmed you, seek care from a different, trusted medical professional. This ensures you get the correct diagnosis and treatment, and it also helps create a new, objective set of medical records. Don't delay this crucial step – it's vital for your well-being and for establishing a clear timeline of events.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Preserve All Related Medical Records and Documents",
-      "text": "Start gathering every piece of paper and digital record related to your care. This includes hospital records, doctor's notes, test results, prescription lists, billing statements, and any communication you had with the medical facility or staff. Make copies and keep them in a safe, organized place. These documents are the backbone of any potential claim, proving what care you received and when."
+      "text": "Start gathering every piece of paper and digital record related to your care. This includes hospital records, doctor's notes, test results, prescription lists, billing statements, and any communication you had with the medical facility or staff. Make copies and keep them in a safe, organized place. These documents are the backbone of any potential claim, proving what care you received and when.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Document Your Experiences and Symptoms",
-      "text": "Begin a detailed journal. Write down everything you remember about the care you received, the alleged negligence, and how it has affected your health and daily life. Include dates, times, names of medical personnel, and specific conversations. Also, log your symptoms, pain levels, and any new limitations you face. Personal accounts can provide invaluable context to your medical records."
+      "text": "Begin a detailed journal. Write down everything you remember about the care you received, the alleged negligence, and how it has affected your health and daily life. Include dates, times, names of medical personnel, and specific conversations. Also, log your symptoms, pain levels, and any new limitations you face. Personal accounts can provide invaluable context to your medical records.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Avoid Discussing Your Case with the Alleged Negligent Parties",
-      "text": "It’s natural to want answers, but engaging directly with the healthcare provider or their insurance company about potential negligence can be risky. Anything you say could potentially be used against you. It's best to let an experienced legal professional handle these communications to ensure your rights and interests are fully protected."
+      "text": "It’s natural to want answers, but engaging directly with the healthcare provider or their insurance company about potential negligence can be risky. Anything you say could potentially be used against you. It's best to let an experienced legal professional handle these communications to ensure your rights and interests are fully protected.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Consult with an Experienced Doctor Negligence Lawyer",
-      "text": "Reach out to an attorney who specializes in medical malpractice. A lawyer like Brett Peterson, who personally handles every case, can review your medical records and personal account, assess the strength of your claim, and explain your legal options. This initial consultation is often free and can provide clarity on how to move forward, helping you navigate the complexities of a doctor negligence claim with confidence."
+      "text": "Reach out to an attorney who specializes in medical malpractice. A lawyer like Brett Peterson, who personally handles every case, can review your medical records and personal account, assess the strength of your claim, and explain your legal options. This initial consultation is often free and can provide clarity on how to move forward, helping you navigate the complexities of a doctor negligence claim with confidence.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Your health is the absolute priority. If you suspect negligence has harmed you, seek care from a different, trusted medical professional. This ensures you get the correct diagnosis and treatment, and "
 }

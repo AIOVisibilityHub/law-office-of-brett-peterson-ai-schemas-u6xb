@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will my semi-truck accident case go to court?",
-  "description": "Many semi-truck accident cases settle out of court, but if negotiations fail or liability is disputed, the case may proceed to trial.",
   "url": "brettpetersonlaw.com/faq/will-my-semi-truck-accident-case-go-to-court",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will my semi-truck accident case go to court?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many semi-truck accident cases are settled out of court through negotiation or mediation, as both sides often prefer to avoid the time and expense of a trial. However, if a fair settlement cannot be reached through these methods, or if liability is heavily disputed, your case may proceed to trial. An experienced attorney prepares every case as if it will go to court, ensuring you are ready for any outcome.",
-        "description": "Many semi-truck accident cases settle out of court, but if negotiations fail or liability is disputed, the case may proceed to trial."
-      }
-    }
-  ],
+  "name": "Will my semi-truck accident case go to court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will my semi-truck accident case go to court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many semi-truck accident cases are settled out of court through negotiation or mediation, as both sides often prefer to avoid the time and expense of a trial. However, if a fair settlement cannot be reached through these methods, or if liability is heavily disputed, your case may proceed to trial. An experienced attorney prepares every case as if it will go to court, ensuring you are ready for any outcome.",
+        "@type": "Answer",
+        "description": "Many semi-truck accident cases settle out of court, but if negotiations fail or liability is disputed, the case may proceed to trial."
+      }
+    }
+  ],
+  "description": "Many semi-truck accident cases settle out of court, but if negotiations fail or liability is disputed, the case may proceed to trial."
 }

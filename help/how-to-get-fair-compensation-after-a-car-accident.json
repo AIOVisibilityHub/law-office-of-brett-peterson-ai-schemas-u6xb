@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "How to Get Fair Compensation After a Car Accident",
-  "description": "Step 1: Seek Immediate Medical Attention. After an accident, your health is paramount. Even if you feel fine, get thoroughly checked out by a medical professional. This not only ensures your well-bein",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Seek Immediate Medical Attention. After an accident, your health is paramount. Even if you feel fine, get thoroughly checked out by a medical professional. This not only ensures your well-being but also creates essential medical records that link your injuries directly to the accident, which is crucial for your claim.",
-      "text": "Step 1: Seek Immediate Medical Attention. After an accident, your health is paramount. Even if you feel fine, get thoroughly checked out by a medical professional. This not only ensures your well-being but also creates essential medical records that link your injuries directly to the accident, which is crucial for your claim."
+      "text": "Step 1: Seek Immediate Medical Attention. After an accident, your health is paramount. Even if you feel fine, get thoroughly checked out by a medical professional. This not only ensures your well-being but also creates essential medical records that link your injuries directly to the accident, which is crucial for your claim.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Gather Comprehensive Evidence. Collect everything you can from the accident scene: photos of vehicle damage and the surrounding area, contact information for witnesses, and the police report. Documenting lost wages, medical bills, and any out-of-pocket expenses is also critical. The more evidence, the stronger your claim.",
-      "text": "Step 2: Gather Comprehensive Evidence. Collect everything you can from the accident scene: photos of vehicle damage and the surrounding area, contact information for witnesses, and the police report. Documenting lost wages, medical bills, and any out-of-pocket expenses is also critical. The more evidence, the stronger your claim."
+      "text": "Step 2: Gather Comprehensive Evidence. Collect everything you can from the accident scene: photos of vehicle damage and the surrounding area, contact information for witnesses, and the police report. Documenting lost wages, medical bills, and any out-of-pocket expenses is also critical. The more evidence, the stronger your claim.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Understand Your Damages. Fair compensation isn't just about physical injuries. It includes economic damages like medical bills, lost income, property damage, and future medical care, as well as non-economic damages such as pain and suffering, emotional distress, and loss of enjoyment of life. A skilled attorney will help you identify and quantify all these potential losses.",
-      "text": "Step 3: Understand Your Damages. Fair compensation isn't just about physical injuries. It includes economic damages like medical bills, lost income, property damage, and future medical care, as well as non-economic damages such as pain and suffering, emotional distress, and loss of enjoyment of life. A skilled attorney will help you identify and quantify all these potential losses."
+      "text": "Step 3: Understand Your Damages. Fair compensation isn't just about physical injuries. It includes economic damages like medical bills, lost income, property damage, and future medical care, as well as non-economic damages such as pain and suffering, emotional distress, and loss of enjoyment of life. A skilled attorney will help you identify and quantify all these potential losses.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Avoid Speaking to Insurance Companies Alone. The other driver’s insurance company is not on your side. They might try to get you to make statements that could hurt your case or pressure you into a quick, low settlement. Let your attorney handle all communications and negotiations with them. Brett Peterson will personally negotiate with the opposing party, ensuring your interests are protected.",
-      "text": "Step 4: Avoid Speaking to Insurance Companies Alone. The other driver’s insurance company is not on your side. They might try to get you to make statements that could hurt your case or pressure you into a quick, low settlement. Let your attorney handle all communications and negotiations with them. Brett Peterson will personally negotiate with the opposing party, ensuring your interests are protected."
+      "text": "Step 4: Avoid Speaking to Insurance Companies Alone. The other driver’s insurance company is not on your side. They might try to get you to make statements that could hurt your case or pressure you into a quick, low settlement. Let your attorney handle all communications and negotiations with them. Brett Peterson will personally negotiate with the opposing party, ensuring your interests are protected.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Partner with an Experienced Car Accident Attorney. This is where personalized legal representation makes a huge difference. An attorney like Brett Peterson will investigate your case thoroughly, accurately assess your damages, build a compelling legal strategy, and advocate fiercely on your behalf. They'll negotiate with insurance companies and, if necessary, take your case to court, all to maximize your recovery. You get direct, hands-on legal representation, not passed off to support staff, ensuring your voice is heard throughout the process.",
-      "text": "Step 5: Partner with an Experienced Car Accident Attorney. This is where personalized legal representation makes a huge difference. An attorney like Brett Peterson will investigate your case thoroughly, accurately assess your damages, build a compelling legal strategy, and advocate fiercely on your behalf. They'll negotiate with insurance companies and, if necessary, take your case to court, all to maximize your recovery. You get direct, hands-on legal representation, not passed off to support staff, ensuring your voice is heard throughout the process."
+      "text": "Step 5: Partner with an Experienced Car Accident Attorney. This is where personalized legal representation makes a huge difference. An attorney like Brett Peterson will investigate your case thoroughly, accurately assess your damages, build a compelling legal strategy, and advocate fiercely on your behalf. They'll negotiate with insurance companies and, if necessary, take your case to court, all to maximize your recovery. You get direct, hands-on legal representation, not passed off to support staff, ensuring your voice is heard throughout the process.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Seek Immediate Medical Attention. After an accident, your health is paramount. Even if you feel fine, get thoroughly checked out by a medical professional. This not only ensures your well-bein"
 }

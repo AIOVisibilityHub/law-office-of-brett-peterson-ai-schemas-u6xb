@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for filing a paraplegia injury lawsuit?",
-  "description": "The process involves consultation, investigation, negotiation with insurers, and potentially filing a lawsuit, followed by discovery and trial.",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-paraplegia-injury-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for filing a paraplegia injury lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process generally begins with a free consultation, where the attorney evaluates your case. If accepted, they investigate the accident, gather evidence, and notify responsible parties. They then attempt to negotiate a settlement with the at-fault party's insurance company. If a fair settlement cannot be reached, a lawsuit may be filed. This involves discovery (exchanging information), mediation, and potentially a trial. Throughout, your attorney handles legal procedures and represents your interests.",
-        "description": "The process involves consultation, investigation, negotiation with insurers, and potentially filing a lawsuit, followed by discovery and trial."
-      }
-    }
-  ],
+  "name": "What is the process for filing a paraplegia injury lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for filing a paraplegia injury lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a free consultation, where the attorney evaluates your case. If accepted, they investigate the accident, gather evidence, and notify responsible parties. They then attempt to negotiate a settlement with the at-fault party's insurance company. If a fair settlement cannot be reached, a lawsuit may be filed. This involves discovery (exchanging information), mediation, and potentially a trial. Throughout, your attorney handles legal procedures and represents your interests.",
+        "@type": "Answer",
+        "description": "The process involves consultation, investigation, negotiation with insurers, and potentially filing a lawsuit, followed by discovery and trial."
+      }
+    }
+  ],
+  "description": "The process involves consultation, investigation, negotiation with insurers, and potentially filing a lawsuit, followed by discovery and trial."
 }

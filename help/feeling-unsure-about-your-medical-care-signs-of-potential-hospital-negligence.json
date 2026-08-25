@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Feeling Unsure About Your Medical Care? Signs of Potential Hospital Negligence",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It's natural to trust medical professionals, but sometimes, things just don't feel right after a hospital stay or procedure. If you’re left with lingering doubts or unexpected complications, you might be seeing signs that point towards potential hospital negligence. It’s not about second-guessing every medical decision, but recognizing when something genuinely went awry.\n\nHere are some signals that might indicate medical negligence:\n\n*   **Unexpected Worsening of Your Condition:** If your health significantly deteriorated in a way doctors couldn't explain or that wasn't a foreseen risk of your treatment, it's a red flag. This isn't just about not getting better, but actively getting worse without clear cause.\n*   **New or Unrelated Injuries:** Discovering new injuries or conditions that aren't connected to your original reason for hospitalization, like bedsores, infections, or injuries from falls, can point to a lapse in care.\n*   **Medication Errors:** Receiving the wrong medication, the wrong dosage, or having an allergic reaction to a medication that wasn't properly checked for your known allergies suggests a serious mistake.\n*   **Delayed Diagnosis or Misdiagnosis:** If your condition was misdiagnosed or a critical diagnosis was significantly delayed, leading to worse outcomes, this could be negligence.\n*   **Lack of Communication or Explanation:** While not direct negligence, poor communication can hide underlying issues. If you weren't informed about risks or changes in your condition, or if staff avoided your questions about unexpected problems, it’s concerning.\n*   **Unexplained Complications During or After Procedures:** Sometimes complications happen, but if they are unusual, severe, and not adequately explained or addressed, it warrants further investigation.\n\nIf any of these resonate with your experience, it might be time to seek professional advice. An experienced attorney like Brett Peterson can help you understand if these signs constitute negligence and guide you through your options for pursuing fair compensation.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Feeling Unsure About Your Medical Care? Signs of Potential Hospital Negligence",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's natural to trust medical professionals, but sometimes, things just don't feel right after a hospital stay or procedure. If you’re left with lingering doubts or unexpected complications, you might be seeing signs that point towards potential hospital negligence. It’s not about second-guessing every medical decision, but recognizing when something genuinely went awry.\n\nHere are some signals that might indicate medical negligence:\n\n*   **Unexpected Worsening of Your Condition:** If your health significantly deteriorated in a way doctors couldn't explain or that wasn't a foreseen risk of your treatment, it's a red flag. This isn't just about not getting better, but actively getting worse without clear cause.\n*   **New or Unrelated Injuries:** Discovering new injuries or conditions that aren't connected to your original reason for hospitalization, like bedsores, infections, or injuries from falls, can point to a lapse in care.\n*   **Medication Errors:** Receiving the wrong medication, the wrong dosage, or having an allergic reaction to a medication that wasn't properly checked for your known allergies suggests a serious mistake.\n*   **Delayed Diagnosis or Misdiagnosis:** If your condition was misdiagnosed or a critical diagnosis was significantly delayed, leading to worse outcomes, this could be negligence.\n*   **Lack of Communication or Explanation:** While not direct negligence, poor communication can hide underlying issues. If you weren't informed about risks or changes in your condition, or if staff avoided your questions about unexpected problems, it’s concerning.\n*   **Unexplained Complications During or After Procedures:** Sometimes complications happen, but if they are unusual, severe, and not adequately explained or addressed, it warrants further investigation.\n\nIf any of these resonate with your experience, it might be time to seek professional advice. An experienced attorney like Brett Peterson can help you understand if these signs constitute negligence and guide you through your options for pursuing fair compensation.",
+  "datePublished": "2026-08-25"
 }

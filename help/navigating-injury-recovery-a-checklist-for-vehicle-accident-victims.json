@@ -1,203 +1,15 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Navigating Injury Recovery: A Checklist for Vehicle Accident Victims",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "- [ ] Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you feel okay, to document injuries and address unseen issues.\n- [ ] Report the accident to the police — why a police report provides an official record of the incident, which is vital for insurance claims and legal proceedings.\n- [ ] Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer strong visual evidence to support your claim.\n- [ ] Gather contact and insurance info — why exchanging details with all parties involved is essential for filing claims and communicating about the accident.\n- [ ] Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related costs helps build a comprehensive picture of your damages.\n- [ ] Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitment to recovery and strengthens the link between the accident and your injuries.\n- [ ] Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively impact your ability to recover compensation.\n- [ ] Consult with an experienced personal injury attorney — why legal guidance from an expert can help you understand your rights, navigate complex insurance claims, and fight for fair compensation.\n\nHow to use this checklist: Go through these points step-by-step after a vehicle accident. It's a quick guide to make sure you're covering all your bases. The moments after an accident can be chaotic, but this list can help you stay organized and protect your rights. Remember, if you're in the San Diego area, the Law Office of Brett Peterson is here to help you understand your options and ensure your concerns are heard.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
-  "mainEntity": {
-    "@type": "ItemList",
-    "name": "Navigating Injury Recovery: A Checklist for Vehicle Accident Victims",
-    "numberOfItems": 8,
-    "itemListOrder": "https://schema.org/ItemListOrderAscending",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you…",
-        "description": "Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you feel okay, to document injuries and address unseen issues."
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Report the accident to the police — why a police report provides an official record of the incident, which…",
-        "description": "Report the accident to the police — why a police report provides an official record of the incident, which is vital for insurance claims and legal proceedings."
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer stron…",
-        "description": "Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer strong visual evidence to support your claim."
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Gather contact and insurance info — why exchanging details with all parties involved is essential for filin…",
-        "description": "Gather contact and insurance info — why exchanging details with all parties involved is essential for filing claims and communicating about the accident."
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related…",
-        "description": "Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related costs helps build a comprehensive picture of your damages."
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitme…",
-        "description": "Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitment to recovery and strengthens the link between the accident and your injuries."
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively i…",
-        "description": "Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively impact your ability to recover compensation."
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Consult with an experienced personal injury attorney — why legal guidance from an expert can help you under…",
-        "description": "Consult with an experienced personal injury attorney — why legal guidance from an expert can help you understand your rights, navigate complex insurance claims, and fight for fair compensation."
-      }
-    ]
+  "@context": "https://schema.org",
+  "headline": "Navigating Injury Recovery: A Checklist for Vehicle Accident Victims",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
   },
   "speakable": {
     "@type": "SpeakableSpecification",
@@ -207,5 +19,193 @@
       ".checklist",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Navigating Injury Recovery: A Checklist for Vehicle Accident Victims",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you feel okay, to document injuries and address unseen issues."
+      },
+      {
+        "name": "Report the accident to the police — why a police report provides an official record of the incident, which…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Report the accident to the police — why a police report provides an official record of the incident, which is vital for insurance claims and legal proceedings."
+      },
+      {
+        "name": "Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer stron…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer strong visual evidence to support your claim."
+      },
+      {
+        "name": "Gather contact and insurance info — why exchanging details with all parties involved is essential for filin…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Gather contact and insurance info — why exchanging details with all parties involved is essential for filing claims and communicating about the accident."
+      },
+      {
+        "name": "Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related costs helps build a comprehensive picture of your damages."
+      },
+      {
+        "name": "Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitme…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitment to recovery and strengthens the link between the accident and your injuries."
+      },
+      {
+        "name": "Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively i…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively impact your ability to recover compensation."
+      },
+      {
+        "name": "Consult with an experienced personal injury attorney — why legal guidance from an expert can help you under…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Consult with an experienced personal injury attorney — why legal guidance from an expert can help you understand your rights, navigate complex insurance claims, and fight for fair compensation."
+      }
+    ]
+  },
+  "articleBody": "- [ ] Seek immediate medical attention — why it’s crucial to get checked out right after an accident, even if you feel okay, to document injuries and address unseen issues.\n- [ ] Report the accident to the police — why a police report provides an official record of the incident, which is vital for insurance claims and legal proceedings.\n- [ ] Document the scene thoroughly — why photos of vehicle damage, road conditions, and any injuries offer strong visual evidence to support your claim.\n- [ ] Gather contact and insurance info — why exchanging details with all parties involved is essential for filing claims and communicating about the accident.\n- [ ] Keep a detailed record of all expenses — why tracking medical bills, lost wages, and other accident-related costs helps build a comprehensive picture of your damages.\n- [ ] Follow all medical advice and appointments — why adhering to your treatment plan demonstrates your commitment to recovery and strengthens the link between the accident and your injuries.\n- [ ] Avoid discussing fault with anyone but your attorney — why admitting fault, even casually, can negatively impact your ability to recover compensation.\n- [ ] Consult with an experienced personal injury attorney — why legal guidance from an expert can help you understand your rights, navigate complex insurance claims, and fight for fair compensation.\n\nHow to use this checklist: Go through these points step-by-step after a vehicle accident. It's a quick guide to make sure you're covering all your bases. The moments after an accident can be chaotic, but this list can help you stay organized and protect your rights. Remember, if you're in the San Diego area, the Law Office of Brett Peterson is here to help you understand your options and ensure your concerns are heard.",
+  "datePublished": "2026-08-25"
 }

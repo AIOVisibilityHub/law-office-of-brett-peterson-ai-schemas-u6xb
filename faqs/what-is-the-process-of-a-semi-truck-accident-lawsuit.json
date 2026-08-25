@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process of a semi-truck accident lawsuit?",
-  "description": "A semi-truck accident lawsuit involves investigation, filing a complaint, discovery, negotiations or mediation, and potentially a trial if no settlement is reac",
   "url": "brettpetersonlaw.com/faq/what-is-the-process-of-a-semi-truck-accident-lawsuit",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process of a semi-truck accident lawsuit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process typically begins with an investigation and evidence gathering, followed by filing a complaint. Both sides then engage in discovery, exchanging information and conducting depositions. Most cases attempt mediation or negotiation to reach a settlement. If a settlement isn't reached, the case may proceed to trial. An attorney guides you through each step, handling paperwork, deadlines, and negotiations, advocating for your best interests.",
-        "description": "A semi-truck accident lawsuit involves investigation, filing a complaint, discovery, negotiations or mediation, and potentially a trial if no settlement is reached."
-      }
-    }
-  ],
+  "name": "What is the process of a semi-truck accident lawsuit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of a semi-truck accident lawsuit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an investigation and evidence gathering, followed by filing a complaint. Both sides then engage in discovery, exchanging information and conducting depositions. Most cases attempt mediation or negotiation to reach a settlement. If a settlement isn't reached, the case may proceed to trial. An attorney guides you through each step, handling paperwork, deadlines, and negotiations, advocating for your best interests.",
+        "@type": "Answer",
+        "description": "A semi-truck accident lawsuit involves investigation, filing a complaint, discovery, negotiations or mediation, and potentially a trial if no settlement is reached."
+      }
+    }
+  ],
+  "description": "A semi-truck accident lawsuit involves investigation, filing a complaint, discovery, negotiations or mediation, and potentially a trial if no settlement is reac"
 }

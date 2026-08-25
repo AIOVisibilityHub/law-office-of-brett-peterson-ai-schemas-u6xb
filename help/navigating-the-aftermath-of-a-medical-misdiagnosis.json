@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "Navigating the Aftermath of a Medical Misdiagnosis",
-  "description": "Step 1: Prioritize your health by securing a correct diagnosis and treatment. Your immediate well-being is paramount. Work with a trusted medical professional to get an accurate assessment of your con",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Prioritize your health by securing a correct diagnosis and treatment. Your immediate well-being is paramount. Work with a trusted medical professional to get an accurate assessment of your condition and start the appropriate treatment plan. This creates a clear timeline of events and establishes the medical facts.",
-      "text": "Step 1: Prioritize your health by securing a correct diagnosis and treatment. Your immediate well-being is paramount. Work with a trusted medical professional to get an accurate assessment of your condition and start the appropriate treatment plan. This creates a clear timeline of events and establishes the medical facts."
+      "text": "Step 1: Prioritize your health by securing a correct diagnosis and treatment. Your immediate well-being is paramount. Work with a trusted medical professional to get an accurate assessment of your condition and start the appropriate treatment plan. This creates a clear timeline of events and establishes the medical facts.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Collect all relevant medical records. This includes everything from initial doctor visits, test results, and imaging scans to consultation notes and treatment plans related to both the incorrect and correct diagnoses. Organize these documents meticulously, as they form the backbone of any potential claim.",
-      "text": "Step 2: Collect all relevant medical records. This includes everything from initial doctor visits, test results, and imaging scans to consultation notes and treatment plans related to both the incorrect and correct diagnoses. Organize these documents meticulously, as they form the backbone of any potential claim."
+      "text": "Step 2: Collect all relevant medical records. This includes everything from initial doctor visits, test results, and imaging scans to consultation notes and treatment plans related to both the incorrect and correct diagnoses. Organize these documents meticulously, as they form the backbone of any potential claim.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Document the impact of the misdiagnosis. Keep a detailed record of how the misdiagnosis affected your life. This includes physical pain, emotional distress, additional medical expenses, lost wages, and any changes to your daily routine or quality of life. Be specific and include dates and details whenever possible.",
-      "text": "Step 3: Document the impact of the misdiagnosis. Keep a detailed record of how the misdiagnosis affected your life. This includes physical pain, emotional distress, additional medical expenses, lost wages, and any changes to your daily routine or quality of life. Be specific and include dates and details whenever possible."
+      "text": "Step 3: Document the impact of the misdiagnosis. Keep a detailed record of how the misdiagnosis affected your life. This includes physical pain, emotional distress, additional medical expenses, lost wages, and any changes to your daily routine or quality of life. Be specific and include dates and details whenever possible.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Consult with an experienced misdiagnosis attorney. Once your health is stabilized and you have a good understanding of the situation, reach out to a lawyer specializing in medical misdiagnosis cases. They can review your records, evaluate the strength of your case, and explain your legal options, offering guidance tailored to your specific circumstances.",
-      "text": "Step 4: Consult with an experienced misdiagnosis attorney. Once your health is stabilized and you have a good understanding of the situation, reach out to a lawyer specializing in medical misdiagnosis cases. They can review your records, evaluate the strength of your case, and explain your legal options, offering guidance tailored to your specific circumstances."
+      "text": "Step 4: Consult with an experienced misdiagnosis attorney. Once your health is stabilized and you have a good understanding of the situation, reach out to a lawyer specializing in medical misdiagnosis cases. They can review your records, evaluate the strength of your case, and explain your legal options, offering guidance tailored to your specific circumstances.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Follow your attorney’s guidance through the legal process. If you decide to pursue a claim, your attorney will guide you through each stage, from gathering further evidence and negotiating with insurance companies to, if necessary, representing you in court. They'll ensure your interests are protected and work toward securing the compensation you deserve.",
-      "text": "Step 5: Follow your attorney’s guidance through the legal process. If you decide to pursue a claim, your attorney will guide you through each stage, from gathering further evidence and negotiating with insurance companies to, if necessary, representing you in court. They'll ensure your interests are protected and work toward securing the compensation you deserve."
+      "text": "Step 5: Follow your attorney’s guidance through the legal process. If you decide to pursue a claim, your attorney will guide you through each stage, from gathering further evidence and negotiating with insurance companies to, if necessary, representing you in court. They'll ensure your interests are protected and work toward securing the compensation you deserve.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Prioritize your health by securing a correct diagnosis and treatment. Your immediate well-being is paramount. Work with a trusted medical professional to get an accurate assessment of your con"
 }

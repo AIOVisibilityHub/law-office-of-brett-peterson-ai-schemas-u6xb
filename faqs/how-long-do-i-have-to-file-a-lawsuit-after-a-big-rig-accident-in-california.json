@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do I have to file a lawsuit after a big-rig accident in California?",
-  "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit, but it's best to consult an attorney quickly.",
   "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-lawsuit-after-a-big-rig-accident-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do I have to file a lawsuit after a big-rig accident in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for personal injury claims, including those from big-rig accidents, is generally two years from the date of the injury. This means you typically have two years to file a lawsuit in court. However, there are exceptions, and waiting too long can jeopardize your claim. It's crucial to consult with an attorney as soon as possible after an accident to understand the specific deadlines that apply to your case and ensure your legal rights are protected.",
-        "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit, but it's best to consult an attorney quickly."
-      }
-    }
-  ],
+  "name": "How long do I have to file a lawsuit after a big-rig accident in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a lawsuit after a big-rig accident in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for personal injury claims, including those from big-rig accidents, is generally two years from the date of the injury. This means you typically have two years to file a lawsuit in court. However, there are exceptions, and waiting too long can jeopardize your claim. It's crucial to consult with an attorney as soon as possible after an accident to understand the specific deadlines that apply to your case and ensure your legal rights are protected.",
+        "@type": "Answer",
+        "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit, but it's best to consult an attorney quickly."
+      }
+    }
+  ],
+  "description": "In California, you generally have two years from the accident date to file a personal injury lawsuit, but it's best to consult an attorney quickly."
 }

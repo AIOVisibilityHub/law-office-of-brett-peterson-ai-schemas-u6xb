@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical timeline for resolving a delivery truck accident case?",
-  "description": "Case timelines vary, from a few months for simple cases to several years for complex ones, depending on injury severity and legal proceedings.",
   "url": "brettpetersonlaw.com/faq/what-is-the-typical-timeline-for-resolving-a-delivery-truck-accident-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical timeline for resolving a delivery truck accident case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The timeline for resolving a delivery truck accident case can vary significantly depending on the complexity of the accident, the severity of injuries, the cooperation of insurance companies, and court availability. Simple cases with clear liability and minor injuries might settle within a few months. More complex cases involving serious injuries, multiple parties, or disputes over fault can take one to three years, or even longer if a trial is necessary. Your attorney can provide a more accurate estimate once they've assessed the specifics of your case.",
-        "description": "Case timelines vary, from a few months for simple cases to several years for complex ones, depending on injury severity and legal proceedings."
-      }
-    }
-  ],
+  "name": "What is the typical timeline for resolving a delivery truck accident case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for resolving a delivery truck accident case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for resolving a delivery truck accident case can vary significantly depending on the complexity of the accident, the severity of injuries, the cooperation of insurance companies, and court availability. Simple cases with clear liability and minor injuries might settle within a few months. More complex cases involving serious injuries, multiple parties, or disputes over fault can take one to three years, or even longer if a trial is necessary. Your attorney can provide a more accurate estimate once they've assessed the specifics of your case.",
+        "@type": "Answer",
+        "description": "Case timelines vary, from a few months for simple cases to several years for complex ones, depending on injury severity and legal proceedings."
+      }
+    }
+  ],
+  "description": "Case timelines vary, from a few months for simple cases to several years for complex ones, depending on injury severity and legal proceedings."
 }

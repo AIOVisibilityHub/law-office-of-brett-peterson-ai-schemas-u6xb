@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "When to Call a Professional After a Hit-and-Run Accident",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "Hit-and-run accidents can be incredibly frustrating and leave you feeling helpless. While some minor incidents might be straightforward, there are definitely times when trying to handle everything yourself isn't the best idea. Knowing when to reach out for professional help can make a huge difference in the outcome of your situation and ensure you don't miss out on fair compensation.\n\nHere are some clear signals that it's time to contact an experienced hit-and-run accident attorney:\n\n*   **You're injured, even if it seems minor initially.** If you've sustained any physical injuries, from whiplash to more severe trauma, an attorney can help you understand your rights, ensure you get proper medical care, and fight for compensation for your medical bills, lost wages, and pain and suffering. They'll also help connect your injuries to the accident.\n*   **The police report is unclear or incomplete.** Sometimes, officers don't gather all the necessary information, or the report might not fully reflect what happened. An attorney can help investigate further, gather additional evidence, and ensure the official record supports your claim.\n*   **You're having trouble identifying the fleeing driver.** If there are no witnesses or clear surveillance footage, tracking down a hit-and-run driver can feel impossible. A legal professional has the resources and expertise to conduct a thorough investigation, potentially uncovering leads you wouldn't find on your own.\n*   **Your insurance company is giving you a hard time or denying your claim.** Even your own insurance company might try to minimize your payout or deny your claim, especially if the other driver isn't identified. An attorney can advocate for you, interpret your policy, and negotiate with the insurer to make sure you get what you're owed under your uninsured motorist coverage.\n*   **You're overwhelmed by the process.** Between dealing with injuries, vehicle repairs, insurance paperwork, and trying to recover from the shock, the whole experience can be incredibly stressful. A lawyer can take on the burden of the legal process, allowing you to focus on your recovery.\n\nDon't hesitate to seek guidance. A consultation can provide clarity on your specific situation and help you understand your best path forward.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional After a Hit-and-Run Accident",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Hit-and-run accidents can be incredibly frustrating and leave you feeling helpless. While some minor incidents might be straightforward, there are definitely times when trying to handle everything yourself isn't the best idea. Knowing when to reach out for professional help can make a huge difference in the outcome of your situation and ensure you don't miss out on fair compensation.\n\nHere are some clear signals that it's time to contact an experienced hit-and-run accident attorney:\n\n*   **You're injured, even if it seems minor initially.** If you've sustained any physical injuries, from whiplash to more severe trauma, an attorney can help you understand your rights, ensure you get proper medical care, and fight for compensation for your medical bills, lost wages, and pain and suffering. They'll also help connect your injuries to the accident.\n*   **The police report is unclear or incomplete.** Sometimes, officers don't gather all the necessary information, or the report might not fully reflect what happened. An attorney can help investigate further, gather additional evidence, and ensure the official record supports your claim.\n*   **You're having trouble identifying the fleeing driver.** If there are no witnesses or clear surveillance footage, tracking down a hit-and-run driver can feel impossible. A legal professional has the resources and expertise to conduct a thorough investigation, potentially uncovering leads you wouldn't find on your own.\n*   **Your insurance company is giving you a hard time or denying your claim.** Even your own insurance company might try to minimize your payout or deny your claim, especially if the other driver isn't identified. An attorney can advocate for you, interpret your policy, and negotiate with the insurer to make sure you get what you're owed under your uninsured motorist coverage.\n*   **You're overwhelmed by the process.** Between dealing with injuries, vehicle repairs, insurance paperwork, and trying to recover from the shock, the whole experience can be incredibly stressful. A lawyer can take on the burden of the legal process, allowing you to focus on your recovery.\n\nDon't hesitate to seek guidance. A consultation can provide clarity on your specific situation and help you understand your best path forward.",
+  "datePublished": "2026-08-25"
 }

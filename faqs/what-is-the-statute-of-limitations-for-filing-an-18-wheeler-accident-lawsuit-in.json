@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the statute of limitations for filing an 18-wheeler accident lawsuit in California?",
-  "description": "In California, the statute of limitations for filing an 18-wheeler accident lawsuit is generally two years from the date of injury. Missing this deadline can fo",
   "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-filing-an-18-wheeler-accident-lawsuit-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the statute of limitations for filing an 18-wheeler accident lawsuit in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, the statute of limitations for filing a personal injury lawsuit, including those stemming from an 18-wheeler accident, is generally two years from the date of the injury. This means you typically have two years to file a lawsuit in court. If you fail to file within this timeframe, you may lose your right to pursue compensation. There can be exceptions to this rule, so it is crucial to consult with an attorney promptly to understand the specific deadline for your case.",
-        "description": "In California, the statute of limitations for filing an 18-wheeler accident lawsuit is generally two years from the date of injury. Missing this deadline can forfeit your right to compensation."
-      }
-    }
-  ],
+  "name": "What is the statute of limitations for filing an 18-wheeler accident lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the statute of limitations for filing an 18-wheeler accident lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, the statute of limitations for filing a personal injury lawsuit, including those stemming from an 18-wheeler accident, is generally two years from the date of the injury. This means you typically have two years to file a lawsuit in court. If you fail to file within this timeframe, you may lose your right to pursue compensation. There can be exceptions to this rule, so it is crucial to consult with an attorney promptly to understand the specific deadline for your case.",
+        "@type": "Answer",
+        "description": "In California, the statute of limitations for filing an 18-wheeler accident lawsuit is generally two years from the date of injury. Missing this deadline can forfeit your right to compensation."
+      }
+    }
+  ],
+  "description": "In California, the statute of limitations for filing an 18-wheeler accident lawsuit is generally two years from the date of injury. Missing this deadline can fo"
 }

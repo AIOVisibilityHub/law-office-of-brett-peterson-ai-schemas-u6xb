@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does it cost to hire a fatal car accident attorney?",
-  "description": "Most attorneys work on a contingency fee, meaning you pay no upfront costs; they receive a percentage of any compensation recovered.",
   "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-fatal-car-accident-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does it cost to hire a fatal car accident attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most fatal car accident attorneys work on a contingency fee basis. This means you do not pay any upfront fees, and the attorney only gets paid if they successfully recover compensation for you. Their fee is a pre-agreed percentage of the settlement or court award. This arrangement allows families to pursue justice without the burden of immediate legal costs, making legal representation accessible during a challenging period. It's important to discuss the fee structure and any potential additional costs during your initial consultation.",
-        "description": "Most attorneys work on a contingency fee, meaning you pay no upfront costs; they receive a percentage of any compensation recovered."
-      }
-    }
-  ],
+  "name": "How much does it cost to hire a fatal car accident attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a fatal car accident attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most fatal car accident attorneys work on a contingency fee basis. This means you do not pay any upfront fees, and the attorney only gets paid if they successfully recover compensation for you. Their fee is a pre-agreed percentage of the settlement or court award. This arrangement allows families to pursue justice without the burden of immediate legal costs, making legal representation accessible during a challenging period. It's important to discuss the fee structure and any potential additional costs during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most attorneys work on a contingency fee, meaning you pay no upfront costs; they receive a percentage of any compensation recovered."
+      }
+    }
+  ],
+  "description": "Most attorneys work on a contingency fee, meaning you pay no upfront costs; they receive a percentage of any compensation recovered."
 }

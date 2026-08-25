@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What questions should I ask when choosing a commercial truck accident attorney?",
-  "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy.",
   "url": "brettpetersonlaw.com/faq/what-questions-should-i-ask-when-choosing-a-commercial-truck-accident-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What questions should I ask when choosing a commercial truck accident attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting an attorney, ask about their specific experience with commercial truck accident cases, not just general personal injury. Inquire about their track record, success rates, and if they have experience with federal trucking regulations. Ask about their communication style, fee structure (contingency basis), and how they plan to handle your case. A good attorney will provide clear answers and inspire confidence in their ability to represent you effectively.",
-        "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy."
-      }
-    }
-  ],
+  "name": "What questions should I ask when choosing a commercial truck accident attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask when choosing a commercial truck accident attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an attorney, ask about their specific experience with commercial truck accident cases, not just general personal injury. Inquire about their track record, success rates, and if they have experience with federal trucking regulations. Ask about their communication style, fee structure (contingency basis), and how they plan to handle your case. A good attorney will provide clear answers and inspire confidence in their ability to represent you effectively.",
+        "@type": "Answer",
+        "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy."
+      }
+    }
+  ],
+  "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy."
 }

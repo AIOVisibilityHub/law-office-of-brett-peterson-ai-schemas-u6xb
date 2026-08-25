@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When do I need an 18-wheeler accident lawyer?",
-  "description": "You need an 18-wheeler accident lawyer quickly after a collision due to case complexity, severe injuries, and multiple responsible parties. An attorney helps na",
   "url": "brettpetersonlaw.com/faq/when-do-i-need-an-18-wheeler-accident-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When do I need an 18-wheeler accident lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider hiring an 18-wheeler accident lawyer as soon as possible after a collision with a large truck. These cases are often more complex than standard car accidents due to the severity of injuries, multiple liable parties (e.g., driver, trucking company, maintenance crew), and extensive federal regulations. An attorney can help investigate the cause, gather crucial evidence, navigate legal procedures, and negotiate with powerful trucking company insurers, ensuring your rights are protected and you pursue fair compensation.",
-        "description": "You need an 18-wheeler accident lawyer quickly after a collision due to case complexity, severe injuries, and multiple responsible parties. An attorney helps navigate federal regulations and deals with insurers."
-      }
-    }
-  ],
+  "name": "When do I need an 18-wheeler accident lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an 18-wheeler accident lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring an 18-wheeler accident lawyer as soon as possible after a collision with a large truck. These cases are often more complex than standard car accidents due to the severity of injuries, multiple liable parties (e.g., driver, trucking company, maintenance crew), and extensive federal regulations. An attorney can help investigate the cause, gather crucial evidence, navigate legal procedures, and negotiate with powerful trucking company insurers, ensuring your rights are protected and you pursue fair compensation.",
+        "@type": "Answer",
+        "description": "You need an 18-wheeler accident lawyer quickly after a collision due to case complexity, severe injuries, and multiple responsible parties. An attorney helps navigate federal regulations and deals with insurers."
+      }
+    }
+  ],
+  "description": "You need an 18-wheeler accident lawyer quickly after a collision due to case complexity, severe injuries, and multiple responsible parties. An attorney helps na"
 }

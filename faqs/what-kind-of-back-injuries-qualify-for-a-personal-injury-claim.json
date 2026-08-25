@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of back injuries qualify for a personal injury claim?",
-  "description": "Back injuries such as herniated discs, strains, or spinal cord damage resulting from another's negligence may qualify for a claim.",
   "url": "brettpetersonlaw.com/faq/what-kind-of-back-injuries-qualify-for-a-personal-injury-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of back injuries qualify for a personal injury claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many types of back injuries can qualify for a personal injury claim, provided they resulted from someone else's negligence. These can include herniated discs, spinal cord injuries, muscle strains, sprains, or fractures. The key is demonstrating that the injury was directly caused by an incident like a car accident, slip and fall, or workplace incident due to another party's fault. A back injury lawyer can help assess your specific situation.",
-        "description": "Back injuries such as herniated discs, strains, or spinal cord damage resulting from another's negligence may qualify for a claim."
-      }
-    }
-  ],
+  "name": "What kind of back injuries qualify for a personal injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of back injuries qualify for a personal injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of back injuries can qualify for a personal injury claim, provided they resulted from someone else's negligence. These can include herniated discs, spinal cord injuries, muscle strains, sprains, or fractures. The key is demonstrating that the injury was directly caused by an incident like a car accident, slip and fall, or workplace incident due to another party's fault. A back injury lawyer can help assess your specific situation.",
+        "@type": "Answer",
+        "description": "Back injuries such as herniated discs, strains, or spinal cord damage resulting from another's negligence may qualify for a claim."
+      }
+    }
+  ],
+  "description": "Back injuries such as herniated discs, strains, or spinal cord damage resulting from another's negligence may qualify for a claim."
 }

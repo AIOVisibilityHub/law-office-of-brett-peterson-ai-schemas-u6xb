@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I hire a spinal cord injury lawyer?",
-  "description": "You should hire a spinal cord injury lawyer as soon as possible after the injury to preserve evidence and protect your legal rights.",
   "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-spinal-cord-injury-lawyer",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I hire a spinal cord injury lawyer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally advisable to contact a spinal cord injury lawyer as soon as possible after the injury, once your immediate medical needs are addressed. Early involvement allows the attorney to preserve crucial evidence, interview witnesses while memories are fresh, and navigate complex legal procedures effectively. Waiting too long can jeopardize your claim, as evidence may disappear and statutes of limitations could expire. A timely consultation ensures your legal rights are protected from the outset.",
-        "description": "You should hire a spinal cord injury lawyer as soon as possible after the injury to preserve evidence and protect your legal rights."
-      }
-    }
-  ],
+  "name": "When should I hire a spinal cord injury lawyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a spinal cord injury lawyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally advisable to contact a spinal cord injury lawyer as soon as possible after the injury, once your immediate medical needs are addressed. Early involvement allows the attorney to preserve crucial evidence, interview witnesses while memories are fresh, and navigate complex legal procedures effectively. Waiting too long can jeopardize your claim, as evidence may disappear and statutes of limitations could expire. A timely consultation ensures your legal rights are protected from the outset.",
+        "@type": "Answer",
+        "description": "You should hire a spinal cord injury lawyer as soon as possible after the injury to preserve evidence and protect your legal rights."
+      }
+    }
+  ],
+  "description": "You should hire a spinal cord injury lawyer as soon as possible after the injury to preserve evidence and protect your legal rights."
 }

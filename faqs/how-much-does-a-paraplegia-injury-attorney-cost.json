@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does a paraplegia injury attorney cost?",
-  "description": "Most paraplegia injury attorneys work on a contingency fee basis, meaning they only get paid if they win your case.",
   "url": "brettpetersonlaw.com/faq/how-much-does-a-paraplegia-injury-attorney-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does a paraplegia injury attorney cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most paraplegia injury attorneys work on a contingency fee basis. This means you do not pay any upfront fees or hourly charges. Instead, the attorney's payment is a percentage of the compensation they secure for you, either through a settlement or a court award. If they don't win your case, you generally don't owe them attorney fees. This arrangement allows individuals to pursue justice without financial burden during a challenging time.",
-        "description": "Most paraplegia injury attorneys work on a contingency fee basis, meaning they only get paid if they win your case."
-      }
-    }
-  ],
+  "name": "How much does a paraplegia injury attorney cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a paraplegia injury attorney cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most paraplegia injury attorneys work on a contingency fee basis. This means you do not pay any upfront fees or hourly charges. Instead, the attorney's payment is a percentage of the compensation they secure for you, either through a settlement or a court award. If they don't win your case, you generally don't owe them attorney fees. This arrangement allows individuals to pursue justice without financial burden during a challenging time.",
+        "@type": "Answer",
+        "description": "Most paraplegia injury attorneys work on a contingency fee basis, meaning they only get paid if they win your case."
+      }
+    }
+  ],
+  "description": "Most paraplegia injury attorneys work on a contingency fee basis, meaning they only get paid if they win your case."
 }

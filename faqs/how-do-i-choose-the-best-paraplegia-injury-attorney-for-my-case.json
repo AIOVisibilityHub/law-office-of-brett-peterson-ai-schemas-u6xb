@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the best paraplegia injury attorney for my case?",
-  "description": "Choose an attorney with specific experience in spinal cord injury cases, a strong local reputation, and good communication.",
   "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-paraplegia-injury-attorney-for-my-case",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the best paraplegia injury attorney for my case?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When choosing an attorney, look for someone with specific experience in spinal cord injury cases and a proven track record of successful outcomes. Consider their local reputation, communication style, and whether they offer a free consultation to discuss your case without obligation. Ensure they understand the unique medical and financial challenges associated with paraplegia. A compassionate yet assertive legal advocate is crucial for these complex claims.",
-        "description": "Choose an attorney with specific experience in spinal cord injury cases, a strong local reputation, and good communication."
-      }
-    }
-  ],
+  "name": "How do I choose the best paraplegia injury attorney for my case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best paraplegia injury attorney for my case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an attorney, look for someone with specific experience in spinal cord injury cases and a proven track record of successful outcomes. Consider their local reputation, communication style, and whether they offer a free consultation to discuss your case without obligation. Ensure they understand the unique medical and financial challenges associated with paraplegia. A compassionate yet assertive legal advocate is crucial for these complex claims.",
+        "@type": "Answer",
+        "description": "Choose an attorney with specific experience in spinal cord injury cases, a strong local reputation, and good communication."
+      }
+    }
+  ],
+  "description": "Choose an attorney with specific experience in spinal cord injury cases, a strong local reputation, and good communication."
 }

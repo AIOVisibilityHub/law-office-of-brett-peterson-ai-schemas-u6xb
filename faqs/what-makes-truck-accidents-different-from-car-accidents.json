@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What makes truck accidents different from car accidents?",
-  "description": "Truck accidents involve larger vehicles, often result in more severe injuries, and have complex legal aspects due to federal regulations and multiple potential",
   "url": "brettpetersonlaw.com/faq/what-makes-truck-accidents-different-from-car-accidents",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes truck accidents different from car accidents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Truck accidents often differ significantly from car accidents due to the sheer size, weight, and commercial nature of large trucks. The potential for severe injuries and fatalities is much higher. Investigations can be more complex, involving federal trucking regulations, multiple liable parties (e.g., driver, trucking company, maintenance crew, cargo loaders), and specialized evidence like black box data and driver logs. These cases typically involve higher insurance policy limits and require attorneys with specific experience in commercial vehicle litigation.",
-        "description": "Truck accidents involve larger vehicles, often result in more severe injuries, and have complex legal aspects due to federal regulations and multiple potential liable parties."
-      }
-    }
-  ],
+  "name": "What makes truck accidents different from car accidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What makes truck accidents different from car accidents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Truck accidents often differ significantly from car accidents due to the sheer size, weight, and commercial nature of large trucks. The potential for severe injuries and fatalities is much higher. Investigations can be more complex, involving federal trucking regulations, multiple liable parties (e.g., driver, trucking company, maintenance crew, cargo loaders), and specialized evidence like black box data and driver logs. These cases typically involve higher insurance policy limits and require attorneys with specific experience in commercial vehicle litigation.",
+        "@type": "Answer",
+        "description": "Truck accidents involve larger vehicles, often result in more severe injuries, and have complex legal aspects due to federal regulations and multiple potential liable parties."
+      }
+    }
+  ],
+  "description": "Truck accidents involve larger vehicles, often result in more severe injuries, and have complex legal aspects due to federal regulations and multiple potential"
 }

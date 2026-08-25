@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "The Insurance Company Called Me After My Accident — Should I Talk to Them?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It’s common for insurance companies, especially the other driver’s, to reach out quickly after a rear-end collision. They might seem friendly and helpful, but it’s super important to understand their motivations before you say anything that could jeopardize your claim. You might feel pressured to provide a statement, but pausing and considering your options is crucial.\n\nFirst, know that insurance companies are primarily looking out for their bottom line, which often means paying out as little as possible. Anything you say, even seemingly innocent comments, can be used against you later to minimize your claim. Second, you are generally not legally obligated to give a recorded statement to the *other* driver's insurance company. You should report the accident to your *own* insurance company, but even then, be cautious about providing extensive details about your injuries until you've seen a doctor and understand your condition. Third, if they offer a quick settlement, be wary. Early offers are almost always lowball offers, made before the full extent of your injuries and damages are known. You might be signing away your right to future compensation for ongoing medical issues. Finally, and this is a big one, it’s highly advisable to consult with a rear-end collision lawyer, like Brett Peterson, before speaking with any insurance adjuster beyond the initial report. An experienced attorney can handle all communications with insurance companies on your behalf, protect your rights, and ensure that you don't inadvertently say something that could harm your case. This ensures you get personalized representation and your concerns are heard, not just dismissed by an adjuster looking to close a claim quickly.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "The Insurance Company Called Me After My Accident — Should I Talk to Them?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s common for insurance companies, especially the other driver’s, to reach out quickly after a rear-end collision. They might seem friendly and helpful, but it’s super important to understand their motivations before you say anything that could jeopardize your claim. You might feel pressured to provide a statement, but pausing and considering your options is crucial.\n\nFirst, know that insurance companies are primarily looking out for their bottom line, which often means paying out as little as possible. Anything you say, even seemingly innocent comments, can be used against you later to minimize your claim. Second, you are generally not legally obligated to give a recorded statement to the *other* driver's insurance company. You should report the accident to your *own* insurance company, but even then, be cautious about providing extensive details about your injuries until you've seen a doctor and understand your condition. Third, if they offer a quick settlement, be wary. Early offers are almost always lowball offers, made before the full extent of your injuries and damages are known. You might be signing away your right to future compensation for ongoing medical issues. Finally, and this is a big one, it’s highly advisable to consult with a rear-end collision lawyer, like Brett Peterson, before speaking with any insurance adjuster beyond the initial report. An experienced attorney can handle all communications with insurance companies on your behalf, protect your rights, and ensure that you don't inadvertently say something that could harm your case. This ensures you get personalized representation and your concerns are heard, not just dismissed by an adjuster looking to close a claim quickly.",
+  "datePublished": "2026-08-25"
 }

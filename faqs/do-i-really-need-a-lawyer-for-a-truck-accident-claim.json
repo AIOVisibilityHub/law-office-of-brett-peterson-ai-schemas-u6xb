@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I really need a lawyer for a truck accident claim?",
-  "description": "Hiring a lawyer for a truck accident claim is highly advisable due to the complexity, severe injuries, and aggressive defense from trucking companies and insure",
   "url": "brettpetersonlaw.com/faq/do-i-really-need-a-lawyer-for-a-truck-accident-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I really need a lawyer for a truck accident claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "While not legally required, hiring a lawyer for a truck accident claim is highly advisable. Trucking companies and their insurers have substantial resources and legal teams dedicated to minimizing payouts. An experienced San Diego truck accident lawyer can navigate complex federal and state regulations, investigate the cause, gather evidence, handle communication with insurance companies, and negotiate for fair compensation. Without legal representation, you may struggle to secure the full compensation you deserve for medical bills, lost wages, and pain and suffering.",
-        "description": "Hiring a lawyer for a truck accident claim is highly advisable due to the complexity, severe injuries, and aggressive defense from trucking companies and insurers."
-      }
-    }
-  ],
+  "name": "Do I really need a lawyer for a truck accident claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I really need a lawyer for a truck accident claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not legally required, hiring a lawyer for a truck accident claim is highly advisable. Trucking companies and their insurers have substantial resources and legal teams dedicated to minimizing payouts. An experienced San Diego truck accident lawyer can navigate complex federal and state regulations, investigate the cause, gather evidence, handle communication with insurance companies, and negotiate for fair compensation. Without legal representation, you may struggle to secure the full compensation you deserve for medical bills, lost wages, and pain and suffering.",
+        "@type": "Answer",
+        "description": "Hiring a lawyer for a truck accident claim is highly advisable due to the complexity, severe injuries, and aggressive defense from trucking companies and insurers."
+      }
+    }
+  ],
+  "description": "Hiring a lawyer for a truck accident claim is highly advisable due to the complexity, severe injuries, and aggressive defense from trucking companies and insure"
 }

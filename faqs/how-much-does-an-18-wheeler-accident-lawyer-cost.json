@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does an 18-wheeler accident lawyer cost?",
-  "description": "Most 18-wheeler accident lawyers work on a contingency fee basis, meaning you pay no upfront legal fees. Fees are a percentage of your settlement or award, only",
   "url": "brettpetersonlaw.com/faq/how-much-does-an-18-wheeler-accident-lawyer-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does an 18-wheeler accident lawyer cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most 18-wheeler accident lawyers, including the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the final settlement or court award you receive. If your case is not successful, you generally owe no attorney fees. This arrangement allows individuals to pursue justice regardless of their financial situation after an accident, as fees are collected only if compensation is secured.",
-        "description": "Most 18-wheeler accident lawyers work on a contingency fee basis, meaning you pay no upfront legal fees. Fees are a percentage of your settlement or award, only if your case is successful."
-      }
-    }
-  ],
+  "name": "How much does an 18-wheeler accident lawyer cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an 18-wheeler accident lawyer cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most 18-wheeler accident lawyers, including the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fee is a percentage of the final settlement or court award you receive. If your case is not successful, you generally owe no attorney fees. This arrangement allows individuals to pursue justice regardless of their financial situation after an accident, as fees are collected only if compensation is secured.",
+        "@type": "Answer",
+        "description": "Most 18-wheeler accident lawyers work on a contingency fee basis, meaning you pay no upfront legal fees. Fees are a percentage of your settlement or award, only if your case is successful."
+      }
+    }
+  ],
+  "description": "Most 18-wheeler accident lawyers work on a contingency fee basis, meaning you pay no upfront legal fees. Fees are a percentage of your settlement or award, only"
 }

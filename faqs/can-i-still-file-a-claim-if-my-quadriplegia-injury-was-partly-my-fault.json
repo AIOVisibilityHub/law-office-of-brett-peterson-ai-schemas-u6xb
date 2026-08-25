@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I still file a claim if my quadriplegia injury was partly my fault?",
-  "description": "In California, you can still file a claim even if partly at fault, but your compensation may be reduced by your percentage of fault.",
   "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-my-quadriplegia-injury-was-partly-my-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I still file a claim if my quadriplegia injury was partly my fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In California, you can still pursue a claim even if you were partly at fault for the accident that caused your quadriplegia injury. California operates under a pure comparative negligence system. This means that your compensation may be reduced by the percentage of fault assigned to you. For example, if you are found 20% at fault, your total damages would be reduced by 20%. An attorney can help determine fault and maximize your potential recovery.",
-        "description": "In California, you can still file a claim even if partly at fault, but your compensation may be reduced by your percentage of fault."
-      }
-    }
-  ],
+  "name": "Can I still file a claim if my quadriplegia injury was partly my fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still file a claim if my quadriplegia injury was partly my fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, you can still pursue a claim even if you were partly at fault for the accident that caused your quadriplegia injury. California operates under a pure comparative negligence system. This means that your compensation may be reduced by the percentage of fault assigned to you. For example, if you are found 20% at fault, your total damages would be reduced by 20%. An attorney can help determine fault and maximize your potential recovery.",
+        "@type": "Answer",
+        "description": "In California, you can still file a claim even if partly at fault, but your compensation may be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "description": "In California, you can still file a claim even if partly at fault, but your compensation may be reduced by your percentage of fault."
 }

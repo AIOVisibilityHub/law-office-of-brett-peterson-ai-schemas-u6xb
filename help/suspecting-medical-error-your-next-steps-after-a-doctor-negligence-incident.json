@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Suspecting Medical Error? Your Next Steps After a Doctor Negligence Incident",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "It’s a truly frightening experience to realize that a medical professional’s negligence might have caused you harm. The trust you place in doctors is immense, and when that trust is broken due to carelessness or error, the consequences can be devastating. If you suspect you've been a victim of doctor negligence, knowing your next steps is crucial for your health and potential legal recourse.\n\nFirst, focus on your health. Your priority should be to seek appropriate medical care to address any injuries or worsening conditions caused by the suspected negligence. This might involve getting a second opinion or seeing a new specialist. Ensuring you receive the correct treatment is not only vital for your recovery but also helps to establish a clear medical record of the harm sustained.\n\nNext, meticulously document everything. Keep a detailed log of all medical appointments, treatments, medications, and communications with healthcare providers. This includes dates, times, and specific notes on what was discussed or prescribed. Also, track any related expenses, lost income, and the emotional toll the negligence has taken. Comprehensive records will be essential.\n\nAvoid discussing fault or making statements with the at-fault parties. It's natural to want answers, but engaging in direct conversations with the medical facility or individual doctor you believe was negligent can complicate your case. They might try to downplay the incident or gather information that could be used against you.\n\nFinally, connect with a legal professional experienced in doctor negligence. An attorney like Brett Peterson, who focuses on personal injury cases involving medical negligence, can provide invaluable guidance. They can assess the details of your situation, help you understand if you have a valid claim, and navigate the complex legal process to pursue justice and fair compensation on your behalf.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "Suspecting Medical Error? Your Next Steps After a Doctor Negligence Incident",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a truly frightening experience to realize that a medical professional’s negligence might have caused you harm. The trust you place in doctors is immense, and when that trust is broken due to carelessness or error, the consequences can be devastating. If you suspect you've been a victim of doctor negligence, knowing your next steps is crucial for your health and potential legal recourse.\n\nFirst, focus on your health. Your priority should be to seek appropriate medical care to address any injuries or worsening conditions caused by the suspected negligence. This might involve getting a second opinion or seeing a new specialist. Ensuring you receive the correct treatment is not only vital for your recovery but also helps to establish a clear medical record of the harm sustained.\n\nNext, meticulously document everything. Keep a detailed log of all medical appointments, treatments, medications, and communications with healthcare providers. This includes dates, times, and specific notes on what was discussed or prescribed. Also, track any related expenses, lost income, and the emotional toll the negligence has taken. Comprehensive records will be essential.\n\nAvoid discussing fault or making statements with the at-fault parties. It's natural to want answers, but engaging in direct conversations with the medical facility or individual doctor you believe was negligent can complicate your case. They might try to downplay the incident or gather information that could be used against you.\n\nFinally, connect with a legal professional experienced in doctor negligence. An attorney like Brett Peterson, who focuses on personal injury cases involving medical negligence, can provide invaluable guidance. They can assess the details of your situation, help you understand if you have a valid claim, and navigate the complex legal process to pursue justice and fair compensation on your behalf.",
+  "datePublished": "2026-08-25"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the truck driver was uninsured or underinsured?",
-  "description": "You may use your own UM/UIM coverage or hold other liable parties, like the trucking company, responsible if the driver is uninsured or underinsured.",
   "url": "brettpetersonlaw.com/faq/what-if-the-truck-driver-was-uninsured-or-underinsured",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the truck driver was uninsured or underinsured?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the at-fault truck driver is uninsured or underinsured, your options for recovery can become more complex, but you may still have avenues for compensation. Depending on your own insurance policy, you might be able to file a claim under your uninsured/underinsured motorist (UM/UIM) coverage. Additionally, an attorney can investigate whether other parties, such as the trucking company or cargo owner, can be held liable, even if the driver's insurance is insufficient.",
-        "description": "You may use your own UM/UIM coverage or hold other liable parties, like the trucking company, responsible if the driver is uninsured or underinsured."
-      }
-    }
-  ],
+  "name": "What if the truck driver was uninsured or underinsured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the truck driver was uninsured or underinsured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the at-fault truck driver is uninsured or underinsured, your options for recovery can become more complex, but you may still have avenues for compensation. Depending on your own insurance policy, you might be able to file a claim under your uninsured/underinsured motorist (UM/UIM) coverage. Additionally, an attorney can investigate whether other parties, such as the trucking company or cargo owner, can be held liable, even if the driver's insurance is insufficient.",
+        "@type": "Answer",
+        "description": "You may use your own UM/UIM coverage or hold other liable parties, like the trucking company, responsible if the driver is uninsured or underinsured."
+      }
+    }
+  ],
+  "description": "You may use your own UM/UIM coverage or hold other liable parties, like the trucking company, responsible if the driver is uninsured or underinsured."
 }

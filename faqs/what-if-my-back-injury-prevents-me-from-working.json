@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if my back injury prevents me from working?",
-  "description": "If your back injury prevents you from working, your claim can include compensation for past and future lost wages and diminished earning capacity.",
   "url": "brettpetersonlaw.com/faq/what-if-my-back-injury-prevents-me-from-working",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if my back injury prevents me from working?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If your back injury prevents you from working, your personal injury claim can include compensation for lost wages, both past and future. This covers income you've already missed and projected income you will lose due to your inability to work. If your injury results in a permanent disability that affects your long-term earning capacity, your claim can also seek damages for that diminished ability.",
-        "description": "If your back injury prevents you from working, your claim can include compensation for past and future lost wages and diminished earning capacity."
-      }
-    }
-  ],
+  "name": "What if my back injury prevents me from working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if my back injury prevents me from working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your back injury prevents you from working, your personal injury claim can include compensation for lost wages, both past and future. This covers income you've already missed and projected income you will lose due to your inability to work. If your injury results in a permanent disability that affects your long-term earning capacity, your claim can also seek damages for that diminished ability.",
+        "@type": "Answer",
+        "description": "If your back injury prevents you from working, your claim can include compensation for past and future lost wages and diminished earning capacity."
+      }
+    }
+  ],
+  "description": "If your back injury prevents you from working, your claim can include compensation for past and future lost wages and diminished earning capacity."
 }

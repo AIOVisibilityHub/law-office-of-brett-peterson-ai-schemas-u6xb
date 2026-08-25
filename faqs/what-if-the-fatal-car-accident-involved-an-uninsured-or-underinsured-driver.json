@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the fatal car accident involved an uninsured or underinsured driver?",
-  "description": "Your own UM/UIM insurance coverage may apply; an attorney can explore other responsible parties or insurance sources.",
   "url": "brettpetersonlaw.com/faq/what-if-the-fatal-car-accident-involved-an-uninsured-or-underinsured-driver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the fatal car accident involved an uninsured or underinsured driver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If the at-fault driver is uninsured or underinsured, your legal options may still exist. Your own auto insurance policy might include uninsured/underinsured motorist (UM/UIM) coverage, which could provide compensation for your losses. An attorney can help you navigate these specific claims with your insurance provider. In some cases, there might be other responsible parties, such as a negligent vehicle manufacturer, a faulty road design, or even a bar that overserved an intoxicated driver. An attorney will investigate all potential sources of recovery.",
-        "description": "Your own UM/UIM insurance coverage may apply; an attorney can explore other responsible parties or insurance sources."
-      }
-    }
-  ],
+  "name": "What if the fatal car accident involved an uninsured or underinsured driver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the fatal car accident involved an uninsured or underinsured driver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the at-fault driver is uninsured or underinsured, your legal options may still exist. Your own auto insurance policy might include uninsured/underinsured motorist (UM/UIM) coverage, which could provide compensation for your losses. An attorney can help you navigate these specific claims with your insurance provider. In some cases, there might be other responsible parties, such as a negligent vehicle manufacturer, a faulty road design, or even a bar that overserved an intoxicated driver. An attorney will investigate all potential sources of recovery.",
+        "@type": "Answer",
+        "description": "Your own UM/UIM insurance coverage may apply; an attorney can explore other responsible parties or insurance sources."
+      }
+    }
+  ],
+  "description": "Your own UM/UIM insurance coverage may apply; an attorney can explore other responsible parties or insurance sources."
 }

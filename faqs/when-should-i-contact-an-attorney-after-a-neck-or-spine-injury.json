@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I contact an attorney after a neck or spine injury?",
-  "description": "You should contact an attorney as soon as possible after a neck or spine injury to protect your legal rights, preserve evidence, and understand your options.",
   "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-attorney-after-a-neck-or-spine-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I contact an attorney after a neck or spine injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is advisable to contact an attorney as soon as possible after sustaining a neck or spine injury, especially if the injury was caused by someone else's negligence. Early legal consultation allows for timely investigation, evidence collection, and understanding of your rights. Waiting too long can complicate your claim, as evidence may disappear and statutes of limitations can expire, potentially preventing you from filing a lawsuit. An attorney can also guide you on necessary medical documentation and help protect you from common insurance company tactics.",
-        "description": "You should contact an attorney as soon as possible after a neck or spine injury to protect your legal rights, preserve evidence, and understand your options."
-      }
-    }
-  ],
+  "name": "When should I contact an attorney after a neck or spine injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact an attorney after a neck or spine injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact an attorney as soon as possible after sustaining a neck or spine injury, especially if the injury was caused by someone else's negligence. Early legal consultation allows for timely investigation, evidence collection, and understanding of your rights. Waiting too long can complicate your claim, as evidence may disappear and statutes of limitations can expire, potentially preventing you from filing a lawsuit. An attorney can also guide you on necessary medical documentation and help protect you from common insurance company tactics.",
+        "@type": "Answer",
+        "description": "You should contact an attorney as soon as possible after a neck or spine injury to protect your legal rights, preserve evidence, and understand your options."
+      }
+    }
+  ],
+  "description": "You should contact an attorney as soon as possible after a neck or spine injury to protect your legal rights, preserve evidence, and understand your options."
 }

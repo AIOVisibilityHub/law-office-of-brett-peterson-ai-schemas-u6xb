@@ -1,171 +1,39 @@
 {
-  "@context": "https://schema.org",
-  "@type": "HowTo",
   "name": "What to Do After Suspecting Hospital Negligence in San Diego",
-  "description": "Step 1: Prioritize Your Health and Safety. Above all else, ensure you're in a safe medical environment and receiving appropriate care for any new or worsened conditions. Your well-being is the most im",
-  "totalTime": "PT30M",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
   "step": [
     {
-      "@type": "HowToStep",
-      "position": 1,
       "name": "Step 1: Prioritize Your Health and Safety. Above all else, ensure you're in a safe medical environment and receiving appropriate care for any new or worsened conditions. Your well-being is the most important thing, so address immediate health concerns.",
-      "text": "Step 1: Prioritize Your Health and Safety. Above all else, ensure you're in a safe medical environment and receiving appropriate care for any new or worsened conditions. Your well-being is the most important thing, so address immediate health concerns."
+      "text": "Step 1: Prioritize Your Health and Safety. Above all else, ensure you're in a safe medical environment and receiving appropriate care for any new or worsened conditions. Your well-being is the most important thing, so address immediate health concerns.",
+      "@type": "HowToStep",
+      "position": 1
     },
     {
-      "@type": "HowToStep",
-      "position": 2,
       "name": "Step 2: Document Everything. Start gathering all relevant information. This includes dates of your hospital stay, names of doctors, nurses, and any other staff involved in your care, and details about the specific issues you experienced. If you have copies of medical records, test results, or even billing statements, hold onto them.",
-      "text": "Step 2: Document Everything. Start gathering all relevant information. This includes dates of your hospital stay, names of doctors, nurses, and any other staff involved in your care, and details about the specific issues you experienced. If you have copies of medical records, test results, or even billing statements, hold onto them."
+      "text": "Step 2: Document Everything. Start gathering all relevant information. This includes dates of your hospital stay, names of doctors, nurses, and any other staff involved in your care, and details about the specific issues you experienced. If you have copies of medical records, test results, or even billing statements, hold onto them.",
+      "@type": "HowToStep",
+      "position": 2
     },
     {
-      "@type": "HowToStep",
-      "position": 3,
       "name": "Step 3: Keep a Detailed Journal. Jot down how the negligence has affected you. Include physical symptoms, emotional distress, financial impacts like lost wages or new medical bills, and how your daily life has changed. This personal account can be incredibly valuable.",
-      "text": "Step 3: Keep a Detailed Journal. Jot down how the negligence has affected you. Include physical symptoms, emotional distress, financial impacts like lost wages or new medical bills, and how your daily life has changed. This personal account can be incredibly valuable."
+      "text": "Step 3: Keep a Detailed Journal. Jot down how the negligence has affected you. Include physical symptoms, emotional distress, financial impacts like lost wages or new medical bills, and how your daily life has changed. This personal account can be incredibly valuable.",
+      "@type": "HowToStep",
+      "position": 3
     },
     {
-      "@type": "HowToStep",
-      "position": 4,
       "name": "Step 4: Do Not Speak to Hospital Representatives Without Counsel. Hospitals and their insurance companies may try to contact you. It's crucial to avoid discussing the specifics of your case or signing anything without first consulting with your own attorney. They are looking out for their interests, not yours.",
-      "text": "Step 4: Do Not Speak to Hospital Representatives Without Counsel. Hospitals and their insurance companies may try to contact you. It's crucial to avoid discussing the specifics of your case or signing anything without first consulting with your own attorney. They are looking out for their interests, not yours."
+      "text": "Step 4: Do Not Speak to Hospital Representatives Without Counsel. Hospitals and their insurance companies may try to contact you. It's crucial to avoid discussing the specifics of your case or signing anything without first consulting with your own attorney. They are looking out for their interests, not yours.",
+      "@type": "HowToStep",
+      "position": 4
     },
     {
-      "@type": "HowToStep",
-      "position": 5,
       "name": "Step 5: Seek Professional Legal Guidance. This is where an experienced personal injury attorney, like Brett Peterson, comes in. With over two decades of experience, he can evaluate the specifics of your situation, gather necessary evidence, and determine if you have a valid medical malpractice claim. He personally handles each case from consultation through resolution, ensuring your concerns are heard and your legal strategy is tailored to your circumstances, aiming for fair compensation.",
-      "text": "Step 5: Seek Professional Legal Guidance. This is where an experienced personal injury attorney, like Brett Peterson, comes in. With over two decades of experience, he can evaluate the specifics of your situation, gather necessary evidence, and determine if you have a valid medical malpractice claim. He personally handles each case from consultation through resolution, ensuring your concerns are heard and your legal strategy is tailored to your circumstances, aiming for fair compensation."
+      "text": "Step 5: Seek Professional Legal Guidance. This is where an experienced personal injury attorney, like Brett Peterson, comes in. With over two decades of experience, he can evaluate the specifics of your situation, gather necessary evidence, and determine if you have a valid medical malpractice claim. He personally handles each case from consultation through resolution, ensuring your concerns are heard and your legal strategy is tailored to your circumstances, aiming for fair compensation.",
+      "@type": "HowToStep",
+      "position": 5
     }
   ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -173,5 +41,137 @@
       ".howto-step",
       "[itemprop=\"step\"]"
     ]
-  }
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Prioritize Your Health and Safety. Above all else, ensure you're in a safe medical environment and receiving appropriate care for any new or worsened conditions. Your well-being is the most im"
 }

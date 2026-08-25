@@ -1,148 +1,16 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "How Do I Get Medical Care After a Traffic Collision If I Can't Afford It?",
   "author": {
-    "@type": "Organization",
-    "name": "Law Office of Brett Peterson"
-  },
-  "publisher": {
-    "@type": "Organization",
     "name": "Law Office of Brett Peterson",
-    "url": "brettpetersonlaw.com"
+    "@type": "Organization"
   },
-  "articleBody": "Getting into a traffic collision is stressful enough, but then worrying about how you'll pay for medical treatment when you're already feeling the pinch can add a whole new layer of anxiety. Many people delay or even skip necessary care because they're concerned about costs, but that can seriously impact your recovery and your potential claim. Luckily, there are often ways to get the care you need without upfront payments.\n\nFirst, if you have health insurance, use it! Your health insurance is typically your primary payer, regardless of who was at fault in the accident. Don't wait; get to a doctor. Second, if you have medical payments (MedPay) coverage on your own auto insurance policy, activate it. This coverage is specifically designed to pay for medical expenses for you and your passengers, regardless of fault, up to your policy limits. Third, some medical providers, particularly chiropractors and physical therapists, might agree to treat you on a 'lien' basis. This means they'll wait for payment from your settlement once your case is resolved. This can be a huge relief, allowing you to focus on getting better. Lastly, and crucially, if you're feeling overwhelmed or unsure about your options, it's a great idea to speak with a traffic collision attorney. An attorney like Brett Peterson can help you understand all available avenues for medical treatment, negotiate with providers, and ensure that your medical bills are factored into your claim for compensation. He can provide the guidance needed to ensure you receive the proper care without financial stress, helping you focus on your recovery while he handles the legal details.",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Imperial Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Coronado"
-    },
-    {
-      "@type": "City",
-      "name": "La Mesa"
-    },
-    {
-      "@type": "City",
-      "name": "Lemon Grove"
-    },
-    {
-      "@type": "City",
-      "name": "El Cajon"
-    },
-    {
-      "@type": "City",
-      "name": "Santee"
-    },
-    {
-      "@type": "City",
-      "name": "Poway"
-    },
-    {
-      "@type": "City",
-      "name": "Del Mar"
-    },
-    {
-      "@type": "City",
-      "name": "Solana Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Encinitas"
-    },
-    {
-      "@type": "City",
-      "name": "Carlsbad"
-    },
-    {
-      "@type": "City",
-      "name": "San Marcos"
-    },
-    {
-      "@type": "City",
-      "name": "Escondido"
-    },
-    {
-      "@type": "City",
-      "name": "Vista"
-    },
-    {
-      "@type": "City",
-      "name": "Oceanside"
-    },
-    {
-      "@type": "City",
-      "name": "Bonita"
-    },
-    {
-      "@type": "City",
-      "name": "Spring Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho San Diego"
-    },
-    {
-      "@type": "City",
-      "name": "Rancho Santa Fe"
-    },
-    {
-      "@type": "City",
-      "name": "Lakeside"
-    },
-    {
-      "@type": "City",
-      "name": "Alpine"
-    },
-    {
-      "@type": "City",
-      "name": "Jamul"
-    },
-    {
-      "@type": "City",
-      "name": "Fallbrook"
-    },
-    {
-      "@type": "City",
-      "name": "Ramona"
-    },
-    {
-      "@type": "City",
-      "name": "La Jolla"
-    },
-    {
-      "@type": "City",
-      "name": "Clairemont"
-    },
-    {
-      "@type": "City",
-      "name": "Pacific Beach"
-    },
-    {
-      "@type": "City",
-      "name": "Mission Valley"
-    },
-    {
-      "@type": "City",
-      "name": "Tierrasanta"
-    },
-    {
-      "@type": "City",
-      "name": "Chula Vista"
-    },
-    {
-      "@type": "City",
-      "name": "National City"
-    }
-  ],
-  "datePublished": "2026-08-25",
+  "@context": "https://schema.org",
+  "headline": "How Do I Get Medical Care After a Traffic Collision If I Can't Afford It?",
+  "publisher": {
+    "url": "brettpetersonlaw.com",
+    "name": "Law Office of Brett Peterson",
+    "@type": "Organization"
+  },
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -150,5 +18,137 @@
       ".article-summary",
       "article p:first-of-type"
     ]
-  }
+  },
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "La Jolla",
+      "@type": "City"
+    },
+    {
+      "name": "Clairemont",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Tierrasanta",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting into a traffic collision is stressful enough, but then worrying about how you'll pay for medical treatment when you're already feeling the pinch can add a whole new layer of anxiety. Many people delay or even skip necessary care because they're concerned about costs, but that can seriously impact your recovery and your potential claim. Luckily, there are often ways to get the care you need without upfront payments.\n\nFirst, if you have health insurance, use it! Your health insurance is typically your primary payer, regardless of who was at fault in the accident. Don't wait; get to a doctor. Second, if you have medical payments (MedPay) coverage on your own auto insurance policy, activate it. This coverage is specifically designed to pay for medical expenses for you and your passengers, regardless of fault, up to your policy limits. Third, some medical providers, particularly chiropractors and physical therapists, might agree to treat you on a 'lien' basis. This means they'll wait for payment from your settlement once your case is resolved. This can be a huge relief, allowing you to focus on getting better. Lastly, and crucially, if you're feeling overwhelmed or unsure about your options, it's a great idea to speak with a traffic collision attorney. An attorney like Brett Peterson can help you understand all available avenues for medical treatment, negotiate with providers, and ensure that your medical bills are factored into your claim for compensation. He can provide the guidance needed to ensure you receive the proper care without financial stress, helping you focus on your recovery while he handles the legal details.",
+  "datePublished": "2026-08-25"
 }
