@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T18:05:20.490Z",
+  "generatedAt": "2026-08-25T18:05:42.321Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -153,7 +153,7 @@
   },
   "package": {
     "totalFiles": 1289,
-    "totalBytes": 5504328,
+    "totalBytes": 5457930,
     "stats": {
       "qna": 0,
       "faqs": 881,
@@ -6535,42 +6535,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19643,
+        "bytes": 13671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 28333,
+        "bytes": 22498,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 336579,
+        "bytes": 330477,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15704,
+        "bytes": 9967,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 736929,
+        "bytes": 731214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 519422,
+        "bytes": 513749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 21343,
+        "bytes": 15652,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 455050,
+        "bytes": 449377,
         "purpose": "LLM-optimized public page"
       }
     ],
