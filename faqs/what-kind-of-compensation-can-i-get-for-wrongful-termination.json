@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can I get for wrongful termination?",
+  "description": "Compensation can include back pay, front pay, emotional distress, and possibly punitive damages. Attorney's fees and court costs may also be recoverable.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-i-get-for-wrongful-termination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can I get for wrongful termination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for wrongful termination can include various damages depending on the specifics of your case. This may involve back pay (lost wages from termination to resolution), front pay (future lost wages), emotional distress damages, and sometimes punitive damages if the employer's conduct was particularly egregious. In some instances, attorney's fees and court costs may also be recoverable. The goal is to make you whole for losses suffered due to the unlawful termination.",
+        "description": "Compensation can include back pay, front pay, emotional distress, and possibly punitive damages. Attorney's fees and court costs may also be recoverable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

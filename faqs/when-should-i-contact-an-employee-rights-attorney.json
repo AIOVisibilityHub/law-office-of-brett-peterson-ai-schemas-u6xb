@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact an employee rights attorney?",
+  "description": "Contact an employee rights attorney if you suspect your employer violated your rights, such as wrongful termination, discrimination, or wage disputes. Early con",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-employee-rights-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact an employee rights attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact an employee rights attorney if you believe your employer has violated your legal rights. This includes situations such as being fired without cause, experiencing discrimination based on age, gender, race, or religion, facing harassment, or not receiving proper wages or overtime pay. It's often beneficial to seek advice early, even if you're unsure, as there are time limits for filing claims. An attorney can assess your situation and advise on the best course of action.",
+        "description": "Contact an employee rights attorney if you suspect your employer violated your rights, such as wrongful termination, discrimination, or wage disputes. Early consultation is often recommended due to filing deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

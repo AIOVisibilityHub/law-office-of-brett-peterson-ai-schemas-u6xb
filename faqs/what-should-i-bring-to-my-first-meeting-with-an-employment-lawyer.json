@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring to my first meeting with an employment lawyer?",
+  "description": "Bring your employment contract, pay stubs, performance reviews, relevant communications, and a timeline of events to your first meeting. This helps the attorney",
+  "url": "brettpetersonlaw.com/faq/what-should-i-bring-to-my-first-meeting-with-an-employment-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring to my first meeting with an employment lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For your first meeting, bring all relevant documents and information pertaining to your employment situation. This includes your employment contract, offer letters, performance reviews, disciplinary notices, pay stubs, and any communication (emails, texts) related to the issue. Also, prepare a written timeline of events, including dates, names of involved parties, and a brief description of what happened. This information will help the attorney quickly understand your case and provide accurate advice.",
+        "description": "Bring your employment contract, pay stubs, performance reviews, relevant communications, and a timeline of events to your first meeting. This helps the attorney understand your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

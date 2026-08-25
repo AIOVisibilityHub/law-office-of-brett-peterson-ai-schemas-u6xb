@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for filing an employment discrimination claim?",
+  "description": "The process generally involves filing a charge with an agency like the EEOC or CRD, followed by an investigation, potential mediation, and possibly a lawsuit if",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-process-for-filing-an-employment-discrimination-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for filing an employment discrimination claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical process often begins with filing a charge of discrimination with a government agency, such as the Equal Employment Opportunity Commission (EEOC) or, in California, the Civil Rights Department (CRD). These agencies investigate the claim and may attempt mediation. If the agency finds reasonable cause, they might pursue the case, or they might issue a 'Right-to-Sue' letter, allowing you to file a lawsuit in court. An attorney can help prepare the charge, gather evidence, and represent you throughout the administrative and litigation phases.",
+        "description": "The process generally involves filing a charge with an agency like the EEOC or CRD, followed by an investigation, potential mediation, and possibly a lawsuit if a 'Right-to-Sue' letter is issued."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

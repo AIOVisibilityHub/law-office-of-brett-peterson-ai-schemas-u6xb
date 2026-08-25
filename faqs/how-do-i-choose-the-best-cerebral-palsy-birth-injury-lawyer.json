@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best cerebral palsy birth injury lawyer?",
+  "description": "Choose a lawyer with specific experience in birth injury cases, a strong track record, access to medical experts, and a communication style you trust.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-cerebral-palsy-birth-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best cerebral palsy birth injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a lawyer, look for someone with specific experience in birth injury and medical malpractice cases, rather than general personal injury. They should have a strong track record of success, access to medical experts, and a clear understanding of the complex medical and legal issues involved with cerebral palsy. Consider their communication style, local reputation, and how comfortable you feel trusting them with your family's sensitive situation. Always ensure they offer a free consultation.",
+        "description": "Choose a lawyer with specific experience in birth injury cases, a strong track record, access to medical experts, and a communication style you trust."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

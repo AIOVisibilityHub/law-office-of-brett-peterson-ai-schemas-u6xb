@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a local cerebral palsy birth injury lawyer in San Diego?",
+  "description": "A local San Diego attorney offers familiarity with state laws, local courts, and the medical community, which can be beneficial for your birth injury case.",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-local-cerebral-palsy-birth-injury-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a local cerebral palsy birth injury lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While some birth injury lawyers practice nationally, having a local attorney in San Diego can be advantageous. A local lawyer will be familiar with the specific court procedures, local medical community, and relevant state laws that apply to your case in California. This local knowledge can be crucial for navigating the legal system effectively and leveraging established relationships with local experts. Our firm serves families throughout San Diego, Imperial Beach, Coronado, La Mesa, and Lemon Grove.",
+        "description": "A local San Diego attorney offers familiarity with state laws, local courts, and the medical community, which can be beneficial for your birth injury case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

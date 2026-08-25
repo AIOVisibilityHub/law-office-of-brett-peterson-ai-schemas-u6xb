@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a workers' compensation lawyer after an injury?",
+  "description": "Contact a workers' compensation lawyer as soon as possible after an injury to ensure proper guidance, preserve evidence, and meet critical filing deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-workers-compensation-lawyer-after-an-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a workers' compensation lawyer after an injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a workers' compensation lawyer as soon as possible after sustaining a workplace injury or becoming aware of a work-related illness. Early consultation allows the lawyer to advise you on crucial first steps, such as reporting the injury and seeking medical attention, and helps preserve important evidence. Delaying contact can sometimes complicate your claim, potentially affecting your ability to receive full benefits or meet critical filing deadlines.",
+        "description": "Contact a workers' compensation lawyer as soon as possible after an injury to ensure proper guidance, preserve evidence, and meet critical filing deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

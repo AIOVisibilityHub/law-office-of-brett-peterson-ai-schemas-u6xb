@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove workplace discrimination?",
+  "description": "Evidence like emails, performance reviews, witness testimonies, and a detailed log of incidents are important to prove workplace discrimination. A lawyer can he",
+  "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-prove-workplace-discrimination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove workplace discrimination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prove workplace discrimination, strong evidence is crucial. This can include emails, text messages, performance reviews, written warnings, termination letters, and internal company policies. Witness testimonies from colleagues, specific dates and details of discriminatory incidents, and records of your work performance can also be vital. Maintaining a detailed personal log of events, including dates, times, and names, is highly recommended. A lawyer can help you identify and preserve relevant evidence to build a compelling case.",
+        "description": "Evidence like emails, performance reviews, witness testimonies, and a detailed log of incidents are important to prove workplace discrimination. A lawyer can help identify and preserve crucial information."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

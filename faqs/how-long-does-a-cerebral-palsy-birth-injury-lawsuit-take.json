@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a cerebral palsy birth injury lawsuit take?",
+  "description": "Lawsuit duration varies from months to years, depending on case complexity, negotiation willingness, and court schedules; an attorney can provide an estimate.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-cerebral-palsy-birth-injury-lawsuit-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a cerebral palsy birth injury lawsuit take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a cerebral palsy birth injury lawsuit can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the medical evidence, the willingness of parties to negotiate, court schedules, and the specific laws of the jurisdiction. While some cases settle relatively quickly, others may proceed through extensive discovery and trial, especially if liability or damages are heavily disputed. An attorney can provide a more specific estimate after reviewing your case details.",
+        "description": "Lawsuit duration varies from months to years, depending on case complexity, negotiation willingness, and court schedules; an attorney can provide an estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

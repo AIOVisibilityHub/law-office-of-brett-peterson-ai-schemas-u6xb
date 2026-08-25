@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does an employee rights attorney do?",
+  "description": "An employee rights attorney protects employees' legal rights in the workplace, handling cases like discrimination, wrongful termination, and wage disputes.",
+  "url": "brettpetersonlaw.com/faq/what-does-an-employee-rights-attorney-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does an employee rights attorney do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An employee rights attorney specializes in protecting the legal rights of employees. This includes handling cases related to workplace discrimination, wrongful termination, wage and hour disputes, harassment, retaliation, and leave violations. They represent employees in negotiations, mediations, and litigation against employers to ensure fair treatment and compensation. Their goal is to help employees understand their legal options and navigate complex employment laws to resolve workplace conflicts effectively.",
+        "description": "An employee rights attorney protects employees' legal rights in the workplace, handling cases like discrimination, wrongful termination, and wage disputes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

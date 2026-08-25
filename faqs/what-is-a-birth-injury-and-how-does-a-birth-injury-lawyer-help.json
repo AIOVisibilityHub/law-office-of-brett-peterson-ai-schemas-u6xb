@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a birth injury and how does a birth injury lawyer help?",
+  "description": "A birth injury is preventable harm to a baby during birth. A lawyer investigates medical negligence, builds a claim, and seeks compensation for the child's life",
+  "url": "brettpetersonlaw.com/faq/what-is-a-birth-injury-and-how-does-a-birth-injury-lawyer-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a birth injury and how does a birth injury lawyer help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A birth injury refers to harm sustained by a baby during pregnancy, labor, or delivery due that could have been prevented with proper medical care. This can include conditions like cerebral palsy, brachial plexus injuries, or brain damage. A birth injury lawyer investigates these cases to determine if medical negligence occurred. They gather evidence, consult with medical experts, and build a legal claim to seek compensation for the child's lifelong medical care, therapy, and other damages. Their role is to advocate for the family and ensure the child receives the resources needed for their future.",
+        "description": "A birth injury is preventable harm to a baby during birth. A lawyer investigates medical negligence, builds a claim, and seeks compensation for the child's lifelong needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

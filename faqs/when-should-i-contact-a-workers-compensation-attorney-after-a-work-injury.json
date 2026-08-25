@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a workers' compensation attorney after a work injury?",
+  "description": "Contact an attorney soon after a work injury to ensure proper claim filing and evidence preservation, preventing potential issues later on.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-workers-compensation-attorney-after-a-work-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a workers' compensation attorney after a work injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's advisable to contact a workers' compensation attorney as soon as possible after a work injury, ideally within a few days of the incident or diagnosis. Early consultation allows the attorney to guide you on crucial steps like reporting the injury correctly and seeking appropriate medical care. This can prevent common mistakes that might jeopardize your claim later. While deadlines vary, acting quickly helps preserve evidence and ensures all necessary procedures are followed within the required timeframes.",
+        "description": "Contact an attorney soon after a work injury to ensure proper claim filing and evidence preservation, preventing potential issues later on."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a workplace retaliation claim?",
+  "description": "Deadlines vary, but typically range from 180 days to one year from the retaliatory act. Missing these can bar your claim, so act quickly.",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-workplace-retaliation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a workplace retaliation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The deadline for filing a workplace retaliation claim varies significantly depending on the specific law violated and the agency you are filing with. For claims under California's Fair Employment and Housing Act (FEHA), you generally have one year from the date of the retaliatory act to file a complaint with the Department of Fair Employment and Housing (DFEH). For federal claims with the EEOC, the deadline is typically 180 or 300 days. Missing these deadlines can permanently bar your claim, so prompt action is crucial.",
+        "description": "Deadlines vary, but typically range from 180 days to one year from the retaliatory act. Missing these can bar your claim, so act quickly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

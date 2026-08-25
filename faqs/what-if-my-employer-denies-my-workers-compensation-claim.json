@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my employer denies my workers' compensation claim?",
+  "description": "If your claim is denied, an attorney can help you understand the reason, gather more evidence, and appeal the decision with the Workers' Compensation Appeals Bo",
+  "url": "brettpetersonlaw.com/faq/what-if-my-employer-denies-my-workers-compensation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my employer denies my workers' compensation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your workers' compensation claim is denied, it's crucial to contact an attorney immediately. A denial is not the final word. Your attorney can review the reasons for the denial, gather additional evidence, and file an appeal. This typically involves requesting a hearing before a Workers' Compensation Appeals Board (WCAB judge. Your attorney will represent you at this hearing, presenting your case and arguing for your entitlement to benefits. Many denied claims are ultimately approved with legal assistance.",
+        "description": "If your claim is denied, an attorney can help you understand the reason, gather more evidence, and appeal the decision with the Workers' Compensation Appeals Board."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

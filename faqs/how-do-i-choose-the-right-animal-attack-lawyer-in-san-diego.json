@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right animal attack lawyer in San Diego?",
+  "description": "Choose an animal attack lawyer in San Diego with specific experience in personal injury and animal attack cases, a strong track record, and positive client revi",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-animal-attack-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right animal attack lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right animal attack lawyer involves looking for experience, specialization, and a good track record. Seek an attorney who specifically handles personal injury cases, particularly those involving animal attacks, and has a strong understanding of California's dog bite laws. Look for lawyers with positive client testimonials or reviews. A good lawyer should offer a free initial consultation, allowing you to discuss your case and assess their communication style and expertise. Location can also be a factor for convenience in San Diego.",
+        "description": "Choose an animal attack lawyer in San Diego with specific experience in personal injury and animal attack cases, a strong track record, and positive client reviews."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

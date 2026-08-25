@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right employee rights attorney for my case?",
+  "description": "Choose an attorney with specific employment law experience, a strong track record, good communication, and positive client reviews. Utilize free consultations t",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-employee-rights-attorney-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right employee rights attorney for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right attorney involves several factors. Look for an attorney with specific experience in employment law and a strong track record of representing employees. Consider their communication style and ensure you feel comfortable discussing sensitive issues with them. It's also wise to check client testimonials or reviews. Many firms offer free initial consultations, which is a good opportunity to evaluate if the attorney is a good fit for your specific needs and situation.",
+        "description": "Choose an attorney with specific employment law experience, a strong track record, good communication, and positive client reviews. Utilize free consultations to assess their fit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

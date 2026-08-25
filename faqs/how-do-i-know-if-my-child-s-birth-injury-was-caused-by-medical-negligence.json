@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my child's birth injury was caused by medical negligence?",
+  "description": "Medical negligence is determined by evaluating if a healthcare provider's actions fell below the standard of care, which a lawyer can help assess.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-know-if-my-child-s-birth-injury-was-caused-by-medical-negligence",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my child's birth injury was caused by medical negligence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Determining if a birth injury resulted from medical negligence requires a thorough review of medical records and expert analysis. Medical negligence occurs when a healthcare provider deviates from the accepted standard of care, leading to harm. This could involve delayed C-sections, failure to monitor fetal distress, or improper use of forceps. A birth injury lawyer can evaluate your case, consult with medical experts, and determine if there's a basis for a claim.",
+        "description": "Medical negligence is determined by evaluating if a healthcare provider's actions fell below the standard of care, which a lawyer can help assess."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right wrongful termination lawyer in San Diego?",
+  "description": "Choose a San Diego lawyer with experience in California employment law, a good track record, clear communication, and a transparent fee structure.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-wrongful-termination-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right wrongful termination lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a wrongful termination lawyer in San Diego, look for someone with specific experience in California employment law and a proven track record in wrongful termination cases. Consider their communication style, fee structure, and whether they offer a free initial consultation to discuss your situation. Research their reputation through client testimonials or professional associations. Selecting a local attorney familiar with San Diego courts and legal community can also be beneficial, as they may have insights into local practices and resources relevant to your case.",
+        "description": "Choose a San Diego lawyer with experience in California employment law, a good track record, clear communication, and a transparent fee structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

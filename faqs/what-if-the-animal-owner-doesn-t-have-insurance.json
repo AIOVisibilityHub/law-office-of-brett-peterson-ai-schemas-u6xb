@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the animal owner doesn't have insurance?",
+  "description": "If the animal owner lacks insurance, your attorney can explore their personal assets or your own insurance policies to seek compensation.",
+  "url": "brettpetersonlaw.com/faq/what-if-the-animal-owner-doesn-t-have-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the animal owner doesn't have insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the animal owner does not have homeowner's or renter's insurance that covers animal attacks, or if their policy limits are insufficient, recovering compensation can become more challenging but is not impossible. Your attorney may explore other avenues, such as determining if the owner has personal assets that could cover damages. In some cases, your own uninsured motorist or medical payments coverage might apply, depending on the specific circumstances and your policy terms. An attorney can help identify all potential sources of recovery.",
+        "description": "If the animal owner lacks insurance, your attorney can explore their personal assets or your own insurance policies to seek compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best childbirth malpractice lawyer for my case?",
+  "description": "Choose a childbirth malpractice lawyer based on their specific experience, track record, communication skills, and local knowledge. Seek a free consultation.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-childbirth-malpractice-lawyer-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best childbirth malpractice lawyer for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right lawyer involves looking for experience specifically in childbirth malpractice cases, a track record of successful outcomes, and a deep understanding of medical legal issues. It's important to find an attorney who communicates clearly, explains the legal process in plain language, and makes you feel comfortable. Look for a firm with resources to handle complex medical malpractice litigation and one that offers a free initial consultation to discuss your specific situation without obligation. Local experience, particularly in the San Diego area, can also be beneficial.",
+        "description": "Choose a childbirth malpractice lawyer based on their specific experience, track record, communication skills, and local knowledge. Seek a free consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

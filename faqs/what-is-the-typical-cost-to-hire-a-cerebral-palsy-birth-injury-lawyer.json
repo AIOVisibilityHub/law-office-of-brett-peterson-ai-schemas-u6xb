@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost to hire a cerebral palsy birth injury lawyer?",
+  "description": "Cerebral palsy birth injury lawyers typically work on a contingency fee basis, meaning you pay no upfront costs; their fees are a percentage of the compensation",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-cost-to-hire-a-cerebral-palsy-birth-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost to hire a cerebral palsy birth injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most cerebral palsy birth injury lawyers work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation recovered through a settlement or trial verdict. If the case is not successful, you generally do not owe attorney fees. This arrangement allows families to pursue justice without immediate financial burden, as the firm covers case expenses until a resolution is reached.",
+        "description": "Cerebral palsy birth injury lawyers typically work on a contingency fee basis, meaning you pay no upfront costs; their fees are a percentage of the compensation recovered."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

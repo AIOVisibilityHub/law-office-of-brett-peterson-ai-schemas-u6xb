@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best dog attack attorney in San Diego?",
+  "description": "Look for an attorney in San Diego with specific experience in dog bite cases, a strong track record, and good client communication. Consider local law knowledge",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-dog-attack-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best dog attack attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a dog attack attorney in San Diego, look for someone with specific experience in personal injury law, particularly dog bite cases. Consider their track record, client testimonials, and their approach to client communication. It's important to find an attorney who understands local ordinances and California's specific dog bite laws. The Law Office of Brett Peterson offers consultations to discuss your case and assess if they are the right fit for your legal needs.",
+        "description": "Look for an attorney in San Diego with specific experience in dog bite cases, a strong track record, and good client communication. Consider local law knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

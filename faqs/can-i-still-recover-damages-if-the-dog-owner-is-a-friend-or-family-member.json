@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still recover damages if the dog owner is a friend or family member?",
+  "description": "Yes, compensation usually comes from the dog owner's insurance, not directly from them. An attorney can handle the claim professionally.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-recover-damages-if-the-dog-owner-is-a-friend-or-family-member",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still recover damages if the dog owner is a friend or family member?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can typically still recover damages even if the dog owner is a friend or family member. In most cases, the compensation comes from the dog owner's homeowner's or renter's insurance policy, not directly from their personal funds. A skilled attorney can help navigate these sensitive situations professionally, ensuring you receive the compensation you deserve for your injuries while potentially minimizing strain on personal relationships. Your attorney's role is to deal with the insurance company.",
+        "description": "Yes, compensation usually comes from the dog owner's insurance, not directly from them. An attorney can handle the claim professionally."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

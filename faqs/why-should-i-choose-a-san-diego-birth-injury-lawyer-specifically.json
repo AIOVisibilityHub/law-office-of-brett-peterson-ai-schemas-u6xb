@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose a San Diego birth injury lawyer specifically?",
+  "description": "A San Diego birth injury lawyer offers local expertise in courts, judges, and the medical community, providing advantageous knowledge and accessibility.",
+  "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-san-diego-birth-injury-lawyer-specifically",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose a San Diego birth injury lawyer specifically?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a local San Diego birth injury lawyer offers several advantages. They are familiar with the specific courts, judges, and local medical community within San Diego and surrounding areas like Imperial Beach or La Mesa. This local knowledge can be beneficial in navigating the legal process, understanding local standards of care, and potentially streamlining the discovery phase of a lawsuit. Furthermore, a local lawyer is more accessible for in-person meetings and discussions.",
+        "description": "A San Diego birth injury lawyer offers local expertise in courts, judges, and the medical community, providing advantageous knowledge and accessibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

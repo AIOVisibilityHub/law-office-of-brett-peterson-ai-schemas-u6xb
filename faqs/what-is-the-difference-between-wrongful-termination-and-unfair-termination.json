@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between wrongful termination and unfair termination?",
+  "description": "Unfair termination feels unjust but isn't illegal, while wrongful termination specifically means the firing violated a law, contract, or public policy, making i",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-wrongful-termination-and-unfair-termination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between wrongful termination and unfair termination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, there's a legal distinction. Unfair termination describes a firing that feels unjust or unreasonable but doesn't necessarily violate the law. For instance, being fired due to a personality clash or for reasons unrelated to your job performance, in an 'at-will' state, might be unfair but not illegal. Wrongful termination, however, specifically means the firing violated a law, public policy, or an employment contract. Only wrongful termination is actionable in court; unfair termination is generally not.",
+        "description": "Unfair termination feels unjust but isn't illegal, while wrongful termination specifically means the firing violated a law, contract, or public policy, making it actionable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

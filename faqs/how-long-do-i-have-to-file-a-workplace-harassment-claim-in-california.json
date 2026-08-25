@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a workplace harassment claim in California?",
+  "description": "In California, you generally have one year from the last harassment incident to file with the CRD. EEOC complaints typically have a 300-day deadline. An attorne",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-workplace-harassment-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a workplace harassment claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, you generally have one year from the date of the last act of harassment to file a complaint with the California Civil Rights Department (CRD). For certain types of claims or under specific circumstances, this timeframe can be extended. Federal complaints filed with the Equal Employment Opportunity Commission (EEOC) typically have a 300-day deadline from the date of the harassment. It is critical to understand these deadlines, as missing them can significantly impact your ability to pursue a claim. An attorney can help you navigate these timelines.",
+        "description": "In California, you generally have one year from the last harassment incident to file with the CRD. EEOC complaints typically have a 300-day deadline. An attorney can help with these critical timelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

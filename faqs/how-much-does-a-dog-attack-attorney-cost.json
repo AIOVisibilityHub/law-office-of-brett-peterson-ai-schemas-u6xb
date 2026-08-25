@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a dog attack attorney cost?",
+  "description": "Many dog attack attorneys work on a contingency fee basis, meaning you pay no upfront fees. Their payment is a percentage of your settlement or award.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-dog-attack-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a dog attack attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most dog attack attorneys, including the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation you receive from a settlement or court award. If your case does not result in a financial recovery, you typically owe no attorney fees. This arrangement allows victims to pursue justice without financial barriers.",
+        "description": "Many dog attack attorneys work on a contingency fee basis, meaning you pay no upfront fees. Their payment is a percentage of your settlement or award."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

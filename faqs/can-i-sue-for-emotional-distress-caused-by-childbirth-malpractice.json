@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue for emotional distress caused by childbirth malpractice?",
+  "description": "Yes, you can sue for emotional distress, such as trauma, grief, and anxiety, resulting from childbirth malpractice. This is a form of non-economic damage.",
+  "url": "brettpetersonlaw.com/faq/can-i-sue-for-emotional-distress-caused-by-childbirth-malpractice",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue for emotional distress caused by childbirth malpractice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in many childbirth malpractice cases, victims and sometimes their immediate family members can pursue compensation for emotional distress. This includes the psychological impact of trauma, grief, anxiety, and depression resulting from a negligent birth injury to the mother or child. These non-economic damages are a significant component of many malpractice claims. Proving emotional distress often involves documentation from therapists, psychologists, or other mental health professionals, along with personal testimony about the impact on your life.",
+        "description": "Yes, you can sue for emotional distress, such as trauma, grief, and anxiety, resulting from childbirth malpractice. This is a form of non-economic damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

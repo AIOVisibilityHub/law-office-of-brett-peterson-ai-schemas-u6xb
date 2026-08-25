@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a birth injury lawsuit?",
+  "description": "The process involves an initial consultation, thorough investigation, filing a lawsuit, discovery, and potential settlement or trial. This can take several year",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-birth-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a birth injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with a free consultation to discuss your case. If the firm takes your case, they will conduct a thorough investigation, gathering medical records, consulting experts, and determining if medical negligence occurred. This initial phase can take several months. Next, a formal lawsuit is filed, followed by discovery, where both sides exchange information. Many cases settle during this phase or through mediation. If no settlement is reached, the case proceeds to trial. The entire process can span several years due to the complexity of these claims.",
+        "description": "The process involves an initial consultation, thorough investigation, filing a lawsuit, discovery, and potential settlement or trial. This can take several years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I be fired for refusing to do something illegal?",
+  "description": "No, generally you cannot be legally fired for refusing an illegal act, as this is considered wrongful termination under public policy.",
+  "url": "brettpetersonlaw.com/faq/can-i-be-fired-for-refusing-to-do-something-illegal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I be fired for refusing to do something illegal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you generally cannot be legally fired for refusing to perform an illegal act, such as falsifying records, engaging in fraud, or violating safety regulations. This is considered a form of wrongful termination under public policy exceptions to at-will employment. If you are terminated for refusing to participate in illegal activity, you may have grounds for a wrongful termination claim.",
+        "description": "No, generally you cannot be legally fired for refusing an illegal act, as this is considered wrongful termination under public policy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

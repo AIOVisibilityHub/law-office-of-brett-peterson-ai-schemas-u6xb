@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What benefits can I receive from a workers' compensation claim?",
+  "description": "Benefits include medical care, temporary and permanent disability payments, and potentially job displacement benefits for retraining.",
+  "url": "brettpetersonlaw.com/faq/what-benefits-can-i-receive-from-a-workers-compensation-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What benefits can I receive from a workers' compensation claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' compensation benefits can include medical care to treat your work injury, temporary disability payments if you cannot work while recovering, and permanent disability payments if your injury results in lasting impairment. You may also be eligible for supplemental job displacement benefits for retraining if you cannot return to your old job, and in unfortunate circumstances, death benefits for dependents. These benefits aim to cover financial losses and medical costs.",
+        "description": "Benefits include medical care, temporary and permanent disability payments, and potentially job displacement benefits for retraining."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

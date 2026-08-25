@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if I suspect my child suffered a birth injury?",
+  "description": "If you suspect a birth injury, prioritize your child's medical care, document all details, and then consult a birth injury lawyer for guidance.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-if-i-suspect-my-child-suffered-a-birth-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if I suspect my child suffered a birth injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you suspect a birth injury, first prioritize your child's medical care and ensure they receive any necessary diagnoses and treatments. Document everything, including symptoms, medical appointments, and any communication with healthcare providers. Next, contact a birth injury lawyer for a free consultation. They can review your case, explain your legal options, and help you understand the next steps without obligation.",
+        "description": "If you suspect a birth injury, prioritize your child's medical care, document all details, and then consult a birth injury lawyer for guidance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

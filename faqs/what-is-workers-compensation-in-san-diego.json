@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is workers' compensation in San Diego?",
+  "description": "Workers' compensation is an insurance program providing benefits to employees in California who suffer job-related injuries or illnesses.",
+  "url": "brettpetersonlaw.com/faq/what-is-workers-compensation-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is workers' compensation in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' compensation is a state-mandated insurance program that provides wage replacement benefits, medical treatment, vocational rehabilitation, and other benefits to employees who suffer job-related injuries or illnesses. In San Diego, as in the rest of California, these benefits are designed to help injured workers recover and return to work, or provide financial support if they cannot. It's a no-fault system, meaning benefits are paid regardless of who was at fault for the injury, as long as it occurred within the scope of employment.",
+        "description": "Workers' compensation is an insurance program providing benefits to employees in California who suffer job-related injuries or illnesses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

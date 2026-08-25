@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I file a claim if I was hit by a delivery driver working for a gig economy company?",
+  "description": "Yes, you can file a claim if injured by a gig economy delivery driver, but these cases are complex due to unique insurance and employment factors, requiring leg",
+  "url": "brettpetersonlaw.com/faq/can-i-file-a-claim-if-i-was-hit-by-a-delivery-driver-working-for-a-gig-economy-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file a claim if I was hit by a delivery driver working for a gig economy company?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can file a claim if you were injured by a delivery driver working for a gig economy company. These cases can be complex due to the unique employment classifications of gig workers and the varying insurance policies involved. It requires careful investigation to determine whether the driver's personal insurance, the gig company's commercial insurance, or both, apply to your claim. A delivery injury lawyer can help navigate these complexities, identify all potential sources of recovery, and pursue compensation from the appropriate parties.",
+        "description": "Yes, you can file a claim if injured by a gig economy delivery driver, but these cases are complex due to unique insurance and employment factors, requiring legal expertise."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

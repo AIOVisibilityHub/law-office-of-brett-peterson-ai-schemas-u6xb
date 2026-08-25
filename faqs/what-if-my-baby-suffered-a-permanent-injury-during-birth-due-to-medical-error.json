@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if my baby suffered a permanent injury during birth due to medical error?",
+  "description": "If your baby sustained a permanent birth injury due to medical error, a malpractice claim can help secure funds for lifelong care and support.",
+  "url": "brettpetersonlaw.com/faq/what-if-my-baby-suffered-a-permanent-injury-during-birth-due-to-medical-error",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if my baby suffered a permanent injury during birth due to medical error?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your baby suffered a permanent injury during birth due to medical error, pursuing a childbirth malpractice claim is especially critical. Such injuries often require lifelong medical care, therapy, special education, and adaptive equipment, leading to substantial financial burdens. A successful lawsuit can help secure the necessary funds to provide for your child's long-term needs, ensuring they receive the best possible care and quality of life. An experienced lawyer can help assess the full scope of damages and advocate for your child's future.",
+        "description": "If your baby sustained a permanent birth injury due to medical error, a malpractice claim can help secure funds for lifelong care and support."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

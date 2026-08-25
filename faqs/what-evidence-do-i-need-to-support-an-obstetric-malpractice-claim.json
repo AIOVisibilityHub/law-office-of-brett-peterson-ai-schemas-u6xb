@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to support an obstetric malpractice claim?",
+  "description": "You need all medical records from prenatal care, labor, delivery, and postpartum for both mother and baby, plus a detailed account of events.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-support-an-obstetric-malpractice-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to support an obstetric malpractice claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To support an obstetric malpractice claim, essential evidence typically includes all relevant medical records from your prenatal care, labor, delivery, and postpartum period for both the mother and baby. This also includes any imaging results, lab reports, and physician's notes. Additionally, a detailed account of events, including dates and times, can be helpful. Your attorney will use this information, often alongside expert medical testimony, to build your case and demonstrate how the standard of care was breached.",
+        "description": "You need all medical records from prenatal care, labor, delivery, and postpartum for both mother and baby, plus a detailed account of events."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

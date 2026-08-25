@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consult an employment law attorney?",
+  "description": "Consult an employment law attorney if you suspect workplace rights violations, like discrimination, wrongful termination, or wage disputes. Early consultation h",
+  "url": "brettpetersonlaw.com/faq/when-should-i-consult-an-employment-law-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consult an employment law attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider consulting an employment law attorney if you believe your workplace rights have been violated, or if you are an employer facing an employee complaint. Specific situations include experiencing discrimination, harassment, or wrongful termination, being denied proper wages or overtime, or having issues with employment contracts. Seeking legal advice early can help you understand your options and protect your interests, whether you are an employee seeking redress or an employer needing to navigate complex regulations.",
+        "description": "Consult an employment law attorney if you suspect workplace rights violations, like discrimination, wrongful termination, or wage disputes. Early consultation helps clarify options and protect your interests."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

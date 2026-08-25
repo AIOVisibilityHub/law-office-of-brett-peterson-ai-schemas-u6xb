@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a neonatal injury lawyer?",
+  "description": "Contact a neonatal injury lawyer as soon as you suspect medical negligence caused your child's injury, due to time limits on filing claims.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-neonatal-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a neonatal injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a neonatal injury lawyer as soon as you suspect your child's injury may have been caused by medical negligence. Time limits, known as statutes of limitations, apply to these types of cases and vary by state. Consulting with a lawyer early allows them to investigate the details, gather necessary medical records, and preserve evidence effectively. This initial consultation can help you understand your legal options and the potential strength of your case.",
+        "description": "Contact a neonatal injury lawyer as soon as you suspect medical negligence caused your child's injury, due to time limits on filing claims."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

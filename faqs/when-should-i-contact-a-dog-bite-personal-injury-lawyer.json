@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a dog bite personal injury lawyer?",
+  "description": "Contact a dog bite personal injury lawyer promptly after medical treatment to preserve evidence and understand your legal options. Early consultation helps navi",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-dog-bite-personal-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a dog bite personal injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a dog bite personal injury lawyer as soon as possible after receiving medical attention. The sooner you speak with a lawyer, the better they can advise you on preserving evidence, understanding your rights, and navigating the claims process. Waiting too long can make it more difficult to collect necessary evidence or meet legal deadlines. A lawyer can assess the specifics of your case, determine if you have a valid claim, and help you understand the potential compensation for medical bills, lost wages, and pain and suffering.",
+        "description": "Contact a dog bite personal injury lawyer promptly after medical treatment to preserve evidence and understand your legal options. Early consultation helps navigate claims effectively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

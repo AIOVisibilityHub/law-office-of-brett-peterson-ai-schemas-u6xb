@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a dog bite case take in San Diego?",
+  "description": "The duration of a dog bite case in San Diego varies; simple cases may resolve in months, while complex ones requiring litigation can take a year or more.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-dog-bite-case-take-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a dog bite case take in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a dog bite case in San Diego can vary significantly. Simple cases that settle out of court with responsive insurance companies might resolve in several months. More complex cases involving severe injuries, extensive medical treatment, or disputed liability can take a year or more, especially if a lawsuit is filed and proceeds through discovery and potential trial. An attorney can provide a more specific estimate after evaluating the details of your particular situation.",
+        "description": "The duration of a dog bite case in San Diego varies; simple cases may resolve in months, while complex ones requiring litigation can take a year or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

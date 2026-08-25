@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between harassment and discrimination?",
+  "description": "Discrimination involves adverse employment actions based on protected traits, while harassment is unwelcome conduct that creates a hostile work environment.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-harassment-and-discrimination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between harassment and discrimination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often related, harassment and discrimination are distinct. Discrimination refers to adverse employment actions (like not hiring, firing, or denying promotion) based on a protected characteristic. Harassment is unwelcome conduct based on a protected characteristic that creates a hostile work environment or becomes a condition of employment. Harassment can be a form of discrimination if it is severe or pervasive enough to alter the terms and conditions of employment. An attorney can help clarify which applies to your situation.",
+        "description": "Discrimination involves adverse employment actions based on protected traits, while harassment is unwelcome conduct that creates a hostile work environment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

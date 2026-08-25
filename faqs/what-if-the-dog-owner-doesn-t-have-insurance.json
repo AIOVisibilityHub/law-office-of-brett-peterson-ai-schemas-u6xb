@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the dog owner doesn't have insurance?",
+  "description": "If the dog owner lacks insurance, a lawyer can explore seeking compensation directly from their personal assets, though recovery depends on their financial reso",
+  "url": "brettpetersonlaw.com/faq/what-if-the-dog-owner-doesn-t-have-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the dog owner doesn't have insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the dog owner does not have homeowner's or renter's insurance, pursuing compensation can be more challenging but not impossible. In such cases, a lawyer would explore other avenues, such as seeking compensation directly from the dog owner's personal assets. However, the ability to recover damages will depend on the owner's financial resources. It's important to consult with a lawyer to understand your options.",
+        "description": "If the dog owner lacks insurance, a lawyer can explore seeking compensation directly from their personal assets, though recovery depends on their financial resources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

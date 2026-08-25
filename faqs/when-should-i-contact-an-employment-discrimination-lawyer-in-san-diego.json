@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact an employment discrimination lawyer in San Diego?",
+  "description": "Contact a lawyer promptly if you suspect discrimination, as strict deadlines apply to filing claims. An attorney can help evaluate your case and guide you throu",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-employment-discrimination-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact an employment discrimination lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting an employment discrimination lawyer as soon as you suspect you've been subjected to unlawful discrimination. It is crucial to act promptly because strict deadlines, known as statutes of limitations, apply to filing discrimination claims. These deadlines can vary depending on the type of claim and the agency involved. An attorney can help you understand your rights, evaluate the strength of your case, preserve evidence, and guide you through the necessary steps, ensuring that you meet all procedural requirements.",
+        "description": "Contact a lawyer promptly if you suspect discrimination, as strict deadlines apply to filing claims. An attorney can help evaluate your case and guide you through the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

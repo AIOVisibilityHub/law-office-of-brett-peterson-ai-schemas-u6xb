@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence do I need to prove workplace retaliation?",
+  "description": "You need evidence of a protected activity, an adverse employer action, and a connection between them. Gather emails, memos, performance reviews, and detailed no",
+  "url": "brettpetersonlaw.com/faq/what-evidence-do-i-need-to-prove-workplace-retaliation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence do I need to prove workplace retaliation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prove workplace retaliation, you generally need to show three things: you engaged in a protected activity (e.g., reported harassment), your employer took adverse action against you (e.g., demotion), and there's a causal connection between the two. Evidence can include emails, text messages, performance reviews, witness statements, internal memos, and your own detailed notes of incidents, dates, and conversations. Keeping a thorough record of events is crucial for building a strong case.",
+        "description": "You need evidence of a protected activity, an adverse employer action, and a connection between them. Gather emails, memos, performance reviews, and detailed notes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

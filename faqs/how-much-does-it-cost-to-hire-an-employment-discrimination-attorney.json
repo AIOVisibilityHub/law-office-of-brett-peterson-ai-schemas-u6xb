@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire an employment discrimination attorney?",
+  "description": "Many employment discrimination attorneys work on a contingency fee basis, taking a percentage of your settlement or judgment, with initial consultations sometim",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-an-employment-discrimination-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire an employment discrimination attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of hiring an employment discrimination attorney can vary. Many employment discrimination cases are handled on a contingency fee basis, meaning the attorney's fees are a percentage of any settlement or judgment you receive. If you don't win, you may not pay attorney fees, though you might still be responsible for court costs and other expenses. Some attorneys may offer initial consultations for a flat fee or no charge. It is important to discuss fee structures and potential costs upfront during your initial consultation.",
+        "description": "Many employment discrimination attorneys work on a contingency fee basis, taking a percentage of your settlement or judgment, with initial consultations sometimes offered for free."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

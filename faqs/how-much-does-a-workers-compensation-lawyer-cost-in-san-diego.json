@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a workers' compensation lawyer cost in San Diego?",
+  "description": "Workers' compensation lawyers in San Diego usually work on a contingency fee basis, taking a percentage (10-15%) of your settlement.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-workers-compensation-lawyer-cost-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a workers' compensation lawyer cost in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In San Diego, workers' compensation lawyers typically work on a contingency fee basis. This means you generally do not pay upfront fees. Instead, the lawyer receives a percentage of the benefits they recover for you. The fee percentage is set by the state's Workers' Compensation Appeals Board (WCAB) and is usually between 10% and 15% of your final settlement or award. This arrangement allows injured workers to access legal representation without immediate financial burden.",
+        "description": "Workers' compensation lawyers in San Diego usually work on a contingency fee basis, taking a percentage (10-15%) of your settlement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

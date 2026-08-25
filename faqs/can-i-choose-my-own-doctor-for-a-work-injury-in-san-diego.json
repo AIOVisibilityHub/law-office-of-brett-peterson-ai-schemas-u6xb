@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I choose my own doctor for a work injury in San Diego?",
+  "description": "Typically, the employer initially chooses the doctor. You may choose your own if you predesignated one, or after a specific period.",
+  "url": "brettpetersonlaw.com/faq/can-i-choose-my-own-doctor-for-a-work-injury-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I choose my own doctor for a work injury in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, your employer or their insurance company initially directs your medical treatment. However, under California law, if you have predesignated a personal physician in writing before your injury, you may be able to choose your doctor immediately. If not predesignated, you might gain the right to change doctors after a certain period, often 30 days from the date the claim form is filed. A qualified medical evaluator (QME) may also be used to resolve disputes.",
+        "description": "Typically, the employer initially chooses the doctor. You may choose your own if you predesignated one, or after a specific period."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

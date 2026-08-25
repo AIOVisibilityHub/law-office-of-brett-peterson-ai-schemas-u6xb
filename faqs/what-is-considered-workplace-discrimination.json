@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered workplace discrimination?",
+  "description": "Workplace discrimination is unfair treatment based on protected characteristics like race, age, gender, or disability. This can include issues like unequal pay,",
+  "url": "brettpetersonlaw.com/faq/what-is-considered-workplace-discrimination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered workplace discrimination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workplace discrimination occurs when an employer treats an employee or job applicant unfavorably because of certain protected characteristics. These can include race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age (40 or older), disability, or genetic information. Discrimination can manifest in various ways, such as unequal pay, wrongful termination, demotion, failure to promote, harassment, or exclusion from opportunities. Understanding these categories is the first step in identifying if you have a potential discrimination claim.",
+        "description": "Workplace discrimination is unfair treatment based on protected characteristics like race, age, gender, or disability. This can include issues like unequal pay, harassment, or wrongful termination."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

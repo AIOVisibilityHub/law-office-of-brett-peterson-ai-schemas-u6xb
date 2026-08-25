@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing an employment discrimination claim?",
+  "description": "The process usually starts by filing a complaint with an agency like the EEOC or CRD, potentially leading to a lawsuit. An attorney can guide you through each s",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-an-employment-discrimination-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing an employment discrimination claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with filing a complaint with an administrative agency, such as the Equal Employment Opportunity Commission (EEOC) or California's Civil Rights Department (CRD), formerly DFEH. These agencies investigate claims and may attempt mediation. If the agency doesn't resolve the issue, they might issue a 'Right-to-Sue' letter, allowing you to file a lawsuit in court. An attorney can assist in gathering evidence, drafting the complaint, communicating with the agencies, and representing you in negotiations or litigation to seek compensation for damages.",
+        "description": "The process usually starts by filing a complaint with an agency like the EEOC or CRD, potentially leading to a lawsuit. An attorney can guide you through each step."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

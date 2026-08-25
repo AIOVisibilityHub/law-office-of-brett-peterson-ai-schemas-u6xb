@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a workers' compensation case take in San Diego?",
+  "description": "The length of a workers' compensation case in San Diego varies, from a few months for simple claims to over a year for complex or disputed cases.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-workers-compensation-case-take-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a workers' compensation case take in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a workers' compensation case in San Diego can vary significantly based on factors such as the severity of the injury, whether the claim is disputed, and if litigation becomes necessary. Simple, undisputed claims might resolve in a few months, while complex cases involving multiple medical evaluations, negotiations, or hearings could take a year or more to conclude. A lawyer can help expedite the process and protect your interests.",
+        "description": "The length of a workers' compensation case in San Diego varies, from a few months for simple claims to over a year for complex or disputed cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

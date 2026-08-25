@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I be fired for reporting workplace harassment?",
+  "description": "No, retaliation for reporting harassment, including firing, is illegal under federal and California law. If it occurs, consult an attorney immediately.",
+  "url": "brettpetersonlaw.com/faq/can-i-be-fired-for-reporting-workplace-harassment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I be fired for reporting workplace harassment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it is illegal for an employer to retaliate against an employee for reporting workplace harassment or for participating in an investigation into harassment. Retaliation includes actions such as firing, demoting, reducing pay, or otherwise negatively altering employment terms. Both federal and California state laws protect employees from retaliation. If you believe you have been retaliated against, it is crucial to speak with an attorney immediately, as you may have additional legal claims.",
+        "description": "No, retaliation for reporting harassment, including firing, is illegal under federal and California law. If it occurs, consult an attorney immediately."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

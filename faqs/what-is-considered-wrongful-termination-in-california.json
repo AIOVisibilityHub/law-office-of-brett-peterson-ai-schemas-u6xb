@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is considered wrongful termination in California?",
+  "description": "Wrongful termination in California means being fired for an illegal reason, such as discrimination, retaliation, or breach of contract, despite the state's 'at-",
+  "url": "brettpetersonlaw.com/faq/what-is-considered-wrongful-termination-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered wrongful termination in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wrongful termination in California occurs when an employer fires an employee for an illegal reason. This can include termination based on discrimination (e.g., race, gender, age, disability), retaliation for whistleblowing or engaging in protected activities (like filing a workers' compensation claim), or termination in violation of an employment contract or public policy. California is an 'at-will' employment state, meaning employers can generally fire employees for any non-discriminatory reason, but there are important exceptions that define wrongful termination.",
+        "description": "Wrongful termination in California means being fired for an illegal reason, such as discrimination, retaliation, or breach of contract, despite the state's 'at-will' employment rule."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

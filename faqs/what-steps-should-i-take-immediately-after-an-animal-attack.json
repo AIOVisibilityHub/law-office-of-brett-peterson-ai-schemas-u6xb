@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps should I take immediately after an animal attack?",
+  "description": "Seek medical care, document injuries and the scene, identify the animal's owner, report to authorities, and then consult a lawyer.",
+  "url": "brettpetersonlaw.com/faq/what-steps-should-i-take-immediately-after-an-animal-attack",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps should I take immediately after an animal attack?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After an animal attack, your first priority is medical attention for any injuries. Document everything by taking photos of your injuries, the animal, and the attack location. Identify the animal's owner if possible and gather their contact information. Report the incident to local animal control or law enforcement. Finally, consult with an attorney specializing in animal attack cases to understand your legal options and protect your rights, even if you are unsure about pursuing a claim.",
+        "description": "Seek medical care, document injuries and the scene, identify the animal's owner, report to authorities, and then consult a lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

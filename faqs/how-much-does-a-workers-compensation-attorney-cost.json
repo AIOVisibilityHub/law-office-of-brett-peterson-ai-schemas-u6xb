@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a workers' compensation attorney cost?",
+  "description": "Workers' compensation attorneys usually work on a contingency fee, meaning they are paid a percentage of your settlement or benefits, not upfront.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-workers-compensation-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a workers' compensation attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most workers' compensation attorneys operate on a contingency fee basis. This means you typically don't pay upfront legal fees. Instead, the attorney's fee is a percentage of the benefits or settlement you receive. If your case is unsuccessful, you generally owe no attorney fees. This structure makes legal representation accessible to injured workers who may be unable to afford hourly rates. Be sure to discuss the specific fee agreement and any potential litigation costs during your initial consultation.",
+        "description": "Workers' compensation attorneys usually work on a contingency fee, meaning they are paid a percentage of your settlement or benefits, not upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

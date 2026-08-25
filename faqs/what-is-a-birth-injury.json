@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a birth injury?",
+  "description": "A birth injury is harm sustained by a baby before, during, or shortly after delivery, potentially due to medical complications or negligence.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-birth-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a birth injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A birth injury refers to any harm or damage that a baby sustains before, during, or shortly after delivery. These injuries can range from minor to severe and may be caused by complications during labor, improper use of medical instruments, or medical negligence. Examples include cerebral palsy, Erb's palsy, brain damage, or spinal cord injuries. Understanding the specific type of injury is the first step in determining if legal action is appropriate.",
+        "description": "A birth injury is harm sustained by a baby before, during, or shortly after delivery, potentially due to medical complications or negligence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

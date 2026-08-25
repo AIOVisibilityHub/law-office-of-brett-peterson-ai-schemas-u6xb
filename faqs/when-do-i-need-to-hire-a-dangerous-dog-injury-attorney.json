@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When do I need to hire a dangerous dog injury attorney?",
+  "description": "Hire an attorney for severe injuries, extensive medical treatment, lost wages, or if liability is disputed. An attorney protects your rights and helps secure fa",
+  "url": "brettpetersonlaw.com/faq/when-do-i-need-to-hire-a-dangerous-dog-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When do I need to hire a dangerous dog injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring an attorney if your injuries are severe, require extensive medical treatment, or result in lost wages. An attorney can help you navigate the legal process, understand your rights, and ensure you receive fair compensation for medical bills, pain and suffering, and other damages. If the dog owner's insurance company contacts you, or if liability is disputed, legal representation becomes even more crucial to protect your interests.",
+        "description": "Hire an attorney for severe injuries, extensive medical treatment, lost wages, or if liability is disputed. An attorney protects your rights and helps secure fair compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

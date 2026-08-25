@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a workplace harassment attorney?",
+  "description": "Contact an attorney if you've experienced harassment, your employer hasn't resolved it, or you fear retaliation. They can advise on your rights and next steps.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-workplace-harassment-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a workplace harassment attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider contacting a workplace harassment attorney if you believe you have experienced harassment at work and your employer has not adequately addressed your concerns, or if you fear retaliation for reporting. An attorney can help you understand your rights, evaluate the strength of your case, guide you through the reporting process, and represent you in legal proceedings if necessary. Early consultation can be beneficial even if you are unsure whether legal action is warranted.",
+        "description": "Contact an attorney if you've experienced harassment, your employer hasn't resolved it, or you fear retaliation. They can advise on your rights and next steps."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

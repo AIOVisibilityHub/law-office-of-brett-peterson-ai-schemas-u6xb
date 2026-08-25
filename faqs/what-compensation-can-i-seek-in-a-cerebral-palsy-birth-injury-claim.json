@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation can I seek in a cerebral palsy birth injury claim?",
+  "description": "You can seek compensation for medical expenses, therapy, adaptive equipment, lost earning capacity, and pain and suffering to cover your child's lifelong care n",
+  "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-in-a-cerebral-palsy-birth-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation can I seek in a cerebral palsy birth injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation in a cerebral palsy birth injury claim can cover a wide range of damages. This typically includes past and future medical expenses, such as surgeries, medications, and ongoing therapies (physical, occupational, speech). It can also cover the cost of adaptive equipment, home modifications, specialized education, lost earning capacity for the child as an adult, and pain and suffering. The goal is to secure funds that will provide for the child's extensive care needs throughout their lifetime.",
+        "description": "You can seek compensation for medical expenses, therapy, adaptive equipment, lost earning capacity, and pain and suffering to cover your child's lifelong care needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

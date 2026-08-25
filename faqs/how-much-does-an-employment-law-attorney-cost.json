@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an employment law attorney cost?",
+  "description": "Attorney costs vary, often hourly or contingency-based depending on case complexity. Discuss fee structures, including potential expenses, during your initial c",
+  "url": "brettpetersonlaw.com/faq/how-much-does-an-employment-law-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an employment law attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an employment law attorney can vary widely based on the complexity of the case, the attorney's experience, and the fee structure. Some attorneys charge an hourly rate, while others might work on a contingency basis, where fees are a percentage of the settlement or award. Initial consultations may be free or offered at a reduced rate. It's crucial to discuss fee arrangements upfront during your initial meeting, including potential costs for court filings, expert witnesses, and other expenses.",
+        "description": "Attorney costs vary, often hourly or contingency-based depending on case complexity. Discuss fee structures, including potential expenses, during your initial consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

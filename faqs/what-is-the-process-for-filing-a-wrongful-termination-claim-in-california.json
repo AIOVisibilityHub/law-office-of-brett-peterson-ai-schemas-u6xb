@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a wrongful termination claim in California?",
+  "description": "The process involves an initial legal consultation, potential negotiation, filing with an agency like DFEH or EEOC, and possibly a lawsuit in court.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-wrongful-termination-claim-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a wrongful termination claim in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an initial consultation where an attorney evaluates your case. If the case proceeds, the lawyer might first attempt to negotiate with your former employer. If negotiations fail, a formal complaint may need to be filed with an administrative agency, such as the Department of Fair Employment and Housing (DFEH) or the Equal Employment Opportunity Commission (EEOC), within strict deadlines. After receiving a 'right-to-sue' letter, a lawsuit can be filed in court. The process can involve discovery, mediation, and potentially a trial.",
+        "description": "The process involves an initial legal consultation, potential negotiation, filing with an agency like DFEH or EEOC, and possibly a lawsuit in court."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

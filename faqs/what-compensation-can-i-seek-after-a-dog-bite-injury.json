@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation can I seek after a dog bite injury?",
+  "description": "Compensation can cover medical expenses, lost wages, pain and suffering, emotional distress, and property damage resulting from a dog bite injury.",
+  "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-after-a-dog-bite-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation can I seek after a dog bite injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Victims of dog bite injuries may be entitled to various forms of compensation. This can include reimbursement for all medical expenses, such as emergency care, doctor visits, surgeries, medications, and physical therapy. You may also seek compensation for lost wages due to time off work, pain and suffering, emotional distress, disfigurement, and property damage. The specific compensation depends on the severity of your injuries and the circumstances of the attack.",
+        "description": "Compensation can cover medical expenses, lost wages, pain and suffering, emotional distress, and property damage resulting from a dog bite injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

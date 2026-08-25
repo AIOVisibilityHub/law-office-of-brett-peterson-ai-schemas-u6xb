@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best dog owner liability lawyer in San Diego?",
+  "description": "Choose a lawyer with specific personal injury and dog bite case experience, a good reputation, and clear communication, offering a free consultation.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-dog-owner-liability-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best dog owner liability lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a dog owner liability lawyer in San Diego, look for someone with specific experience in personal injury law and a proven track record with dog bite cases. Consider their reputation, client testimonials, and their approach to communication. A good lawyer should offer a free consultation, clearly explain their fee structure, and demonstrate a strong understanding of local laws relevant to your case.",
+        "description": "Choose a lawyer with specific personal injury and dog bite case experience, a good reputation, and clear communication, offering a free consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

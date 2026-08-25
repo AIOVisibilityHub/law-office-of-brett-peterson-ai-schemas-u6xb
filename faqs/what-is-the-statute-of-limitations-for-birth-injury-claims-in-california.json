@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the statute of limitations for birth injury claims in California?",
+  "description": "In California, the statute of limitations for birth injury claims is generally three years from injury or one year from discovery, whichever is first. Exception",
+  "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-birth-injury-claims-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the statute of limitations for birth injury claims in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for medical malpractice claims, including birth injury cases, is generally three years from the date of injury or one year after the injured person discovers, or through the use of reasonable diligence should have discovered, the injury, whichever occurs first. However, for minors, there are specific exceptions, often allowing claims to be filed until the child's eighth birthday in certain circumstances. These rules are complex, making prompt legal consultation essential to ensure your claim is filed within the appropriate timeframe.",
+        "description": "In California, the statute of limitations for birth injury claims is generally three years from injury or one year from discovery, whichever is first. Exceptions exist for minors, often extending to their eighth birthday, making prompt legal advice crucial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

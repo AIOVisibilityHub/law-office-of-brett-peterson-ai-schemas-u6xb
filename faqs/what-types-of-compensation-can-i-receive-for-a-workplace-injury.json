@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I receive for a workplace injury?",
+  "description": "Compensation can include medical treatment costs, temporary disability for lost wages, permanent disability for lasting impairments, and vocational rehabilitati",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-for-a-workplace-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I receive for a workplace injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for a workplace injury typically includes medical treatment costs, which cover doctor visits, prescriptions, and therapy. You may also receive temporary disability benefits for lost wages if your injury prevents you from working. If your injury results in a permanent impairment, you might be eligible for permanent disability benefits. In some cases, vocational rehabilitation services may also be provided to help you return to work.",
+        "description": "Compensation can include medical treatment costs, temporary disability for lost wages, permanent disability for lasting impairments, and vocational rehabilitation services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

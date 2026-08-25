@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a wrongful termination lawyer?",
+  "description": "Contact a wrongful termination lawyer promptly if you believe your firing was unlawful, as legal deadlines apply and early advice can strengthen your case.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-wrongful-termination-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a wrongful termination lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a wrongful termination lawyer as soon as you suspect your firing was unlawful. There are strict deadlines, known as statutes of limitations, for filing claims, and missing these can prevent you from pursuing your case. An attorney can help you understand your rights, evaluate the strength of your claim, gather necessary evidence, and ensure all procedures are followed correctly from the start. Early consultation allows for a more comprehensive investigation and strategic planning.",
+        "description": "Contact a wrongful termination lawyer promptly if you believe your firing was unlawful, as legal deadlines apply and early advice can strengthen your case."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

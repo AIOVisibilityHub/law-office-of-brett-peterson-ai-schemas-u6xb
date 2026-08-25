@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an employee rights case typically take?",
+  "description": "Case duration varies; some resolve in months through negotiation, others taking a year or more if they go to litigation. Complexity and employer's stance influe",
+  "url": "brettpetersonlaw.com/faq/how-long-does-an-employee-rights-case-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an employee rights case typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an employee rights case can vary significantly depending on its complexity, the employer's willingness to settle, and the court's schedule. Some cases may resolve quickly through negotiation or mediation within a few months, while others that proceed to litigation and trial could take a year or more. An attorney can provide a more specific estimate after reviewing the details of your situation, but it's important to understand that these cases often require patience.",
+        "description": "Case duration varies; some resolve in months through negotiation, others taking a year or more if they go to litigation. Complexity and employer's stance influence the timeline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

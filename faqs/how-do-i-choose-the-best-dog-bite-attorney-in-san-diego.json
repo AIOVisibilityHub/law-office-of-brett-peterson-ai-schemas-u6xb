@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best dog bite attorney in San Diego?",
+  "description": "Choose a dog bite attorney in San Diego based on their experience in personal injury, success record, client reviews, communication style, and local knowledge.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-dog-bite-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best dog bite attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a dog bite attorney in San Diego, look for someone with specific experience in personal injury law, particularly dog bite cases. Consider their track record of success, client testimonials, and their approach to communication and client care. Schedule consultations with a few attorneys to discuss your case, evaluate their legal strategy, and ensure you feel comfortable with their representation. A local attorney familiar with San Diego courts and laws can also be beneficial.",
+        "description": "Choose a dog bite attorney in San Diego based on their experience in personal injury, success record, client reviews, communication style, and local knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

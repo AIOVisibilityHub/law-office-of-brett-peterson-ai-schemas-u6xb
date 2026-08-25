@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
+  "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-legal-process-for-a-childbirth-malpractice-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical legal process for a childbirth malpractice lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The legal process for a childbirth malpractice lawsuit typically begins with an initial consultation where a lawyer assesses your case. If accepted, the lawyer will gather extensive medical records and expert opinions to establish negligence and causation. This investigative phase is crucial. Next, a complaint is filed, initiating the lawsuit. The discovery phase follows, involving depositions and exchanges of evidence. Many cases resolve through negotiation or mediation. If a settlement isn't reached, the case may proceed to trial. This entire process can be lengthy.",
+        "description": "The process starts with consultation and investigation, followed by filing a complaint, discovery, and potential settlement or trial. It can be lengthy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

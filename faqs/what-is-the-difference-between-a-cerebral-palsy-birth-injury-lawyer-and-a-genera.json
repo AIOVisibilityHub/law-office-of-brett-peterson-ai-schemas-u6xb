@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a cerebral palsy birth injury lawyer and a general personal injury lawyer?",
+  "description": "A cerebral palsy birth injury lawyer specializes in medical malpractice during childbirth leading to cerebral palsy, unlike a general personal injury lawyer who",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-cerebral-palsy-birth-injury-lawyer-and-a-genera",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a cerebral palsy birth injury lawyer and a general personal injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general personal injury lawyer handles a broad range of injury cases, such as car accidents or slip and falls. In contrast, a cerebral palsy birth injury lawyer specializes specifically in cases involving medical malpractice during childbirth that results in cerebral palsy. This specialization means they possess deep knowledge of complex medical terminology, standards of care for obstetricians and hospitals, and the specific legal precedents related to birth injuries. Their focused expertise is critical for these intricate and high-stakes cases.",
+        "description": "A cerebral palsy birth injury lawyer specializes in medical malpractice during childbirth leading to cerebral palsy, unlike a general personal injury lawyer who handles broader injury cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

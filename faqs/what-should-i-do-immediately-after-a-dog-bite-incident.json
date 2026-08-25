@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a dog bite incident?",
+  "description": "Seek medical attention, document injuries and the incident, gather contact information, and report the bite to animal control. Do not discuss fault or accept of",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-dog-bite-incident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a dog bite incident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a dog bite, prioritize your safety and medical needs. Seek immediate medical attention, even for minor injuries, as infections can be serious. Document everything: take photos of your injuries, the dog, and the location. Get contact information from the dog owner and any witnesses. Report the bite to local animal control. Do not discuss fault or accept any offers from the dog owner without consulting with an attorney first. This information is crucial for any potential claim.",
+        "description": "Seek medical attention, document injuries and the incident, gather contact information, and report the bite to animal control. Do not discuss fault or accept offers before speaking with an attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

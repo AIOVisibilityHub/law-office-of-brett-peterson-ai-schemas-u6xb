@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of evidence are useful in an employment discrimination case?",
+  "description": "Useful evidence includes documented incidents, emails, witness testimony, performance reviews, and company policies. A detailed personal log of events is also h",
+  "url": "brettpetersonlaw.com/faq/what-types-of-evidence-are-useful-in-an-employment-discrimination-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of evidence are useful in an employment discrimination case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Useful evidence in an employment discrimination case includes documented incidents of discrimination, performance reviews, emails, text messages, witness testimonies, company policies, and any records showing disparate treatment compared to colleagues. Maintaining a detailed personal log of dates, times, specific events, and names of individuals involved can also be very helpful. The more documentation and specific details you have, the stronger your case will likely be. An attorney can help you identify and collect relevant evidence.",
+        "description": "Useful evidence includes documented incidents, emails, witness testimony, performance reviews, and company policies. A detailed personal log of events is also helpful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

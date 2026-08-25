@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the potential outcomes of a wrongful termination lawsuit?",
+  "description": "Outcomes can include compensation for lost wages, benefits, emotional distress, and sometimes punitive damages, often resolved through settlement.",
+  "url": "brettpetersonlaw.com/faq/what-are-the-potential-outcomes-of-a-wrongful-termination-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the potential outcomes of a wrongful termination lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The potential outcomes of a wrongful termination lawsuit can include financial compensation for lost wages and benefits (back pay and front pay), emotional distress, and sometimes punitive damages designed to punish the employer. In some cases, reinstatement to your former position may be sought, though this is less common. Many cases are resolved through settlement negotiations before going to trial. The specific outcome depends on the strength of your case, the damages incurred, and whether the case settles or proceeds to a verdict.",
+        "description": "Outcomes can include compensation for lost wages, benefits, emotional distress, and sometimes punitive damages, often resolved through settlement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

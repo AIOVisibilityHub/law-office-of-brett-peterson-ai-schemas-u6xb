@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical workers' comp claim take in California?",
+  "description": "Claim duration varies; simple cases may take months, while complex or disputed claims can extend to a year or more in California.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-typical-workers-comp-claim-take-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical workers' comp claim take in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a workers' compensation claim in California varies significantly based on its complexity, the nature of the injury, and whether it is disputed. Simple, undisputed claims might resolve in a few months, while more complex cases involving ongoing medical treatment, multiple body parts, or disputes with the insurance company can take a year or more to settle or go to hearing. A lawyer can help expedite the process and ensure timely resolution while protecting your interests.",
+        "description": "Claim duration varies; simple cases may take months, while complex or disputed claims can extend to a year or more in California."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

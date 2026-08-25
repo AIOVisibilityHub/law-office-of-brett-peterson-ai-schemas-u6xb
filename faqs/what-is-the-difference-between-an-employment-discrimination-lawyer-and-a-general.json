@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an employment discrimination lawyer and a general labor lawyer?",
+  "description": "An employment discrimination lawyer specializes in unfair treatment based on protected characteristics, while a general labor lawyer handles a broader range of",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-an-employment-discrimination-lawyer-and-a-general",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an employment discrimination lawyer and a general labor lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An employment discrimination lawyer specializes specifically in cases where employees are treated unfairly due to protected characteristics. Their expertise focuses on laws like Title VII, FEHA, ADA, and ADEA, and they understand the nuances of proving discriminatory intent or impact. A general labor lawyer, while potentially handling some discrimination cases, often has a broader practice that might include wage and hour disputes, contract issues, union negotiations, or other general workplace legal matters. For a discrimination claim, a specialized attorney often provides more focused and experienced representation.",
+        "description": "An employment discrimination lawyer specializes in unfair treatment based on protected characteristics, while a general labor lawyer handles a broader range of workplace legal issues. Specialization is key for discrimination cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

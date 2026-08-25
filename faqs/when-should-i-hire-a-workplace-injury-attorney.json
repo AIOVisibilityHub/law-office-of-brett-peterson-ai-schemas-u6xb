@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I hire a workplace injury attorney?",
+  "description": "Consider hiring an attorney if your claim is denied, benefits are delayed, injuries are severe, or you disagree with settlement offers or medical treatment.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-hire-a-workplace-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I hire a workplace injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider hiring a workplace injury attorney if your employer denies your claim, delays benefits, or if your injuries are severe and require extensive medical treatment. An attorney can also be beneficial if you disagree with the doctor chosen by the insurance company, if you're offered a settlement that seems too low, or if you face retaliation for filing a claim. Consulting an attorney early can help protect your rights and ensure you receive fair compensation.",
+        "description": "Consider hiring an attorney if your claim is denied, benefits are delayed, injuries are severe, or you disagree with settlement offers or medical treatment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

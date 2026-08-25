@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I bring to my first meeting with an employee rights attorney?",
+  "description": "Bring your employment contract, performance reviews, disciplinary notices, relevant communications, pay stubs, and a timeline of events to your first attorney m",
+  "url": "brettpetersonlaw.com/faq/what-should-i-bring-to-my-first-meeting-with-an-employee-rights-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I bring to my first meeting with an employee rights attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make your first meeting productive, bring any relevant documents you have. This may include your employment contract, offer letter, performance reviews, disciplinary notices, emails or texts related to your dispute, pay stubs, and any written company policies. Also, prepare a timeline of events and a list of key individuals involved. Even if you don't have everything, an attorney can still advise you, but having these documents can help them quickly assess your situation.",
+        "description": "Bring your employment contract, performance reviews, disciplinary notices, relevant communications, pay stubs, and a timeline of events to your first attorney meeting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

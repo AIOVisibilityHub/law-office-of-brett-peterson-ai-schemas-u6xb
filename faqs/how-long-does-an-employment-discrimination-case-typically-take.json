@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an employment discrimination case typically take?",
+  "description": "Case timelines vary, from a few months if settled through mediation to several years if it proceeds to trial, depending on complexity and negotiation.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-an-employment-discrimination-case-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an employment discrimination case typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an employment discrimination case can vary significantly depending on its complexity, the evidence involved, and whether it settles or goes to trial. Some cases may resolve through mediation or settlement within a few months, while others that proceed to litigation can take one to several years to reach a conclusion. Factors like agency backlogs, court schedules, and the willingness of both parties to negotiate can influence the timeline. An attorney can provide a more specific estimate after evaluating the details of your situation.",
+        "description": "Case timelines vary, from a few months if settled through mediation to several years if it proceeds to trial, depending on complexity and negotiation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

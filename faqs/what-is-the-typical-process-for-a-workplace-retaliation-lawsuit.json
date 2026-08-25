@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a workplace retaliation lawsuit?",
+  "description": "The process often starts with filing a complaint with an agency like the EEOC or DFEH. This may lead to mediation, a right-to-sue letter, and then a lawsuit in",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-process-for-a-workplace-retaliation-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a workplace retaliation lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process often begins with filing a complaint with a government agency like the Equal Employment Opportunity Commission (EEOC) or a state equivalent, such as the California Department of Fair Employment and Housing (DFEH). After investigation or receiving a",
+        "description": "The process often starts with filing a complaint with an agency like the EEOC or DFEH. This may lead to mediation, a right-to-sue letter, and then a lawsuit in court."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right employment discrimination lawyer in San Diego?",
+  "description": "Choose a lawyer with specific experience in employment discrimination cases, a strong track record, and a good understanding of California laws. Schedule consul",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-employment-discrimination-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right employment discrimination lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an employment discrimination lawyer in San Diego, look for someone with specific experience in these types of cases. Consider their track record, client testimonials, and their understanding of both federal and California state employment laws, particularly FEHA. Schedule initial consultations with a few attorneys to discuss your case, assess their communication style, and ensure you feel comfortable and confident in their approach. Ask about their fee structure, their litigation philosophy, and what outcomes they realistically foresee for your situation.",
+        "description": "Choose a lawyer with specific experience in employment discrimination cases, a strong track record, and a good understanding of California laws. Schedule consultations to assess compatibility and discuss their approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

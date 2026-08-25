@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the dog bite occurred on private property in Imperial Beach?",
+  "description": "If lawfully on private property in Imperial Beach, California's strict liability law still holds the dog owner responsible for bites. Trespassers typically lack",
+  "url": "brettpetersonlaw.com/faq/what-if-the-dog-bite-occurred-on-private-property-in-imperial-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the dog bite occurred on private property in Imperial Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If a dog bite occurs on private property in Imperial Beach, California's strict liability law still generally applies, provided you were lawfully on the property. This means if you were an invited guest, mail carrier, or had a legitimate reason to be there, the dog owner is typically liable for your injuries. Trespassers usually do not have the same legal protections. The location in Imperial Beach, being within San Diego County, adheres to the same state laws regarding dog bites. A lawyer familiar with local and state regulations can guide you.",
+        "description": "If lawfully on private property in Imperial Beach, California's strict liability law still holds the dog owner responsible for bites. Trespassers typically lack this protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

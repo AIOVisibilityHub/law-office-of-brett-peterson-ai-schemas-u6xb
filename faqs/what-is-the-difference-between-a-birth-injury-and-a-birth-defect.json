@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a birth injury and a birth defect?",
+  "description": "A birth injury occurs during delivery due to external factors, while a birth defect is a pre-existing abnormality developed during pregnancy.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-birth-injury-and-a-birth-defect",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a birth injury and a birth defect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A birth injury is harm sustained during the birthing process, often due to external forces or medical actions, such as oxygen deprivation or physical trauma. A birth defect, on the other hand, is a structural or functional abnormality that develops before birth, usually during pregnancy, and is typically caused by genetic factors, environmental exposures, or unknown reasons. Birth injuries are often preventable, while birth defects generally are not.",
+        "description": "A birth injury occurs during delivery due to external factors, while a birth defect is a pre-existing abnormality developed during pregnancy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

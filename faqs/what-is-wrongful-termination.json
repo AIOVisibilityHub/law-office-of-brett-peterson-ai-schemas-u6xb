@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is wrongful termination?",
+  "description": "Wrongful termination means being fired for an illegal reason, like discrimination or retaliation, rather than legitimate business causes.",
+  "url": "brettpetersonlaw.com/faq/what-is-wrongful-termination",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is wrongful termination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wrongful termination occurs when an employer fires an employee for an illegal reason, such as discrimination, retaliation for reporting safety violations, or in breach of an employment contract. It is not wrongful termination if an employer fires an employee for poor performance or legitimate business reasons, as most employment in California is",
+        "description": "Wrongful termination means being fired for an illegal reason, like discrimination or retaliation, rather than legitimate business causes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

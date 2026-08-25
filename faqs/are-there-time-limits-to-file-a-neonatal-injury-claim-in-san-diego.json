@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there time limits to file a neonatal injury claim in San Diego?",
+  "description": "In California, neonatal injury claims generally have a time limit of three years from injury or one year from discovery, with specific rules for minors.",
+  "url": "brettpetersonlaw.com/faq/are-there-time-limits-to-file-a-neonatal-injury-claim-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there time limits to file a neonatal injury claim in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in California, there are specific statutes of limitations that dictate the time frame within which a medical malpractice lawsuit, including neonatal injury claims, must be filed. Generally, a medical malpractice claim must be filed within three years from the date of injury or one year after the plaintiff discovers or should have discovered the injury, whichever occurs first. However, for minors, there are often exceptions and specific rules. It is critical to consult with a local attorney promptly to understand the exact deadlines that apply to your child's case.",
+        "description": "In California, neonatal injury claims generally have a time limit of three years from injury or one year from discovery, with specific rules for minors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a workers' comp lawyer if my claim is straightforward?",
+  "description": "Even in seemingly straightforward cases, a workers' comp lawyer can protect your rights, ensure proper benefits, and prevent insurance company underpayments or",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-workers-comp-lawyer-if-my-claim-is-straightforward",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a workers' comp lawyer if my claim is straightforward?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Even if your workers' compensation claim appears straightforward, consulting a lawyer is often beneficial. Insurance companies may try to minimize payouts or deny claims, even for minor injuries. A lawyer can review your case to ensure you receive all eligible medical care and financial benefits, prevent procedural errors, and represent your interests if complications arise. They can also help properly value your claim, ensuring you don't settle for less than you deserve.",
+        "description": "Even in seemingly straightforward cases, a workers' comp lawyer can protect your rights, ensure proper benefits, and prevent insurance company underpayments or denials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

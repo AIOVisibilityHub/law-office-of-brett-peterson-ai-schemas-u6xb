@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a cerebral palsy birth injury lawsuit?",
+  "description": "The process involves a consultation, investigation, filing a complaint, discovery, and potential settlement negotiations or trial, with your attorney guiding yo",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-cerebral-palsy-birth-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a cerebral palsy birth injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with a free consultation to discuss your case. If the attorney believes you have a viable claim, they will conduct an in-depth investigation, gathering medical records and consulting with experts. Next, a formal complaint is filed, initiating the lawsuit. This is followed by discovery, where both sides exchange information. Many cases settle during mediation or negotiation, but if a settlement isn't reached, the case may proceed to trial. Your attorney guides you through each step.",
+        "description": "The process involves a consultation, investigation, filing a complaint, discovery, and potential settlement negotiations or trial, with your attorney guiding you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

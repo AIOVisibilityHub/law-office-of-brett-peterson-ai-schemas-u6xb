@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a delivery injury claim?",
+  "description": "Filing a delivery injury claim involves gathering evidence, notifying parties, negotiating with insurance, and potentially filing a lawsuit if a settlement isn'",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-delivery-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a delivery injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process typically begins with gathering evidence, including accident reports, medical records, and witness statements. Your lawyer will then formally notify the responsible parties and their insurance companies of your intent to file a claim. Negotiations usually follow, where your lawyer presents your damages and seeks a fair settlement. If negotiations are unsuccessful, a lawsuit may be filed, leading to discovery (information exchange), mediation, and potentially a trial. Throughout this process, your lawyer handles communications and legal procedures.",
+        "description": "Filing a delivery injury claim involves gathering evidence, notifying parties, negotiating with insurance, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

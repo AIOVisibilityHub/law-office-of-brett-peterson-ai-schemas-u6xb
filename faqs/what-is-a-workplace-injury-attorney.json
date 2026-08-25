@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a workplace injury attorney?",
+  "description": "A workplace injury attorney helps employees navigate the legal process after being injured on the job, assisting with claims, evidence, and negotiations to secu",
+  "url": "brettpetersonlaw.com/faq/what-is-a-workplace-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a workplace injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workplace injury attorney, also known as a workers' compensation attorney, helps employees navigate the legal process after being injured on the job. Their role includes assisting with claim filing, gathering evidence, negotiating with insurance companies, and representing clients in hearings or appeals. They aim to ensure injured workers receive appropriate medical care and financial compensation for lost wages and other damages related to their work injury.",
+        "description": "A workplace injury attorney helps employees navigate the legal process after being injured on the job, assisting with claims, evidence, and negotiations to secure compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

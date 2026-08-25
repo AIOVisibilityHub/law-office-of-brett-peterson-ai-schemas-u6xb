@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a workers' compensation case take to resolve?",
+  "description": "Case duration varies; simple cases can resolve in months, while complex ones involving severe injuries or disputes may take a year or more.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-workers-compensation-case-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a workers' compensation case take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a workers' compensation case varies widely depending on the complexity of the injury, disputes over medical treatment, or disagreements regarding the extent of disability. Simple cases with clear liability and minor injuries might resolve in a few months. More complex cases involving severe injuries, multiple parties, or appeals can take a year or more. An attorney can help expedite the process and keep you informed.",
+        "description": "Case duration varies; simple cases can resolve in months, while complex ones involving severe injuries or disputes may take a year or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

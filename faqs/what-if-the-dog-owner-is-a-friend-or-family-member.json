@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the dog owner is a friend or family member?",
+  "description": "If the dog owner is a friend or family member, their homeowner's or renter's insurance typically covers the damages, not their personal finances.",
+  "url": "brettpetersonlaw.com/faq/what-if-the-dog-owner-is-a-friend-or-family-member",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the dog owner is a friend or family member?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can be difficult when the dog owner is someone you know. However, pursuing a claim through their homeowner's or renter's insurance policy often covers the damages, meaning the compensation typically comes from the insurance company, not directly from your friend or family member's personal finances. An attorney can help you navigate these sensitive situations discreetly and ensure you receive the necessary compensation for your injuries without damaging personal relationships.",
+        "description": "If the dog owner is a friend or family member, their homeowner's or renter's insurance typically covers the damages, not their personal finances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

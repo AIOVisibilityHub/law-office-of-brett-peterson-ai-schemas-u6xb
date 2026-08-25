@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a wrongful termination claim?",
+  "description": "The process generally involves a lawyer consultation, filing a complaint with an agency (DFEH/EEOC), investigation, mediation, and potentially a lawsuit if no r",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-process-for-a-wrongful-termination-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a wrongful termination claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The typical process for a wrongful termination claim often begins with an initial consultation with a lawyer to assess your case. If the lawyer takes your case, they may file a complaint with an administrative agency like the DFEH or EEOC, depending on the nature of your claim. This is often followed by investigation, mediation, and potentially a lawsuit if a resolution isn't reached earlier. The process can be lengthy.",
+        "description": "The process generally involves a lawyer consultation, filing a complaint with an agency (DFEH/EEOC), investigation, mediation, and potentially a lawsuit if no resolution occurs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

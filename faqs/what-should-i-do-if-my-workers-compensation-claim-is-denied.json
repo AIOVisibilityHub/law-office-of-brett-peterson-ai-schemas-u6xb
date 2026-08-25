@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do if my workers' compensation claim is denied?",
+  "description": "If your claim is denied, contact a San Diego workers' compensation lawyer immediately to appeal the decision and protect your rights.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-if-my-workers-compensation-claim-is-denied",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do if my workers' compensation claim is denied?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your workers' compensation claim is denied, you should immediately seek legal advice from a San Diego workers' compensation lawyer. Do not delay, as there are strict deadlines for appealing a denial. Your lawyer can help you understand the reason for the denial, gather additional evidence, file a Declaration of Readiness to Proceed to a hearing, and represent you before the Workers' Compensation Appeals Board to fight for your rights and benefits.",
+        "description": "If your claim is denied, contact a San Diego workers' compensation lawyer immediately to appeal the decision and protect your rights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

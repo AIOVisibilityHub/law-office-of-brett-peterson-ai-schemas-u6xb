@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a workers' compensation attorney?",
+  "description": "Choose an attorney with specific workers' compensation experience, local law knowledge, clear communication, and a proven track record.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-look-for-when-choosing-a-workers-compensation-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a workers' compensation attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a workers' compensation attorney, look for someone with specific experience in workers' compensation law, as it is a specialized field. They should be familiar with local laws and procedures, such as those in San Diego. Look for an attorney who communicates clearly, explains the process and potential outcomes, and provides a clear understanding of their fee structure. A reputable attorney will have a proven track record and be committed to advocating for your best interests. Check reviews and ask about their success rate.",
+        "description": "Choose an attorney with specific workers' compensation experience, local law knowledge, clear communication, and a proven track record."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

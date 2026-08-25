@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still make a claim if I was partially at fault for the dog bite?",
+  "description": "Under California's comparative negligence rule, if you are partially at fault for a dog bite, your compensation may be reduced by your percentage of fault.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-make-a-claim-if-i-was-partially-at-fault-for-the-dog-bite",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still make a claim if I was partially at fault for the dog bite?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California follows a 'comparative negligence' rule, meaning that if you were partially at fault for the dog bite, your compensation might be reduced by your percentage of fault. For example, if you were found to be 20% responsible for provoking the dog, your total compensation could be reduced by 20%. It's important to discuss all the details of the incident with an attorney, as they can assess how comparative negligence might apply to your specific case and advocate to minimize any attributed fault.",
+        "description": "Under California's comparative negligence rule, if you are partially at fault for a dog bite, your compensation may be reduced by your percentage of fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is childbirth malpractice and when should I consider contacting a lawyer?",
+  "description": "Childbirth malpractice is medical negligence during pregnancy or delivery causing injury. Contact a lawyer if you suspect a preventable injury due to medical er",
+  "url": "brettpetersonlaw.com/faq/what-is-childbirth-malpractice-and-when-should-i-consider-contacting-a-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is childbirth malpractice and when should I consider contacting a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Childbirth malpractice occurs when a medical professional's negligence during pregnancy, labor, or delivery causes injury to the mother or baby. This can include failing to diagnose a condition, improper use of delivery tools, or delaying a necessary C-section. You should consider contacting a lawyer if you suspect your or your baby's injury was preventable and directly caused by a medical error. A lawyer can evaluate your situation, review medical records, and determine if you have a valid claim, helping you understand your legal options.",
+        "description": "Childbirth malpractice is medical negligence during pregnancy or delivery causing injury. Contact a lawyer if you suspect a preventable injury due to medical error."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

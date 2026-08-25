@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process of filing a workers' compensation claim with an attorney?",
+  "description": "An attorney helps report your injury, files claim forms, gathers evidence, negotiates with insurers, and represents you in hearings if needed.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-workers-compensation-claim-with-an-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process of filing a workers' compensation claim with an attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with reporting your injury to your employer. Your attorney will then help you complete and file the necessary claim forms with the state and the insurance carrier. They will gather medical records, evidence, and witness statements to support your case. The attorney will handle communication and negotiations with the insurance company. If a fair settlement isn't reached, your attorney can represent you in hearings or appeals to secure your benefits.",
+        "description": "An attorney helps report your injury, files claim forms, gathers evidence, negotiates with insurers, and represents you in hearings if needed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

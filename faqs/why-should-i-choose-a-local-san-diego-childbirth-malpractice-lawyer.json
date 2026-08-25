@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose a local San Diego childbirth malpractice lawyer?",
+  "description": "A local San Diego childbirth malpractice lawyer offers advantages like familiarity with local courts, judges, and established relationships with area medical ex",
+  "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-local-san-diego-childbirth-malpractice-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose a local San Diego childbirth malpractice lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a local San Diego childbirth malpractice lawyer, like the Law Office of Brett Peterson, offers several advantages. Local attorneys are familiar with the specific courts, judges, and opposing counsel in the San Diego County area, including cities like Imperial Beach, Coronado, and La Mesa. They often have established relationships with local medical experts who can provide crucial testimony. This local insight can be invaluable in navigating the legal landscape efficiently and effectively, giving you a strategic edge in your case. We understand the nuances of the local legal community.",
+        "description": "A local San Diego childbirth malpractice lawyer offers advantages like familiarity with local courts, judges, and established relationships with area medical experts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

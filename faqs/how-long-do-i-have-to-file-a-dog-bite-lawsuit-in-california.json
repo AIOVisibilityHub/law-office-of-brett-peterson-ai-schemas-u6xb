@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a dog bite lawsuit in California?",
+  "description": "In California, you generally have two years from the date of the dog bite to file a lawsuit. Consult a lawyer promptly to avoid missing this deadline.",
+  "url": "brettpetersonlaw.com/faq/how-long-do-i-have-to-file-a-dog-bite-lawsuit-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a dog bite lawsuit in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for personal injury cases, including dog bites, is generally two years from the date of the injury. This means you typically have two years from the day you were bitten to file a lawsuit in court. If you miss this deadline, you may lose your right to pursue compensation. However, there can be exceptions to this rule, so it's crucial to consult with a San Diego dog bite lawyer as soon as possible to ensure your claim is filed within the appropriate timeframe.",
+        "description": "In California, you generally have two years from the date of the dog bite to file a lawsuit. Consult a lawyer promptly to avoid missing this deadline."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

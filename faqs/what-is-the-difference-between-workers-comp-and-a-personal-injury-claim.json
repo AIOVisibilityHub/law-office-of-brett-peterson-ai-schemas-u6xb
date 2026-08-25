@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between workers' comp and a personal injury claim?",
+  "description": "Workers' comp covers work injuries regardless of fault, limiting employer lawsuits; personal injury claims cover negligence-based injuries outside work, requiri",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-workers-comp-and-a-personal-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between workers' comp and a personal injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' compensation covers injuries sustained at work, regardless of fault, providing benefits like medical care and lost wages. It typically limits your ability to sue your employer directly. Personal injury claims, conversely, involve injuries caused by another party's negligence outside of work. These claims aim to recover full damages, including pain and suffering, and require proving the other party was at fault. While distinct, some workplace injuries might also have a third-party personal injury component, such as an accident involving a non-employer driver.",
+        "description": "Workers' comp covers work injuries regardless of fault, limiting employer lawsuits; personal injury claims cover negligence-based injuries outside work, requiring proof of fault and seeking broader damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

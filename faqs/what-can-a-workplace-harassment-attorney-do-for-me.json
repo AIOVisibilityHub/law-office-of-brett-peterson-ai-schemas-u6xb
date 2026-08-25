@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What can a workplace harassment attorney do for me?",
+  "description": "An attorney explains your rights, helps with complaints, gathers evidence, negotiates, and represents you in legal proceedings to achieve the best outcome.",
+  "url": "brettpetersonlaw.com/faq/what-can-a-workplace-harassment-attorney-do-for-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can a workplace harassment attorney do for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workplace harassment attorney can provide legal guidance and representation throughout the entire process. This includes explaining your rights, assisting with internal company complaints, gathering evidence, negotiating with your employer, and representing you in mediation, arbitration, or court. They aim to achieve the best possible outcome for your situation, whether that involves compensation, reinstatement, or an improved work environment, while protecting your legal interests.",
+        "description": "An attorney explains your rights, helps with complaints, gathers evidence, negotiates, and represents you in legal proceedings to achieve the best outcome."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a workers' comp lawyer and how can they help me?",
+  "description": "A workers' comp lawyer specializes in workplace injury claims, helping you navigate the legal process, secure benefits, and represent you in disputes.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-workers-comp-lawyer-and-how-can-they-help-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a workers' comp lawyer and how can they help me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workers' compensation lawyer specializes in laws related to workplace injuries and illnesses. They can help you navigate the complex claims process, ensure you receive all entitled benefits, and represent you in disputes with your employer or their insurance company. This includes gathering evidence, filing paperwork, negotiating settlements, and appealing denied claims. Their goal is to protect your rights and maximize your compensation, allowing you to focus on your recovery without the added stress of legal complexities.",
+        "description": "A workers' comp lawyer specializes in workplace injury claims, helping you navigate the legal process, secure benefits, and represent you in disputes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

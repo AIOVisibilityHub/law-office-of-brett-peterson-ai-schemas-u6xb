@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact an obstetric malpractice attorney in San Diego?",
+  "description": "Contact an attorney in San Diego as soon as you suspect medical negligence caused an injury during pregnancy or childbirth, due to strict legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-an-obstetric-malpractice-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact an obstetric malpractice attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact an obstetric malpractice attorney as soon as you suspect that an injury during pregnancy, labor, or delivery may have been due to medical negligence. In California, there are strict statutes of limitations, which set deadlines for filing a lawsuit. Consulting an attorney early allows them to promptly investigate your case, gather necessary evidence, and ensure all legal deadlines are met. This early action can be crucial for preserving your right to pursue a claim.",
+        "description": "Contact an attorney in San Diego as soon as you suspect medical negligence caused an injury during pregnancy or childbirth, due to strict legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

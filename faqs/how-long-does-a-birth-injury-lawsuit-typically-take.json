@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a birth injury lawsuit typically take?",
+  "description": "The duration of a birth injury lawsuit varies, from a year or two for settlements to several years for complex cases requiring trial.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-birth-injury-lawsuit-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a birth injury lawsuit typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a birth injury lawsuit can vary significantly depending on the complexity of the case, the severity of the injury, and whether a settlement is reached or the case goes to trial. Some cases may resolve within a year or two through negotiation, while others, particularly those requiring extensive expert testimony or court proceedings, can take several years. Your lawyer can provide a more specific timeline once they have evaluated your particular situation.",
+        "description": "The duration of a birth injury lawsuit varies, from a year or two for settlements to several years for complex cases requiring trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the statute of limitations for filing a birth injury claim in San Diego?",
+  "description": "In California, the statute of limitations for birth injury claims is generally one year from discovery or three years from injury, with special rules for minors",
+  "url": "brettpetersonlaw.com/faq/what-is-the-statute-of-limitations-for-filing-a-birth-injury-claim-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the statute of limitations for filing a birth injury claim in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, the statute of limitations for medical malpractice claims, including birth injuries, can be complex. Generally, you have one year from the date you discover, or should have discovered, the injury, but no more than three years from the date of the injury itself. For minors, special rules may apply, potentially extending the time limit. It's crucial to consult with a San Diego birth injury lawyer as soon as possible to ensure your claim is filed within the legal timeframe.",
+        "description": "In California, the statute of limitations for birth injury claims is generally one year from discovery or three years from injury, with special rules for minors. Consult a lawyer promptly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

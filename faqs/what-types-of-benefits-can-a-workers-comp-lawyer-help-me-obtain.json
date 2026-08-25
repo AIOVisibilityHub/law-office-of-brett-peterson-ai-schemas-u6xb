@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of benefits can a workers' comp lawyer help me obtain?",
+  "description": "Lawyers help secure medical treatment, temporary and permanent disability payments, supplemental job displacement benefits, and death benefits for work-related",
+  "url": "brettpetersonlaw.com/faq/what-types-of-benefits-can-a-workers-comp-lawyer-help-me-obtain",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of benefits can a workers' comp lawyer help me obtain?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A workers' comp lawyer can help you secure various benefits, including medical treatment for your work-related injury or illness, temporary disability payments if you're unable to work, and permanent disability benefits if you suffer lasting impairment. They can also assist with supplemental job displacement benefits for retraining if you cannot return to your previous job. In tragic cases, they can help families pursue death benefits. Their role is to ensure you receive fair compensation for all applicable losses.",
+        "description": "Lawyers help secure medical treatment, temporary and permanent disability payments, supplemental job displacement benefits, and death benefits for work-related injuries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is workers' compensation and why would I need an attorney?",
+  "description": "Workers' compensation provides benefits for work injuries. An attorney helps if your claim is denied, benefits are insufficient, or if you face complex legal is",
+  "url": "brettpetersonlaw.com/faq/what-is-workers-compensation-and-why-would-i-need-an-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is workers' compensation and why would I need an attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' compensation is a form of insurance providing wage replacement and medical benefits to employees injured in the course of employment. You might need an attorney if your claim is denied, you disagree with the benefits offered, your employer retaliates against you, or if your case involves complex legal issues. An attorney can help navigate the legal process, gather evidence, negotiate with insurance companies, and represent you in hearings to ensure you receive fair compensation for your injuries and lost wages.",
+        "description": "Workers' compensation provides benefits for work injuries. An attorney helps if your claim is denied, benefits are insufficient, or if you face complex legal issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

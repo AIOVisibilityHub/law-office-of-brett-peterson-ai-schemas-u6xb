@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What remedies are available in an employment discrimination lawsuit?",
+  "description": "Remedies in discrimination lawsuits can include back pay, front pay, compensatory and punitive damages, job reinstatement, and coverage of attorney's fees.",
+  "url": "brettpetersonlaw.com/faq/what-remedies-are-available-in-an-employment-discrimination-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What remedies are available in an employment discrimination lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If successful in an employment discrimination lawsuit, various remedies may be available to you. These can include back pay for lost wages and benefits, front pay if reinstatement isn't feasible, compensatory damages for emotional distress and other out-of-pocket losses, and punitive damages in cases of egregious conduct by the employer. In some instances, the court may order your reinstatement to your job or promotions that were denied. Additionally, the employer may be ordered to pay your attorney's fees and court costs.",
+        "description": "Remedies in discrimination lawsuits can include back pay, front pay, compensatory and punitive damages, job reinstatement, and coverage of attorney's fees."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

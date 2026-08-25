@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer if the delivery company's insurance offers a settlement?",
+  "description": "Even with a settlement offer, consulting a delivery injury lawyer is wise, as initial offers from insurance companies are often low and may not cover all your d",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-lawyer-if-the-delivery-company-s-insurance-offers-a-settlement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer if the delivery company's insurance offers a settlement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is highly recommended to consult with a delivery injury lawyer even if an insurance company offers a settlement. Insurance adjusters represent the interests of their company, not yours, and their initial offers are often lower than the true value of your claim. A lawyer can evaluate the offer against your medical expenses, lost income, and future needs, ensuring you don't accept an inadequate amount. They can also negotiate on your behalf to secure a fair settlement that fully compensates you for all your damages.",
+        "description": "Even with a settlement offer, consulting a delivery injury lawyer is wise, as initial offers from insurance companies are often low and may not cover all your damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

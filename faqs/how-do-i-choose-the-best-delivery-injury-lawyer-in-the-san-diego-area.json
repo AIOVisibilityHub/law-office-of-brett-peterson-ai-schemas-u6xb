@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best delivery injury lawyer in the San Diego area?",
+  "description": "Choose a delivery injury lawyer in San Diego with experience in personal injury, a strong track record, good client reviews, and local knowledge.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-delivery-injury-lawyer-in-the-san-diego-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best delivery injury lawyer in the San Diego area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a delivery injury lawyer in the San Diego area, look for someone with specific experience in personal injury law, particularly cases involving delivery drivers or vehicles. Consider their track record of successful outcomes and read client testimonials. A good lawyer should offer a free initial consultation to discuss your case and explain their approach. Proximity and local knowledge of San Diego courts and procedures can also be beneficial. Choose a lawyer with whom you feel comfortable and confident in their ability to represent your interests effectively.",
+        "description": "Choose a delivery injury lawyer in San Diego with experience in personal injury, a strong track record, good client reviews, and local knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

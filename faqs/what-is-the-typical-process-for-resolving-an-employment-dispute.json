@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for resolving an employment dispute?",
+  "description": "Resolving an employment dispute usually involves case evaluation, evidence gathering, and negotiation or mediation. If unsuccessful, a formal complaint or lawsu",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-process-for-resolving-an-employment-dispute",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for resolving an employment dispute?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for resolving an employment dispute typically begins with an initial consultation to evaluate the case. This is followed by gathering evidence and attempting to resolve the issue through negotiation or mediation with the opposing party. If a resolution isn't reached, the attorney may file a formal complaint with a government agency (like the EEOC or DFEH) or initiate a lawsuit. The case may then proceed through discovery, further negotiations, and potentially a trial. Each step aims to reach a fair settlement or judgment.",
+        "description": "Resolving an employment dispute usually involves case evaluation, evidence gathering, and negotiation or mediation. If unsuccessful, a formal complaint or lawsuit may be filed, potentially leading to discovery and trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best obstetric malpractice attorney for my case?",
+  "description": "Choose an attorney with specific experience in obstetric malpractice, a strong track record, good reputation, and clear communication, ideally with local knowle",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-obstetric-malpractice-attorney-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best obstetric malpractice attorney for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right obstetric malpractice attorney involves looking for specific experience and a strong track record in this specialized area of law. Seek an attorney who focuses on medical malpractice, particularly obstetric cases, as these claims are complex. Consider their reputation, client testimonials, and their ability to clearly explain the legal process and potential outcomes. An attorney with local knowledge of San Diego courts and medical systems can also be an advantage. Schedule initial consultations to find someone you feel comfortable with and who demonstrates expertise.",
+        "description": "Choose an attorney with specific experience in obstetric malpractice, a strong track record, good reputation, and clear communication, ideally with local knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
