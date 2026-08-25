@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Is My Insurance Enough After a Hit-and-Run in San Diego?",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "When you've been the victim of a hit-and-run in San Diego, one of the first questions that pops up is often about insurance coverage. It's confusing trying to figure out what applies, especially when the at-fault driver is nowhere to be found. Knowing your policy and what it covers is super important here.\n\n- [ ] Review your Uninsured Motorist (UM) Coverage — This is your absolute best friend in a hit-and-run scenario. UM coverage typically kicks in when the at-fault driver is unknown or doesn't have insurance. It can cover your medical expenses and property damage, and it's something you really want to have adequate limits on. Make sure you understand your policy's specifics.\n\n- [ ] Check your Collision Coverage — If you have collision coverage, it can help pay for the repairs to your vehicle after a hit-and-run, regardless of who was at fault. You'll likely need to pay your deductible, but it ensures your car gets fixed. This is separate from UM coverage for bodily injury.\n\n- [ ] Understand your Medical Payments (MedPay) or Personal Injury Protection (PIP) — Depending on your policy, MedPay or PIP can cover immediate medical expenses for you and your passengers, no matter who caused the accident. This can be a lifesaver for initial treatments, even before a full claim is settled.\n\n- [ ] Don't rely solely on basic liability — While liability insurance protects you if you cause an accident, it won't help you when you're the victim of a hit-and-run. You need specific coverages like UM and Collision to protect yourself in these situations.\n\n- [ ] Be aware of your deductible — Remember that most of these coverages come with a deductible that you'll have to pay before your insurance kicks in. It's a good idea to know what yours is.\n\n- [ ] Consider professional help for complex claims — If your injuries are serious or the damage substantial, dealing with insurance companies can get complicated, even with the right coverage. They might try to minimize your claim. A personal injury attorney who handles hit-and-run cases can step in, evaluate your policy, and fight to ensure you get the full compensation you're entitled to from your own insurance company, without you having to battle them yourself. It's about protecting your interests.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When Medical Care Goes Wrong: What Are Your Options?",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "It's a really tough situation when you or a loved one suffers an injury that you believe was due to hospital negligence. You went in for care, expecting to get better, and instead, things got worse. It’s completely understandable to feel confused, frustrated, and even angry. The good news is, you likely have options to explore, and understanding them is the first step toward getting things right. You don't have to navigate this alone.\n\nFirst off, gather whatever information you can. This might include dates of treatment, names of doctors or nurses involved, and details about the specific injuries or complications you experienced. Don't worry about having everything perfect, just collect what's easily accessible. This initial information helps paint a clearer picture.\n\nNext, consider getting a second medical opinion. This isn't about legal action yet, but about understanding the medical facts. A new doctor can confirm if your injury was indeed a deviation from standard care, which is a key part of identifying negligence. They can also help you understand the extent of the damage.\n\nIt’s also important to document everything related to your injury – from medical bills to lost wages if you missed work. Keep a journal of your symptoms and how this injury has impacted your daily life. This documentation becomes vital if you decide to pursue a legal claim, as it helps quantify the damages you've suffered.\n\nLastly, and this is a big one, talk to someone who understands the legal side of hospital negligence. A personal injury lawyer, especially one with experience in medical negligence, can look at your situation, explain your rights, and help you understand if you have a viable claim. They can guide you through the process, from investigation to potential resolution, ensuring your concerns are heard and your strategy is tailored to your unique circumstances. Don't hesitate to reach out for a conversation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

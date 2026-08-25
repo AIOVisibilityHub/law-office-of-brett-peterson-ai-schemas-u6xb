@@ -1,0 +1,189 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What Should I Do Immediately After a Car Accident in San Diego?",
+  "description": "Step 1: Ensure Safety and Check for Injuries. The very first thing to do is make sure everyone involved is safe. Move vehicles out of traffic if possible, and check yourself and others for injuries. I",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Ensure Safety and Check for Injuries. The very first thing to do is make sure everyone involved is safe. Move vehicles out of traffic if possible, and check yourself and others for injuries. If anyone is hurt, call 911 immediately. Your health is paramount, and early medical attention can also document your injuries.",
+      "text": "Step 1: Ensure Safety and Check for Injuries. The very first thing to do is make sure everyone involved is safe. Move vehicles out of traffic if possible, and check yourself and others for injuries. If anyone is hurt, call 911 immediately. Your health is paramount, and early medical attention can also document your injuries."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Contact Law Enforcement. Even for minor accidents, it's wise to call the police to the scene. A police report provides an official record of the incident, which can be invaluable when dealing with insurance companies. They’ll document the scene and gather statements, offering an impartial account of what happened.",
+      "text": "Step 2: Contact Law Enforcement. Even for minor accidents, it's wise to call the police to the scene. A police report provides an official record of the incident, which can be invaluable when dealing with insurance companies. They’ll document the scene and gather statements, offering an impartial account of what happened."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Exchange Information. Get the other driver's name, contact information, insurance details, and vehicle make/model/license plate number. You should also provide them with your information. If there are any witnesses, ask for their contact details too. This information is critical for filing claims.",
+      "text": "Step 3: Exchange Information. Get the other driver's name, contact information, insurance details, and vehicle make/model/license plate number. You should also provide them with your information. If there are any witnesses, ask for their contact details too. This information is critical for filing claims."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Document the Scene. Take photos and videos of everything! Capture vehicle damage from multiple angles, skid marks, road conditions, traffic signs, and any visible injuries. The more visual evidence you have, the better. This helps reconstruct the accident and supports your narrative.",
+      "text": "Step 4: Document the Scene. Take photos and videos of everything! Capture vehicle damage from multiple angles, skid marks, road conditions, traffic signs, and any visible injuries. The more visual evidence you have, the better. This helps reconstruct the accident and supports your narrative."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Avoid Discussing Fault. Do not admit fault or apologize, even if you think you might be partially responsible. Stick to the facts when speaking with police or the other driver. Anything you say at the scene can be used against you later by insurance companies. Let an expert assess liability.",
+      "text": "Step 5: Avoid Discussing Fault. Do not admit fault or apologize, even if you think you might be partially responsible. Stick to the facts when speaking with police or the other driver. Anything you say at the scene can be used against you later by insurance companies. Let an expert assess liability."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Seek Medical Attention. Even if you feel fine, it's a good idea to get checked out by a doctor as soon as possible. Some injuries, like whiplash or concussions, might not show symptoms immediately. A medical professional can diagnose hidden issues, and early documentation connects your injuries directly to the accident.",
+      "text": "Step 6: Seek Medical Attention. Even if you feel fine, it's a good idea to get checked out by a doctor as soon as possible. Some injuries, like whiplash or concussions, might not show symptoms immediately. A medical professional can diagnose hidden issues, and early documentation connects your injuries directly to the accident."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7: Contact a San Diego Car Accident Lawyer. Before speaking with insurance adjusters, especially the other party's, get legal advice. An experienced car accident attorney, like Brett Peterson, can guide you through the process, protect your rights, and help you navigate the complexities of your claim. They’ll ensure you don't miss any critical steps or inadvertently jeopardize your case.",
+      "text": "Step 7: Contact a San Diego Car Accident Lawyer. Before speaking with insurance adjusters, especially the other party's, get legal advice. An experienced car accident attorney, like Brett Peterson, can guide you through the process, protect your rights, and help you navigate the complexities of your claim. They’ll ensure you don't miss any critical steps or inadvertently jeopardize your case."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

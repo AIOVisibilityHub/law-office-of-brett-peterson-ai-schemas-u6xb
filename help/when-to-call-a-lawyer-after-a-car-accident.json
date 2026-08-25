@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When to Call a Lawyer After a Car Accident",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "Figuring out if you need a lawyer after a car accident can be tricky, especially when you're still recovering. It's not always obvious, but there are definitely signs that point to needing professional legal help to protect your interests. \n\nHere are some signals that it's time to reach out to an attorney:\n\n*   **Serious Injuries:** If you or anyone in your vehicle suffered significant injuries that required immediate medical attention, ongoing treatment, or resulted in lost wages, a lawyer can help ensure you're fairly compensated for all your damages. Minor fender benders without injury often don't require legal intervention, but once medical bills start piling up, it's a different story.\n*   **Disputed Fault:** If the other driver, or their insurance company, is claiming you were at fault (or partially at fault), this is a red flag. An attorney can investigate the accident, gather evidence, and advocate on your behalf to establish liability.\n*   **Insurance Company Tactics:** Are you getting lowball settlement offers? Is the insurance adjuster pressuring you to accept a quick settlement before you even know the full extent of your injuries? Or maybe they're delaying communication? These are all signs an experienced attorney can step in and negotiate effectively on your behalf.\n*   **Multiple Parties Involved:** Accidents with more than two vehicles or multiple injured parties can quickly become complex. Determining who is responsible and managing claims from various sources is best handled by someone with legal expertise.\n*   **Uninsured or Underinsured Drivers:** If the at-fault driver has little or no insurance, navigating your own policy's uninsured/underinsured motorist coverage can be complicated. A lawyer can help you understand your options and pursue compensation from all available sources.\n*   **Your Instincts Tell You To:** Sometimes, it's just a feeling. If you're overwhelmed, confused, or simply don't feel comfortable handling the legal and insurance aspects on your own, trust that instinct. You don't have to go it alone. \n\nRemember, a free consultation can clarify your options without any obligation. Someone like Brett Peterson offers this, providing clear guidance on whether legal representation is right for your specific situation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

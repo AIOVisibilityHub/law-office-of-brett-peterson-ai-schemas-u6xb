@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Is My San Diego Doctor Responsible for a Misdiagnosis?",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "It's unsettling to think that a medical professional might make a mistake, especially when it comes to your health. When you're dealing with a misdiagnosis in San Diego, you might wonder if your doctor could be held responsible. The short answer is: sometimes. Medical malpractice isn't about every unfavorable outcome, but rather when a healthcare provider deviates from the accepted standard of care, causing harm. It's a nuanced area, and understanding it can help you determine your next steps.\n\nMisdiagnosis falls under medical malpractice when a reasonably skilled and competent healthcare professional, acting under similar circumstances, would have accurately diagnosed your condition, and their failure to do so led to injury or worsening of your condition. This isn't just about getting a second opinion that differs; it's about a clear error in judgment or procedure that falls below professional standards. For instance, if your doctor missed obvious symptoms that another doctor in the same field would have caught, and that delay in diagnosis caused a treatable condition to become much worse, you might have a claim.\n\nIt’s important to remember that not all errors constitute malpractice. Doctors are human, and medicine isn't an exact science. However, if your doctor's negligence—like failing to order appropriate tests, misinterpreting test results, or overlooking symptoms—directly resulted in harm, then responsibility can arise. Building a medical malpractice case requires thorough investigation and often expert medical testimony to establish what the standard of care was and how your doctor breached it. This isn't something you should try to tackle alone, especially when you're also dealing with the health consequences of a misdiagnosis.\n\nIf you suspect medical negligence caused you harm due to a misdiagnosis in San Diego, it's wise to consult with a qualified San Diego medical malpractice lawyer. They can review your medical records, assess the details of your case, and help you understand if your situation meets the criteria for a claim. An attorney can guide you through this complex process, ensuring your concerns are heard and that you pursue fair compensation for the damages you've suffered.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "7 Signs You Need a Surgical Error Lawyer in San Diego",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "Discovering that a surgical procedure, meant to help you, has instead caused further harm due to an error is an incredibly distressing situation. In San Diego, if you're grappling with the aftermath of an unexpected surgical outcome, it can be tough to know if what happened was a recognized complication or actual negligence. Here are seven signs that it might be time to talk to a surgical error lawyer who can help you understand your situation and protect your rights.\n\n1. **Unexplained Post-Operative Pain or Complications:** If you're experiencing severe pain, infection, or other issues far beyond what's typical for your surgery, and doctors can't offer a clear, satisfactory explanation.\n\n2. **Need for Corrective Surgery:** Having to undergo another surgery to fix a problem caused by the initial procedure is a strong indicator that something went wrong beyond normal surgical risks.\n\n3. **Foreign Objects Left Inside:** Discovering instruments, sponges, or other medical items left in your body after surgery is unequivocally a sign of negligence and demands immediate legal attention.\n\n4. **Diagnosis of a New, Unrelated Condition Post-Surgery:** If you developed a new, serious medical condition immediately following surgery that wasn't present before, it could point to an error during the operation.\n\n5. **Lack of Informed Consent:** You weren't fully informed of the risks, or the surgery performed was different from what you agreed to, which is a critical part of patient rights.\n\n6. **Doctor or Hospital Staff Avoiding Your Questions:** If medical professionals seem evasive, reluctant to provide clear answers, or are overly defensive when you inquire about complications, this is a red flag.\n\n7. **Significant Financial Burden Due to Complications:** Facing extensive medical bills, lost wages, and other financial hardships because of surgical complications that seem avoidable indicates a potential need for legal recourse to recover your losses.\n\nIf any of these resonate with your experience, speaking with an attorney who specializes in surgical errors is a wise next step. They can investigate what happened and help you determine the best path forward to ensure you receive the justice and compensation you deserve.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

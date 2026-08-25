@@ -1,0 +1,183 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Begin Investigating a Suspected Surgical Error",
+  "description": "Step 1: Obtain all your medical records — Request your complete medical file from the hospital and any doctors involved in your care. This includes pre-operative assessments, operative reports, anesth",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Obtain all your medical records — Request your complete medical file from the hospital and any doctors involved in your care. This includes pre-operative assessments, operative reports, anesthesia records, post-operative notes, lab results, and discharge summaries. These documents are the blueprint of your medical journey.",
+      "text": "Step 1: Obtain all your medical records — Request your complete medical file from the hospital and any doctors involved in your care. This includes pre-operative assessments, operative reports, anesthesia records, post-operative notes, lab results, and discharge summaries. These documents are the blueprint of your medical journey."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Document your own experience thoroughly — Keep a detailed journal. Note the date and time of your surgery, the names of the surgical team you remember, and a precise account of any new symptoms or complications you experienced, including when they started. Describe how these issues have impacted your daily life and well-being.",
+      "text": "Step 2: Document your own experience thoroughly — Keep a detailed journal. Note the date and time of your surgery, the names of the surgical team you remember, and a precise account of any new symptoms or complications you experienced, including when they started. Describe how these issues have impacted your daily life and well-being."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Get a second medical opinion — Consult with an independent medical professional, ideally a specialist in the relevant field, who was not involved in your initial care. This doctor can review your records and provide an unbiased opinion on whether the care you received met accepted medical standards and if the error caused your injury.",
+      "text": "Step 3: Get a second medical opinion — Consult with an independent medical professional, ideally a specialist in the relevant field, who was not involved in your initial care. This doctor can review your records and provide an unbiased opinion on whether the care you received met accepted medical standards and if the error caused your injury."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Photograph any visible injuries — If your injury from the surgical error is visible (e.g., scarring, disfigurement, new lumps or wounds), take clear, dated photographs. These visual records can be powerful evidence of the physical impact you've endured.",
+      "text": "Step 4: Photograph any visible injuries — If your injury from the surgical error is visible (e.g., scarring, disfigurement, new lumps or wounds), take clear, dated photographs. These visual records can be powerful evidence of the physical impact you've endured."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Gather all financial documentation — Collect records of all expenses related to the error, such as new medical bills, prescription costs, physical therapy, and any income you've lost due to inability to work. These documents help quantify the financial damages you've suffered.",
+      "text": "Step 5: Gather all financial documentation — Collect records of all expenses related to the error, such as new medical bills, prescription costs, physical therapy, and any income you've lost due to inability to work. These documents help quantify the financial damages you've suffered."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Reach out to a personal injury attorney specializing in surgical errors — Once you've gathered some initial information, it's time to speak with a lawyer. They can review your findings, explain the legal nuances, and guide you through the next steps, including officially investigating the medical facts and initiating a claim.",
+      "text": "Step 6: Reach out to a personal injury attorney specializing in surgical errors — Once you've gathered some initial information, it's time to speak with a lawyer. They can review your findings, explain the legal nuances, and guide you through the next steps, including officially investigating the medical facts and initiating a claim."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

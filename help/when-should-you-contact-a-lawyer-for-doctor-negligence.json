@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When Should You Contact a Lawyer for Doctor Negligence?",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "It can be really confusing to know when a medical mistake crosses the line into doctor negligence, making you wonder if legal action is even an option. You might be grappling with the physical and emotional toll, on top of trying to understand your legal standing. Here's a look at when reaching out to a lawyer might be the right move.\n\nOne big sign is when a doctor's actions or inactions clearly fall below the accepted standard of care, leading to harm. This isn't about a bad outcome from a complicated procedure; it's about a clear deviation from what a reasonably prudent medical professional would do in a similar situation.\n\nIf you've experienced significant injury, illness, or a worsening condition directly because of a medical error, that's another key indicator. This harm needs to be quantifiable, meaning it has a real impact on your health, finances, or quality of life.\n\nWhen a delayed diagnosis or misdiagnosis prevents you from getting timely, effective treatment, causing your condition to worsen or requiring more invasive care, that's definitely a time to consider legal advice. The consequences of such delays can be devastating.\n\nIf you've suffered unexpected complications or prolonged recovery due to what seems like a preventable mistake during surgery or another medical procedure, it’s wise to explore your options. These situations often involve careful review of medical records and expert opinions.\n\nUltimately, if you feel that a medical professional’s negligence directly caused you or a loved one harm, and you’re facing mounting medical bills, lost wages, or permanent disability because of it, don't hesitate. A personal injury lawyer who handles medical malpractice, like Brett Peterson, can help you sift through the details, understand if you have a claim, and tirelessly advocate for your rights to get the compensation you deserve.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

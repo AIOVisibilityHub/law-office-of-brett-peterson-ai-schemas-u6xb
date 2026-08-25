@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Signs Your Medical Condition Was Misdiagnosed",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "Suspecting a medical misdiagnosis can be incredibly stressful, but recognizing the signs early can make a big difference. It's tough when you're not feeling well and then start to doubt the medical care you're receiving. Here are a few red flags that might suggest your initial diagnosis wasn't quite right.\n\n- [ ] Your symptoms persist or worsen despite treatment — why this is a big deal: If you're diligently following your treatment plan but aren't seeing any improvement, or worse, your condition is deteriorating, it’s a strong indicator that something is amiss with the diagnosis. The treatment should align with the actual problem.\n- [ ] You experience new, unexplained symptoms — why this is a big deal: Sometimes, a misdiagnosis means the real issue is being ignored, and other health problems can develop in the meantime. If new, unrelated symptoms pop up, it’s a sign that the underlying cause might still be unaddressed.\n- [ ] Another doctor gives a significantly different diagnosis — why this is a big deal: This is perhaps the most direct sign. If you seek a second or third opinion and another physician identifies a completely different condition or treatment approach, it clearly points to a potential misdiagnosis.\n- [ ] Your medical history or test results seem to be overlooked — why this is a big deal: If a doctor appears to dismiss critical aspects of your medical history, ignores certain test results, or doesn’t thoroughly investigate all possibilities, it could lead to an inaccurate conclusion.\n- [ ] The prescribed treatment causes severe or unexpected adverse reactions — why this is a big deal: While some side effects are normal, severe or unusual reactions to a medication or treatment that doesn’t seem to fit your condition might mean you're being treated for the wrong thing.\n- [ ] You feel rushed or unheard during appointments — why this is a big deal: Effective diagnosis requires careful listening and thorough examination. If your concerns are brushed aside or you feel your doctor isn’t taking the time to truly understand your situation, the diagnosis might be incomplete or incorrect.\n\nHow to use this checklist: Go through these points to see if any resonate with your experience. If several do, it’s definitely time to pursue further medical opinions or consider discussing your situation with an experienced medical malpractice attorney like Brett Peterson. They can help you navigate these complex issues and ensure your rights are protected.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

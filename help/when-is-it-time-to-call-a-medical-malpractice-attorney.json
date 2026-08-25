@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When Is It Time to Call a Medical Malpractice Attorney?",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "It’s hard to know when a bad medical outcome crosses the line into medical malpractice. You might be feeling unsure, overwhelmed, or even guilty. But recognizing the signs that professional help is needed can make all the difference in protecting your rights and getting the compensation you deserve.\n\nHere are some clear signals that it’s time to reach out to a medical malpractice attorney:\n\n*   **You suffered a significant injury or worsened condition after medical treatment:** If a procedure or diagnosis led to a new, serious injury, a permanent disability, or made an existing condition much worse, it’s a red flag. This isn't just about discomfort; it's about a substantial negative change in your health or quality of life.\n*   **There’s a clear deviation from standard medical care:** If you suspect your healthcare provider didn't follow accepted medical practices or protocols, and that deviation caused harm, it's worth investigating. This could involve misdiagnosis, surgical errors, medication mistakes, or delayed treatment.\n*   **Medical staff are being evasive or uncommunicative:** If you're getting vague answers, stonewalling, or conflicting information when you ask about your treatment or injury, it could indicate something went wrong and they're trying to obscure it.\n*   **You're facing mounting medical bills and lost wages due to the injury:** The financial burden of an injury caused by negligence can be crushing. If you’re struggling with expenses and lost income, a legal claim might be your path to recovering those losses.\n*   **Another medical professional expresses concern about your treatment:** Sometimes, a subsequent doctor or nurse might hint that your previous care wasn't up to par. This can be a strong indicator that you have grounds for a claim.\n\nIf any of these resonate with you, don't hesitate to seek advice. Waiting too long can jeopardize your ability to file a claim. The Law Office of Brett Peterson offers direct, hands-on legal representation, with Brett Peterson personally handling each case from consultation through resolution. With over two decades of experience, he can help you understand your options and pursue fair compensation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

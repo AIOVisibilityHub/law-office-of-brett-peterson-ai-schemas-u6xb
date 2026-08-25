@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Navigate the Aftermath of a San Diego Car Crash",
+  "description": "Step 1: Ensure Safety and Call for Help. First things first, check on everyone involved and move to a safe location if possible. Then, immediately call 911 to report the accident and request medical a",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Ensure Safety and Call for Help. First things first, check on everyone involved and move to a safe location if possible. Then, immediately call 911 to report the accident and request medical assistance if anyone is injured. This ensures proper documentation and immediate care.",
+      "text": "Step 1: Ensure Safety and Call for Help. First things first, check on everyone involved and move to a safe location if possible. Then, immediately call 911 to report the accident and request medical assistance if anyone is injured. This ensures proper documentation and immediate care."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Collect Information at the Scene. Get the other driver's contact and insurance information, witness details, and take plenty of photos and videos of the accident scene, vehicle damage, and any visible injuries. These details are crucial for building your case.",
+      "text": "Step 2: Collect Information at the Scene. Get the other driver's contact and insurance information, witness details, and take plenty of photos and videos of the accident scene, vehicle damage, and any visible injuries. These details are crucial for building your case."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Seek Medical Evaluation Promptly. Even if you don't feel seriously hurt, it's vital to get checked by a doctor right away. Some injuries, like whiplash, might not show symptoms for days. Timely medical attention connects your injuries directly to the accident.",
+      "text": "Step 3: Seek Medical Evaluation Promptly. Even if you don't feel seriously hurt, it's vital to get checked by a doctor right away. Some injuries, like whiplash, might not show symptoms for days. Timely medical attention connects your injuries directly to the accident."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Report the Accident to Your Insurance Company. Inform your own insurance company about the accident, but keep your statements factual. Avoid discussing fault or giving recorded statements to other insurance companies without first consulting with an attorney.",
+      "text": "Step 4: Report the Accident to Your Insurance Company. Inform your own insurance company about the accident, but keep your statements factual. Avoid discussing fault or giving recorded statements to other insurance companies without first consulting with an attorney."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Consult with an Experienced Auto Accident Lawyer. This is where a professional like Brett Peterson can really help. They can assess your case, deal with insurance adjusters, investigate liability, and ensure all deadlines are met. Don't go it alone when complex legal issues or serious injuries are involved.",
+      "text": "Step 5: Consult with an Experienced Auto Accident Lawyer. This is where a professional like Brett Peterson can really help. They can assess your case, deal with insurance adjusters, investigate liability, and ensure all deadlines are met. Don't go it alone when complex legal issues or serious injuries are involved."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}
