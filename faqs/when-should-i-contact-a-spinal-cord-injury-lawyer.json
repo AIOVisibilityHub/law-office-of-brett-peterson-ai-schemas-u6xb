@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a spinal cord injury lawyer?",
+  "description": "Contact a spinal cord injury lawyer as soon as possible after your injury to preserve evidence and understand your legal options.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-spinal-cord-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a spinal cord injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a spinal cord injury lawyer as soon as possible after the injury, once your immediate medical needs are addressed. Early legal involvement helps preserve critical evidence, ensure proper documentation, and meet crucial deadlines. Delays can complicate your case and potentially impact your ability to recover full compensation. An initial consultation can provide guidance on your rights and next steps without obligation.",
+        "description": "Contact a spinal cord injury lawyer as soon as possible after your injury to preserve evidence and understand your legal options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What unique challenges do paraplegia injury cases present compared to other personal injury claims?",
+  "description": "Paraplegia cases involve high lifetime costs, complex future care, and significant impacts on quality of life, requiring expert valuation and negotiation.",
+  "url": "brettpetersonlaw.com/faq/what-unique-challenges-do-paraplegia-injury-cases-present-compared-to-other-pers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What unique challenges do paraplegia injury cases present compared to other personal injury claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paraplegia injury cases are unique due to the catastrophic and permanent nature of the injury. They involve extremely high lifetime medical costs, complex future care needs, and significant impacts on quality of life and earning capacity. Valuing these claims requires expert medical and economic projections. These cases often necessitate extensive litigation and negotiation to ensure fair compensation, as the stakes are much higher than typical personal injury claims.",
+        "description": "Paraplegia cases involve high lifetime costs, complex future care, and significant impacts on quality of life, requiring expert valuation and negotiation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

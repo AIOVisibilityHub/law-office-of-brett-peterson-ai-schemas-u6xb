@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are big-rig accident cases more complex than regular car accidents?",
+  "description": "Big-rig cases are complex due to specialized regulations, multiple liable parties, severe injuries, and the extensive resources of trucking companies and their",
+  "url": "brettpetersonlaw.com/faq/why-are-big-rig-accident-cases-more-complex-than-regular-car-accidents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are big-rig accident cases more complex than regular car accidents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Big-rig accident cases are more complex due to several factors. Commercial trucks are subject to extensive federal and state regulations, which often involve multiple parties like the driver, trucking company, cargo loader, and maintenance providers. The sheer size and weight of these vehicles frequently result in catastrophic injuries and higher damages. Additionally, trucking companies and their insurers have significant resources to defend against claims, requiring specialized legal knowledge to effectively challenge them. An attorney experienced in these specific laws and tactics is essential.",
+        "description": "Big-rig cases are complex due to specialized regulations, multiple liable parties, severe injuries, and the extensive resources of trucking companies and their insurers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

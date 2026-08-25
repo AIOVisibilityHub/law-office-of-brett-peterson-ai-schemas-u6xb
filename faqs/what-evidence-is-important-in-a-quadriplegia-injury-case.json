@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important in a quadriplegia injury case?",
+  "description": "Important evidence includes medical records, accident reports, witness statements, expert testimonies, photos, and proof of lost wages.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-in-a-quadriplegia-injury-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important in a quadriplegia injury case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key evidence in a quadriplegia injury case often includes medical records, doctors' reports, accident reports, and witness statements. Expert testimonies from medical professionals, life care planners, and economists are also crucial to establish the extent of injuries, future medical needs, and financial losses. Photographs or videos of the accident scene and your injuries, as well as proof of lost wages, are also vital to build a comprehensive claim.",
+        "description": "Important evidence includes medical records, accident reports, witness statements, expert testimonies, photos, and proof of lost wages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a paralysis injury attorney do?",
+  "description": "A paralysis injury attorney represents individuals who have suffered paralysis due to another's negligence to secure fair compensation for their injuries and re",
+  "url": "brettpetersonlaw.com/faq/what-does-a-paralysis-injury-attorney-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a paralysis injury attorney do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paralysis injury attorney helps individuals who have suffered paralysis due to someone else's negligence. They investigate the accident, gather evidence, negotiate with insurance companies, and represent clients in court if necessary. Their goal is to secure fair compensation for medical expenses, lost wages, pain and suffering, and long-term care needs resulting from the paralysis. They advocate for your rights and guide you through the legal process during a challenging time.",
+        "description": "A paralysis injury attorney represents individuals who have suffered paralysis due to another's negligence to secure fair compensation for their injuries and related losses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

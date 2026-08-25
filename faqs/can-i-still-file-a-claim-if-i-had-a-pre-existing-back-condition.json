@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I had a pre-existing back condition?",
+  "description": "Yes, you can still file a claim if an accident aggravated a pre-existing back condition, though proving the link may be more complex.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-had-a-pre-existing-back-condition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I had a pre-existing back condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, having a pre-existing back condition does not automatically prevent you from filing a claim. If an accident aggravated or worsened your pre-existing condition, you might still be entitled to compensation for the additional harm caused. However, proving the link between the new incident and the exacerbation of your condition can be more complex, making the experience of a skilled back injury lawyer even more valuable.",
+        "description": "Yes, you can still file a claim if an accident aggravated a pre-existing back condition, though proving the link may be more complex."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

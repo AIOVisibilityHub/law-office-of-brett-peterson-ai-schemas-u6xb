@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a back injury lawyer?",
+  "description": "Most back injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement if your case is successful.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-back-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a back injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most back injury lawyers work on a contingency fee basis. This means you do not pay any upfront fees or hourly rates. Instead, the lawyer's payment is a percentage of the compensation you receive if your case is successful. If you don't recover compensation, you typically owe no attorney fees. This arrangement allows individuals to pursue justice without immediate financial burden.",
+        "description": "Most back injury lawyers work on a contingency fee basis, meaning they are paid a percentage of your settlement if your case is successful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was partially at fault for the big-rig accident?",
+  "description": "Yes, in California, you can file a claim even if partially at fault, but your compensation may be reduced by your percentage of responsibility.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-the-big-rig-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was partially at fault for the big-rig accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in California, you can still file a claim even if you were partially at fault for the accident, due to the state's pure comparative negligence rule. This rule means that your compensation may be reduced by your percentage of fault, but you are not barred from recovery entirely. For example, if you are found to be 20% at fault, your total compensation would be reduced by 20%. An attorney can help gather evidence to demonstrate the other party's primary responsibility and protect your right to fair compensation, even with shared fault.",
+        "description": "Yes, in California, you can file a claim even if partially at fault, but your compensation may be reduced by your percentage of responsibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

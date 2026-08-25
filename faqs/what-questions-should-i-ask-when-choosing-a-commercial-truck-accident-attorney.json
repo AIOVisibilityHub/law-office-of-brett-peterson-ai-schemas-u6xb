@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions should I ask when choosing a commercial truck accident attorney?",
+  "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy.",
+  "url": "brettpetersonlaw.com/faq/what-questions-should-i-ask-when-choosing-a-commercial-truck-accident-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions should I ask when choosing a commercial truck accident attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an attorney, ask about their specific experience with commercial truck accident cases, not just general personal injury. Inquire about their track record, success rates, and if they have experience with federal trucking regulations. Ask about their communication style, fee structure (contingency basis), and how they plan to handle your case. A good attorney will provide clear answers and inspire confidence in their ability to represent you effectively.",
+        "description": "Ask about their specific experience with truck accidents, success rates, federal trucking regulations, communication style, fee structure, and case strategy."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

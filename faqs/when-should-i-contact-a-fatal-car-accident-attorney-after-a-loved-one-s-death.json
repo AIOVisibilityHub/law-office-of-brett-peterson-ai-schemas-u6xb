@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a fatal car accident attorney after a loved one's death?",
+  "description": "Contact an attorney as soon as possible after a fatal car accident to preserve evidence, meet deadlines, and understand your legal options.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-fatal-car-accident-attorney-after-a-loved-one-s-death",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a fatal car accident attorney after a loved one's death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact an attorney as soon as possible after a fatal car accident. Prompt legal action can help preserve critical evidence, ensure proper investigation, and meet important legal deadlines. Waiting too long might compromise the ability to gather necessary documentation or eyewitness testimonies. An attorney can also help you understand your legal options and handle communication with insurance companies during a difficult time, allowing you to focus on grieving and family matters.",
+        "description": "Contact an attorney as soon as possible after a fatal car accident to preserve evidence, meet deadlines, and understand your legal options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

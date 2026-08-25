@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a neck and spine injury attorney in San Diego?",
+  "description": "Most neck and spine injury attorneys, including in San Diego, work on a contingency fee basis, meaning you pay no upfront costs; fees are a percentage of your s",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-neck-and-spine-injury-attorney-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a neck and spine injury attorney in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most neck and spine injury attorneys, including those in San Diego, work on a contingency fee basis. This means you typically do not pay any upfront legal fees. Instead, the attorney's payment is a percentage of the compensation they secure for you, whether through a settlement or a court award. If your case is unsuccessful, you generally owe no attorney fees. This arrangement allows injured individuals to pursue justice without immediate financial burden. It's crucial to discuss the specific contingency fee percentage and any potential case-related expenses during your initial consultation.",
+        "description": "Most neck and spine injury attorneys, including in San Diego, work on a contingency fee basis, meaning you pay no upfront costs; fees are a percentage of your successful recovery."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

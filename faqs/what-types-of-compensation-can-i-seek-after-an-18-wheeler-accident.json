@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I seek after an 18-wheeler accident?",
+  "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages may also",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-after-an-18-wheeler-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I seek after an 18-wheeler accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After an 18-wheeler accident, you may be able to seek various types of compensation, often called 'damages.' These can include economic damages such as medical expenses (past and future), lost wages (current and future earning capacity), and property damage. Non-economic damages may cover pain and suffering, emotional distress, and loss of enjoyment of life. In some cases, punitive damages might be awarded, intended to punish the at-fault party for egregious conduct. An attorney can help identify all potential damages applicable to your specific case.",
+        "description": "You can seek compensation for economic damages like medical bills and lost wages, and non-economic damages such as pain and suffering. Punitive damages may also apply in certain situations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

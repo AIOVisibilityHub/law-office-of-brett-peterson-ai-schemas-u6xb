@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a spinal cord injury lawsuit take to resolve?",
+  "description": "Spinal cord injury lawsuits can take months to several years to resolve, depending on case complexity and negotiation outcomes.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-spinal-cord-injury-lawsuit-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a spinal cord injury lawsuit take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a spinal cord injury lawsuit can vary significantly depending on the complexity of the case, the extent of the injuries, the willingness of parties to settle, and court schedules. Simple cases might resolve in months, while more complex cases involving extensive damages or liability disputes could take several years. Your attorney will provide a more precise estimate based on the specifics of your situation after a thorough evaluation.",
+        "description": "Spinal cord injury lawsuits can take months to several years to resolve, depending on case complexity and negotiation outcomes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

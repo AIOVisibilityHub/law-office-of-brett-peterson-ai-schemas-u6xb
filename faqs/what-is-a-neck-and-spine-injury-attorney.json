@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a neck and spine injury attorney?",
+  "description": "A neck and spine injury attorney helps victims of spinal and neck injuries seek compensation for medical costs, lost wages, and pain caused by another's neglige",
+  "url": "brettpetersonlaw.com/faq/what-is-a-neck-and-spine-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a neck and spine injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A neck and spine injury attorney specializes in legal cases involving injuries to the cervical, thoracic, and lumbar regions of the spine, as well as the neck. These injuries can result from various incidents like car accidents, slip and falls, or workplace accidents. The attorney's role is to help victims navigate the legal process, prove negligence, determine the full extent of damages, and pursue fair compensation for medical expenses, lost wages, pain and suffering, and other related costs. They understand the complex medical aspects and legal precedents associated with these types of serious injuries.",
+        "description": "A neck and spine injury attorney helps victims of spinal and neck injuries seek compensation for medical costs, lost wages, and pain caused by another's negligence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

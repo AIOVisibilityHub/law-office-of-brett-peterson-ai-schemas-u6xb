@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process of filing a back injury claim?",
+  "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiations, and potentially a lawsuit or trial.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-back-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process of filing a back injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an initial consultation to discuss your injury and how it occurred. If you proceed, your lawyer will gather evidence, including medical records, accident reports, and witness statements. They will then file a claim with the at-fault party's insurance company. Negotiations will follow, and if a fair settlement cannot be reached, your case may proceed to a lawsuit, potentially leading to mediation or trial.",
+        "description": "The process involves an initial consultation, gathering evidence, filing a claim, negotiations, and potentially a lawsuit or trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

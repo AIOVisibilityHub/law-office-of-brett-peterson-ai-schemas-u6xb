@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I choose a local 18-wheeler accident lawyer in the San Diego area?",
+  "description": "A local San Diego 18-wheeler accident lawyer understands local laws and court procedures, has community connections, and allows for easier in-person meetings an",
+  "url": "brettpetersonlaw.com/faq/why-should-i-choose-a-local-18-wheeler-accident-lawyer-in-the-san-diego-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I choose a local 18-wheeler accident lawyer in the San Diego area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing a local 18-wheeler accident lawyer in the San Diego area, such as the Law Office of Brett Peterson, offers several advantages. A local attorney is familiar with specific California and local traffic laws, court procedures, and judges in San Diego County. They often have established relationships within the local legal and medical communities, which can be beneficial for your case. Proximity also allows for easier in-person meetings, site visits if needed, and a better understanding of local resources that might aid your recovery and legal process.",
+        "description": "A local San Diego 18-wheeler accident lawyer understands local laws and court procedures, has community connections, and allows for easier in-person meetings and site visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

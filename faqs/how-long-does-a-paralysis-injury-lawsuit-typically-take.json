@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a paralysis injury lawsuit typically take?",
+  "description": "The duration of a paralysis injury lawsuit varies greatly, from less than a year for settlements to several years if it goes to trial.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-paralysis-injury-lawsuit-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a paralysis injury lawsuit typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a paralysis injury lawsuit can vary significantly based on the complexity of the case, the extent of injuries, and whether the case settles or goes to trial. Some cases may resolve within a year through settlement negotiations, while others, particularly those involving severe injuries or complicated liability, could take several years to reach a resolution in court. Your attorney can provide a more accurate estimate after reviewing the specifics of your situation.",
+        "description": "The duration of a paralysis injury lawsuit varies greatly, from less than a year for settlements to several years if it goes to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

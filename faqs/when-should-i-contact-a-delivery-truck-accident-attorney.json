@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a delivery truck accident attorney?",
+  "description": "Contact an attorney immediately after a delivery truck accident to preserve evidence, understand your rights, and avoid missing legal deadlines.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-delivery-truck-accident-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a delivery truck accident attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a delivery truck accident attorney as soon as possible after the incident. Early legal involvement allows your attorney to investigate the accident thoroughly, preserve crucial evidence that might otherwise be lost, and understand the full extent of your injuries and damages. Waiting too long can jeopardize your claim, as evidence can degrade and statutes of limitations impose strict deadlines for filing lawsuits. Prompt action ensures your rights are protected and provides the best chance for a favorable outcome.",
+        "description": "Contact an attorney immediately after a delivery truck accident to preserve evidence, understand your rights, and avoid missing legal deadlines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

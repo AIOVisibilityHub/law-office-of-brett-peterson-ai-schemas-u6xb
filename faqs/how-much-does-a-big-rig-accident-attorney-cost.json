@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a big-rig accident attorney cost?",
+  "description": "Most big-rig accident attorneys work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your settlement.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-a-big-rig-accident-attorney-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a big-rig accident attorney cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most big-rig accident attorneys, including the Law Office of Brett Peterson, work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the attorney's fees are a percentage of the compensation you receive through a settlement or court award. If your case is unsuccessful, you typically owe no attorney fees. This arrangement allows individuals to pursue justice without worrying about immediate financial burdens. Be sure to discuss the specific contingency fee percentage and any potential case-related expenses with your attorney during the initial consultation.",
+        "description": "Most big-rig accident attorneys work on a contingency fee basis, meaning you pay no upfront fees; their payment is a percentage of your settlement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

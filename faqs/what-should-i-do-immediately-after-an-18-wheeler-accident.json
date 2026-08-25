@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after an 18-wheeler accident?",
+  "description": "Immediately after an 18-wheeler accident, call 911, document the scene with photos, exchange information, and seek medical attention. Avoid discussing fault wit",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-an-18-wheeler-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after an 18-wheeler accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After ensuring your safety and checking for injuries, the first step is to call 911 to report the accident and get medical help. Document the scene by taking photos and videos of vehicle damage, road conditions, and any visible injuries. Exchange insurance and contact information with the truck driver, but avoid discussing fault or making recorded statements to insurance companies without legal advice. Seek medical attention even for minor discomfort, as some injuries may not be immediately apparent. Contacting an attorney soon after can help protect your rights and preserve evidence.",
+        "description": "Immediately after an 18-wheeler accident, call 911, document the scene with photos, exchange information, and seek medical attention. Avoid discussing fault with anyone except your attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right quadriplegia injury lawyer in San Diego?",
+  "description": "Choose a San Diego quadriplegia injury lawyer with specific experience in spinal cord injuries, a strong track record, and good client communication.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-quadriplegia-injury-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right quadriplegia injury lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a quadriplegia injury lawyer in San Diego, look for someone with specific experience in severe spinal cord injury cases. Consider their track record, client testimonials, and their ability to handle complex medical and financial assessments. It is also important to choose a lawyer who communicates clearly, understands your needs, and makes you feel comfortable. A local attorney will be familiar with the courts and legal landscape in the San Diego area.",
+        "description": "Choose a San Diego quadriplegia injury lawyer with specific experience in spinal cord injuries, a strong track record, and good client communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

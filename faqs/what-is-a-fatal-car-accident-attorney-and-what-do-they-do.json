@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a fatal car accident attorney and what do they do?",
+  "description": "A fatal car accident attorney represents families of victims in wrongful death claims after a vehicle collision, seeking compensation for their losses.",
+  "url": "brettpetersonlaw.com/faq/what-is-a-fatal-car-accident-attorney-and-what-do-they-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a fatal car accident attorney and what do they do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A fatal car accident attorney represents families and loved ones of individuals who have died as a result of a vehicle collision. Their primary role is to guide clients through the legal process of filing a wrongful death claim, seeking compensation for damages such as medical expenses, funeral costs, lost income, and emotional suffering. They handle investigations, gather evidence, negotiate with insurance companies, and if necessary, represent clients in court to ensure their rights are protected and they receive fair justice.",
+        "description": "A fatal car accident attorney represents families of victims in wrongful death claims after a vehicle collision, seeking compensation for their losses."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

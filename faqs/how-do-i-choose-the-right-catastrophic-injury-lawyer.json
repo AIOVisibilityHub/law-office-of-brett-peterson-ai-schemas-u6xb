@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right catastrophic injury lawyer?",
+  "description": "Choose a lawyer with specific experience in complex injury cases, a strong track record, good communication, and access to necessary resources.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-right-catastrophic-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right catastrophic injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a catastrophic injury lawyer, look for someone with specific experience in complex injury cases and a proven track record of successful outcomes. Consider their communication style, resources for expert witnesses, and their commitment to client advocacy. An initial consultation can help you evaluate if the lawyer is a good fit for your specific needs and situation.",
+        "description": "Choose a lawyer with specific experience in complex injury cases, a strong track record, good communication, and access to necessary resources."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

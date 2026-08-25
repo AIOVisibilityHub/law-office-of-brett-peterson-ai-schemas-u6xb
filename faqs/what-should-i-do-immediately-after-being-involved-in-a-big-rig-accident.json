@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after being involved in a big-rig accident?",
+  "description": "After a big-rig accident, prioritize safety, call 911, seek medical care, document the scene, and do not discuss fault or give statements without an attorney.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-being-involved-in-a-big-rig-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after being involved in a big-rig accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After ensuring your safety and calling 911 for emergency services, you should seek immediate medical attention, even if you don't feel seriously injured. Document the scene by taking photos of vehicles, injuries, and road conditions. Exchange information with the truck driver but avoid discussing fault. Do not give recorded statements to insurance companies without consulting an attorney. Reporting the accident to your own insurance is important, but be cautious about what you say. Your priority is your health and preserving evidence.",
+        "description": "After a big-rig accident, prioritize safety, call 911, seek medical care, document the scene, and do not discuss fault or give statements without an attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

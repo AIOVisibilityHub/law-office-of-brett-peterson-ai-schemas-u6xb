@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best big-rig accident attorney in the San Diego area?",
+  "description": "Choose an attorney in the San Diego area with specific experience in commercial truck accidents, a strong track record, and clear communication.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-big-rig-accident-attorney-in-the-san-diego-area",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best big-rig accident attorney in the San Diego area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a big-rig accident attorney in the San Diego area, look for one with specific experience in commercial truck accident litigation. Prioritize attorneys who demonstrate a deep understanding of federal trucking regulations and California state laws relevant to these cases. Check their track record of success, client testimonials, and their ability to clearly communicate legal strategies. A free initial consultation is valuable to discuss your case, evaluate their approach, and ensure you feel comfortable with their representation. The Law Office of Brett Peterson serves clients across the San Diego region, including Imperial Beach and Coronado.",
+        "description": "Choose an attorney in the San Diego area with specific experience in commercial truck accidents, a strong track record, and clear communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

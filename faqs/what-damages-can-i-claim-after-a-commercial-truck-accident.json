@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages can I claim after a commercial truck accident?",
+  "description": "You can claim medical expenses, lost wages, pain and suffering, and property damage. Punitive damages may also be available in cases of gross negligence.",
+  "url": "brettpetersonlaw.com/faq/what-damages-can-i-claim-after-a-commercial-truck-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages can I claim after a commercial truck accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Victims of commercial truck accidents may be eligible to claim various damages. This typically includes medical expenses (past and future), lost wages due to inability to work, pain and suffering, emotional distress, and property damage. In some cases, punitive damages may also be sought if the trucking company or driver demonstrated gross negligence. An attorney can assess your specific situation to identify all potential areas of compensation.",
+        "description": "You can claim medical expenses, lost wages, pain and suffering, and property damage. Punitive damages may also be available in cases of gross negligence."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

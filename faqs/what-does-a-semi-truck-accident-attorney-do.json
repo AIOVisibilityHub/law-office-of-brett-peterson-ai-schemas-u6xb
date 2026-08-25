@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a semi-truck accident attorney do?",
+  "description": "A semi-truck accident attorney investigates collisions, gathers evidence, identifies responsible parties, and negotiates with insurance companies to help injure",
+  "url": "brettpetersonlaw.com/faq/what-does-a-semi-truck-accident-attorney-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a semi-truck accident attorney do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A semi-truck accident attorney specializes in legal cases involving commercial truck collisions. They investigate the accident, gather evidence, identify responsible parties, and negotiate with insurance companies on behalf of their clients. Their goal is to help individuals injured in these complex accidents secure fair compensation for medical expenses, lost wages, pain, and other damages. They understand federal and state trucking regulations, which differ significantly from standard car accident laws.",
+        "description": "A semi-truck accident attorney investigates collisions, gathers evidence, identifies responsible parties, and negotiates with insurance companies to help injured clients secure compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

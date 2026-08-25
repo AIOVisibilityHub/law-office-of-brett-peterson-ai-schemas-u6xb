@@ -1,0 +1,159 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Navigating Medical Malpractice Claims: Where Do I Start?",
+  "description": "Dealing with the aftermath of a medical error can feel incredibly overwhelming, and figuring out where to even begin with a claim might seem impossible. It's a complex area of law, but breaking it dow",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Dealing with the aftermath of a medical error can feel incredibly o…",
+      "text": "Dealing with the aftermath of a medical error can feel incredibly overwhelming, and figuring out where to even begin with a claim might seem impossible. It's a complex area of law, but breaking it down into manageable steps can help. Your health and peace of mind are paramount, so taking action is key if you suspect malpractice has occurred."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Step 1: Document Everything",
+      "text": "Step 1: Document Everything. Start by gathering all your medical records related to the incident. This includes doctor's notes, hospital records, test results, and prescriptions. These documents are the bedrock of any potential claim. Step 2: Seek a Second Opinion (if medically appropriate). Getting another medical professional to review your situation can confirm whether a standard of care was breached. This isn't just for your health, but it provides crucial insights for a legal case. Step 3: Note Down a Timeline of Events. Write down everything you remember about what happened, when it happened, and who was involved. Details, even small ones, can be incredibly important. Step 4: Avoid Discussing the Incident Publicly. It might feel natural to share your experience, but discussing the specifics of a potential malpractice case on social media or with unauthorized individuals can inadvertently harm your claim. Step 5: Consult with an Attorney. Once you've gathered your information, reach out to an experienced San Diego medical malpractice lawyer. They can review your case, explain the legal nuances, and help you understand if you have a viable claim. Medical malpractice cases are intricate, and having an expert guide you is truly invaluable for pursuing justice and compensation."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

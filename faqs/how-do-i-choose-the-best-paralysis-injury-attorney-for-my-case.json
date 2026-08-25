@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best paralysis injury attorney for my case?",
+  "description": "Choose an attorney with specific experience in paralysis injury cases, a strong track record, good communication, and positive client testimonials.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-paralysis-injury-attorney-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best paralysis injury attorney for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a paralysis injury attorney, look for someone with specific experience in handling complex catastrophic injury cases, particularly those involving spinal cord injuries or paralysis. Consider their track record of success, client testimonials, and their approach to communication. A good attorney should be compassionate, transparent about fees, and willing to explain the legal process clearly. Schedule consultations with a few attorneys to find one who best fits your needs.",
+        "description": "Choose an attorney with specific experience in paralysis injury cases, a strong track record, good communication, and positive client testimonials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

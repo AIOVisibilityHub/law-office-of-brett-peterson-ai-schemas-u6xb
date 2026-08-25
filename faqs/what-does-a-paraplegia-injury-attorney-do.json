@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a paraplegia injury attorney do?",
+  "description": "A paraplegia injury attorney represents clients with spinal cord injuries to secure compensation for medical care, lost income, and other damages.",
+  "url": "brettpetersonlaw.com/faq/what-does-a-paraplegia-injury-attorney-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a paraplegia injury attorney do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A paraplegia injury attorney represents individuals who have sustained spinal cord injuries resulting in paraplegia due to another party's negligence. Their role involves investigating the accident, gathering evidence, identifying responsible parties, and negotiating with insurance companies. They aim to secure compensation for medical expenses, lost wages, rehabilitation costs, pain and suffering, and other damages to support the client's long-term care and quality of life. This legal support allows injured individuals to focus on their recovery.",
+        "description": "A paraplegia injury attorney represents clients with spinal cord injuries to secure compensation for medical care, lost income, and other damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a catastrophic injury lawsuit typically take?",
+  "description": "Catastrophic injury lawsuits can take months to several years, depending on injury complexity, liability, negotiation, and court schedules.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-catastrophic-injury-lawsuit-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a catastrophic injury lawsuit typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a catastrophic injury lawsuit can vary significantly, ranging from several months to several years. Factors influencing the timeline include the complexity of the injuries, the clarity of liability, the willingness of all parties to negotiate, and court schedules. While some cases settle quickly, others require extensive litigation to achieve a fair resolution.",
+        "description": "Catastrophic injury lawsuits can take months to several years, depending on injury complexity, liability, negotiation, and court schedules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do 18-wheeler accident claims differ from regular car accident claims?",
+  "description": "18-wheeler accident claims are more complex due to higher injury severity, federal regulations, powerful trucking company legal teams, and potentially multiple",
+  "url": "brettpetersonlaw.com/faq/how-do-18-wheeler-accident-claims-differ-from-regular-car-accident-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do 18-wheeler accident claims differ from regular car accident claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "18-wheeler accident claims are typically more complex than regular car accident claims due to several factors. The potential for severe injuries and property damage is much higher. Trucking companies and their insurers have significant resources and legal teams. Additionally, federal regulations govern the trucking industry, adding layers of complexity regarding driver hours, vehicle maintenance, and cargo loading, which an experienced attorney understands. There can also be multiple parties responsible, including the truck driver, trucking company, and manufacturers.",
+        "description": "18-wheeler accident claims are more complex due to higher injury severity, federal regulations, powerful trucking company legal teams, and potentially multiple liable parties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

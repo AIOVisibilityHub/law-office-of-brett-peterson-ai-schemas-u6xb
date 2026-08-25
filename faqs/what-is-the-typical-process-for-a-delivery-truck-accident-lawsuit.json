@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for a delivery truck accident lawsuit?",
+  "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation, and potentially a trial if no settlement is reached.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-typical-process-for-a-delivery-truck-accident-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for a delivery truck accident lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for a delivery truck accident lawsuit typically begins with an initial consultation and investigation by your attorney to gather evidence. This is followed by filing a formal complaint, which officially starts the lawsuit. Then comes the discovery phase, where both sides exchange information through depositions, interrogatories, and requests for documents. Many cases resolve through negotiation or mediation before trial. If a settlement isn't reached, the case may proceed to trial where a judge or jury will determine liability and damages. Your attorney will guide you through each step.",
+        "description": "The process involves consultation, investigation, filing a complaint, discovery, negotiation, and potentially a trial if no settlement is reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

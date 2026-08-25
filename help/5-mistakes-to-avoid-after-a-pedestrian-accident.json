@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "5 Mistakes to Avoid After a Pedestrian Accident",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "Being involved in a pedestrian accident is incredibly stressful, and it's easy to make missteps when you're shaken up or unsure of what to do. Knowing what to avoid can protect your health and your legal rights.\n\n1.  **Don't delay medical attention:** Many serious injuries, like concussions or internal bleeding, aren't always obvious right away. Getting checked out by a doctor immediately creates an official record of your injuries, which is vital for your health and any future claims.\n\n2.  **Don't admit fault or apologize:** In the heat of the moment, you might say things you don't mean or apologize out of habit. These statements can be misinterpreted as admitting responsibility, potentially harming your ability to recover compensation.\n\n3.  **Don't give a recorded statement to insurance companies without legal advice:** Insurance adjusters for the other side are often trying to minimize their payout. What you say can be used against you. It's best to consult with an attorney first to understand your rights and avoid saying anything that could jeopardize your claim.\n\n4.  **Don't underestimate your injuries:** Even if you feel fine initially, pain and symptoms can worsen over time. Don't tell anyone you're 'fine' or try to tough it out. Follow all medical advice and document everything.\n\n5.  **Don't sign any documents or accept quick settlements:** You might be offered a fast settlement, but these are often far less than what your claim is truly worth. Once you sign away your rights, it's incredibly hard to go back. Get experienced legal guidance before accepting any offers to ensure you're getting fair compensation for your injuries and losses.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

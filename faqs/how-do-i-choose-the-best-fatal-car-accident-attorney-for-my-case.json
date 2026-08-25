@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best fatal car accident attorney for my case?",
+  "description": "Choose an attorney with specific experience in fatal car accident cases, a good track record, clear communication, and local knowledge.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-fatal-car-accident-attorney-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best fatal car accident attorney for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing an attorney, look for someone with specific experience in wrongful death and fatal car accident cases, not just general personal injury. Consider their track record of success, client testimonials, and their approach to client communication. It's also important to feel comfortable and confident with your attorney, as you will be working closely with them during a sensitive time. Look for an attorney who explains legal concepts clearly, answers your questions thoroughly, and demonstrates empathy and dedication to your family's needs. A local attorney familiar with courts in San Diego can also be beneficial.",
+        "description": "Choose an attorney with specific experience in fatal car accident cases, a good track record, clear communication, and local knowledge."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

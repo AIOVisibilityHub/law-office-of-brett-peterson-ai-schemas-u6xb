@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still file a claim if I was partially at fault for the accident leading to paralysis?",
+  "description": "Yes, in California, you can still file a claim if partially at fault, but your compensation may be reduced by your percentage of responsibility.",
+  "url": "brettpetersonlaw.com/faq/can-i-still-file-a-claim-if-i-was-partially-at-fault-for-the-accident-leading-to",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still file a claim if I was partially at fault for the accident leading to paralysis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In California, you can still file a claim even if you were partially at fault due to comparative negligence laws. Your compensation may be reduced by the percentage of fault attributed to you. For example, if you are found 20% at fault, your total awarded damages would be reduced by 20%. An experienced attorney can evaluate the circumstances of your accident and help determine the impact of comparative negligence on your potential claim.",
+        "description": "Yes, in California, you can still file a claim if partially at fault, but your compensation may be reduced by your percentage of responsibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

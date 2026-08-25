@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "5 Signs You Might Need an Uninsured Motorist Accident Lawyer",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "Being involved in an accident is stressful enough, but discovering the other driver is uninsured? That adds a whole new layer of complexity. You might wonder if you even need a lawyer when there's no other insurance company to go after directly. But often, your best path to compensation involves an expert. Here are some signs it's time to call a professional.\n\n— You or your passengers have significant injuries: If you've suffered more than minor scrapes, an attorney can help ensure your medical bills, lost wages, and pain and suffering are properly valued and recovered through your own uninsured motorist (UM) coverage.\n\n— Your insurance company is denying your UM claim or offering a low settlement: Even though it's your own policy, insurance companies are businesses. They might try to minimize their payout. An attorney can advocate for you and ensure you receive the full benefits you deserve.\n\n— There's a dispute over fault: If your insurance company tries to argue you were partially at fault, or if the uninsured driver is disputing their role, it can complicate your claim. A lawyer can gather evidence and build a strong case for you.\n\n— You're unsure about the limits or specifics of your UM coverage: Insurance policies can be confusing. An attorney can explain your policy's terms, limits, and how your UM coverage applies to your specific accident, ensuring you don't miss out on potential compensation.\n\n— You're overwhelmed by paperwork, deadlines, and negotiations: Accident claims involve a lot of documentation and back-and-forth with insurers. Handing this over to an experienced lawyer frees you up to focus on your recovery while they handle the legal heavy lifting, from investigation to negotiation and, if necessary, litigation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

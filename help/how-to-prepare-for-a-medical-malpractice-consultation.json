@@ -1,0 +1,177 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Prepare for a Medical Malpractice Consultation",
+  "description": "Step 1: Gather Your Medical Records. This is crucial. Collect everything related to the medical treatment you're concerned about, including hospital records, doctor's notes, test results, and prescrip",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Gather Your Medical Records. This is crucial. Collect everything related to the medical treatment you're concerned about, including hospital records, doctor's notes, test results, and prescriptions. If you don't have them all, bring what you do have and note where the rest can be found.",
+      "text": "Step 1: Gather Your Medical Records. This is crucial. Collect everything related to the medical treatment you're concerned about, including hospital records, doctor's notes, test results, and prescriptions. If you don't have them all, bring what you do have and note where the rest can be found."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Write Down a Chronology of Events. Create a timeline of what happened, starting from before the incident to the present. Include dates, names of doctors or staff, descriptions of symptoms, treatments, and any conversations you had. The more detailed, the better.",
+      "text": "Step 2: Write Down a Chronology of Events. Create a timeline of what happened, starting from before the incident to the present. Include dates, names of doctors or staff, descriptions of symptoms, treatments, and any conversations you had. The more detailed, the better."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: List Your Damages and Impact. Think about how this alleged malpractice has affected your life. This isn't just about medical bills. Consider lost wages, pain and suffering, emotional distress, and any changes to your daily routine or quality of life. Be honest about the full scope.",
+      "text": "Step 3: List Your Damages and Impact. Think about how this alleged malpractice has affected your life. This isn't just about medical bills. Consider lost wages, pain and suffering, emotional distress, and any changes to your daily routine or quality of life. Be honest about the full scope."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Prepare a List of Questions. It's easy to forget things once you're in the moment. Write down any questions you have for the attorney about the process, potential outcomes, fees, or anything else that's on your mind. This ensures you get all your concerns addressed.",
+      "text": "Step 4: Prepare a List of Questions. It's easy to forget things once you're in the moment. Write down any questions you have for the attorney about the process, potential outcomes, fees, or anything else that's on your mind. This ensures you get all your concerns addressed."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Understand the Importance of Honesty. Be completely open and honest with your attorney. Share all the details, good or bad, as it helps them build the strongest possible case for you. Remember, attorney-client privilege protects your communications. By taking these steps, you'll be well-prepared for your consultation and can help your attorney quickly understand the nuances of your situation.",
+      "text": "Step 5: Understand the Importance of Honesty. Be completely open and honest with your attorney. Share all the details, good or bad, as it helps them build the strongest possible case for you. Remember, attorney-client privilege protects your communications. By taking these steps, you'll be well-prepared for your consultation and can help your attorney quickly understand the nuances of your situation."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

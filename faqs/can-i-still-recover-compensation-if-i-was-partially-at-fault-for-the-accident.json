@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I still recover compensation if I was partially at fault for the accident?",
+  "description": "Yes, under California's comparative negligence system, you can recover damages even if partially at fault, though your compensation will be reduced by your faul",
+  "url": "brettpetersonlaw.com/faq/can-i-still-recover-compensation-if-i-was-partially-at-fault-for-the-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I still recover compensation if I was partially at fault for the accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California operates under a pure comparative negligence system. This means that even if you were partially at fault for the accident, you can still recover damages. However, your compensation will be reduced by your percentage of fault. For example, if you are found 20% at fault, your total awarded damages would be reduced by 20%. An attorney can help argue against exaggerated claims of your fault to maximize your recovery.",
+        "description": "Yes, under California's comparative negligence system, you can recover damages even if partially at fault, though your compensation will be reduced by your fault percentage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

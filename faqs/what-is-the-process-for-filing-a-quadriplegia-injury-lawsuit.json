@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for filing a quadriplegia injury lawsuit?",
+  "description": "The process involves investigation, filing a complaint, discovery, negotiations, and potentially a trial if no settlement is reached.",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-for-filing-a-quadriplegia-injury-lawsuit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for filing a quadriplegia injury lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an investigation and evidence gathering, followed by filing a formal complaint in court. After this, both sides exchange information through discovery. Many cases are resolved through negotiation, mediation, or settlement conferences before trial. If a settlement cannot be reached, the case proceeds to trial. Your lawyer will guide you through each stage, advocating on your behalf.",
+        "description": "The process involves investigation, filing a complaint, discovery, negotiations, and potentially a trial if no settlement is reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

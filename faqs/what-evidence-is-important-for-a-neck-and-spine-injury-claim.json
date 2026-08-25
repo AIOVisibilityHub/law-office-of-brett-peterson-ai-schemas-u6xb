@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is important for a neck and spine injury claim?",
+  "description": "Important evidence includes medical records, imaging scans, proof of lost wages, accident reports, photos, witness statements, and a pain journal.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-important-for-a-neck-and-spine-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is important for a neck and spine injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical evidence for a neck and spine injury claim typically includes comprehensive medical records, such as doctor's notes, diagnostic imaging (X-rays, MRIs, CT scans), treatment plans, and bills. Documentation of lost wages, like pay stubs or employer statements, is also vital. Additionally, evidence from the incident itself, such as police reports, accident scene photos, witness statements, and any video surveillance, can be crucial. Keeping a detailed journal of your pain levels, limitations, and impact on daily life can also support your claim for non-economic damages.",
+        "description": "Important evidence includes medical records, imaging scans, proof of lost wages, accident reports, photos, witness statements, and a pain journal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

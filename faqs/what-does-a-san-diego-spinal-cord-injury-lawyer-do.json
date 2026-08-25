@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a San Diego spinal cord injury lawyer do?",
+  "description": "A spinal cord injury lawyer in San Diego represents clients with spinal cord injuries to seek compensation for their damages.",
+  "url": "brettpetersonlaw.com/faq/what-does-a-san-diego-spinal-cord-injury-lawyer-do",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a San Diego spinal cord injury lawyer do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A San Diego spinal cord injury lawyer represents individuals who have sustained spinal cord injuries due to someone else's negligence. They investigate the incident, gather evidence, consult with medical experts, and build a case to seek compensation for medical expenses, lost wages, pain and suffering, and long-term care needs. Their role is to protect the injured person's rights and navigate the complex legal process, ensuring fair treatment and maximizing recovery.",
+        "description": "A spinal cord injury lawyer in San Diego represents clients with spinal cord injuries to seek compensation for their damages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

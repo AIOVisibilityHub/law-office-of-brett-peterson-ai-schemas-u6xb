@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is crucial in a delivery truck accident claim?",
+  "description": "Key evidence includes police reports, photos, driver logs, maintenance records, witness statements, and medical records to support your claim.",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-crucial-in-a-delivery-truck-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is crucial in a delivery truck accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Crucial evidence in a delivery truck accident claim includes the police report, photographs and videos of the accident scene, vehicle damage, and injuries. Driver logbooks, maintenance records for the truck, and the trucking company's safety records are also vital. Witness statements, surveillance footage, and expert testimony (from accident reconstructionists or medical professionals) can further strengthen your case. Medical records detailing your injuries and treatment are essential to prove damages. An attorney can help collect and analyze all necessary evidence.",
+        "description": "Key evidence includes police reports, photos, driver logs, maintenance records, witness statements, and medical records to support your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

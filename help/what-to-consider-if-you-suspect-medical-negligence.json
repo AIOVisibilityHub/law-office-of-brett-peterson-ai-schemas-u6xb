@@ -1,0 +1,189 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Consider if You Suspect Medical Negligence",
+  "description": "[ ] Prioritize your health first — always. Make sure you're getting the best possible care for your injuries or complications, even if that means seeing new doctors. Your well-being is the absolute pr",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: [ ] Prioritize your health first — always",
+      "text": "[ ] Prioritize your health first — always. Make sure you're getting the best possible care for your injuries or complications, even if that means seeing new doctors. Your well-being is the absolute priority."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: [ ] Document everything related to your medical care",
+      "text": "[ ] Document everything related to your medical care. Keep a detailed timeline of events, including dates, times, and who you spoke with. Jot down your symptoms, treatments, and how your life has been affected. This personal record is invaluable."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: [ ] Secure all your medical records",
+      "text": "[ ] Secure all your medical records. Request copies of everything: doctor’s notes, hospital charts, test results, imaging reports, and billing statements. These documents are essential for an attorney to review and understand what transpired."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: [ ] Avoid making definitive statements or signing anything without…",
+      "text": "[ ] Avoid making definitive statements or signing anything without advice. Be cautious about discussing the specifics of your potential claim with anyone other than your chosen legal counsel. Don't sign releases or waivers without understanding their implications."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: [ ] Understand the time limits for filing a claim",
+      "text": "[ ] Understand the time limits for filing a claim. There are strict deadlines, called statutes of limitations, for filing medical negligence claims. Missing these can permanently bar you from seeking compensation, so acting promptly is crucial."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: [ ] Seek legal counsel from an experienced attorney",
+      "text": "[ ] Seek legal counsel from an experienced attorney. Medical negligence cases are complex, requiring specific legal and medical knowledge. An attorney specializing in these areas, like Brett Peterson, can evaluate your situation, gather evidence, and guide you through the intricate legal process. They personally handle each case, ensuring you receive the dedicated attention you need without being passed to junior staff."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7: [ ] Prepare for a thorough investigation",
+      "text": "[ ] Prepare for a thorough investigation. A good attorney will conduct an in-depth investigation, often consulting with medical experts to determine if the standard of care was violated. Be ready to provide all necessary information to assist in this process."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

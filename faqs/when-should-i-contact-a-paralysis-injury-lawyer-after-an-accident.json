@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a paralysis injury lawyer after an accident?",
+  "description": "Contact a paralysis injury lawyer as soon as possible after an accident to preserve evidence, protect your rights, and ensure legal deadlines are met.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-paralysis-injury-lawyer-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a paralysis injury lawyer after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should contact a paralysis injury lawyer as soon as possible after the accident, once your immediate medical needs are addressed. Early engagement allows your attorney to begin investigating the incident while evidence is fresh and witnesses' memories are clear. This also helps ensure that deadlines, such as the statute of limitations for filing a lawsuit, are not missed. Prompt legal advice can protect your rights and help build a strong case from the outset.",
+        "description": "Contact a paralysis injury lawyer as soon as possible after an accident to preserve evidence, protect your rights, and ensure legal deadlines are met."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

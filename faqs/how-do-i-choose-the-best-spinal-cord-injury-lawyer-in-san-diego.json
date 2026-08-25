@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best spinal cord injury lawyer in San Diego?",
+  "description": "Choose a San Diego spinal cord injury lawyer based on their specific experience, track record, client reviews, and communication style.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-spinal-cord-injury-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best spinal cord injury lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the best spinal cord injury lawyer involves looking for experience specifically with spinal cord injuries, a strong track record of successful outcomes, and positive client testimonials. Consider a lawyer's reputation, communication style, and whether they offer a free initial consultation. It's also important to choose someone you feel comfortable with and who demonstrates a deep understanding of your specific needs and the legal landscape in San Diego.",
+        "description": "Choose a San Diego spinal cord injury lawyer based on their specific experience, track record, client reviews, and communication style."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

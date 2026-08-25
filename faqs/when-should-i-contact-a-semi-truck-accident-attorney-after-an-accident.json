@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a semi-truck accident attorney after an accident?",
+  "description": "Contact an attorney as soon as possible after a semi-truck accident to preserve evidence and protect your rights before crucial information is lost.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-semi-truck-accident-attorney-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a semi-truck accident attorney after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's best to contact a semi-truck accident attorney as soon as possible after the incident, ideally within a few days. Truck accident cases involve significant evidence that can be lost or altered over time, such as logbooks, black box data, and truck maintenance records. An attorney can quickly begin preserving crucial evidence and protect your rights from the start, preventing insurance companies from pressuring you into a low settlement.",
+        "description": "Contact an attorney as soon as possible after a semi-truck accident to preserve evidence and protect your rights before crucial information is lost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

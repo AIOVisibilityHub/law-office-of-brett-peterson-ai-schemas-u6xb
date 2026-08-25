@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I receive for a paraplegia injury?",
+  "description": "Compensation for a paraplegia injury can cover medical bills, lost wages, rehabilitation, home modifications, and pain and suffering.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-receive-for-a-paraplegia-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I receive for a paraplegia injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for a paraplegia injury typically covers extensive damages. This can include current and future medical expenses, such as hospital stays, surgeries, medications, and ongoing rehabilitation and therapy. It also often includes lost wages and future earning capacity, home modifications for accessibility, assistive devices, and emotional distress, pain, and suffering. The goal is to provide comprehensive financial support for your long-term needs and losses.",
+        "description": "Compensation for a paraplegia injury can cover medical bills, lost wages, rehabilitation, home modifications, and pain and suffering."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

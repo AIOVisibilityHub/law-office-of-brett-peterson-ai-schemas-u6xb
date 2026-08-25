@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I contact a quadriplegia injury lawyer after an accident?",
+  "description": "Contact a quadriplegia injury lawyer as soon as medically possible after an injury to preserve evidence and protect your legal rights.",
+  "url": "brettpetersonlaw.com/faq/when-should-i-contact-a-quadriplegia-injury-lawyer-after-an-accident",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I contact a quadriplegia injury lawyer after an accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is advisable to contact a quadriplegia injury lawyer as soon as possible after the injury, once medical stability is achieved. Early legal intervention allows for prompt investigation, preservation of evidence, and adherence to crucial deadlines. Waiting too long can jeopardize your ability to collect essential information and build a strong case. Consulting an attorney early ensures your legal rights are protected from the outset.",
+        "description": "Contact a quadriplegia injury lawyer as soon as medically possible after an injury to preserve evidence and protect your legal rights."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

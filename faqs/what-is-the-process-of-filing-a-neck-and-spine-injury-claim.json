@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process of filing a neck and spine injury claim?",
+  "description": "The process involves an initial consultation, investigation, evidence collection, negotiations with insurance, and potentially filing a lawsuit if a settlement",
+  "url": "brettpetersonlaw.com/faq/what-is-the-process-of-filing-a-neck-and-spine-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process of filing a neck and spine injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process generally begins with an initial consultation where you discuss your injury and circumstances with an attorney. If they take your case, they will investigate, gather evidence, and notify the responsible parties. Your medical treatment will be monitored, and all related documentation collected. The attorney will then typically attempt to negotiate a settlement with the at-fault party's insurance company. If a fair settlement cannot be reached, a lawsuit may be filed, leading to discovery, potentially mediation, and ultimately a trial if necessary. Throughout, your attorney handles communications and legal procedures.",
+        "description": "The process involves an initial consultation, investigation, evidence collection, negotiations with insurance, and potentially filing a lawsuit if a settlement isn't reached."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

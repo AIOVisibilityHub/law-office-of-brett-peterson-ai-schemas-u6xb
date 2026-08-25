@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of compensation can be sought in a fatal car accident claim?",
+  "description": "Compensation can include medical and funeral costs, lost income, and non-economic damages like loss of companionship and emotional distress.",
+  "url": "brettpetersonlaw.com/faq/what-kind-of-compensation-can-be-sought-in-a-fatal-car-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of compensation can be sought in a fatal car accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a wrongful death claim following a fatal car accident, compensation can cover various damages. This often includes economic losses like medical bills incurred before death, funeral and burial expenses, lost income and future earning capacity of the deceased, and loss of benefits. Non-economic damages may include pain and suffering of the deceased, loss of companionship, comfort, and support for surviving family members, and emotional distress. The specific types and amounts of compensation depend on the unique circumstances of the case and applicable state laws.",
+        "description": "Compensation can include medical and funeral costs, lost income, and non-economic damages like loss of companionship and emotional distress."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

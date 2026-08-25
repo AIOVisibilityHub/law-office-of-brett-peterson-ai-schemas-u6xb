@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What compensation can I seek for a spinal cord injury?",
+  "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and long-term care resulting from a spinal cord injury.",
+  "url": "brettpetersonlaw.com/faq/what-compensation-can-i-seek-for-a-spinal-cord-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What compensation can I seek for a spinal cord injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Compensation for a spinal cord injury can include various damages. This may cover past and future medical expenses, such as hospital stays, rehabilitation, medications, and assistive devices. You could also seek compensation for lost wages, reduced earning capacity, pain and suffering, emotional distress, and loss of enjoyment of life. In some cases, damages for home modifications or in-home care may also be pursued to ensure your long-term needs are met.",
+        "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and long-term care resulting from a spinal cord injury."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

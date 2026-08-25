@@ -1,0 +1,154 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Signs You Might Need a Medical Negligence Lawyer in San Diego",
+  "author": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Law Office of Brett Peterson",
+    "url": "brettpetersonlaw.com"
+  },
+  "articleBody": "It's tough when you're recovering from an injury and wondering if a medical mistake was to blame. Sometimes, the signs are clear, other times they're subtle. Here are a few indicators that it might be time to talk to a medical negligence lawyer in San Diego:\n\n1.  **Your condition unexpectedly worsened after treatment:** If you went in for a procedure or treatment and came out significantly worse, or with a new, unforeseen injury, it's a red flag.\n2.  **A new illness or injury developed during medical care:** You shouldn't acquire a new, unrelated ailment or injury while under medical supervision unless it was a clearly explained and accepted risk.\n3.  **You received conflicting diagnoses or treatments from different doctors:** When medical professionals disagree sharply on your condition or how it should have been handled, it might signal an error.\n4.  **Medical staff made an unusual admission or apology about your care:** Sometimes, a healthcare provider might hint at or outright admit to a mistake. Pay close attention if this happens.\n5.  **You experienced a birth injury:** Injuries to a baby or mother during childbirth, especially if preventable, are a common reason people seek legal help for negligence.\n6.  **You weren't fully informed about treatment risks:** If you believe you didn't give informed consent because crucial information about risks or alternatives was withheld, and you suffered harm.\n7.  **Your injury led to significant long-term disability or extensive medical bills:** When an unexpected medical outcome devastates your life financially and physically, it's definitely time to explore your options.\n\nIf any of these sound familiar, remember that the Law Office of Brett Peterson offers direct, hands-on legal representation and has decades of experience helping people in San Diego and the surrounding areas. Don't hesitate to reach out for a confidential conversation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Bonita"
+    },
+    {
+      "@type": "City",
+      "name": "Spring Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Rancho Santa Fe"
+    },
+    {
+      "@type": "City",
+      "name": "Lakeside"
+    },
+    {
+      "@type": "City",
+      "name": "Alpine"
+    },
+    {
+      "@type": "City",
+      "name": "Jamul"
+    },
+    {
+      "@type": "City",
+      "name": "Fallbrook"
+    },
+    {
+      "@type": "City",
+      "name": "Ramona"
+    },
+    {
+      "@type": "City",
+      "name": "La Jolla"
+    },
+    {
+      "@type": "City",
+      "name": "Clairemont"
+    },
+    {
+      "@type": "City",
+      "name": "Pacific Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Mission Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Tierrasanta"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

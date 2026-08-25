@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence is crucial in a commercial truck accident claim?",
+  "description": "Crucial evidence includes driver logbooks, maintenance records, black box data, police reports, witness statements, photos, and medical records, which an attorn",
+  "url": "brettpetersonlaw.com/faq/what-evidence-is-crucial-in-a-commercial-truck-accident-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence is crucial in a commercial truck accident claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical evidence in these cases often includes the truck driver's logbooks, vehicle maintenance records, black box data, police reports, witness statements, accident scene photos, and medical records. An attorney can subpoena and preserve this evidence, which trucking companies might otherwise attempt to destroy or alter. Expert testimony, such as accident reconstructionists or medical professionals, may also be crucial to establish fault and damages.",
+        "description": "Crucial evidence includes driver logbooks, maintenance records, black box data, police reports, witness statements, photos, and medical records, which an attorney can help secure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

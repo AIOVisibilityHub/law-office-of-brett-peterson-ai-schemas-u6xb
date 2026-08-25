@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a delivery truck accident in San Diego?",
+  "description": "Prioritize safety, call 911, document the scene with photos and information, and seek legal advice. Do not admit fault.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-delivery-truck-accident-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a delivery truck accident in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a delivery truck accident, your first priority is safety. Check for injuries and call 911 for medical attention and police. If possible, move vehicles out of traffic, but do not leave the scene. Document the accident by taking photos of vehicle damage, road conditions, and any visible injuries. Collect contact and insurance information from all involved parties and any witnesses. Avoid discussing fault at the scene. Seek legal advice promptly, especially in San Diego, to understand your rights and potential claims.",
+        "description": "Prioritize safety, call 911, document the scene with photos and information, and seek legal advice. Do not admit fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

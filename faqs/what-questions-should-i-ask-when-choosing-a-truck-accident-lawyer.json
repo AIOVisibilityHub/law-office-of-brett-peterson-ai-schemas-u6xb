@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What questions should I ask when choosing a truck accident lawyer?",
+  "description": "Ask about their specific truck accident experience, success rate, communication style, fee structure, who manages your case, and their knowledge of trucking reg",
+  "url": "brettpetersonlaw.com/faq/what-questions-should-i-ask-when-choosing-a-truck-accident-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What questions should I ask when choosing a truck accident lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a truck accident lawyer, ask about their specific experience handling commercial truck accident cases, not just general personal injury. Inquire about their track record of success, their approach to communication, and how they handle costs and fees (e.g., contingency fee percentage, how expenses are covered). Ask who will be directly managing your case and their knowledge of federal trucking regulations. Also, confirm they serve the San Diego area and understand local courts and legal procedures.",
+        "description": "Ask about their specific truck accident experience, success rate, communication style, fee structure, who manages your case, and their knowledge of trucking regulations and local San Diego procedures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

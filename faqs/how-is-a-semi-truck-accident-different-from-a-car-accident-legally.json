@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is a semi-truck accident different from a car accident legally?",
+  "description": "Semi-truck accidents are legally more complex than car accidents due to specific federal regulations, multiple potential liable parties, and often more severe i",
+  "url": "brettpetersonlaw.com/faq/how-is-a-semi-truck-accident-different-from-a-car-accident-legally",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is a semi-truck accident different from a car accident legally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Semi-truck accidents are often more complex legally due to federal and state regulations governing commercial vehicles and their drivers. Multiple parties might be liable, including the truck driver, trucking company, cargo loader, or maintenance provider. The injuries are typically more severe, leading to higher damage claims. Evidence preservation is also critical, involving specific data from the truck's systems not found in car accidents.",
+        "description": "Semi-truck accidents are legally more complex than car accidents due to specific federal regulations, multiple potential liable parties, and often more severe injuries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

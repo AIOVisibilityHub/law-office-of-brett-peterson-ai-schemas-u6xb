@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of compensation can I seek after being injured in a delivery truck accident?",
+  "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage following a delivery truck accident.",
+  "url": "brettpetersonlaw.com/faq/what-types-of-compensation-can-i-seek-after-being-injured-in-a-delivery-truck-ac",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of compensation can I seek after being injured in a delivery truck accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you've been injured in a delivery truck accident, you may be able to seek various types of compensation. This can include economic damages such as medical expenses (past and future), lost wages, loss of earning capacity, and property damage. Non-economic damages might cover pain and suffering, emotional distress, and loss of enjoyment of life. In some severe cases involving extreme negligence, punitive damages may also be awarded to punish the at-fault party. An attorney can help identify all potential damages in your specific situation.",
+        "description": "You can seek compensation for medical expenses, lost wages, pain and suffering, and property damage following a delivery truck accident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the best delivery truck accident attorney for my case?",
+  "description": "Choose an attorney with specific experience in truck accidents, a strong track record, good communication, and local knowledge of the San Diego area.",
+  "url": "brettpetersonlaw.com/faq/how-do-i-choose-the-best-delivery-truck-accident-attorney-for-my-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the best delivery truck accident attorney for my case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the best delivery truck accident attorney involves considering several factors. Look for an attorney with specific experience in commercial truck accidents, as these cases are distinct from typical car accidents. Evaluate their track record of successful outcomes in similar cases. A reputable attorney will offer a free initial consultation to discuss your case and explain their approach. Additionally, consider their communication style and responsiveness, as you'll want someone who keeps you informed. Prioritize a firm with local knowledge of San Diego courts and laws.",
+        "description": "Choose an attorney with specific experience in truck accidents, a strong track record, good communication, and local knowledge of the San Diego area."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

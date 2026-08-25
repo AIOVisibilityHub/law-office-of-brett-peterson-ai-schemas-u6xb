@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a personal injury lawyer and a catastrophic injury lawyer?",
+  "description": "A catastrophic injury lawyer specializes in severe, life-altering injuries requiring long-term care, unlike general personal injury lawyers who handle a broader",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-personal-injury-lawyer-and-a-catastrophic-injur",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a personal injury lawyer and a catastrophic injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While all catastrophic injury lawyers are personal injury lawyers, a catastrophic injury lawyer specializes in the most severe cases involving permanent damage, long-term care, and significant life changes. They have specific expertise in valuing these complex cases, understanding future medical needs, and navigating the unique challenges of such claims, distinguishing them from general personal injury practitioners.",
+        "description": "A catastrophic injury lawyer specializes in severe, life-altering injuries requiring long-term care, unlike general personal injury lawyers who handle a broader range of injuries."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

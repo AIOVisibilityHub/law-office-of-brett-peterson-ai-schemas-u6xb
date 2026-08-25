@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does your firm handle paraplegia injury cases for clients in San Diego and the surrounding areas?",
+  "description": "Yes, the Law Office of Brett Peterson handles paraplegia injury cases for clients in San Diego County and its surrounding areas.",
+  "url": "brettpetersonlaw.com/faq/does-your-firm-handle-paraplegia-injury-cases-for-clients-in-san-diego-and-the-s",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does your firm handle paraplegia injury cases for clients in San Diego and the surrounding areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Law Office of Brett Peterson proudly serves clients throughout San Diego County and its surrounding areas, including Imperial Beach, Coronado, La Mesa, Lemon Grove, and others. We are deeply familiar with the local court systems and legal procedures. Our commitment is to provide dedicated and effective legal representation to individuals in our community who have suffered severe spinal cord injuries due to negligence.",
+        "description": "Yes, the Law Office of Brett Peterson handles paraplegia injury cases for clients in San Diego County and its surrounding areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

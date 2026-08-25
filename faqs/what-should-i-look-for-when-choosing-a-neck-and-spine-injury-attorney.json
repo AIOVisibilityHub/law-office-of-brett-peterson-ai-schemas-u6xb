@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a neck and spine injury attorney?",
+  "description": "Look for an attorney with specific experience in neck and spine injuries, a strong track record, clear communication, and a good reputation.",
+  "url": "brettpetersonlaw.com/faq/what-should-i-look-for-when-choosing-a-neck-and-spine-injury-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a neck and spine injury attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a neck and spine injury attorney, look for someone with specific experience in handling these complex cases. They should have a proven track record of successful outcomes for similar injuries and a deep understanding of medical terminology related to spinal trauma. Communication style is also important; ensure they are responsive and explain legal processes clearly. Consider their reputation, client testimonials, and their approach to client care. An attorney who offers a free initial consultation allows you to assess their expertise and determine if they are a good fit for your needs.",
+        "description": "Look for an attorney with specific experience in neck and spine injuries, a strong track record, clear communication, and a good reputation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

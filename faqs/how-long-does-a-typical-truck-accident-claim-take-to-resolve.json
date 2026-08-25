@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical truck accident claim take to resolve?",
+  "description": "Truck accident claims can take anywhere from a few months to several years to resolve, depending on case complexity, injury severity, and whether it settles or",
+  "url": "brettpetersonlaw.com/faq/how-long-does-a-typical-truck-accident-claim-take-to-resolve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical truck accident claim take to resolve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a truck accident claim can vary significantly depending on its complexity, the severity of injuries, the number of parties involved, and whether it settles or goes to trial. A straightforward case with clear liability and minor injuries might settle in a few months. However, complex cases involving catastrophic injuries, multiple defendants, or disputes over fault and damages can take one to several years to resolve. Your lawyer can provide a more accurate estimate after reviewing the specifics of your case.",
+        "description": "Truck accident claims can take anywhere from a few months to several years to resolve, depending on case complexity, injury severity, and whether it settles or goes to trial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

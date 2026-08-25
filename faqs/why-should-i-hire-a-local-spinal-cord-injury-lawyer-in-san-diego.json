@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I hire a local spinal cord injury lawyer in San Diego?",
+  "description": "A local San Diego spinal cord injury lawyer is familiar with local courts, judges, and medical experts, which can benefit your case and streamline the process.",
+  "url": "brettpetersonlaw.com/faq/why-should-i-hire-a-local-spinal-cord-injury-lawyer-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I hire a local spinal cord injury lawyer in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a local spinal cord injury lawyer in San Diego offers advantages such as familiarity with local court procedures, judges, and opposing counsel. They also have established relationships with local medical experts, accident reconstruction specialists, and other resources critical for building a strong case. This local knowledge can streamline the legal process and provide a strategic edge in negotiating settlements or litigating in San Diego County courts, ultimately benefiting your claim's outcome.",
+        "description": "A local San Diego spinal cord injury lawyer is familiar with local courts, judges, and medical experts, which can benefit your case and streamline the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

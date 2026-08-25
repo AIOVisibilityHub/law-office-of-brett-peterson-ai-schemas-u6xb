@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I accept a settlement offer from an insurance company for my back injury?",
+  "description": "Do not accept a settlement offer without consulting a back injury lawyer; they can assess your claim's true value and negotiate fair compensation.",
+  "url": "brettpetersonlaw.com/faq/should-i-accept-a-settlement-offer-from-an-insurance-company-for-my-back-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I accept a settlement offer from an insurance company for my back injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is rarely advisable to accept the first settlement offer from an insurance company, especially without consulting a back injury lawyer. Insurance companies often aim to settle quickly for the lowest possible amount. A lawyer can evaluate the true value of your claim, including all potential damages, and negotiate on your behalf to ensure you receive fair compensation that adequately covers your medical costs, lost wages, and pain and suffering.",
+        "description": "Do not accept a settlement offer without consulting a back injury lawyer; they can assess your claim's true value and negotiate fair compensation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

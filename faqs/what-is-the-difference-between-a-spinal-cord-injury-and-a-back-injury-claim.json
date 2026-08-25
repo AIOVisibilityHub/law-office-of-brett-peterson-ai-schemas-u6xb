@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a spinal cord injury and a back injury claim?",
+  "description": "A spinal cord injury involves damage to the spinal cord itself, leading to neurological issues, while a back injury refers to other damages like strains or disc",
+  "url": "brettpetersonlaw.com/faq/what-is-the-difference-between-a-spinal-cord-injury-and-a-back-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a spinal cord injury and a back injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While both involve the back, a spinal cord injury specifically refers to damage to the spinal cord itself, which often results in severe neurological deficits like paralysis or significant loss of function. A general back injury claim may involve muscle strains, herniated discs, or fractures that don't directly damage the spinal cord. Spinal cord injury cases are typically more complex, require extensive medical expertise, and involve much higher compensation due to their life-altering nature.",
+        "description": "A spinal cord injury involves damage to the spinal cord itself, leading to neurological issues, while a back injury refers to other damages like strains or disc issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

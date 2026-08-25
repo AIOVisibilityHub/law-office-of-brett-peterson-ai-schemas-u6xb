@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to settle a commercial truck accident case?",
+  "description": "Case duration varies based on injury severity, liability complexity, and negotiation willingness, ranging from a few months to over a year.",
+  "url": "brettpetersonlaw.com/faq/how-long-does-it-take-to-settle-a-commercial-truck-accident-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to settle a commercial truck accident case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a commercial truck accident case varies significantly based on factors such as the severity of injuries, the complexity of liability, and the willingness of all parties to negotiate. Some cases settle in a few months, while others involving extensive evidence or prolonged recovery can take a year or more. An attorney can provide a more accurate timeline after evaluating the specifics of your case.",
+        "description": "Case duration varies based on injury severity, liability complexity, and negotiation willingness, ranging from a few months to over a year."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

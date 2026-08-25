@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a local paralysis injury attorney if my accident occurred in San Diego?",
+  "description": "A local San Diego paralysis injury attorney can be beneficial due to their familiarity with local courts and accessibility for in-person meetings and site visit",
+  "url": "brettpetersonlaw.com/faq/do-i-need-a-local-paralysis-injury-attorney-if-my-accident-occurred-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a local paralysis injury attorney if my accident occurred in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While you can hire an attorney from anywhere, having a local paralysis injury attorney in San Diego can offer advantages. They are familiar with local court procedures, judges, and opposing counsel, which can be beneficial in navigating the legal system. A local attorney is also more accessible for in-person meetings and can more easily visit accident sites or attend local court hearings. This local knowledge and accessibility can contribute to a smoother and potentially more effective legal process for your case.",
+        "description": "A local San Diego paralysis injury attorney can be beneficial due to their familiarity with local courts and accessibility for in-person meetings and site visits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do immediately after a truck accident in San Diego?",
+  "description": "Prioritize safety, call 911, document the scene with photos, exchange information, and seek medical attention. Consider contacting a San Diego truck accident la",
+  "url": "brettpetersonlaw.com/faq/what-should-i-do-immediately-after-a-truck-accident-in-san-diego",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do immediately after a truck accident in San Diego?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After a truck accident, ensure your safety and the safety of others. Call 911 for police and medical assistance, even if injuries seem minor. Document the scene by taking photos and videos of vehicle damage, road conditions, and any visible injuries. Exchange information with the truck driver, but avoid discussing fault. Seek medical attention promptly, as some injuries may not be immediately apparent. Contacting a San Diego truck accident lawyer early can help protect your rights and gather crucial evidence for a potential claim.",
+        "description": "Prioritize safety, call 911, document the scene with photos, exchange information, and seek medical attention. Consider contacting a San Diego truck accident lawyer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

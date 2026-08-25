@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a neck and spine injury attorney prove negligence in a personal injury case?",
+  "description": "An attorney proves negligence by showing the at-fault party had a duty of care, breached it, caused your injury, and you suffered damages as a result.",
+  "url": "brettpetersonlaw.com/faq/how-does-a-neck-and-spine-injury-attorney-prove-negligence-in-a-personal-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a neck and spine injury attorney prove negligence in a personal injury case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A neck and spine injury attorney proves negligence by establishing four key elements: duty, breach, causation, and damages. They must show that the responsible party owed you a duty of care (e.g., to drive safely), that they breached that duty through their actions or inactions (e.g., distracted driving), that this breach directly caused your neck or spine injury, and that you suffered actual damages as a result (e.g., medical bills, pain). This often involves gathering evidence like accident reports, witness testimonies, expert opinions (medical and accident reconstruction), and correlating medical records to the incident.",
+        "description": "An attorney proves negligence by showing the at-fault party had a duty of care, breached it, caused your injury, and you suffered damages as a result."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

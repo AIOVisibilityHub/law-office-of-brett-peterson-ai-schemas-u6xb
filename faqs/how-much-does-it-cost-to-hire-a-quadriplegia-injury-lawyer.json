@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to hire a quadriplegia injury lawyer?",
+  "description": "Quadriplegia injury lawyers typically work on a contingency fee, meaning you pay no upfront fees and they receive a percentage only if your case is successful.",
+  "url": "brettpetersonlaw.com/faq/how-much-does-it-cost-to-hire-a-quadriplegia-injury-lawyer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to hire a quadriplegia injury lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most quadriplegia injury lawyers work on a contingency fee basis. This means you do not pay any upfront legal fees. Instead, the lawyer's fees are a percentage of the compensation they successfully recover for you. If no compensation is obtained, you generally do not owe any attorney fees. This arrangement allows individuals to pursue justice without financial burden during a challenging time.",
+        "description": "Quadriplegia injury lawyers typically work on a contingency fee, meaning you pay no upfront fees and they receive a percentage only if your case is successful."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
