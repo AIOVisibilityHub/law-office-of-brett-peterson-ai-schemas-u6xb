@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:51:40.113Z",
+  "generatedAt": "2026-09-05T21:52:00.254Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -153,7 +153,7 @@
   },
   "package": {
     "totalFiles": 1474,
-    "totalBytes": 9012212,
+    "totalBytes": 7730967,
     "stats": {
       "qna": 0,
       "faqs": 881,
@@ -6535,967 +6535,967 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19011,
+        "bytes": 13039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 28339,
+        "bytes": 22504,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 336579,
+        "bytes": 330477,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15704,
+        "bytes": 9967,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 736929,
+        "bytes": 731214,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 169807,
+        "bytes": 164134,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 21343,
+        "bytes": 15652,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 455050,
+        "bytes": 449377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-mistakes-should-i-avoid-after-a-san-diego-car-accident.html",
-        "bytes": 18324,
+        "bytes": 11569,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-i-really-need-a-car-accident-lawyer.html",
-        "bytes": 18480,
+        "bytes": 11837,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-car-accident-claim-process-in-san-diego.html",
-        "bytes": 20323,
+        "bytes": 13562,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-car-accident-case-moving-forward.html",
-        "bytes": 18821,
+        "bytes": 12167,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-signs-i-need-a-car-accident-attorney-in-san-diego.html",
-        "bytes": 18900,
+        "bytes": 12112,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-get-fair-compensation-after-a-car-accident.html",
-        "bytes": 21652,
+        "bytes": 15267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-do-insurance-adjusters-want-recorded-statements-after-an-accident.html",
-        "bytes": 18400,
+        "bytes": 11569,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-an-uninsured-motorist-claim-raise-my-insurance-rates.html",
-        "bytes": 18037,
+        "bytes": 11294,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-lawyer-after-a-car-accident.html",
-        "bytes": 18863,
+        "bytes": 12176,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-the-other-driver-s-insurance-offers-a-low-settlement.html",
-        "bytes": 18369,
+        "bytes": 11545,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-medical-bills-after-a-car-crash-if-i-have-health-insurance.html",
-        "bytes": 18638,
+        "bytes": 11801,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-a-car-accident-claim-key-steps-you-need-to-know.html",
-        "bytes": 19229,
+        "bytes": 12778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-a-rear-end-collision.html",
-        "bytes": 18040,
+        "bytes": 11442,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-after-a-traffic-collision.html",
-        "bytes": 17913,
+        "bytes": 11264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-contact-a-traffic-collision-attorney.html",
-        "bytes": 18454,
+        "bytes": 11739,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-insurance-companies-after-a-car-accident.html",
-        "bytes": 20077,
+        "bytes": 13660,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-a-rear-end-collision-lawyer.html",
-        "bytes": 18812,
+        "bytes": 12131,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-proposition-213-after-a-car-accident.html",
-        "bytes": 18398,
+        "bytes": 11712,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-a-hit-and-run-driver-leaves-the-scene.html",
-        "bytes": 18878,
+        "bytes": 12159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-the-aftermath-of-a-hit-and-run-accident.html",
-        "bytes": 22106,
+        "bytes": 15696,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-know-if-your-hit-and-run-driver-isn-t-identified.html",
-        "bytes": 18509,
+        "bytes": 11793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-signs-you-might-need-an-uninsured-motorist-accident-lawyer.html",
-        "bytes": 19255,
+        "bytes": 12487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-the-at-fault-driver-has-no-insurance.html",
-        "bytes": 18956,
+        "bytes": 12274,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-in-uninsured-motorist-claims.html",
-        "bytes": 19871,
+        "bytes": 13158,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-re-hit-as-a-pedestrian.html",
-        "bytes": 17977,
+        "bytes": 11350,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-a-pedestrian-accident.html",
-        "bytes": 18823,
+        "bytes": 12161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-a-pedestrian-accident-claim-gets-complicated.html",
-        "bytes": 19110,
+        "bytes": 12419,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-medical-malpractice.html",
-        "bytes": 18042,
+        "bytes": 11377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-medical-malpractice-in-san-diego.html",
-        "bytes": 18553,
+        "bytes": 11886,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-consider-a-medical-malpractice-claim-in-san-diego.html",
-        "bytes": 19597,
+        "bytes": 12859,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-a-medical-error-leaves-you-injured.html",
-        "bytes": 17795,
+        "bytes": 11108,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-in-a-medical-malpractice-case.html",
-        "bytes": 18768,
+        "bytes": 12074,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-call-a-medical-malpractice-attorney.html",
-        "bytes": 18627,
+        "bytes": 11933,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-a-medical-negligence-claim-in-san-diego.html",
-        "bytes": 22444,
+        "bytes": 16017,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-if-you-suspect-medical-negligence.html",
-        "bytes": 19945,
+        "bytes": 13547,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-a-medical-negligence-lawyer-in-san-diego.html",
-        "bytes": 19653,
+        "bytes": 12890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-medical-care-goes-wrong-in-the-hospital.html",
-        "bytes": 18215,
+        "bytes": 11468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-know-if-your-hospital-stay-led-to-a-new-injury.html",
-        "bytes": 18225,
+        "bytes": 11512,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-my-rights-after-a-surgical-mistake.html",
-        "bytes": 18228,
+        "bytes": 11576,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-did-my-surgery-have-unexpected-complications.html",
-        "bytes": 18521,
+        "bytes": 11834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-seek-help-after-a-botched-surgery.html",
-        "bytes": 18118,
+        "bytes": 11492,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-post-surgery-pain-normal-or-a-sign-of-negligence.html",
-        "bytes": 18560,
+        "bytes": 11831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-medical-advice-goes-wrong-what-to-do-next.html",
-        "bytes": 19286,
+        "bytes": 12616,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-a-medical-misdiagnosis.html",
-        "bytes": 19412,
+        "bytes": 12725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-misdiagnosis-attorney.html",
-        "bytes": 19466,
+        "bytes": 12789,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-after-suspecting-doctor-negligence.html",
-        "bytes": 19622,
+        "bytes": 13247,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-your-rights-after-doctor-negligence.html",
-        "bytes": 19558,
+        "bytes": 12876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-doctor-negligence-leads-to-lasting-harm.html",
-        "bytes": 20213,
+        "bytes": 13578,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-shouldn-t-talk-to-the-other-driver-s-insurance-after-an-accident.html",
-        "bytes": 18678,
+        "bytes": 11835,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-medical-care-and-insurance-after-a-san-diego-car-accident.html",
-        "bytes": 20906,
+        "bytes": 14353,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-signs-you-need-a-car-accident-attorney-in-san-diego.html",
-        "bytes": 19003,
+        "bytes": 12278,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-car-accident-claim-isn-t-moving-forward.html",
-        "bytes": 18872,
+        "bytes": 12116,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-after-a-car-accident-in-san-diego.html",
-        "bytes": 22897,
+        "bytes": 16245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-too-late-to-pursue-a-san-diego-car-accident-claim.html",
-        "bytes": 19212,
+        "bytes": 12441,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-car-accident-in-san-diego.html",
-        "bytes": 19124,
+        "bytes": 12402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-insurance-not-covering-physical-therapy-after-an-accident.html",
-        "bytes": 18662,
+        "bytes": 11842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-injury-recovery-a-checklist-for-vehicle-accident-victims.html",
-        "bytes": 23042,
+        "bytes": 16213,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-the-aftermath-common-mistakes-to-avoid-after-a-vehicle-accident.html",
-        "bytes": 18791,
+        "bytes": 11923,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-professional-after-a-car-accident.html",
-        "bytes": 19259,
+        "bytes": 12504,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-steps-should-i-take-to-file-a-car-accident-claim.html",
-        "bytes": 21534,
+        "bytes": 15118,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-car-accident-claim-isn-t-moving-what-s-going-on.html",
-        "bytes": 19067,
+        "bytes": 12363,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-the-aftermath-of-a-rear-end-collision-where-do-i-start.html",
-        "bytes": 18804,
+        "bytes": 11993,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-a-minor-fender-bender-in-san-diego.html",
-        "bytes": 18614,
+        "bytes": 11906,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-traffic-ticket-says-i-m-at-fault-but-i-don-t-think-i-am-can-i-fight-it.html",
-        "bytes": 19375,
+        "bytes": 12513,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-get-medical-care-after-a-traffic-collision-if-i-can-t-afford-it.html",
-        "bytes": 19314,
+        "bytes": 12462,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-insurance-company-called-me-after-my-accident-should-i-talk-to-them.html",
-        "bytes": 19543,
+        "bytes": 12671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-hit-and-run-in-san-diego.html",
-        "bytes": 20053,
+        "bytes": 13626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-after-a-hit-and-run.html",
-        "bytes": 20567,
+        "bytes": 13908,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-after-a-hit-and-run-accident.html",
-        "bytes": 20324,
+        "bytes": 13611,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-still-recover-compensation-if-the-other-driver-doesn-t-have-insurance.html",
-        "bytes": 20484,
+        "bytes": 13617,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-when-an-uninsured-driver-causes-your-accident.html",
-        "bytes": 22131,
+        "bytes": 15676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-a-lawyer-after-an-uninsured-motorist-accident.html",
-        "bytes": 20732,
+        "bytes": 13988,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-pedestrian-accident.html",
-        "bytes": 18178,
+        "bytes": 11486,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/should-you-talk-to-the-other-driver-s-insurance-after-an-accident.html",
-        "bytes": 18440,
+        "bytes": 11640,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-a-pedestrian-accident-attorney.html",
-        "bytes": 18580,
+        "bytes": 11890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-medical-malpractice-claims-where-do-i-start.html",
-        "bytes": 18760,
+        "bytes": 12334,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-consider-a-medical-malpractice-lawsuit-in-san-diego.html",
-        "bytes": 18975,
+        "bytes": 12208,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-your-rights-after-a-medical-error.html",
-        "bytes": 18467,
+        "bytes": 11793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-a-medical-malpractice-case.html",
-        "bytes": 18627,
+        "bytes": 11950,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-prepare-for-a-medical-malpractice-consultation.html",
-        "bytes": 20248,
+        "bytes": 13835,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-medical-error-considered-medical-negligence.html",
-        "bytes": 18852,
+        "bytes": 12133,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-signs-you-might-need-a-medical-negligence-lawyer-in-san-diego.html",
-        "bytes": 18751,
+        "bytes": 11971,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/getting-fair-compensation-for-medical-negligence.html",
-        "bytes": 18937,
+        "bytes": 12259,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-a-hospital-visit-goes-wrong-what-are-your-options.html",
-        "bytes": 19014,
+        "bytes": 12270,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/feeling-unsure-about-your-medical-care-signs-of-potential-hospital-negligence.html",
-        "bytes": 20331,
+        "bytes": 13435,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-suspecting-hospital-negligence-in-san-diego.html",
-        "bytes": 20827,
+        "bytes": 14365,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-surgical-outcome-normal-or-was-there-a-mistake.html",
-        "bytes": 19598,
+        "bytes": 12883,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-aftermath-of-a-surgical-error-your-path-forward.html",
-        "bytes": 19684,
+        "bytes": 12887,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-be-dealing-with-a-surgical-error.html",
-        "bytes": 20269,
+        "bytes": 13585,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-doctor-misses-the-mark-what-to-do-after-a-misdiagnosis.html",
-        "bytes": 19139,
+        "bytes": 12343,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-your-health-crisis-due-to-a-medical-mistake.html",
-        "bytes": 20238,
+        "bytes": 13571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-aftermath-of-a-medical-misdiagnosis.html",
-        "bytes": 20770,
+        "bytes": 14378,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/suspecting-medical-error-your-next-steps-after-a-doctor-negligence-incident.html",
-        "bytes": 19855,
+        "bytes": 12982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-understand-if-your-injury-is-from-medical-negligence.html",
-        "bytes": 19857,
+        "bytes": 13114,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-gather-evidence-for-a-potential-doctor-negligence-case.html",
-        "bytes": 21995,
+        "bytes": 15520,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-deal-with-insurance-companies-after-a-car-accident-in-san-diego.html",
-        "bytes": 19583,
+        "bytes": 12757,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-san-diego-car-accident-lawyer.html",
-        "bytes": 20076,
+        "bytes": 13343,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-consider-before-accepting-an-insurance-settlement-after-a-car-accident.html",
-        "bytes": 19936,
+        "bytes": 13054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-things-you-might-not-know-about-your-san-diego-car-accident-claim.html",
-        "bytes": 19886,
+        "bytes": 13093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-collect-evidence-after-a-san-diego-car-accident.html",
-        "bytes": 22647,
+        "bytes": 16227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-right-after-a-car-accident.html",
-        "bytes": 18741,
+        "bytes": 12137,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-won-t-the-insurance-company-pay-my-accident-bills.html",
-        "bytes": 18898,
+        "bytes": 12197,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-an-auto-accident.html",
-        "bytes": 19013,
+        "bytes": 12368,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-hire-a-lawyer-for-my-auto-accident-claim.html",
-        "bytes": 18857,
+        "bytes": 12140,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/protecting-your-claim-after-a-motor-vehicle-crash.html",
-        "bytes": 18711,
+        "bytes": 12035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/the-steps-to-take-after-being-hit-by-a-car.html",
-        "bytes": 22469,
+        "bytes": 16133,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-right-after-a-traffic-collision.html",
-        "bytes": 18317,
+        "bytes": 11678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-after-a-rear-end-collision.html",
-        "bytes": 18485,
+        "bytes": 11786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-document-your-rear-end-collision-for-a-claim.html",
-        "bytes": 19874,
+        "bytes": 13475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-lawyer-after-a-car-accident.html",
-        "bytes": 20056,
+        "bytes": 13426,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/protecting-your-interests-after-being-hit-from-behind.html",
-        "bytes": 19285,
+        "bytes": 12563,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-a-traffic-collision-attorney-in-san-diego.html",
-        "bytes": 21476,
+        "bytes": 14754,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-hit-and-run-accident.html",
-        "bytes": 18410,
+        "bytes": 11702,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-after-a-hit-and-run-incident.html",
-        "bytes": 19305,
+        "bytes": 12641,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-insurance-enough-after-a-hit-and-run-in-san-diego.html",
-        "bytes": 20179,
+        "bytes": 13467,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-medical-bills-when-an-uninsured-driver-hits-you.html",
-        "bytes": 20805,
+        "bytes": 14054,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/protecting-your-rights-after-an-uninsured-motorist-collision.html",
-        "bytes": 20689,
+        "bytes": 13951,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-get-hit-by-a-car-while-walking-in-san-diego.html",
-        "bytes": 19793,
+        "bytes": 13018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-insurance-after-being-hit-by-a-car-in-san-diego.html",
-        "bytes": 22738,
+        "bytes": 16252,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-lawyer-after-a-pedestrian-accident.html",
-        "bytes": 20991,
+        "bytes": 14234,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-san-diego-doctor-responsible-for-a-misdiagnosis.html",
-        "bytes": 20134,
+        "bytes": 13415,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-after-suspecting-medical-negligence.html",
-        "bytes": 21995,
+        "bytes": 15604,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-your-rights-after-a-medical-mistake-in-san-diego.html",
-        "bytes": 21355,
+        "bytes": 14579,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-have-a-medical-malpractice-claim-in-san-diego.html",
-        "bytes": 20888,
+        "bytes": 14113,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-suspecting-medical-malpractice.html",
-        "bytes": 21614,
+        "bytes": 15159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-errors-to-avoid-in-a-medical-malpractice-case.html",
-        "bytes": 21297,
+        "bytes": 14579,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-medical-negligence-claims-in-san-diego.html",
-        "bytes": 19986,
+        "bytes": 13271,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-medical-negligence-lawyer-in-san-diego.html",
-        "bytes": 20453,
+        "bytes": 13728,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-prepare-for-your-first-meeting-with-a-medical-negligence-lawyer.html",
-        "bytes": 21183,
+        "bytes": 14651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-hospital-negligence.html",
-        "bytes": 18274,
+        "bytes": 11612,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-have-a-hospital-negligence-claim.html",
-        "bytes": 18831,
+        "bytes": 12156,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-begin-investigating-potential-hospital-negligence.html",
-        "bytes": 18511,
+        "bytes": 12077,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-a-surgical-error-impacts-your-life.html",
-        "bytes": 18456,
+        "bytes": 11764,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-surgical-errors.html",
-        "bytes": 19232,
+        "bytes": 12622,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-what-to-gather-after-a-suspected-surgical-error.html",
-        "bytes": 23184,
+        "bytes": 16446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-a-medical-misdiagnosis.html",
-        "bytes": 18763,
+        "bytes": 12068,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-medical-condition-was-misdiagnosed.html",
-        "bytes": 20463,
+        "bytes": 13815,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/steps-to-take-after-a-potential-misdiagnosis.html",
-        "bytes": 19470,
+        "bytes": 13120,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-contact-a-lawyer-for-doctor-negligence.html",
-        "bytes": 19400,
+        "bytes": 12671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-medical-negligence-claims-successfully.html",
-        "bytes": 21086,
+        "bytes": 14701,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-immediately-after-a-car-accident-in-san-diego.html",
-        "bytes": 22986,
+        "bytes": 16507,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-am-i-not-getting-fair-compensation-for-my-san-diego-car-accident.html",
-        "bytes": 20630,
+        "bytes": 13803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-insurance-company-isn-t-helping-after-a-san-diego-car-accident-now-what.html",
-        "bytes": 20514,
+        "bytes": 13645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-protect-my-rights-after-a-san-diego-car-accident.html",
-        "bytes": 25602,
+        "bytes": 18866,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-the-at-fault-driver-has-no-insurance-after-my-san-diego-accident.html",
-        "bytes": 20098,
+        "bytes": 13249,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-handle-my-car-accident-claim-without-a-lawyer-in-san-diego.html",
-        "bytes": 20472,
+        "bytes": 13679,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-re-in-a-car-accident-in-san-diego.html",
-        "bytes": 17890,
+        "bytes": 11174,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-a-san-diego-auto-accident.html",
-        "bytes": 18272,
+        "bytes": 11567,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-aftermath-of-a-san-diego-car-crash.html",
-        "bytes": 19909,
+        "bytes": 13489,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-an-auto-accident-lawyer-in-san-diego.html",
-        "bytes": 18778,
+        "bytes": 12031,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-for-your-san-diego-car-accident-claim.html",
-        "bytes": 22083,
+        "bytes": 15415,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-liability-in-san-diego-motor-vehicle-accidents.html",
-        "bytes": 18203,
+        "bytes": 11438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-traffic-collision.html",
-        "bytes": 17865,
+        "bytes": 11187,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-a-traffic-collision-attorney.html",
-        "bytes": 17672,
+        "bytes": 10981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-what-to-gather-for-your-traffic-collision-claim.html",
-        "bytes": 22154,
+        "bytes": 15395,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-fault-in-rear-end-collisions.html",
-        "bytes": 17700,
+        "bytes": 11064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-a-rear-end-collision-lawyer-becomes-crucial.html",
-        "bytes": 18822,
+        "bytes": 12141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-deal-with-insurance-after-a-rear-end-accident.html",
-        "bytes": 18362,
+        "bytes": 11659,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-a-hit-and-run-accident.html",
-        "bytes": 18739,
+        "bytes": 12067,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-lawyer-after-a-hit-and-run-accident.html",
-        "bytes": 19089,
+        "bytes": 12397,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-an-accident-with-an-uninsured-driver.html",
-        "bytes": 19707,
+        "bytes": 13315,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-your-insurance-company-denies-your-uninsured-motorist-claim.html",
-        "bytes": 19148,
+        "bytes": 12361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-signs-you-need-a-pedestrian-accident-attorney-in-san-diego.html",
-        "bytes": 18647,
+        "bytes": 11879,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-build-a-strong-pedestrian-accident-case-in-san-diego.html",
-        "bytes": 19964,
+        "bytes": 13509,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-suspect-medical-malpractice-in-san-diego.html",
-        "bytes": 18599,
+        "bytes": 11831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-things-to-check-if-you-suspect-medical-negligence-in-san-diego.html",
-        "bytes": 22640,
+        "bytes": 15838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-medical-malpractice-cases-are-so-challenging-to-win-in-san-diego.html",
-        "bytes": 18997,
+        "bytes": 12173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-if-i-suspect-medical-negligence.html",
-        "bytes": 19819,
+        "bytes": 13438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-medical-malpractice-attorney.html",
-        "bytes": 20113,
+        "bytes": 13402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-suspecting-medical-negligence.html",
-        "bytes": 20119,
+        "bytes": 13398,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-building-your-medical-malpractice-claim.html",
-        "bytes": 22875,
+        "bytes": 16175,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-medical-malpractice-vs-medical-negligence.html",
-        "bytes": 20461,
+        "bytes": 13731,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-kind-of-compensation-can-i-get-for-medical-malpractice.html",
-        "bytes": 20472,
+        "bytes": 13717,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-medical-care-goes-wrong-what-are-your-options.html",
-        "bytes": 19446,
+        "bytes": 12742,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-a-hospital-negligence-injury.html",
-        "bytes": 19993,
+        "bytes": 13273,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/checklist-what-to-do-after-suspecting-hospital-negligence.html",
-        "bytes": 24986,
+        "bytes": 18242,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-suspect-surgical-negligence.html",
-        "bytes": 17952,
+        "bytes": 11283,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-signs-you-need-a-surgical-error-lawyer-in-san-diego.html",
-        "bytes": 20162,
+        "bytes": 13467,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-begin-investigating-a-suspected-surgical-error.html",
-        "bytes": 21498,
+        "bytes": 15079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-a-doctor-misdiagnoses-your-condition.html",
-        "bytes": 18235,
+        "bytes": 11518,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-the-aftermath-of-a-medical-misdiagnosis.html",
-        "bytes": 20232,
+        "bytes": 13819,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-talk-to-a-misdiagnosis-attorney.html",
-        "bytes": 19444,
+        "bytes": 12737,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-be-a-victim-of-doctor-negligence.html",
-        "bytes": 19044,
+        "bytes": 12372,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-suspect-doctor-negligence.html",
-        "bytes": 18613,
+        "bytes": 11994,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-sue-a-doctor-for-negligence-understanding-your-rights.html",
-        "bytes": 18516,
+        "bytes": 11770,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -7507,7 +7507,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4652,
+        "bytes": 4615,
         "purpose": "LLM hint"
       },
       {
@@ -7527,32 +7527,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1769,
+        "bytes": 1695,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 656217,
+        "bytes": 656143,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 186962,
+        "bytes": 186925,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 186962,
+        "bytes": 186925,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4634,
+        "bytes": 4597,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 227017,
+        "bytes": 226980,
         "purpose": "Repository README"
       },
       {
@@ -7570,7 +7570,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
-      "pagesUrl": "https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/",
+      "pagesUrl": "https://brettpetersonlaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
     }
   }

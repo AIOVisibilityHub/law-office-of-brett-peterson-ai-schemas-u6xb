@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:51:40.094Z",
+  "generatedAt": "2026-09-05T21:52:00.221Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/ai-data.html"
+      "url": "https://brettpetersonlaw.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
-      "pagesUrl": "https://aiovisibilityhub.github.io/law-office-of-brett-peterson-ai-schemas-u6xb/",
+      "pagesUrl": "https://brettpetersonlaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
     }
   }
