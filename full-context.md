@@ -1,7 +1,7 @@
 # Law Office of Brett Peterson — Full AI Context
 
 **Canonical URL:** https://brettpetersonlaw.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-10-04
 
 ## Overview
 Law Office of Brett Peterson publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -9,7 +9,6 @@ Law Office of Brett Peterson publishes a structured AI Data Package designed for
 ## Package Contents
 - **881** faqs
 - **102** services
-- **95** webpages
 - **1** locations
 - **2** personnel
 - **185** helpArticles
