@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:41:20.454Z",
+  "generatedAt": "2026-10-04T00:41:36.139Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -153,7 +153,7 @@
   },
   "package": {
     "totalFiles": 1200,
-    "totalBytes": 4950786,
+    "totalBytes": 4881161,
     "stats": {
       "qna": 0,
       "faqs": 881,
@@ -6070,62 +6070,62 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 18787,
+        "bytes": 12817,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 29577,
+        "bytes": 23764,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 90436,
+        "bytes": 84427,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 16942,
+        "bytes": 11231,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 738167,
+        "bytes": 732472,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 18032,
+        "bytes": 12312,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 22581,
+        "bytes": 16926,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 132356,
+        "bytes": 126599,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 155408,
+        "bytes": 149581,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 62920,
+        "bytes": 57122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 271072,
+        "bytes": 265238,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 28671,
+        "bytes": 22835,
         "purpose": "LLM-optimized public page"
       }
     ],
