@@ -1,0 +1,1581 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Mistakes Should I Avoid After a San Diego Car Accident?",
+      "anchorSlug": "what-mistakes-should-i-avoid-after-a-san-diego-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-mistakes-should-i-avoid-after-a-san-diego-car-accident.html"
+    },
+    {
+      "title": "When Do I Really Need a Car Accident Lawyer?",
+      "anchorSlug": "when-do-i-really-need-a-car-accident-lawyer",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-do-i-really-need-a-car-accident-lawyer.html"
+    },
+    {
+      "title": "How to Navigate the Car Accident Claim Process in San Diego",
+      "anchorSlug": "how-to-navigate-the-car-accident-claim-process-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-the-car-accident-claim-process-in-san-diego.html"
+    },
+    {
+      "title": "Why Isn't My Car Accident Case Moving Forward?",
+      "anchorSlug": "why-isn-t-my-car-accident-case-moving-forward",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-car-accident-case-moving-forward.html"
+    },
+    {
+      "title": "What Are the Signs I Need a Car Accident Attorney in San Diego?",
+      "anchorSlug": "what-are-the-signs-i-need-a-car-accident-attorney-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-i-need-a-car-accident-attorney-in-san-diego.html"
+    },
+    {
+      "title": "How to Get Fair Compensation After a Car Accident",
+      "anchorSlug": "how-to-get-fair-compensation-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-fair-compensation-after-a-car-accident.html"
+    },
+    {
+      "title": "Why Do Insurance Adjusters Want Recorded Statements After an Accident?",
+      "anchorSlug": "why-do-insurance-adjusters-want-recorded-statements-after-an-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-do-insurance-adjusters-want-recorded-statements-after-an-accident.html"
+    },
+    {
+      "title": "Can an Uninsured Motorist Claim Raise My Insurance Rates?",
+      "anchorSlug": "can-an-uninsured-motorist-claim-raise-my-insurance-rates",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-an-uninsured-motorist-claim-raise-my-insurance-rates.html"
+    },
+    {
+      "title": "When Should I Contact a Lawyer After a Car Accident?",
+      "anchorSlug": "when-should-i-contact-a-lawyer-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-contact-a-lawyer-after-a-car-accident.html"
+    },
+    {
+      "title": "What to Do When the Other Driver's Insurance Offers a Low Settlement",
+      "anchorSlug": "what-to-do-when-the-other-driver-s-insurance-offers-a-low-settlement",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-the-other-driver-s-insurance-offers-a-low-settlement.html"
+    },
+    {
+      "title": "How to Handle Medical Bills After a Car Crash If I Have Health Insurance",
+      "anchorSlug": "how-to-handle-medical-bills-after-a-car-crash-if-i-have-health-insurance",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-medical-bills-after-a-car-crash-if-i-have-health-insurance.html"
+    },
+    {
+      "title": "Navigating a Car Accident Claim: Key Steps You Need to Know",
+      "anchorSlug": "navigating-a-car-accident-claim-key-steps-you-need-to-know",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-a-car-accident-claim-key-steps-you-need-to-know.html"
+    },
+    {
+      "title": "What to Do After a Rear-End Collision",
+      "anchorSlug": "what-to-do-after-a-rear-end-collision",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-a-rear-end-collision.html"
+    },
+    {
+      "title": "Mistakes to Avoid After a Traffic Collision",
+      "anchorSlug": "mistakes-to-avoid-after-a-traffic-collision",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-a-traffic-collision.html"
+    },
+    {
+      "title": "When Should You Contact a Traffic Collision Attorney?",
+      "anchorSlug": "when-should-you-contact-a-traffic-collision-attorney",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-contact-a-traffic-collision-attorney.html"
+    },
+    {
+      "title": "How to Handle Insurance Companies After a Car Accident",
+      "anchorSlug": "how-to-handle-insurance-companies-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-insurance-companies-after-a-car-accident.html"
+    },
+    {
+      "title": "Signs You Might Need a Rear-End Collision Lawyer",
+      "anchorSlug": "signs-you-might-need-a-rear-end-collision-lawyer",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-need-a-rear-end-collision-lawyer.html"
+    },
+    {
+      "title": "Understanding Proposition 213 After a Car Accident",
+      "anchorSlug": "understanding-proposition-213-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-proposition-213-after-a-car-accident.html"
+    },
+    {
+      "title": "What to Do When a Hit-and-Run Driver Leaves the Scene",
+      "anchorSlug": "what-to-do-when-a-hit-and-run-driver-leaves-the-scene",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-a-hit-and-run-driver-leaves-the-scene.html"
+    },
+    {
+      "title": "How to Handle the Aftermath of a Hit-and-Run Accident",
+      "anchorSlug": "how-to-handle-the-aftermath-of-a-hit-and-run-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-the-aftermath-of-a-hit-and-run-accident.html"
+    },
+    {
+      "title": "What to Know If Your Hit-and-Run Driver isn't Identified",
+      "anchorSlug": "what-to-know-if-your-hit-and-run-driver-isn-t-identified",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-if-your-hit-and-run-driver-isn-t-identified.html"
+    },
+    {
+      "title": "5 Signs You Might Need an Uninsured Motorist Accident Lawyer",
+      "anchorSlug": "5-signs-you-might-need-an-uninsured-motorist-accident-lawyer",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-signs-you-might-need-an-uninsured-motorist-accident-lawyer.html"
+    },
+    {
+      "title": "What to Do When the At-Fault Driver Has No Insurance",
+      "anchorSlug": "what-to-do-when-the-at-fault-driver-has-no-insurance",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-the-at-fault-driver-has-no-insurance.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid in Uninsured Motorist Claims",
+      "anchorSlug": "common-mistakes-to-avoid-in-uninsured-motorist-claims",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-in-uninsured-motorist-claims.html"
+    },
+    {
+      "title": "What to Do When You're Hit as a Pedestrian",
+      "anchorSlug": "what-to-do-when-you-re-hit-as-a-pedestrian",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-re-hit-as-a-pedestrian.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After a Pedestrian Accident",
+      "anchorSlug": "5-mistakes-to-avoid-after-a-pedestrian-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-a-pedestrian-accident.html"
+    },
+    {
+      "title": "When a Pedestrian Accident Claim Gets Complicated",
+      "anchorSlug": "when-a-pedestrian-accident-claim-gets-complicated",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-pedestrian-accident-claim-gets-complicated.html"
+    },
+    {
+      "title": "What to Do When You Suspect Medical Malpractice",
+      "anchorSlug": "what-to-do-when-you-suspect-medical-malpractice",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-suspect-medical-malpractice.html"
+    },
+    {
+      "title": "Understanding Medical Malpractice in San Diego",
+      "anchorSlug": "understanding-medical-malpractice-in-san-diego",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-medical-malpractice-in-san-diego.html"
+    },
+    {
+      "title": "When to Consider a Medical Malpractice Claim in San Diego",
+      "anchorSlug": "when-to-consider-a-medical-malpractice-claim-in-san-diego",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-consider-a-medical-malpractice-claim-in-san-diego.html"
+    },
+    {
+      "title": "What to Do After a Medical Error Leaves You Injured?",
+      "anchorSlug": "what-to-do-after-a-medical-error-leaves-you-injured",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-a-medical-error-leaves-you-injured.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid in a Medical Malpractice Case",
+      "anchorSlug": "5-mistakes-to-avoid-in-a-medical-malpractice-case",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-in-a-medical-malpractice-case.html"
+    },
+    {
+      "title": "When Should I Call a Medical Malpractice Attorney?",
+      "anchorSlug": "when-should-i-call-a-medical-malpractice-attorney",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-call-a-medical-malpractice-attorney.html"
+    },
+    {
+      "title": "How to Navigate a Medical Negligence Claim in San Diego",
+      "anchorSlug": "how-to-navigate-a-medical-negligence-claim-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-a-medical-negligence-claim-in-san-diego.html"
+    },
+    {
+      "title": "What to Consider if You Suspect Medical Negligence",
+      "anchorSlug": "what-to-consider-if-you-suspect-medical-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-if-you-suspect-medical-negligence.html"
+    },
+    {
+      "title": "Signs You Might Need a Medical Negligence Lawyer in San Diego",
+      "anchorSlug": "signs-you-might-need-a-medical-negligence-lawyer-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-need-a-medical-negligence-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "What Happens When Medical Care Goes Wrong in the Hospital?",
+      "anchorSlug": "what-happens-when-medical-care-goes-wrong-in-the-hospital",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-when-medical-care-goes-wrong-in-the-hospital.html"
+    },
+    {
+      "title": "How to Know if Your Hospital Stay Led to a New Injury",
+      "anchorSlug": "how-to-know-if-your-hospital-stay-led-to-a-new-injury",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-know-if-your-hospital-stay-led-to-a-new-injury.html"
+    },
+    {
+      "title": "What Are My Rights After a Surgical Mistake?",
+      "anchorSlug": "what-are-my-rights-after-a-surgical-mistake",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-my-rights-after-a-surgical-mistake.html"
+    },
+    {
+      "title": "Why Did My Surgery Have Unexpected Complications?",
+      "anchorSlug": "why-did-my-surgery-have-unexpected-complications",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-did-my-surgery-have-unexpected-complications.html"
+    },
+    {
+      "title": "When to Seek Help After a Botched Surgery",
+      "anchorSlug": "when-to-seek-help-after-a-botched-surgery",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-seek-help-after-a-botched-surgery.html"
+    },
+    {
+      "title": "Is My Post-Surgery Pain Normal or a Sign of Negligence?",
+      "anchorSlug": "is-my-post-surgery-pain-normal-or-a-sign-of-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-post-surgery-pain-normal-or-a-sign-of-negligence.html"
+    },
+    {
+      "title": "When Medical Advice Goes Wrong: What to Do Next",
+      "anchorSlug": "when-medical-advice-goes-wrong-what-to-do-next",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-medical-advice-goes-wrong-what-to-do-next.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After a Medical Misdiagnosis",
+      "anchorSlug": "5-mistakes-to-avoid-after-a-medical-misdiagnosis",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-a-medical-misdiagnosis.html"
+    },
+    {
+      "title": "When is it Time to Call a Misdiagnosis Attorney?",
+      "anchorSlug": "when-is-it-time-to-call-a-misdiagnosis-attorney",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-misdiagnosis-attorney.html"
+    },
+    {
+      "title": "Steps to Take After Suspecting Doctor Negligence",
+      "anchorSlug": "steps-to-take-after-suspecting-doctor-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-after-suspecting-doctor-negligence.html"
+    },
+    {
+      "title": "Understanding Your Rights After Doctor Negligence",
+      "anchorSlug": "understanding-your-rights-after-doctor-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-your-rights-after-doctor-negligence.html"
+    },
+    {
+      "title": "When Doctor Negligence Leads to Lasting Harm",
+      "anchorSlug": "when-doctor-negligence-leads-to-lasting-harm",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-doctor-negligence-leads-to-lasting-harm.html"
+    },
+    {
+      "title": "Why You Shouldn't Talk to the Other Driver's Insurance After an Accident",
+      "anchorSlug": "why-you-shouldn-t-talk-to-the-other-driver-s-insurance-after-an-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-shouldn-t-talk-to-the-other-driver-s-insurance-after-an-accident.html"
+    },
+    {
+      "title": "How to Navigate Medical Care and Insurance After a San Diego Car Accident",
+      "anchorSlug": "how-to-navigate-medical-care-and-insurance-after-a-san-diego-car-acciden",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-medical-care-and-insurance-after-a-san-diego-car-acciden.html"
+    },
+    {
+      "title": "7 Signs You Need a Car Accident Attorney in San Diego",
+      "anchorSlug": "7-signs-you-need-a-car-accident-attorney-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-signs-you-need-a-car-accident-attorney-in-san-diego.html"
+    },
+    {
+      "title": "What to Do When Your Car Accident Claim Isn't Moving Forward",
+      "anchorSlug": "what-to-do-when-your-car-accident-claim-isn-t-moving-forward",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-car-accident-claim-isn-t-moving-forward.html"
+    },
+    {
+      "title": "Checklist: After a Car Accident in San Diego",
+      "anchorSlug": "checklist-after-a-car-accident-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-after-a-car-accident-in-san-diego.html"
+    },
+    {
+      "title": "When Is It Too Late to Pursue a San Diego Car Accident Claim?",
+      "anchorSlug": "when-is-it-too-late-to-pursue-a-san-diego-car-accident-claim",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-too-late-to-pursue-a-san-diego-car-accident-claim.html"
+    },
+    {
+      "title": "What to Do Immediately After a Car Accident in San Diego?",
+      "anchorSlug": "what-to-do-immediately-after-a-car-accident-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-car-accident-in-san-diego.html"
+    },
+    {
+      "title": "Why is My Insurance Not Covering Physical Therapy After an Accident?",
+      "anchorSlug": "why-is-my-insurance-not-covering-physical-therapy-after-an-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-insurance-not-covering-physical-therapy-after-an-accident.html"
+    },
+    {
+      "title": "Navigating Injury Recovery: A Checklist for Vehicle Accident Victims",
+      "anchorSlug": "navigating-injury-recovery-a-checklist-for-vehicle-accident-victims",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-injury-recovery-a-checklist-for-vehicle-accident-victims.html"
+    },
+    {
+      "title": "Dealing with the Aftermath: Common Mistakes to Avoid After a Vehicle Accident",
+      "anchorSlug": "dealing-with-the-aftermath-common-mistakes-to-avoid-after-a-vehicle-acci",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-the-aftermath-common-mistakes-to-avoid-after-a-vehicle-acci.html"
+    },
+    {
+      "title": "When is it Time to Call a Professional After a Car Accident?",
+      "anchorSlug": "when-is-it-time-to-call-a-professional-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-professional-after-a-car-accident.html"
+    },
+    {
+      "title": "What Steps Should I Take to File a Car Accident Claim?",
+      "anchorSlug": "what-steps-should-i-take-to-file-a-car-accident-claim",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-steps-should-i-take-to-file-a-car-accident-claim.html"
+    },
+    {
+      "title": "My Car Accident Claim Isn't Moving — What's Going On?",
+      "anchorSlug": "my-car-accident-claim-isn-t-moving-what-s-going-on",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-car-accident-claim-isn-t-moving-what-s-going-on.html"
+    },
+    {
+      "title": "Dealing with the Aftermath of a Rear-End Collision — Where Do I Start?",
+      "anchorSlug": "dealing-with-the-aftermath-of-a-rear-end-collision-where-do-i-start",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dealing-with-the-aftermath-of-a-rear-end-collision-where-do-i-start.html"
+    },
+    {
+      "title": "What to Do After a Minor Fender Bender in San Diego?",
+      "anchorSlug": "what-to-do-after-a-minor-fender-bender-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-a-minor-fender-bender-in-san-diego.html"
+    },
+    {
+      "title": "My Traffic Ticket Says I'm At Fault, But I Don't Think I Am. Can I Fight It?",
+      "anchorSlug": "my-traffic-ticket-says-i-m-at-fault-but-i-don-t-think-i-am-can-i-fight-i",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-traffic-ticket-says-i-m-at-fault-but-i-don-t-think-i-am-can-i-fight-i.html"
+    },
+    {
+      "title": "How Do I Get Medical Care After a Traffic Collision If I Can't Afford It?",
+      "anchorSlug": "how-do-i-get-medical-care-after-a-traffic-collision-if-i-can-t-afford-it",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-get-medical-care-after-a-traffic-collision-if-i-can-t-afford-it.html"
+    },
+    {
+      "title": "The Insurance Company Called Me After My Accident — Should I Talk to Them?",
+      "anchorSlug": "the-insurance-company-called-me-after-my-accident-should-i-talk-to-them",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-insurance-company-called-me-after-my-accident-should-i-talk-to-them.html"
+    },
+    {
+      "title": "What to Do Immediately After a Hit-and-Run in San Diego",
+      "anchorSlug": "what-to-do-immediately-after-a-hit-and-run-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-hit-and-run-in-san-diego.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid After a Hit-and-Run",
+      "anchorSlug": "common-mistakes-to-avoid-after-a-hit-and-run",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-after-a-hit-and-run.html"
+    },
+    {
+      "title": "When to Call a Professional After a Hit-and-Run Accident",
+      "anchorSlug": "when-to-call-a-professional-after-a-hit-and-run-accident",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-after-a-hit-and-run-accident.html"
+    },
+    {
+      "title": "Can I Still Recover Compensation if the Other Driver Doesn't Have Insurance?",
+      "anchorSlug": "can-i-still-recover-compensation-if-the-other-driver-doesn-t-have-insura",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-still-recover-compensation-if-the-other-driver-doesn-t-have-insura.html"
+    },
+    {
+      "title": "Steps to Take When an Uninsured Driver Causes Your Accident",
+      "anchorSlug": "steps-to-take-when-an-uninsured-driver-causes-your-accident",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-when-an-uninsured-driver-causes-your-accident.html"
+    },
+    {
+      "title": "Signs You Need a Lawyer After an Uninsured Motorist Accident",
+      "anchorSlug": "signs-you-need-a-lawyer-after-an-uninsured-motorist-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-need-a-lawyer-after-an-uninsured-motorist-accident.html"
+    },
+    {
+      "title": "What to Do Immediately After a Pedestrian Accident?",
+      "anchorSlug": "what-to-do-immediately-after-a-pedestrian-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-pedestrian-accident.html"
+    },
+    {
+      "title": "Should You Talk to the Other Driver's Insurance After an Accident?",
+      "anchorSlug": "should-you-talk-to-the-other-driver-s-insurance-after-an-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-you-talk-to-the-other-driver-s-insurance-after-an-accident.html"
+    },
+    {
+      "title": "Signs You Might Need a Pedestrian Accident Attorney",
+      "anchorSlug": "signs-you-might-need-a-pedestrian-accident-attorney",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-need-a-pedestrian-accident-attorney.html"
+    },
+    {
+      "title": "Navigating Medical Malpractice Claims: Where Do I Start?",
+      "anchorSlug": "navigating-medical-malpractice-claims-where-do-i-start",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-medical-malpractice-claims-where-do-i-start.html"
+    },
+    {
+      "title": "When to Consider a Medical Malpractice Lawsuit in San Diego?",
+      "anchorSlug": "when-to-consider-a-medical-malpractice-lawsuit-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-consider-a-medical-malpractice-lawsuit-in-san-diego.html"
+    },
+    {
+      "title": "Understanding Your Rights After a Medical Error",
+      "anchorSlug": "understanding-your-rights-after-a-medical-error",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-your-rights-after-a-medical-error.html"
+    },
+    {
+      "title": "Mistakes to Avoid in a Medical Malpractice Case",
+      "anchorSlug": "mistakes-to-avoid-in-a-medical-malpractice-case",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-a-medical-malpractice-case.html"
+    },
+    {
+      "title": "How to Prepare for a Medical Malpractice Consultation",
+      "anchorSlug": "how-to-prepare-for-a-medical-malpractice-consultation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-a-medical-malpractice-consultation.html"
+    },
+    {
+      "title": "When is a Medical Error Considered Medical Negligence?",
+      "anchorSlug": "when-is-a-medical-error-considered-medical-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-medical-error-considered-medical-negligence.html"
+    },
+    {
+      "title": "7 Signs You Might Need a Medical Negligence Lawyer in San Diego",
+      "anchorSlug": "7-signs-you-might-need-a-medical-negligence-lawyer-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-signs-you-might-need-a-medical-negligence-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "Getting Fair Compensation for Medical Negligence",
+      "anchorSlug": "getting-fair-compensation-for-medical-negligence",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-fair-compensation-for-medical-negligence.html"
+    },
+    {
+      "title": "When a Hospital Visit Goes Wrong: What Are Your Options?",
+      "anchorSlug": "when-a-hospital-visit-goes-wrong-what-are-your-options",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-hospital-visit-goes-wrong-what-are-your-options.html"
+    },
+    {
+      "title": "Feeling Unsure About Your Medical Care? Signs of Potential Hospital Negligence",
+      "anchorSlug": "feeling-unsure-about-your-medical-care-signs-of-potential-hospital-negli",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/feeling-unsure-about-your-medical-care-signs-of-potential-hospital-negli.html"
+    },
+    {
+      "title": "What to Do After Suspecting Hospital Negligence in San Diego",
+      "anchorSlug": "what-to-do-after-suspecting-hospital-negligence-in-san-diego",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-after-suspecting-hospital-negligence-in-san-diego.html"
+    },
+    {
+      "title": "Is My Surgical Outcome Normal, or Was There a Mistake?",
+      "anchorSlug": "is-my-surgical-outcome-normal-or-was-there-a-mistake",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-surgical-outcome-normal-or-was-there-a-mistake.html"
+    },
+    {
+      "title": "Navigating the Aftermath of a Surgical Error: Your Path Forward",
+      "anchorSlug": "navigating-the-aftermath-of-a-surgical-error-your-path-forward",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-aftermath-of-a-surgical-error-your-path-forward.html"
+    },
+    {
+      "title": "Signs You Might Be Dealing with a Surgical Error",
+      "anchorSlug": "signs-you-might-be-dealing-with-a-surgical-error",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-be-dealing-with-a-surgical-error.html"
+    },
+    {
+      "title": "When Your Doctor Misses the Mark: What to Do After a Misdiagnosis",
+      "anchorSlug": "when-your-doctor-misses-the-mark-what-to-do-after-a-misdiagnosis",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-doctor-misses-the-mark-what-to-do-after-a-misdiagnosis.html"
+    },
+    {
+      "title": "Is Your Health Crisis Due to a Medical Mistake?",
+      "anchorSlug": "is-your-health-crisis-due-to-a-medical-mistake",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-health-crisis-due-to-a-medical-mistake.html"
+    },
+    {
+      "title": "Navigating the Aftermath of a Medical Misdiagnosis",
+      "anchorSlug": "navigating-the-aftermath-of-a-medical-misdiagnosis",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-the-aftermath-of-a-medical-misdiagnosis.html"
+    },
+    {
+      "title": "Suspecting Medical Error? Your Next Steps After a Doctor Negligence Incident",
+      "anchorSlug": "suspecting-medical-error-your-next-steps-after-a-doctor-negligence-incid",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/suspecting-medical-error-your-next-steps-after-a-doctor-negligence-incid.html"
+    },
+    {
+      "title": "How to Understand if Your Injury is From Medical Negligence",
+      "anchorSlug": "how-to-understand-if-your-injury-is-from-medical-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-understand-if-your-injury-is-from-medical-negligence.html"
+    },
+    {
+      "title": "How to Gather Evidence for a Potential Doctor Negligence Case",
+      "anchorSlug": "how-to-gather-evidence-for-a-potential-doctor-negligence-case",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-gather-evidence-for-a-potential-doctor-negligence-case.html"
+    },
+    {
+      "title": "How to Deal with Insurance Companies After a Car Accident in San Diego",
+      "anchorSlug": "how-to-deal-with-insurance-companies-after-a-car-accident-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-deal-with-insurance-companies-after-a-car-accident-in-san-diego.html"
+    },
+    {
+      "title": "When is it Time to Call a San Diego Car Accident Lawyer?",
+      "anchorSlug": "when-is-it-time-to-call-a-san-diego-car-accident-lawyer",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-san-diego-car-accident-lawyer.html"
+    },
+    {
+      "title": "What to Consider Before Accepting an Insurance Settlement After a Car Accident",
+      "anchorSlug": "what-to-consider-before-accepting-an-insurance-settlement-after-a-car-ac",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-accepting-an-insurance-settlement-after-a-car-ac.html"
+    },
+    {
+      "title": "7 Things You Might Not Know About Your San Diego Car Accident Claim",
+      "anchorSlug": "7-things-you-might-not-know-about-your-san-diego-car-accident-claim",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-things-you-might-not-know-about-your-san-diego-car-accident-claim.html"
+    },
+    {
+      "title": "How to Collect Evidence After a San Diego Car Accident",
+      "anchorSlug": "how-to-collect-evidence-after-a-san-diego-car-accident",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-collect-evidence-after-a-san-diego-car-accident.html"
+    },
+    {
+      "title": "What to Do Right After a Car Accident?",
+      "anchorSlug": "what-to-do-right-after-a-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-car-accident.html"
+    },
+    {
+      "title": "Why Won't the Insurance Company Pay My Accident Bills?",
+      "anchorSlug": "why-won-t-the-insurance-company-pay-my-accident-bills",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-won-t-the-insurance-company-pay-my-accident-bills.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After an Auto Accident",
+      "anchorSlug": "5-mistakes-to-avoid-after-an-auto-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-an-auto-accident.html"
+    },
+    {
+      "title": "When Should I Hire a Lawyer for My Auto Accident Claim?",
+      "anchorSlug": "when-should-i-hire-a-lawyer-for-my-auto-accident-claim",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-lawyer-for-my-auto-accident-claim.html"
+    },
+    {
+      "title": "Protecting Your Claim After a Motor Vehicle Crash",
+      "anchorSlug": "protecting-your-claim-after-a-motor-vehicle-crash",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/protecting-your-claim-after-a-motor-vehicle-crash.html"
+    },
+    {
+      "title": "The Steps to Take After Being Hit by a Car",
+      "anchorSlug": "the-steps-to-take-after-being-hit-by-a-car",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/the-steps-to-take-after-being-hit-by-a-car.html"
+    },
+    {
+      "title": "What to Do Right After a Traffic Collision",
+      "anchorSlug": "what-to-do-right-after-a-traffic-collision",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-right-after-a-traffic-collision.html"
+    },
+    {
+      "title": "Common Mistakes to Avoid After a Rear-End Collision",
+      "anchorSlug": "common-mistakes-to-avoid-after-a-rear-end-collision",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-avoid-after-a-rear-end-collision.html"
+    },
+    {
+      "title": "How to Document Your Rear-End Collision for a Claim",
+      "anchorSlug": "how-to-document-your-rear-end-collision-for-a-claim",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-document-your-rear-end-collision-for-a-claim.html"
+    },
+    {
+      "title": "When to Call a Lawyer After a Car Accident",
+      "anchorSlug": "when-to-call-a-lawyer-after-a-car-accident",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-lawyer-after-a-car-accident.html"
+    },
+    {
+      "title": "Protecting Your Interests After Being Hit from Behind",
+      "anchorSlug": "protecting-your-interests-after-being-hit-from-behind",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/protecting-your-interests-after-being-hit-from-behind.html"
+    },
+    {
+      "title": "Signs You Need a Traffic Collision Attorney in San Diego",
+      "anchorSlug": "signs-you-need-a-traffic-collision-attorney-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-need-a-traffic-collision-attorney-in-san-diego.html"
+    },
+    {
+      "title": "What to Do Immediately After a Hit-and-Run Accident?",
+      "anchorSlug": "what-to-do-immediately-after-a-hit-and-run-accident",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-hit-and-run-accident.html"
+    },
+    {
+      "title": "Mistakes to Avoid After a Hit-and-Run Incident",
+      "anchorSlug": "mistakes-to-avoid-after-a-hit-and-run-incident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-after-a-hit-and-run-incident.html"
+    },
+    {
+      "title": "Is My Insurance Enough After a Hit-and-Run in San Diego?",
+      "anchorSlug": "is-my-insurance-enough-after-a-hit-and-run-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-insurance-enough-after-a-hit-and-run-in-san-diego.html"
+    },
+    {
+      "title": "Navigating Medical Bills When an Uninsured Driver Hits You",
+      "anchorSlug": "navigating-medical-bills-when-an-uninsured-driver-hits-you",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-medical-bills-when-an-uninsured-driver-hits-you.html"
+    },
+    {
+      "title": "Protecting Your Rights After an Uninsured Motorist Collision",
+      "anchorSlug": "protecting-your-rights-after-an-uninsured-motorist-collision",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/protecting-your-rights-after-an-uninsured-motorist-collision.html"
+    },
+    {
+      "title": "What Happens If I Get Hit by a Car While Walking in San Diego?",
+      "anchorSlug": "what-happens-if-i-get-hit-by-a-car-while-walking-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-if-i-get-hit-by-a-car-while-walking-in-san-diego.html"
+    },
+    {
+      "title": "How to Navigate Insurance After Being Hit by a Car in San Diego",
+      "anchorSlug": "how-to-navigate-insurance-after-being-hit-by-a-car-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-insurance-after-being-hit-by-a-car-in-san-diego.html"
+    },
+    {
+      "title": "When Should I Contact a Lawyer After a Pedestrian Accident?",
+      "anchorSlug": "when-should-i-contact-a-lawyer-after-a-pedestrian-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-contact-a-lawyer-after-a-pedestrian-accident.html"
+    },
+    {
+      "title": "Is My San Diego Doctor Responsible for a Misdiagnosis?",
+      "anchorSlug": "is-my-san-diego-doctor-responsible-for-a-misdiagnosis",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-san-diego-doctor-responsible-for-a-misdiagnosis.html"
+    },
+    {
+      "title": "Steps to Take After Suspecting Medical Negligence",
+      "anchorSlug": "steps-to-take-after-suspecting-medical-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-after-suspecting-medical-negligence.html"
+    },
+    {
+      "title": "Understanding Your Rights After a Medical Mistake in San Diego",
+      "anchorSlug": "understanding-your-rights-after-a-medical-mistake-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-your-rights-after-a-medical-mistake-in-san-diego.html"
+    },
+    {
+      "title": "Signs You Might Have a Medical Malpractice Claim in San Diego",
+      "anchorSlug": "signs-you-might-have-a-medical-malpractice-claim-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-have-a-medical-malpractice-claim-in-san-diego.html"
+    },
+    {
+      "title": "What to Do Immediately After Suspecting Medical Malpractice",
+      "anchorSlug": "what-to-do-immediately-after-suspecting-medical-malpractice",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-suspecting-medical-malpractice.html"
+    },
+    {
+      "title": "Common Errors to Avoid in a Medical Malpractice Case",
+      "anchorSlug": "common-errors-to-avoid-in-a-medical-malpractice-case",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-errors-to-avoid-in-a-medical-malpractice-case.html"
+    },
+    {
+      "title": "Understanding Medical Negligence Claims in San Diego",
+      "anchorSlug": "understanding-medical-negligence-claims-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-medical-negligence-claims-in-san-diego.html"
+    },
+    {
+      "title": "When to Call a Medical Negligence Lawyer in San Diego",
+      "anchorSlug": "when-to-call-a-medical-negligence-lawyer-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-medical-negligence-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "How to Prepare for Your First Meeting with a Medical Negligence Lawyer",
+      "anchorSlug": "how-to-prepare-for-your-first-meeting-with-a-medical-negligence-lawyer",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-first-meeting-with-a-medical-negligence-lawyer.html"
+    },
+    {
+      "title": "What to Do When You Suspect Hospital Negligence",
+      "anchorSlug": "what-to-do-when-you-suspect-hospital-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-suspect-hospital-negligence.html"
+    },
+    {
+      "title": "Signs You Might Have a Hospital Negligence Claim",
+      "anchorSlug": "signs-you-might-have-a-hospital-negligence-claim",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-have-a-hospital-negligence-claim.html"
+    },
+    {
+      "title": "How to Begin Investigating Potential Hospital Negligence",
+      "anchorSlug": "how-to-begin-investigating-potential-hospital-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-begin-investigating-potential-hospital-negligence.html"
+    },
+    {
+      "title": "What to Do When a Surgical Error Impacts Your Life",
+      "anchorSlug": "what-to-do-when-a-surgical-error-impacts-your-life",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-a-surgical-error-impacts-your-life.html"
+    },
+    {
+      "title": "Common Misconceptions About Surgical Errors",
+      "anchorSlug": "common-misconceptions-about-surgical-errors",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-misconceptions-about-surgical-errors.html"
+    },
+    {
+      "title": "Checklist: What to Gather After a Suspected Surgical Error",
+      "anchorSlug": "checklist-what-to-gather-after-a-suspected-surgical-error",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-what-to-gather-after-a-suspected-surgical-error.html"
+    },
+    {
+      "title": "What to Do When You Suspect a Medical Misdiagnosis",
+      "anchorSlug": "what-to-do-when-you-suspect-a-medical-misdiagnosis",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-suspect-a-medical-misdiagnosis.html"
+    },
+    {
+      "title": "Signs Your Medical Condition Was Misdiagnosed",
+      "anchorSlug": "signs-your-medical-condition-was-misdiagnosed",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-medical-condition-was-misdiagnosed.html"
+    },
+    {
+      "title": "Steps to Take After a Potential Misdiagnosis",
+      "anchorSlug": "steps-to-take-after-a-potential-misdiagnosis",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/steps-to-take-after-a-potential-misdiagnosis.html"
+    },
+    {
+      "title": "When Should You Contact a Lawyer for Doctor Negligence?",
+      "anchorSlug": "when-should-you-contact-a-lawyer-for-doctor-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-contact-a-lawyer-for-doctor-negligence.html"
+    },
+    {
+      "title": "Navigating Medical Negligence Claims Successfully",
+      "anchorSlug": "navigating-medical-negligence-claims-successfully",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-medical-negligence-claims-successfully.html"
+    },
+    {
+      "title": "What Should I Do Immediately After a Car Accident in San Diego?",
+      "anchorSlug": "what-should-i-do-immediately-after-a-car-accident-in-san-diego",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-do-immediately-after-a-car-accident-in-san-diego.html"
+    },
+    {
+      "title": "Why Am I Not Getting Fair Compensation for My San Diego Car Accident?",
+      "anchorSlug": "why-am-i-not-getting-fair-compensation-for-my-san-diego-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-am-i-not-getting-fair-compensation-for-my-san-diego-car-accident.html"
+    },
+    {
+      "title": "My Insurance Company Isn't Helping After a San Diego Car Accident, Now What?",
+      "anchorSlug": "my-insurance-company-isn-t-helping-after-a-san-diego-car-accident-now-wh",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-insurance-company-isn-t-helping-after-a-san-diego-car-accident-now-wh.html"
+    },
+    {
+      "title": "How Can I Protect My Rights After a San Diego Car Accident?",
+      "anchorSlug": "how-can-i-protect-my-rights-after-a-san-diego-car-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-protect-my-rights-after-a-san-diego-car-accident.html"
+    },
+    {
+      "title": "What If the At-Fault Driver Has No Insurance After My San Diego Accident?",
+      "anchorSlug": "what-if-the-at-fault-driver-has-no-insurance-after-my-san-diego-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-if-the-at-fault-driver-has-no-insurance-after-my-san-diego-accident.html"
+    },
+    {
+      "title": "Can I Handle My Car Accident Claim Without a Lawyer in San Diego?",
+      "anchorSlug": "can-i-handle-my-car-accident-claim-without-a-lawyer-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-handle-my-car-accident-claim-without-a-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "What to Do When You're in a Car Accident in San Diego?",
+      "anchorSlug": "what-to-do-when-you-re-in-a-car-accident-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-re-in-a-car-accident-in-san-diego.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After a San Diego Auto Accident",
+      "anchorSlug": "5-mistakes-to-avoid-after-a-san-diego-auto-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-a-san-diego-auto-accident.html"
+    },
+    {
+      "title": "How to Navigate the Aftermath of a San Diego Car Crash",
+      "anchorSlug": "how-to-navigate-the-aftermath-of-a-san-diego-car-crash",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-navigate-the-aftermath-of-a-san-diego-car-crash.html"
+    },
+    {
+      "title": "When Is It Time to Call an Auto Accident Lawyer in San Diego?",
+      "anchorSlug": "when-is-it-time-to-call-an-auto-accident-lawyer-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-an-auto-accident-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "Checklist for Your San Diego Car Accident Claim",
+      "anchorSlug": "checklist-for-your-san-diego-car-accident-claim",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-for-your-san-diego-car-accident-claim.html"
+    },
+    {
+      "title": "Understanding Liability in San Diego Motor Vehicle Accidents",
+      "anchorSlug": "understanding-liability-in-san-diego-motor-vehicle-accidents",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-liability-in-san-diego-motor-vehicle-accidents.html"
+    },
+    {
+      "title": "What to Do Immediately After a Traffic Collision",
+      "anchorSlug": "what-to-do-immediately-after-a-traffic-collision",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-immediately-after-a-traffic-collision.html"
+    },
+    {
+      "title": "Signs You Might Need a Traffic Collision Attorney",
+      "anchorSlug": "signs-you-might-need-a-traffic-collision-attorney",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-need-a-traffic-collision-attorney.html"
+    },
+    {
+      "title": "Checklist: What to Gather for Your Traffic Collision Claim",
+      "anchorSlug": "checklist-what-to-gather-for-your-traffic-collision-claim",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-what-to-gather-for-your-traffic-collision-claim.html"
+    },
+    {
+      "title": "Understanding Fault in Rear-End Collisions",
+      "anchorSlug": "understanding-fault-in-rear-end-collisions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-fault-in-rear-end-collisions.html"
+    },
+    {
+      "title": "When a Rear-End Collision Lawyer Becomes Crucial",
+      "anchorSlug": "when-a-rear-end-collision-lawyer-becomes-crucial",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-rear-end-collision-lawyer-becomes-crucial.html"
+    },
+    {
+      "title": "How to Deal with Insurance After a Rear-End Accident",
+      "anchorSlug": "how-to-deal-with-insurance-after-a-rear-end-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-deal-with-insurance-after-a-rear-end-accident.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After a Hit-and-Run Accident",
+      "anchorSlug": "5-mistakes-to-avoid-after-a-hit-and-run-accident",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-a-hit-and-run-accident.html"
+    },
+    {
+      "title": "When to Call a Lawyer After a Hit-and-Run Accident",
+      "anchorSlug": "when-to-call-a-lawyer-after-a-hit-and-run-accident",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-lawyer-after-a-hit-and-run-accident.html"
+    },
+    {
+      "title": "How to Handle an Accident with an Uninsured Driver",
+      "anchorSlug": "how-to-handle-an-accident-with-an-uninsured-driver",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-an-accident-with-an-uninsured-driver.html"
+    },
+    {
+      "title": "When Your Insurance Company Denies Your Uninsured Motorist Claim",
+      "anchorSlug": "when-your-insurance-company-denies-your-uninsured-motorist-claim",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-insurance-company-denies-your-uninsured-motorist-claim.html"
+    },
+    {
+      "title": "5 Signs You Need a Pedestrian Accident Attorney in San Diego",
+      "anchorSlug": "5-signs-you-need-a-pedestrian-accident-attorney-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-signs-you-need-a-pedestrian-accident-attorney-in-san-diego.html"
+    },
+    {
+      "title": "How to Build a Strong Pedestrian Accident Case in San Diego",
+      "anchorSlug": "how-to-build-a-strong-pedestrian-accident-case-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-build-a-strong-pedestrian-accident-case-in-san-diego.html"
+    },
+    {
+      "title": "What to Do When You Suspect Medical Malpractice in San Diego?",
+      "anchorSlug": "what-to-do-when-you-suspect-medical-malpractice-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-you-suspect-medical-malpractice-in-san-diego.html"
+    },
+    {
+      "title": "7 Things to Check If You Suspect Medical Negligence in San Diego",
+      "anchorSlug": "7-things-to-check-if-you-suspect-medical-negligence-in-san-diego",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-things-to-check-if-you-suspect-medical-negligence-in-san-diego.html"
+    },
+    {
+      "title": "Why Medical Malpractice Cases Are So Challenging to Win in San Diego",
+      "anchorSlug": "why-medical-malpractice-cases-are-so-challenging-to-win-in-san-diego",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-medical-malpractice-cases-are-so-challenging-to-win-in-san-diego.html"
+    },
+    {
+      "title": "What Should I Do If I Suspect Medical Negligence?",
+      "anchorSlug": "what-should-i-do-if-i-suspect-medical-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-should-i-do-if-i-suspect-medical-negligence.html"
+    },
+    {
+      "title": "When Is It Time to Call a Medical Malpractice Attorney?",
+      "anchorSlug": "when-is-it-time-to-call-a-medical-malpractice-attorney",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-call-a-medical-malpractice-attorney.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After Suspecting Medical Negligence",
+      "anchorSlug": "5-mistakes-to-avoid-after-suspecting-medical-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-suspecting-medical-negligence.html"
+    },
+    {
+      "title": "Checklist: Building Your Medical Malpractice Claim",
+      "anchorSlug": "checklist-building-your-medical-malpractice-claim",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-building-your-medical-malpractice-claim.html"
+    },
+    {
+      "title": "Understanding Medical Malpractice vs. Medical Negligence",
+      "anchorSlug": "understanding-medical-malpractice-vs-medical-negligence",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-medical-malpractice-vs-medical-negligence.html"
+    },
+    {
+      "title": "What Kind of Compensation Can I Get for Medical Malpractice?",
+      "anchorSlug": "what-kind-of-compensation-can-i-get-for-medical-malpractice",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-kind-of-compensation-can-i-get-for-medical-malpractice.html"
+    },
+    {
+      "title": "When Medical Care Goes Wrong: What Are Your Options?",
+      "anchorSlug": "when-medical-care-goes-wrong-what-are-your-options",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-medical-care-goes-wrong-what-are-your-options.html"
+    },
+    {
+      "title": "5 Mistakes to Avoid After a Hospital Negligence Injury",
+      "anchorSlug": "5-mistakes-to-avoid-after-a-hospital-negligence-injury",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/5-mistakes-to-avoid-after-a-hospital-negligence-injury.html"
+    },
+    {
+      "title": "Checklist: What to Do After Suspecting Hospital Negligence",
+      "anchorSlug": "checklist-what-to-do-after-suspecting-hospital-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/checklist-what-to-do-after-suspecting-hospital-negligence.html"
+    },
+    {
+      "title": "What to Do if You Suspect Surgical Negligence",
+      "anchorSlug": "what-to-do-if-you-suspect-surgical-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-if-you-suspect-surgical-negligence.html"
+    },
+    {
+      "title": "7 Signs You Need a Surgical Error Lawyer in San Diego",
+      "anchorSlug": "7-signs-you-need-a-surgical-error-lawyer-in-san-diego",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/7-signs-you-need-a-surgical-error-lawyer-in-san-diego.html"
+    },
+    {
+      "title": "How to Begin Investigating a Suspected Surgical Error",
+      "anchorSlug": "how-to-begin-investigating-a-suspected-surgical-error",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-begin-investigating-a-suspected-surgical-error.html"
+    },
+    {
+      "title": "What Happens When a Doctor Misdiagnoses Your Condition?",
+      "anchorSlug": "what-happens-when-a-doctor-misdiagnoses-your-condition",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-when-a-doctor-misdiagnoses-your-condition.html"
+    },
+    {
+      "title": "How to Handle the Aftermath of a Medical Misdiagnosis",
+      "anchorSlug": "how-to-handle-the-aftermath-of-a-medical-misdiagnosis",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-handle-the-aftermath-of-a-medical-misdiagnosis.html"
+    },
+    {
+      "title": "When is it Time to Talk to a Misdiagnosis Attorney?",
+      "anchorSlug": "when-is-it-time-to-talk-to-a-misdiagnosis-attorney",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-talk-to-a-misdiagnosis-attorney.html"
+    },
+    {
+      "title": "Signs You Might Be a Victim of Doctor Negligence",
+      "anchorSlug": "signs-you-might-be-a-victim-of-doctor-negligence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-you-might-be-a-victim-of-doctor-negligence.html"
+    },
+    {
+      "title": "What to Do If You Suspect Doctor Negligence",
+      "anchorSlug": "what-to-do-if-you-suspect-doctor-negligence",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-if-you-suspect-doctor-negligence.html"
+    },
+    {
+      "title": "Can I Sue a Doctor for Negligence? Understanding Your Rights",
+      "anchorSlug": "can-i-sue-a-doctor-for-negligence-understanding-your-rights",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-i-sue-a-doctor-for-negligence-understanding-your-rights.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://brettpetersonlaw.aiovisibility.net/articles.html",
+    "https://brettpetersonlaw.aiovisibility.net/articles/getting-started.html",
+    "https://brettpetersonlaw.aiovisibility.net/articles/services-and-process.html",
+    "https://brettpetersonlaw.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://brettpetersonlaw.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://brettpetersonlaw.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}

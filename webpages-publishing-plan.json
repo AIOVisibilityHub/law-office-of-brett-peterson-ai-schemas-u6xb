@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/san-diego-car-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/car-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/motor-vehicle-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/auto-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/traffic-collision-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rear-end-collision-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/hit-and-run-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/uninsured-motorist-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pedestrian-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-medical-malpractice-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/medical-malpractice-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/medical-negligence-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/hospital-negligence-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/surgical-error-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/misdiagnosis-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/doctor-negligence-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/medication-error-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/failure-to-diagnose-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-slip-and-fall-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/premises-liability-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/slip-and-fall-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trip-and-fall-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accidents-on-private-property-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/public-property-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-dog-bite-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dog-bite-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dog-attack-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dog-owner-liability-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dangerous-dog-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/animal-attack-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dog-bite-personal-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-birth-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/birth-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/delivery-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/childbirth-malpractice-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/obstetric-malpractice-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cerebral-palsy-birth-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/neonatal-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-employment-discrimination-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workplace-discrimination-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/employment-discrimination-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wrongful-termination-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workplace-retaliation-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/employee-rights-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workplace-harassment-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wrongful-firing-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/employment-law-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-workers-compensation-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workers-comp-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workers-compensation-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workplace-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/job-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/on-the-job-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/occupational-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workers-comp-claims-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/denied-workers-compensation-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-traumatic-brain-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/traumatic-brain-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tbi-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/head-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/brain-trauma-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/serious-head-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/brain-damage-personal-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/post-concussion-syndrome-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-uber-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-rideshare-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/lyft-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rideshare-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/uber-passenger-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rideshare-collision-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/app-based-transportation-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/uber-car-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-wrongful-death-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wrongful-death-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fatal-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/death-caused-by-negligence-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fatal-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wrongful-death-lawsuit-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/family-wrongful-death-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fatal-car-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-spinal-cord-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/spinal-cord-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paralysis-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/catastrophic-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/back-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/neck-and-spine-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paraplegia-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/quadriplegia-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/san-diego-truck-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-truck-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/18-wheeler-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/semi-truck-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/big-rig-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/delivery-truck-accident-attorney-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}
