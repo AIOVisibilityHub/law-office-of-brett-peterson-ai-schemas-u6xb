@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:41:36.139Z",
+  "generatedAt": "2026-10-25T00:59:30.525Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -153,23 +153,23 @@
   },
   "package": {
     "totalFiles": 1200,
-    "totalBytes": 4881161,
+    "totalBytes": 4979715,
     "stats": {
-      "qna": 0,
       "faqs": 881,
-      "press": 0,
-      "total": 1267,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 185,
       "services": 102,
       "webpages": 0,
-      "locations": 1,
       "personnel": 2,
+      "products": 0,
+      "locations": 1,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 185,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 1267
     }
   },
   "entrypoints": {
@@ -717,7 +717,7 @@
     "organization": [
       {
         "path": "organization/law-office-of-brett-peterson-organization.json",
-        "bytes": 2101,
+        "bytes": 4580,
         "purpose": "schema"
       }
     ],
@@ -6053,11 +6053,6 @@
         "path": "help/can-i-sue-a-doctor-for-negligence-understanding-your-rights.json",
         "bytes": 3355,
         "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 57375,
-        "purpose": "schema"
       }
     ],
     "webpages-publishing-plan.json": [
@@ -6070,62 +6065,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 12817,
+        "bytes": 18787,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 23764,
+        "bytes": 32812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 84427,
+        "bytes": 94605,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11231,
+        "bytes": 17516,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 732472,
+        "bytes": 738741,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 12312,
+        "bytes": 19021,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 16926,
+        "bytes": 23155,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 126599,
+        "bytes": 121308,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 149581,
+        "bytes": 161946,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 57122,
+        "bytes": 66384,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 265238,
+        "bytes": 293863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 22835,
+        "bytes": 23050,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 16403,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6137,7 +6137,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4615,
+        "bytes": 9146,
         "purpose": "LLM hint"
       },
       {
@@ -6157,42 +6157,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1695,
+        "bytes": 10831,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 539439,
+        "bytes": 548687,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 151719,
+        "bytes": 156268,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 151719,
+        "bytes": 156268,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4579,
+        "bytes": 9110,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 185306,
+        "bytes": 189854,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 160290,
+        "bytes": 160289,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1429,
+        "bytes": 1521,
         "purpose": "Standard sitemap"
       }
     ]
