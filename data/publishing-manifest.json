@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T01:04:29.845Z",
+  "generatedAt": "2026-10-25T01:23:34.566Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -152,14 +152,14 @@
     ]
   },
   "package": {
-    "totalFiles": 1200,
-    "totalBytes": 4914144,
+    "totalFiles": 1199,
+    "totalBytes": 5008419,
     "stats": {
       "faqs": 881,
       "helpArticles": 185,
       "services": 102,
       "webpages": 0,
-      "personnel": 2,
+      "personnel": 1,
       "products": 0,
       "locations": 1,
       "awards": 0,
@@ -169,7 +169,7 @@
       "reviews": 0,
       "qna": 0,
       "research": 0,
-      "total": 1267
+      "total": 1266
     }
   },
   "entrypoints": {
@@ -698,12 +698,7 @@
     "lawyers": [
       {
         "path": "lawyers/brett-peterson-profile.json",
-        "bytes": 2435,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/brett-peterson-san-diego.json",
-        "bytes": 2404,
+        "bytes": 3160,
         "purpose": "schema"
       }
     ],
@@ -717,7 +712,7 @@
     "organization": [
       {
         "path": "organization/law-office-of-brett-peterson-organization.json",
-        "bytes": 4580,
+        "bytes": 13942,
         "purpose": "schema"
       }
     ],
@@ -6065,67 +6060,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 12817,
+        "bytes": 18787,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 26999,
+        "bytes": 47663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 88596,
+        "bytes": 94605,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11805,
+        "bytes": 17516,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 733046,
+        "bytes": 738741,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 13301,
+        "bytes": 19021,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 17500,
+        "bytes": 21816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 115551,
+        "bytes": 121308,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 156119,
+        "bytes": 161946,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 60586,
+        "bytes": 66384,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 288029,
+        "bytes": 293863,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 17214,
+        "bytes": 23050,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 10702,
+        "bytes": 16403,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -6137,7 +6132,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 10140,
+        "bytes": 10083,
         "purpose": "LLM hint"
       },
       {
@@ -6157,37 +6152,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 13437,
+        "bytes": 12586,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 550866,
+        "bytes": 550145,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 157262,
+        "bytes": 157111,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 157262,
+        "bytes": 157111,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 10104,
+        "bytes": 10047,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 190848,
+        "bytes": 190695,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 160289,
+        "bytes": 160184,
         "purpose": "AI sitemap"
       },
       {
@@ -6202,25 +6197,6 @@
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
       "pagesUrl": "https://brettpetersonlaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas-tarj",
-      "pagesUrl": "https://law-office-of-brett-peterson-ai-schemas-tarj-b5349a.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-law-office-of-brett-peterson-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23630434"
     }
   }
 }
