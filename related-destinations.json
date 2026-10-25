@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:59:46.085Z",
+  "generatedAt": "2026-10-25T01:04:29.826Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -74,6 +74,54 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://brettpetersonlaw.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "gitlab",
+      "label": "GitLab repository",
+      "url": "https://gitlab.com/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas-tarj"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "gitlab",
+      "label": "GitLab — AI Data Hub mirror",
+      "url": "https://law-office-of-brett-peterson-ai-schemas-tarj-b5349a.gitlab.io/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "huggingface",
+      "label": "Hugging Face repository",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "huggingface",
+      "label": "Hugging Face — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub-law-office-of-brett-peterson-ai-schemas.static.hf.space/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "kaggle",
+      "label": "Kaggle repository",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "sourcehut",
+      "label": "SourceHut repository",
+      "url": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "sourcehut",
+      "label": "SourceHut — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "zenodo",
+      "label": "Zenodo repository",
+      "url": "https://zenodo.org/record/23630434"
     },
     {
       "role": "same-as",
@@ -251,6 +299,25 @@
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
       "pagesUrl": "https://brettpetersonlaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas-tarj",
+      "pagesUrl": "https://law-office-of-brett-peterson-ai-schemas-tarj-b5349a.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-law-office-of-brett-peterson-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23630434"
     }
   }
 }

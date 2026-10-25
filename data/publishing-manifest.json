@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-25T00:59:46.100Z",
+  "generatedAt": "2026-10-25T01:04:29.845Z",
   "client": {
     "name": "Law Office of Brett Peterson",
     "canonicalUrl": "https://brettpetersonlaw.aiovisibility.net",
@@ -153,7 +153,7 @@
   },
   "package": {
     "totalFiles": 1200,
-    "totalBytes": 4904389,
+    "totalBytes": 4914144,
     "stats": {
       "faqs": 881,
       "helpArticles": 185,
@@ -6137,7 +6137,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9146,
+        "bytes": 10140,
         "purpose": "LLM hint"
       },
       {
@@ -6157,32 +6157,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 10831,
+        "bytes": 13437,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 548687,
+        "bytes": 550866,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 156268,
+        "bytes": 157262,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 156268,
+        "bytes": 157262,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9110,
+        "bytes": 10104,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 189854,
+        "bytes": 190848,
         "purpose": "Repository README"
       },
       {
@@ -6202,6 +6202,25 @@
       "url": "https://github.com/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb",
       "pagesUrl": "https://brettpetersonlaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas-u6xb"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas-tarj",
+      "pagesUrl": "https://law-office-of-brett-peterson-ai-schemas-tarj-b5349a.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-law-office-of-brett-peterson-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/law-office-of-brett-peterson-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/law-office-of-brett-peterson-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/law-office-of-brett-peterson-ai-schemas/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23630434"
     }
   }
 }
